@@ -1,0 +1,74 @@
+name: Audit repair diagnostics
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/audit-repair-check.yml']
+permissions:
+  contents: read
+jobs:
+  diagnose:
+    if: github.event.repository.private == false
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          ref: education-audit-data
+          path: audit-state
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r education-audit/requirements.txt
+      - name: Public source failure classification and bounded probes
+        run: |
+          python - <<'PY'
+          import json,sys,collections,concurrent.futures as cf
+          from pathlib import Path
+          from urllib.parse import urlsplit,urljoin
+          import requests
+          from bs4 import BeautifulSoup
+          sys.path.insert(0,'education-audit')
+          import monitor as m
+          rep=json.loads(Path('audit-state/latest.json').read_text())
+          reg=json.loads(Path('audit-state/registry.json').read_text())
+          offices={x['id']:x for x in reg['offices']}
+          groups=collections.defaultdict(list)
+          for x in rep['institutions']:
+            if x['status']!='failed': continue
+            reasons=x['issues']+[s for b in x['boards'] for s in b['issues']]
+            groups[';'.join(sorted(set(reasons)))].append(x['id'])
+          print('FAILURES '+json.dumps(dict(groups),ensure_ascii=False))
+          selected=['gne-창원','gne-진주','jbe','jbe-전주','cbe-청주','sen','pen','dge','ice','jge','dje','use','sje','jje','cne','gbe-포항']
+          urls=[]
+          for oid in selected:
+            o=offices.get(oid,{})
+            h=next((x for x in rep['institutions'] if x['id']==oid),{})
+            print('OFFICE '+json.dumps({'id':oid,'home':o.get('home'),'boards':h.get('boards'),'issues':h.get('issues')},ensure_ascii=False))
+            for u in [o.get('home')]+[b['url'] for b in h.get('boards',[])][:2]:
+              if u and u not in urls: urls.append(u)
+            if o.get('home','') and o['home'].startswith('http://'):
+              urls.append(o['home'].replace('http://','https://',1))
+          f=m.Fetcher(300,200)
+          for u in urls: f.trust(u)
+          def probe(u):
+            out={'url':u}
+            try:
+              h,final=f.html(u); s=BeautifulSoup(h,'html.parser')
+              out.update(final=final,title=str(s.title),posts=len(m.parse_posts(h,final)),audit_links=[x for x in m.links(h,final) if m.BOARD.search(x[0])][:5])
+              out['rows']=[str(x)[:2200] for x in s.select('tr') if m.date_of(x.get_text())][:2]
+              if not out['rows']:
+                out['date_blocks']=[str(x)[:1600] for x in s.select('li,dd') if m.date_of(x.get_text()) and len(x.get_text())<500][:2]
+              if 'gne.go.kr' in final: out['body']=s.get_text(' ',strip=True)[-2300:]
+            except Exception as ex:
+              out['error']=str(ex)
+              p=urlsplit(u)
+              try:
+                r=requests.get(p.scheme+'://'+p.netloc+'/robots.txt',timeout=8,allow_redirects=False)
+                out['robots_status']=r.status_code; out['robots_location']=r.headers.get('location'); out['robots_text']=r.text[:1000]
+              except Exception as err: out['robots_error']=type(err).__name__
+            return out
+          with cf.ThreadPoolExecutor(max_workers=8) as pool:
+            for r in pool.map(probe,urls): print('PROBE '+json.dumps(r,ensure_ascii=False),flush=True)
+          PY
