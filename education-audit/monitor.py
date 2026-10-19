@@ -4,7 +4,8 @@ import argparse
 from pathlib import Path
 import cms_adapters
 cms_adapters.install()
-from engine import *  # Re-export tested engine interface for maintenance and diagnostics.
+from engine import *  # Re-export the tested engine interface for maintenance and diagnostics.
+from fair_runner import run
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
