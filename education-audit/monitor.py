@@ -4,6 +4,8 @@ import argparse
 from pathlib import Path
 import cms_adapters
 cms_adapters.install()
+import discovery_fallbacks
+discovery_fallbacks.install()
 from engine import *  # Re-export the tested engine interface for maintenance and diagnostics.
 from fair_runner import run
 
