@@ -1,6 +1,6 @@
 {
   "expected": 193,
-  "generated_at": "2026-10-19T15:45:28.813816+09:00",
+  "generated_at": "2026-10-19T16:30:25.729426+09:00",
   "offices": [
     {
       "boards": [],
@@ -127,7 +127,7 @@
       "id": "cne",
       "kind": "시도교육청",
       "name": "충청남도교육청",
-      "registry_error": "robots_denied_or_unavailable",
+      "registry_error": "robots_disallowed",
       "seed_boards": []
     },
     {
@@ -322,7 +322,7 @@
       "id": "dje",
       "kind": "시도교육청",
       "name": "대전광역시교육청",
-      "registry_error": "robots_denied_or_unavailable",
+      "registry_error": "robots_disallowed",
       "seed_boards": []
     },
     {
@@ -533,6 +533,7 @@
       "region": "경상북도교육청"
     },
     {
+      "board_discovery_mode": "general_boards_with_audit_title_filter",
       "boards": [],
       "home": "https://www.gbe.kr/us/main.do",
       "home_source": "https://www.gbe.kr/",
@@ -553,6 +554,7 @@
       "region": "경상북도교육청"
     },
     {
+      "board_discovery_mode": "general_boards_with_audit_title_filter",
       "boards": [],
       "home": "https://www.gbe.kr/cs/main.do",
       "home_source": "https://www.gbe.kr/",
@@ -597,8 +599,10 @@
       ]
     },
     {
-      "board_discovery_mode": "general_boards_with_audit_title_filter",
-      "boards": [],
+      "board_discovery_mode": "published_integrity_and_general_boards_title_filter",
+      "boards": [
+        "https://gjedu.gne.go.kr/gjedu/na/ntt/selectNttList.do?bbsId=1093&mi=367"
+      ],
       "home": "https://gjedu.gne.go.kr/",
       "home_source": "https://www.gne.go.kr/www/office/eduguide.jsp",
       "id": "gne-거제",
@@ -608,8 +612,10 @@
       "region": "경상남도교육청"
     },
     {
-      "board_discovery_mode": "general_boards_with_audit_title_filter",
-      "boards": [],
+      "board_discovery_mode": "published_integrity_and_general_boards_title_filter",
+      "boards": [
+        "https://gcedu.gne.go.kr/gcedu/na/ntt/selectNttList.do?bbsId=50&mi=2280"
+      ],
       "home": "https://gcedu.gne.go.kr/",
       "home_source": "https://www.gne.go.kr/www/office/eduguide.jsp",
       "id": "gne-거창",
@@ -619,8 +625,10 @@
       "region": "경상남도교육청"
     },
     {
-      "board_discovery_mode": "general_boards_with_audit_title_filter",
-      "boards": [],
+      "board_discovery_mode": "published_integrity_and_general_boards_title_filter",
+      "boards": [
+        "https://gsedu.gne.go.kr/gsedu/na/ntt/selectNttList.do?bbsId=183&mi=5299"
+      ],
       "home": "https://gsedu.gne.go.kr/",
       "home_source": "https://www.gne.go.kr/www/office/eduguide.jsp",
       "id": "gne-고성",
@@ -630,8 +638,10 @@
       "region": "경상남도교육청"
     },
     {
-      "board_discovery_mode": "general_boards_with_audit_title_filter",
-      "boards": [],
+      "board_discovery_mode": "published_integrity_and_general_boards_title_filter",
+      "boards": [
+        "https://ghedu.gne.go.kr/ghedu/na/ntt/selectNttList.do?bbsId=1148&mi=2400"
+      ],
       "home": "https://ghedu.gne.go.kr/",
       "home_source": "https://www.gne.go.kr/www/office/eduguide.jsp",
       "id": "gne-김해",
@@ -641,8 +651,11 @@
       "region": "경상남도교육청"
     },
     {
-      "board_discovery_mode": "general_boards_with_audit_title_filter",
-      "boards": [],
+      "board_discovery_mode": "published_integrity_and_general_boards_title_filter",
+      "boards": [
+        "https://nhedu.gne.go.kr/nhedu/na/ntt/selectNttList.do?bbsId=735&mi=12878",
+        "https://nhedu.gne.go.kr/nhedu/na/ntt/selectNttList.do?bbsId=10171&mi=12879"
+      ],
       "home": "https://nhedu.gne.go.kr/",
       "home_source": "https://www.gne.go.kr/www/office/eduguide.jsp",
       "id": "gne-남해",
@@ -652,8 +665,10 @@
       "region": "경상남도교육청"
     },
     {
-      "board_discovery_mode": "general_boards_with_audit_title_filter",
-      "boards": [],
+      "board_discovery_mode": "published_integrity_and_general_boards_title_filter",
+      "boards": [
+        "https://myedu.gne.go.kr/myedu/na/ntt/selectNttList.do?bbsId=367&mi=3067"
+      ],
       "home": "https://myedu.gne.go.kr/",
       "home_source": "https://www.gne.go.kr/www/office/eduguide.jsp",
       "id": "gne-밀양",
@@ -663,8 +678,11 @@
       "region": "경상남도교육청"
     },
     {
-      "board_discovery_mode": "general_boards_with_audit_title_filter",
-      "boards": [],
+      "board_discovery_mode": "published_integrity_and_general_boards_title_filter",
+      "boards": [
+        "https://scedu.gne.go.kr/scedu/na/ntt/selectNttList.do?bbsId=413&mi=1723",
+        "https://scedu.gne.go.kr/scedu/na/ntt/selectNttList.do?bbsId=4028&mi=10536"
+      ],
       "home": "https://scedu.gne.go.kr/",
       "home_source": "https://www.gne.go.kr/www/office/eduguide.jsp",
       "id": "gne-사천",
@@ -674,8 +692,10 @@
       "region": "경상남도교육청"
     },
     {
-      "board_discovery_mode": "general_boards_with_audit_title_filter",
-      "boards": [],
+      "board_discovery_mode": "published_integrity_and_general_boards_title_filter",
+      "boards": [
+        "https://schedu.gne.go.kr/schedu/na/ntt/selectNttList.do?bbsId=597&mi=1160"
+      ],
       "home": "https://schedu.gne.go.kr/",
       "home_source": "https://www.gne.go.kr/www/office/eduguide.jsp",
       "id": "gne-산청",
@@ -685,8 +705,11 @@
       "region": "경상남도교육청"
     },
     {
-      "board_discovery_mode": "general_boards_with_audit_title_filter",
-      "boards": [],
+      "board_discovery_mode": "published_integrity_and_general_boards_title_filter",
+      "boards": [
+        "https://ysedu.gne.go.kr/ysedu/na/ntt/selectNttList.do?bbsId=643&mi=1472",
+        "https://ysedu.gne.go.kr/ysedu/na/ntt/selectNttList.do?bbsId=2491&mi=8365"
+      ],
       "home": "https://ysedu.gne.go.kr/",
       "home_source": "https://www.gne.go.kr/www/office/eduguide.jsp",
       "id": "gne-양산",
@@ -696,8 +719,10 @@
       "region": "경상남도교육청"
     },
     {
-      "board_discovery_mode": "general_boards_with_audit_title_filter",
-      "boards": [],
+      "board_discovery_mode": "published_integrity_and_general_boards_title_filter",
+      "boards": [
+        "https://uredu.gne.go.kr/uredu/na/ntt/selectNttList.do?bbsId=1074&mi=5248"
+      ],
       "home": "https://uredu.gne.go.kr/",
       "home_source": "https://www.gne.go.kr/www/office/eduguide.jsp",
       "id": "gne-의령",
@@ -707,8 +732,10 @@
       "region": "경상남도교육청"
     },
     {
-      "board_discovery_mode": "general_boards_with_audit_title_filter",
-      "boards": [],
+      "board_discovery_mode": "published_integrity_and_general_boards_title_filter",
+      "boards": [
+        "https://jjedu.gne.go.kr/jjedu/na/ntt/selectNttList.do?bbsId=1329&mi=482"
+      ],
       "home": "https://jjedu.gne.go.kr/",
       "home_source": "https://www.gne.go.kr/www/office/eduguide.jsp",
       "id": "gne-진주",
@@ -718,8 +745,10 @@
       "region": "경상남도교육청"
     },
     {
-      "board_discovery_mode": "general_boards_with_audit_title_filter",
-      "boards": [],
+      "board_discovery_mode": "published_integrity_and_general_boards_title_filter",
+      "boards": [
+        "https://cnedu.gne.go.kr/cnedu/na/ntt/selectNttList.do?bbsId=137&mi=3378"
+      ],
       "home": "https://cnedu.gne.go.kr/",
       "home_source": "https://www.gne.go.kr/www/office/eduguide.jsp",
       "id": "gne-창녕",
@@ -729,8 +758,11 @@
       "region": "경상남도교육청"
     },
     {
-      "board_discovery_mode": "general_boards_with_audit_title_filter",
-      "boards": [],
+      "board_discovery_mode": "published_integrity_and_general_boards_title_filter",
+      "boards": [
+        "https://cwedu.gne.go.kr/cwedu/na/ntt/selectNttList.do?bbsId=1568&mi=4887",
+        "https://cwedu.gne.go.kr/cwedu/na/ntt/selectNttList.do?bbsId=1569&mi=4888"
+      ],
       "home": "https://cwedu.gne.go.kr/",
       "home_source": "https://www.gne.go.kr/www/office/eduguide.jsp",
       "id": "gne-창원",
@@ -740,8 +772,10 @@
       "region": "경상남도교육청"
     },
     {
-      "board_discovery_mode": "general_boards_with_audit_title_filter",
-      "boards": [],
+      "board_discovery_mode": "published_integrity_and_general_boards_title_filter",
+      "boards": [
+        "https://tyedu.gne.go.kr/tyedu/na/ntt/selectNttList.do?bbsId=781&mi=1329"
+      ],
       "home": "https://tyedu.gne.go.kr/",
       "home_source": "https://www.gne.go.kr/www/office/eduguide.jsp",
       "id": "gne-통영",
@@ -751,8 +785,10 @@
       "region": "경상남도교육청"
     },
     {
-      "board_discovery_mode": "general_boards_with_audit_title_filter",
-      "boards": [],
+      "board_discovery_mode": "published_integrity_and_general_boards_title_filter",
+      "boards": [
+        "https://hdedu.gne.go.kr/hdedu/na/ntt/selectNttList.do?bbsId=551&mi=927"
+      ],
       "home": "https://hdedu.gne.go.kr/",
       "home_source": "https://www.gne.go.kr/www/office/eduguide.jsp",
       "id": "gne-하동",
@@ -762,8 +798,10 @@
       "region": "경상남도교육청"
     },
     {
-      "board_discovery_mode": "general_boards_with_audit_title_filter",
-      "boards": [],
+      "board_discovery_mode": "published_integrity_and_general_boards_title_filter",
+      "boards": [
+        "https://hmedu.gne.go.kr/hmedu/na/ntt/selectNttList.do?bbsId=873&mi=3010"
+      ],
       "home": "https://hmedu.gne.go.kr/",
       "home_source": "https://www.gne.go.kr/www/office/eduguide.jsp",
       "id": "gne-함안",
@@ -788,8 +826,10 @@
       "region": "경상남도교육청"
     },
     {
-      "board_discovery_mode": "general_boards_with_audit_title_filter",
-      "boards": [],
+      "board_discovery_mode": "published_integrity_and_general_boards_title_filter",
+      "boards": [
+        "https://hcedu.gne.go.kr/hcedu/na/ntt/selectNttList.do?bbsId=505&mi=2721"
+      ],
       "home": "https://hcedu.gne.go.kr/",
       "home_source": "https://www.gne.go.kr/www/office/eduguide.jsp",
       "id": "gne-합천",
@@ -1391,13 +1431,7 @@
       "region": "강원특별자치도교육청"
     },
     {
-      "boards": [
-        "https://www.ice.go.kr/ice/na/ntt/selectNttList.do?bbsId=1735&mi=10951",
-        "https://www.ice.go.kr/ice/na/ntt/selectNttList.do?bbsId=2072&mi=12300",
-        "https://www.ice.go.kr/ice/na/ntt/selectNttList.do?bbsId=1737&mi=10953",
-        "https://www.ice.go.kr/ice/na/ntt/selectNttList.do?bbsId=1731&mi=11862",
-        "https://www.ice.go.kr/ice/na/ntt/selectNttList.do?bbsId=1738&mi=10954"
-      ],
+      "boards": [],
       "directory_sources": [
         "https://www.ice.go.kr/"
       ],
@@ -1405,7 +1439,7 @@
       "id": "ice",
       "kind": "시도교육청",
       "name": "인천광역시교육청",
-      "registry_error": null,
+      "registry_error": "literal_redirect_loop",
       "seed_boards": []
     },
     {
@@ -1616,7 +1650,7 @@
       "id": "jge",
       "kind": "시도교육청",
       "name": "전남광주통합특별시교육청",
-      "registry_error": "robots_denied_or_unavailable",
+      "registry_error": "robots_unreachable:ConnectTimeout",
       "seed_boards": []
     },
     {
@@ -1844,7 +1878,7 @@
       "id": "jje",
       "kind": "시도교육청",
       "name": "제주특별자치도교육청",
-      "registry_error": "robots_denied_or_unavailable",
+      "registry_error": "robots_disallowed",
       "seed_boards": []
     },
     {
@@ -2067,7 +2101,7 @@
       "id": "use",
       "kind": "시도교육청",
       "name": "울산광역시교육청",
-      "registry_error": "robots_denied_or_unavailable",
+      "registry_error": "robots_unreachable:SSLError",
       "seed_boards": []
     },
     {
