@@ -1,0 +1,216 @@
+# 전국 교육감사 변경 점검 | 2026-10-19
+
+수집 시작: 2026-10-19T14:47:01.761318+09:00 / 종료: 2026-10-19T14:56:25.953796+09:00
+대상 193기관 · 목록 확인 11 · 일부 확인 15 · 미확인/실패 167
+
+**범위 주의:** 등록 공개 경로의 최근 목록을 점검했습니다. 전국 모든 웹페이지·오래된 첨부 교체까지 확인했다는 의미가 아닙니다.
+
+신규 0건 / 수정 0건
+
+## 신규·수정 자료
+확인된 신규·수정 자료가 없습니다. 확인 실패 기관의 자료 유무는 판단할 수 없습니다.
+
+## 최초 관측 참고자료 — 신규 발생 건수에 미포함
+- 군포의왕교육지원청 | 2026-10-13 | [경기도교육청] 학교운동부 맞춤형 청렴 교육 표준 교재 「학교운동부 청렴 가이드북」 공유 | https://www.goegu.kr/goegu/na/ntt/selectNttInfo.do?bbsId=4324&mi=7155&nttSn=522284
+- 군포의왕교육지원청 | 2026-10-13 | [군포의왕교육지원청] 2026 군포의왕 청렴 양심 마켓 | https://www.goegu.kr/goegu/na/ntt/selectNttInfo.do?bbsId=4324&mi=7155&nttSn=522283
+- 군포의왕교육지원청 | 2026-10-13 | [군포의왕교육지원청] 2026 군포의왕 청렴 넛지와 함께하는 일상 캠페인 | https://www.goegu.kr/goegu/na/ntt/selectNttInfo.do?bbsId=4324&mi=7155&nttSn=522281
+- 군포의왕교육지원청 | 2026-10-13 | [경기도교육청] 청렴 교육 표준 교재 「청렴 공감 가이드북」 공유 | https://www.goegu.kr/goegu/na/ntt/selectNttInfo.do?bbsId=4324&mi=7155&nttSn=522276
+- 광명교육지원청 | 2026-10-06 | 2026년 7월 학교종합감사 결과 공개 | https://www.goegm.kr/goegm/na/ntt/selectNttInfo.do?bbsId=4246&mi=5883&nttSn=1260955
+- 광명교육지원청 | 2026-10-13 | 2026년 광명교육지원청 반부패·청렴정책 추진 계획 | https://www.goegm.kr/goegm/na/ntt/selectNttInfo.do?bbsId=4227&mi=5829&nttSn=1261249
+- 광주하남교육지원청 | 2026-10-16 | 2026년도 광주하남교육지원청 학교종합감사 결과 공개(7월) | https://www.goegh.kr/goegh/na/ntt/selectNttInfo.do?bbsId=5080&mi=8743&nttSn=1230470
+- 고양교육지원청 | 2026-10-19 | 2026년 8월 학교 종합감사 결과 공개(신능초, 덕이고) 새로운 글 | https://www.goegy.kr/goegy/na/ntt/selectNttInfo.do?bbsId=11720&mi=20386&nttSn=1235229
+- 고양교육지원청 | 2026-10-19 | 2026년 7월 학교 종합감사 결과 공개(도래울고, 풍산초) 새로운 글 | https://www.goegy.kr/goegy/na/ntt/selectNttInfo.do?bbsId=11720&mi=20386&nttSn=1235228
+- 동두천양주교육지원청 | 2026-10-16 | [사례집] 2026년 경기도교육청 감사사례집 | https://www.goedy.kr/goedy/na/ntt/selectNttInfo.do?bbsId=10213&mi=10293&nttSn=1687654
+- 시흥교육지원청 | 2026-10-12 | 2026년 6월 시흥교육지원청 학교 종합감사 결과 공개 | https://www.goesh.kr/goesh/na/ntt/selectNttInfo.do?bbsId=5566&mi=9129&nttSn=535005
+- 수원교육지원청 | 2026-10-07 | [공유] 「2026년 10월 수원 청렴길잡이 소식지」 배포 | https://www.goesw.kr/goesw/na/ntt/selectNttInfo.do?bbsId=11052&mi=18918&nttSn=592054
+- 성남교육지원청 | 2026-10-13 | [보도자료] '청렴 알깨기!' 캠페인 | https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17829&mi=23531&nttSn=1961391
+- 의정부교육지원청 | 2026-10-15 | [청량뉴스] `청렴한 조직문화 완성` 하반기 전 직원 맞춤형 청렴교육 실시 | https://www.goeujb.kr/goeujb/na/ntt/selectNttInfo.do?bbsId=4111&mi=6985&nttSn=1130385
+- 의정부교육지원청 | 2026-10-15 | [청량뉴스] 을지연습 x 청렴, 안보도 청렴도 연습으로 완벽하게 | https://www.goeujb.kr/goeujb/na/ntt/selectNttInfo.do?bbsId=4111&mi=6985&nttSn=1130384
+
+## 미확인·부분 확인 기관
+-  충청북도교육청: robots_denied_or_unavailable
+- 충청북도교육청 괴산증평교육지원청: homepage_unresolved
+- 충청북도교육청 단양교육지원청: homepage_unresolved
+- 충청북도교육청 보은교육지원청: homepage_unresolved
+- 충청북도교육청 영동교육지원청: homepage_unresolved
+- 충청북도교육청 옥천교육지원청: homepage_unresolved
+- 충청북도교육청 음성교육지원청: homepage_unresolved
+- 충청북도교육청 제천교육지원청: homepage_unresolved
+- 충청북도교육청 진천교육지원청: homepage_unresolved
+- 충청북도교육청 청주교육지원청: homepage_unresolved
+- 충청북도교육청 충주교육지원청: homepage_unresolved
+-  충청남도교육청: robots_denied_or_unavailable
+- 충청남도교육청 공주교육지원청: homepage_unresolved
+- 충청남도교육청 금산교육지원청: homepage_unresolved
+- 충청남도교육청 논산계룡교육지원청: homepage_unresolved
+- 충청남도교육청 당진교육지원청: homepage_unresolved
+- 충청남도교육청 보령교육지원청: homepage_unresolved
+- 충청남도교육청 부여교육지원청: homepage_unresolved
+- 충청남도교육청 서산교육지원청: homepage_unresolved
+- 충청남도교육청 서천교육지원청: homepage_unresolved
+- 충청남도교육청 아산교육지원청: homepage_unresolved
+- 충청남도교육청 예산교육지원청: homepage_unresolved
+- 충청남도교육청 천안교육지원청: homepage_unresolved
+- 충청남도교육청 청양교육지원청: homepage_unresolved
+- 충청남도교육청 태안교육지원청: homepage_unresolved
+- 충청남도교육청 홍성교육지원청: homepage_unresolved
+-  대구광역시교육청: audit_board_unresolved
+- 대구광역시교육청 군위교육지원청: homepage_unresolved
+- 대구광역시교육청 남부교육지원청: homepage_unresolved
+- 대구광역시교육청 달성교육지원청: homepage_unresolved
+- 대구광역시교육청 동부교육지원청: homepage_unresolved
+- 대구광역시교육청 서부교육지원청: homepage_unresolved
+-  대전광역시교육청: robots_denied_or_unavailable
+- 대전광역시교육청 동부교육지원청: homepage_unresolved
+- 대전광역시교육청 서부교육지원청: homepage_unresolved
+-  경상북도교육청: ConnectTimeout
+- 경상북도교육청 경산교육지원청: ConnectTimeout
+- 경상북도교육청 경주교육지원청: ConnectTimeout
+- 경상북도교육청 고령교육지원청: ConnectTimeout
+- 경상북도교육청 구미교육지원청: robots_denied_or_unavailable
+- 경상북도교육청 김천교육지원청: ConnectTimeout
+- 경상북도교육청 문경교육지원청: ConnectTimeout
+- 경상북도교육청 봉화교육지원청: ConnectTimeout
+- 경상북도교육청 상주교육지원청: audit_board_unresolved
+- 경상북도교육청 성주교육지원청: ConnectTimeout
+- 경상북도교육청 안동교육지원청: ConnectTimeout
+- 경상북도교육청 영덕교육지원청: ConnectTimeout
+- 경상북도교육청 영양교육지원청: ConnectTimeout
+- 경상북도교육청 영주교육지원청: ConnectTimeout
+- 경상북도교육청 영천교육지원청: ConnectTimeout
+- 경상북도교육청 예천교육지원청: ConnectTimeout
+- 경상북도교육청 울릉교육지원청: ConnectTimeout
+- 경상북도교육청 울진교육지원청: ConnectTimeout
+- 경상북도교육청 의성교육지원청: ConnectTimeout
+- 경상북도교육청 청도교육지원청: ConnectTimeout
+- 경상북도교육청 청송교육지원청: ConnectTimeout
+- 경상북도교육청 칠곡교육지원청: ConnectTimeout
+- 경상북도교육청 포항교육지원청: ConnectTimeout
+-  경상남도교육청: detail_limit_unchecked, some_content_unread
+- 경상남도교육청 거제교육지원청: redirect_limit
+- 경상남도교육청 거창교육지원청: redirect_limit
+- 경상남도교육청 고성교육지원청: redirect_limit
+- 경상남도교육청 김해교육지원청: redirect_limit
+- 경상남도교육청 남해교육지원청: redirect_limit
+- 경상남도교육청 밀양교육지원청: redirect_limit
+- 경상남도교육청 사천교육지원청: redirect_limit
+- 경상남도교육청 산청교육지원청: redirect_limit
+- 경상남도교육청 양산교육지원청: redirect_limit
+- 경상남도교육청 의령교육지원청: redirect_limit
+- 경상남도교육청 진주교육지원청: redirect_limit
+- 경상남도교육청 창녕교육지원청: redirect_limit
+- 경상남도교육청 창원교육지원청: redirect_limit
+- 경상남도교육청 통영교육지원청: redirect_limit
+- 경상남도교육청 하동교육지원청: redirect_limit
+- 경상남도교육청 함안교육지원청: redirect_limit
+- 경상남도교육청 함양교육지원청: redirect_limit
+- 경상남도교육청 합천교육지원청: redirect_limit
+-  경기도교육청: audit_board_unresolved
+- 경기도교육청 고양교육지원청: some_content_unread
+- 경기도교육청 광명교육지원청: some_content_unread
+- 경기도교육청 광주하남교육지원청: some_content_unread
+- 경기도교육청 동두천양주교육지원청: some_content_unread
+- 경기도교육청 부천교육지원청: some_content_unread
+- 경기도교육청 성남교육지원청: some_content_unread
+- 경기도교육청 시흥교육지원청: some_content_unread
+- 경기도교육청 안산교육지원청: list_parser_unverified, some_content_unread
+- 경기도교육청 안양과천교육지원청: some_content_unread
+- 경기도교육청 양평교육지원청: some_content_unread
+- 경기도교육청 여주교육지원청: some_content_unread
+- 경기도교육청 연천교육지원청: some_content_unread
+- 경기도교육청 의정부교육지원청: detail_limit_unchecked, some_content_unread
+- 경기도교육청 평택교육지원청: some_content_unread
+-  강원특별자치도교육청: list_parser_unverified
+- 강원특별자치도교육청 강릉교육지원청: list_parser_unverified
+- 강원특별자치도교육청 고성교육지원청: list_parser_unverified
+- 강원특별자치도교육청 동해교육지원청: list_parser_unverified
+- 강원특별자치도교육청 삼척교육지원청: list_parser_unverified
+- 강원특별자치도교육청 속초양양교육지원청: list_parser_unverified
+- 강원특별자치도교육청 양구교육지원청: list_parser_unverified
+- 강원특별자치도교육청 영월교육지원청: list_parser_unverified
+- 강원특별자치도교육청 원주교육지원청: list_parser_unverified
+- 강원특별자치도교육청 인제교육지원청: list_parser_unverified
+- 강원특별자치도교육청 정선교육지원청: list_parser_unverified
+- 강원특별자치도교육청 철원교육지원청: list_parser_unverified
+- 강원특별자치도교육청 춘천교육지원청: list_parser_unverified
+- 강원특별자치도교육청 태백교육지원청: list_parser_unverified
+- 강원특별자치도교육청 평창교육지원청: list_parser_unverified, robots_denied_or_unavailable
+- 강원특별자치도교육청 홍천교육지원청: list_parser_unverified, robots_denied_or_unavailable
+- 강원특별자치도교육청 화천교육지원청: list_parser_unverified
+- 강원특별자치도교육청 횡성교육지원청: list_parser_unverified
+-  인천광역시교육청: audit_board_unresolved
+- 인천광역시교육청 강화교육지원청: homepage_unresolved
+- 인천광역시교육청 남부교육지원청: homepage_unresolved
+- 인천광역시교육청 동부교육지원청: homepage_unresolved
+- 인천광역시교육청 북부교육지원청: homepage_unresolved
+- 인천광역시교육청 서부교육지원청: homepage_unresolved
+-  전북특별자치도교육청: ConnectTimeout, list_parser_unverified
+- 전북특별자치도교육청 고창교육지원청: untrusted_domain
+- 전북특별자치도교육청 군산교육지원청: untrusted_domain
+- 전북특별자치도교육청 김제교육지원청: untrusted_domain
+- 전북특별자치도교육청 남원교육지원청: ConnectTimeout
+- 전북특별자치도교육청 무주교육지원청: untrusted_domain
+- 전북특별자치도교육청 부안교육지원청: untrusted_domain
+- 전북특별자치도교육청 순창교육지원청: untrusted_domain
+- 전북특별자치도교육청 완주교육지원청: untrusted_domain
+- 전북특별자치도교육청 익산교육지원청: untrusted_domain
+- 전북특별자치도교육청 임실교육지원청: untrusted_domain
+- 전북특별자치도교육청 장수교육지원청: untrusted_domain
+- 전북특별자치도교육청 전주교육지원청: untrusted_domain
+- 전북특별자치도교육청 정읍교육지원청: untrusted_domain
+- 전북특별자치도교육청 진안교육지원청: untrusted_domain
+-  전남광주통합특별시교육청: robots_denied_or_unavailable
+- 전남광주통합특별시교육청 강진교육지원청: homepage_unresolved
+- 전남광주통합특별시교육청 고흥교육지원청: homepage_unresolved
+- 전남광주통합특별시교육청 곡성교육지원청: homepage_unresolved
+- 전남광주통합특별시교육청 광양교육지원청: homepage_unresolved
+- 전남광주통합특별시교육청 구례교육지원청: homepage_unresolved
+- 전남광주통합특별시교육청 나주교육지원청: homepage_unresolved
+- 전남광주통합특별시교육청 담양교육지원청: homepage_unresolved
+- 전남광주통합특별시교육청 동부교육지원청: homepage_unresolved
+- 전남광주통합특별시교육청 목포교육지원청: homepage_unresolved
+- 전남광주통합특별시교육청 무안교육지원청: homepage_unresolved
+- 전남광주통합특별시교육청 보성교육지원청: homepage_unresolved
+- 전남광주통합특별시교육청 서부교육지원청: homepage_unresolved
+- 전남광주통합특별시교육청 순천교육지원청: homepage_unresolved
+- 전남광주통합특별시교육청 신안교육지원청: homepage_unresolved
+- 전남광주통합특별시교육청 여수교육지원청: homepage_unresolved
+- 전남광주통합특별시교육청 영광교육지원청: homepage_unresolved
+- 전남광주통합특별시교육청 영암교육지원청: homepage_unresolved
+- 전남광주통합특별시교육청 완도교육지원청: homepage_unresolved
+- 전남광주통합특별시교육청 장성교육지원청: homepage_unresolved
+- 전남광주통합특별시교육청 장흥교육지원청: homepage_unresolved
+- 전남광주통합특별시교육청 진도교육지원청: homepage_unresolved
+- 전남광주통합특별시교육청 함평교육지원청: homepage_unresolved
+- 전남광주통합특별시교육청 해남교육지원청: homepage_unresolved
+- 전남광주통합특별시교육청 화순교육지원청: homepage_unresolved
+-  제주특별자치도교육청: robots_denied_or_unavailable
+- 제주특별자치도교육청 서귀포시교육지원청: homepage_unresolved
+- 제주특별자치도교육청 제주시교육지원청: homepage_unresolved
+-  교육부: list_parser_unverified
+-  부산광역시교육청: http_400
+- 부산광역시교육청 남부교육지원청: homepage_unresolved
+- 부산광역시교육청 동래교육지원청: homepage_unresolved
+- 부산광역시교육청 북부교육지원청: homepage_unresolved
+- 부산광역시교육청 서부교육지원청: homepage_unresolved
+- 부산광역시교육청 해운대교육지원청: homepage_unresolved
+-  서울특별시교육청: audit_board_unresolved
+- 서울특별시교육청 강남서초교육지원청: audit_board_unresolved
+- 서울특별시교육청 강동송파교육지원청: homepage_unresolved
+- 서울특별시교육청 강서양천교육지원청: homepage_unresolved
+- 서울특별시교육청 남부교육지원청: homepage_unresolved
+- 서울특별시교육청 동부교육지원청: homepage_unresolved
+- 서울특별시교육청 동작관악교육지원청: homepage_unresolved
+- 서울특별시교육청 북부교육지원청: list_parser_unverified
+- 서울특별시교육청 서부교육지원청: homepage_unresolved
+- 서울특별시교육청 성동광진교육지원청: homepage_unresolved
+- 서울특별시교육청 성북강북교육지원청: homepage_unresolved
+- 서울특별시교육청 중부교육지원청: homepage_unresolved
+-  세종특별자치시교육청: robots_denied_or_unavailable
+-  울산광역시교육청: robots_denied_or_unavailable
+- 울산광역시교육청 강남교육지원청: homepage_unresolved
+- 울산광역시교육청 강북교육지원청: homepage_unresolved
+
+## 처리기록
+report_id: a2b7f36aa461b73ee25143b9
+보고서는 이메일 발송 성공을 뜻하지 않습니다. 발송 여부는 별도 Gmail 보낸편지함으로 확인합니다.
