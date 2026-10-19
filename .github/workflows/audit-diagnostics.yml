@@ -1,0 +1,43 @@
+name: Audit source diagnostics
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/audit-diagnostics.yml']
+permissions:
+  contents: read
+jobs:
+  probe:
+    if: github.event.repository.private == false
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests beautifulsoup4
+      - name: Probe public landing pages and known audit lists
+        run: |
+          python - <<'PY'
+          import sys,json,concurrent.futures as cf
+          from bs4 import BeautifulSoup
+          sys.path.insert(0,'education-audit')
+          import monitor as m
+          c=json.load(open('education-audit/config.json'))
+          urls=[r['home'] for r in c['regions']]+c['moe']['boards']+[u for r in c['regions'] for u in r.get('boards',[])]
+          f=m.Fetcher(200,160)
+          for u in urls: f.trust(u)
+          def probe(u):
+            try:
+              h,final=f.html(u); s=BeautifulSoup(h,'html.parser')
+              posts=m.parse_posts(h,final)
+              rows=[]
+              for tr in s.select('tr, li'):
+                if m.date_of(tr.get_text()) and len(tr.get_text())<2000 and m.AUDIT.search(tr.get_text()):
+                  rows.append(str(tr)[:1800])
+              return {'url':u,'final':final,'posts':posts[:2],'audit_links':[(a,b) for a,b in m.links(h,final) if m.MENU.search(a)][:12],'district_links':[(a,b) for a,b in m.links(h,final) if '교육지원청' in a][:30],'sample_rows':rows[:2]}
+            except Exception as e: return {'url':u,'error':str(e)}
+          with cf.ThreadPoolExecutor(max_workers=8) as p:
+            for x in p.map(probe,urls): print('DIAG '+json.dumps(x,ensure_ascii=False),flush=True)
+          PY
