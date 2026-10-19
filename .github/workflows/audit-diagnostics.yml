@@ -17,27 +17,39 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install requests beautifulsoup4
-      - name: Probe public landing pages and known audit lists
+      - name: Inspect known public source responses
         run: |
           python - <<'PY'
           import sys,json,concurrent.futures as cf
           from bs4 import BeautifulSoup
+          from urllib.parse import urlsplit
           sys.path.insert(0,'education-audit')
           import monitor as m
-          c=json.load(open('education-audit/config.json'))
-          urls=[r['home'] for r in c['regions']]+c['moe']['boards']+[u for r in c['regions'] for u in r.get('boards',[])]
+          urls=['https://www.sen.go.kr/','https://www.pen.go.kr/','https://www.dge.go.kr/','https://www.ice.go.kr/','https://www.goe.go.kr/','https://www.jge.go.kr/','https://www.dje.go.kr/','https://www.use.go.kr/','https://www.sje.go.kr/','https://www.jje.go.kr/','https://www.cne.go.kr/','https://www.gne.go.kr/','https://www.gne.go.kr/user/bbs/BD_selectBbs.do?q_bbsDocNo=20261006131423023&q_bbsSn=1296','https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=107421&m=041202&s=moe','https://www.gwe.go.kr/open/bbs/list.do?key=bTIzMDUzMTA3NDk2NjM%3D']
           f=m.Fetcher(200,160)
           for u in urls: f.trust(u)
           def probe(u):
+            result={'url':u}
             try:
               h,final=f.html(u); s=BeautifulSoup(h,'html.parser')
-              posts=m.parse_posts(h,final)
-              rows=[]
-              for tr in s.select('tr, li'):
-                if m.date_of(tr.get_text()) and len(tr.get_text())<2000 and m.AUDIT.search(tr.get_text()):
-                  rows.append(str(tr)[:1800])
-              return {'url':u,'final':final,'posts':posts[:2],'audit_links':[(a,b) for a,b in m.links(h,final) if m.MENU.search(a)][:12],'district_links':[(a,b) for a,b in m.links(h,final) if '교육지원청' in a][:30],'sample_rows':rows[:2]}
-            except Exception as e: return {'url':u,'error':str(e)}
+              result.update({'final':final,'title':str(s.title),'visible':s.get_text(' ',strip=True)[:350],'length':len(h),'frames':[str(x) for x in s.select('iframe,frame,meta[http-equiv]')][:5]})
+              if len(m.links(h,final))<8: result['landing_html']=h[:4000]
+              else:
+                result['audit_links']=[(a,b) for a,b in m.links(h,final) if m.BOARD.search(a)][:8]
+                result['district_links']=[(a,b) for a,b in m.links(h,final) if '교육지원청' in a][:26]
+                node,_,fallback=m.main_content(h)
+                result['body_fallback']=fallback
+                result['class_hints']=[(x.name,x.get('id'),x.get('class')) for x in s.select('[class],[id]') if len(x.get_text(strip=True))>80 and any(k in str(x.get('class',''))+str(x.get('id','')) for k in ('view','View','cont','Cont','bbs','Bbs'))][-25:]
+                result['sample_rows']=[str(x)[:1500] for x in s.select('tr') if m.date_of(x.get_text())][:2]
+                result['files']=[str(a)[:1000] for a in s.select('a') if m.FILEEXT.search(a.get_text())][:4]
+            except Exception as e:
+              result['error']=str(e)
+              if str(e)=='robots_denied_or_unavailable':
+                try:
+                  p=urlsplit(u); r,final,enc,_=f._raw(p.scheme+'://'+p.netloc+'/robots.txt',256000)
+                  result['robots']=r.decode(enc,errors='replace')[:1200]
+                except Exception as err: result['robots_error']=str(err)
+            return result
           with cf.ThreadPoolExecutor(max_workers=8) as p:
             for x in p.map(probe,urls): print('DIAG '+json.dumps(x,ensure_ascii=False),flush=True)
           PY
