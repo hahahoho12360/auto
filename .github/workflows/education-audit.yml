@@ -1,9 +1,15 @@
 name: Education audit daily collection
 on:
   schedule:
-    # Asia/Seoul 06:35. A separate mail task starts at 07:40 KST.
+    # KST 06:35 primary, KST 07:05 retry only when today's report is not ready.
     - cron: '35 21 * * *'
+    - cron: '5 22 * * *'
   workflow_dispatch:
+    inputs:
+      force:
+        description: 'Recollect even if a validated report already exists today'
+        type: boolean
+        default: false
   push:
     branches: [main]
     paths: ['education-audit/**', '.github/workflows/education-audit.yml']
@@ -14,10 +20,11 @@ concurrency:
   cancel-in-progress: false
 jobs:
   collect:
-    # Public repository and standard Linux runner only. No paid APIs/cache/artifacts.
     if: github.event.repository.private == false
     runs-on: ubuntu-latest
     timeout-minutes: 23
+    env:
+      AUDIT_CRON: ${{ github.event.schedule }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -29,39 +36,72 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Check current-day report integrity and suppress duplicate scans
+        id: gate
+        env:
+          FORCE_RUN: ${{ github.event_name == 'push' || inputs.force == true }}
+        run: |
+          if [ "$FORCE_RUN" = "true" ]; then
+            python code/education-audit/operations.py gate --out data --force
+          else
+            python code/education-audit/operations.py gate --out data
+          fi
+      - name: Persist start receipt before dependencies and collection
+        if: steps.gate.outputs.collect == 'true'
+        id: started
+        run: |
+          python code/education-audit/operations.py start --out data --ticket "$RUNNER_TEMP/audit-ticket.json"
+          git -C data config user.name 'education-audit-bot'
+          git -C data config user.email 'education-audit-bot@users.noreply.github.com'
+          git -C data add heartbeat.json schedule-check.json
+          git -C data commit -m 'audit: record execution start [skip ci]'
+          git -C data push origin HEAD:education-audit-data
       - name: Install dependencies
+        if: steps.gate.outputs.collect == 'true'
         run: python -m pip install --disable-pip-version-check -r code/education-audit/requirements.txt
       - name: Tests
+        if: steps.gate.outputs.collect == 'true'
+        id: tests
         run: python -m unittest discover -s code/education-audit -p 'test_*.py' -v
       - name: Collect public changes
+        if: steps.gate.outputs.collect == 'true' && steps.tests.outcome == 'success'
         id: collection
         continue-on-error: true
-        run: python code/education-audit/monitor.py --out data
-      - name: Save state and reports even after partial collection
-        if: always()
-        working-directory: data
+        run: timeout --signal=TERM --kill-after=10s 18m python code/education-audit/monitor.py --out data
+      - name: Validate actual report against this execution
+        if: always() && steps.started.outcome == 'success'
+        id: integrity
+        continue-on-error: true
         env:
+          TESTS_OUTCOME: ${{ steps.tests.outcome }}
           COLLECTION_OUTCOME: ${{ steps.collection.outcome }}
+        run: python code/education-audit/operations.py finish --out data --ticket "$RUNNER_TEMP/audit-ticket.json"
+      - name: Save run status and generated results
+        if: always() && steps.gate.outputs.collect != ''
+        working-directory: data
         run: |
-          python - <<'PY'
-          import json, os
-          from datetime import datetime, timezone
-          from pathlib import Path
-          Path('heartbeat.json').write_text(json.dumps({
-            'finished_at_utc': datetime.now(timezone.utc).isoformat(),
-            'collection_outcome': os.environ.get('COLLECTION_OUTCOME'),
-            'run_url': 'https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}',
-            'email_sent': False
-          }, indent=2))
-          PY
           git config user.name 'education-audit-bot'
           git config user.email 'education-audit-bot@users.noreply.github.com'
-          git add --all
+          git add -A
           if ! git diff --cached --quiet; then
-            git commit -m 'audit: daily public change scan [skip ci]'
+            git commit -m 'audit: publish validated report or explicit failure [skip ci]'
             git push origin HEAD:education-audit-data
           fi
       - name: Job summary
         if: always()
         run: |
-          if test -f data/latest.md; then head -c 60000 data/latest.md >> "$GITHUB_STEP_SUMMARY"; fi
+          if test -f data/schedule-check.json; then cat data/schedule-check.json >> "$GITHUB_STEP_SUMMARY"; fi
+          if test -f data/heartbeat.json; then cat data/heartbeat.json >> "$GITHUB_STEP_SUMMARY"; fi
+          if test -f data/latest.md; then head -c 50000 data/latest.md >> "$GITHUB_STEP_SUMMARY"; fi
+      - name: Fail visibly when collection or validation failed
+        if: always() && steps.gate.outputs.collect == 'true'
+        env:
+          STARTED: ${{ steps.started.outcome }}
+          TESTED: ${{ steps.tests.outcome }}
+          COLLECTED: ${{ steps.collection.outcome }}
+          VERIFIED: ${{ steps.integrity.outcome }}
+        run: |
+          test "$STARTED" = success
+          test "$TESTED" = success
+          test "$COLLECTED" = success
+          test "$VERIFIED" = success
