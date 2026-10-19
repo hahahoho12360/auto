@@ -6,8 +6,10 @@ import cms_adapters
 cms_adapters.install()
 import discovery_fallbacks
 discovery_fallbacks.install()
+import recovery
+recovery.install()
 from engine import *  # Re-export the tested engine interface for maintenance and diagnostics.
-from fair_runner import run
+from recovery import run
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
