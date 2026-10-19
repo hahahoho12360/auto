@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "as_of": "2026-10-19",
+  "registry_source": "https://www.moe.go.kr/sub/infoRenew.do?m=060104&page=060104",
+  "target_count_is_not_coverage": true,
+  "expected_counts": {"ministry":1,"provincial":16,"district":176},
+  "max_list_pages":3,"max_details_per_board":12,"max_http_requests":2500,"max_run_seconds":1020,"workers":8,
+  "moe":{"home":"https://www.moe.go.kr/","boards":["https://www.moe.go.kr/boardCnts/listRenew.do?boardID=345&m=041202&s=moe"]},
+  "regions":[
+    {"id":"sen","name":"서울특별시교육청","home":"https://www.sen.go.kr/","children":["동부","서부","남부","북부","중부","강동송파","강서양천","강남서초","동작관악","성동광진","성북강북"],"directories":["https://www.sen.go.kr/"],"child_homes":{"강남서초":"https://gnscedu.sen.go.kr/","북부":"https://bbedu.sen.go.kr/"}},
+    {"id":"pen","name":"부산광역시교육청","home":"https://www.pen.go.kr/","children":["서부","남부","북부","동래","해운대"],"directories":["https://www.pen.go.kr/"]},
+    {"id":"dge","name":"대구광역시교육청","home":"https://www.dge.go.kr/","children":["동부","서부","남부","달성","군위"],"directories":["https://www.dge.go.kr/"]},
+    {"id":"ice","name":"인천광역시교육청","home":"https://www.ice.go.kr/","children":["남부","북부","동부","서부","강화"],"directories":["https://www.ice.go.kr/"]},
+    {"id":"jge","name":"전남광주통합특별시교육청","home":"https://www.jge.go.kr/","children":["동부","서부","목포","여수","순천","나주","광양","담양","곡성","구례","고흥","보성","화순","장흥","강진","해남","영암","무안","함평","영광","장성","완도","진도","신안"],"directories":["https://www.jge.go.kr/"]},
+    {"id":"dje","name":"대전광역시교육청","home":"https://www.dje.go.kr/","children":["동부","서부"],"directories":["https://www.dje.go.kr/"]},
+    {"id":"use","name":"울산광역시교육청","home":"https://www.use.go.kr/","children":["강북","강남"],"directories":["https://www.use.go.kr/"]},
+    {"id":"sje","name":"세종특별자치시교육청","home":"https://www.sje.go.kr/","children":[],"directories":["https://www.sje.go.kr/"]},
+    {"id":"goe","name":"경기도교육청","home":"https://www.goe.go.kr/","children":["가평","고양","광명","광주하남","구리남양주","군포의왕","김포","동두천양주","부천","성남","수원","시흥","안산","안성","안양과천","양평","여주","연천","용인","의정부","이천","파주","평택","포천","화성오산"],"directories":["https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311"],"child_homes":{"가평":"https://www.goegp.kr/","고양":"https://www.goegy.kr/","광명":"https://www.goegm.kr/","광주하남":"https://www.goegh.kr/","구리남양주":"https://www.goegn.kr/","군포의왕":"https://www.goegu.kr/","김포":"https://www.gpoe.kr/","동두천양주":"https://www.goedy.kr/","부천":"https://www.goebc.kr/","성남":"https://www.goesn.kr/","수원":"https://www.goesw.kr/","시흥":"https://www.goesh.kr/","안산":"https://www.goeas.kr/","안성":"https://www.goean.kr/","안양과천":"https://www.goeay.kr/","양평":"https://www.goeyp.kr/","여주":"https://www.goeyj.kr/","연천":"https://www.goeyc.kr/","용인":"https://www.goeyi.kr/","의정부":"https://www.goeujb.kr/","이천":"https://www.goeic.kr/","파주":"https://www.goepj.kr/","평택":"https://www.goept.kr/","포천":"https://www.goepc.kr/","화성오산":"https://www.goehs.kr/"}},
+    {"id":"gwe","name":"강원특별자치도교육청","home":"https://www.gwe.go.kr/","children":["춘천","원주","강릉","속초양양","동해","태백","삼척","홍천","횡성","영월","평창","정선","철원","화천","양구","인제","고성"],"directories":["https://www.gwe.go.kr/"]},
+    {"id":"cbe","name":"충청북도교육청","home":"https://www.cbe.go.kr/","children":["청주","충주","제천","보은","옥천","영동","진천","괴산증평","음성","단양"],"directories":["https://www.cbe.go.kr/"]},
+    {"id":"cne","name":"충청남도교육청","home":"http://www.cne.go.kr/","children":["천안","공주","보령","아산","서산","논산계룡","금산","부여","서천","청양","홍성","예산","태안","당진"],"directories":["http://www.cne.go.kr/"]},
+    {"id":"jbe","name":"전북특별자치도교육청","home":"https://www.jbe.go.kr/","children":["전주","군산","익산","정읍","남원","김제","완주","진안","무주","장수","임실","순창","고창","부안"],"directories":["https://www.jbe.go.kr/"]},
+    {"id":"gbe","name":"경상북도교육청","home":"https://www.gbe.kr/","children":["포항","경주","김천","안동","구미","영주","영천","상주","문경","경산","의성","청송","영양","영덕","청도","고령","성주","칠곡","예천","봉화","울진","울릉"],"directories":["https://www.gbe.kr/"]},
+    {"id":"gne","name":"경상남도교육청","home":"https://www.gne.go.kr/","children":["창원","진주","통영","사천","김해","밀양","거제","양산","의령","함안","창녕","고성","남해","하동","산청","함양","거창","합천"],"directories":["https://www.gne.go.kr/www/office/eduguide.jsp"],"boards":["https://www.gne.go.kr/user/bbs/BD_selectBbsList.do?q_bbsSn=1296"],"child_homes":{"창원":"https://cwedu.gne.go.kr/","진주":"https://jjedu.gne.go.kr/","통영":"https://tyedu.gne.go.kr/","사천":"https://scedu.gne.go.kr/","김해":"https://ghedu.gne.go.kr/","밀양":"https://myedu.gne.go.kr/","거제":"https://gjedu.gne.go.kr/","양산":"https://ysedu.gne.go.kr/","의령":"https://uredu.gne.go.kr/","함안":"https://hmedu.gne.go.kr/","창녕":"https://cnedu.gne.go.kr/","고성":"https://gsedu.gne.go.kr/","남해":"https://nhedu.gne.go.kr/","하동":"https://hdedu.gne.go.kr/","산청":"https://schedu.gne.go.kr/","함양":"https://hyedu.gne.go.kr/","거창":"https://gcedu.gne.go.kr/","합천":"https://hcedu.gne.go.kr/"}},
+    {"id":"jje","name":"제주특별자치도교육청","home":"https://www.jje.go.kr/","children":["제주시","서귀포시"],"directories":["https://www.jje.go.kr/"]}
+  ]
+}

@@ -1,0 +1,67 @@
+name: Education audit daily collection
+on:
+  schedule:
+    # Asia/Seoul 06:35. A separate mail task starts at 07:40 KST.
+    - cron: '35 21 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['education-audit/**', '.github/workflows/education-audit.yml']
+permissions:
+  contents: write
+concurrency:
+  group: education-audit-data
+  cancel-in-progress: false
+jobs:
+  collect:
+    # Public repository and standard Linux runner only. No paid APIs/cache/artifacts.
+    if: github.event.repository.private == false
+    runs-on: ubuntu-latest
+    timeout-minutes: 23
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: code
+      - uses: actions/checkout@v4
+        with:
+          ref: education-audit-data
+          path: data
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: python -m pip install --disable-pip-version-check -r code/education-audit/requirements.txt
+      - name: Tests
+        run: python -m unittest discover -s code/education-audit -p 'test_*.py' -v
+      - name: Collect public changes
+        id: collection
+        continue-on-error: true
+        run: python code/education-audit/monitor.py --out data
+      - name: Save state and reports even after partial collection
+        if: always()
+        working-directory: data
+        env:
+          COLLECTION_OUTCOME: ${{ steps.collection.outcome }}
+        run: |
+          python - <<'PY'
+          import json, os
+          from datetime import datetime, timezone
+          from pathlib import Path
+          Path('heartbeat.json').write_text(json.dumps({
+            'finished_at_utc': datetime.now(timezone.utc).isoformat(),
+            'collection_outcome': os.environ.get('COLLECTION_OUTCOME'),
+            'run_url': 'https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}',
+            'email_sent': False
+          }, indent=2))
+          PY
+          git config user.name 'education-audit-bot'
+          git config user.email 'education-audit-bot@users.noreply.github.com'
+          git add --all
+          if ! git diff --cached --quiet; then
+            git commit -m 'audit: daily public change scan [skip ci]'
+            git push origin HEAD:education-audit-data
+          fi
+      - name: Job summary
+        if: always()
+        run: |
+          if test -f data/latest.md; then head -c 60000 data/latest.md >> "$GITHUB_STEP_SUMMARY"; fi
