@@ -1,6 +1,6 @@
 {
   "expected": 193,
-  "generated_at": "2026-10-19T15:21:51.170241+09:00",
+  "generated_at": "2026-10-19T15:38:42.975588+09:00",
   "offices": [
     {
       "boards": [],
@@ -344,7 +344,14 @@
       "region": "대전광역시교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://www.gbe.kr/dep_ins/na/ntt/selectNttList.do?bbsId=2631&mi=8545",
+        "https://www.gbe.kr/dep_ins/na/ntt/selectNttList.do?bbsId=2627&mi=8541",
+        "https://www.gbe.kr/dep_ins/na/ntt/selectNttList.do?bbsId=2634&mi=8549",
+        "https://www.gbe.kr/dep_ins/ad/def/selectAuditsList.do?mi=23189",
+        "https://www.gbe.kr/dep_ins/na/ntt/selectNttList.do?bbsId=2635&mi=8550",
+        "https://www.gbe.kr/dep_ins/main.do"
+      ],
       "directory_sources": [
         "https://www.gbe.kr/"
       ],
@@ -366,10 +373,7 @@
       "region": "경상북도교육청"
     },
     {
-      "boards": [
-        "https://www.gbe.kr/gj/na/ntt/selectNttList.do?bbsId=1587&mi=5364",
-        "https://www.gbe.kr/gj/na/ntt/selectNttList.do?bbsId=1588&mi=5366"
-      ],
+      "boards": [],
       "home": "https://www.gbe.kr/gj/main.do",
       "home_source": "https://www.gbe.kr/",
       "id": "gbe-경주",
@@ -409,10 +413,7 @@
       "region": "경상북도교육청"
     },
     {
-      "boards": [
-        "https://www.gbe.kr/mg/na/ntt/selectNttList.do?bbsId=2101&mi=5179",
-        "https://www.gbe.kr/mg/na/ntt/selectNttList.do?bbsId=2097&mi=5148"
-      ],
+      "boards": [],
       "home": "https://www.gbe.kr/mg/main.do",
       "home_source": "https://www.gbe.kr/",
       "id": "gbe-문경",
@@ -452,9 +453,7 @@
       "region": "경상북도교육청"
     },
     {
-      "boards": [
-        "https://www.gbe.kr/ad/na/ntt/selectNttList.do?bbsId=1711&mi=5753"
-      ],
+      "boards": [],
       "home": "https://www.gbe.kr/ad/main.do",
       "home_source": "https://www.gbe.kr/",
       "id": "gbe-안동",
@@ -464,10 +463,7 @@
       "region": "경상북도교육청"
     },
     {
-      "boards": [
-        "https://www.gbe.kr/yd/na/ntt/selectNttList.do?bbsId=2313&mi=5029",
-        "https://www.gbe.kr/yd/na/ntt/selectNttList.do?bbsId=2379&mi=5210"
-      ],
+      "boards": [],
       "home": "https://www.gbe.kr/yd/main.do",
       "home_source": "https://www.gbe.kr/",
       "id": "gbe-영덕",
@@ -477,9 +473,7 @@
       "region": "경상북도교육청"
     },
     {
-      "boards": [
-        "https://www.gbe.kr/yy/na/ntt/selectNttList.do?bbsId=3101&mi=10591"
-      ],
+      "boards": [],
       "home": "https://www.gbe.kr/yy/main.do",
       "home_source": "https://www.gbe.kr/",
       "id": "gbe-영양",
@@ -489,9 +483,7 @@
       "region": "경상북도교육청"
     },
     {
-      "boards": [
-        "https://www.gbe.kr/yj/na/ntt/selectNttList.do?bbsId=1965&mi=3266"
-      ],
+      "boards": [],
       "home": "https://www.gbe.kr/yj/main.do",
       "home_source": "https://www.gbe.kr/",
       "id": "gbe-영주",
@@ -501,9 +493,7 @@
       "region": "경상북도교육청"
     },
     {
-      "boards": [
-        "https://www.gbe.kr/yc/na/ntt/selectNttList.do?bbsId=2075&mi=4374"
-      ],
+      "boards": [],
       "home": "https://www.gbe.kr/yc/main.do",
       "home_source": "https://www.gbe.kr/",
       "id": "gbe-영천",
@@ -513,9 +503,7 @@
       "region": "경상북도교육청"
     },
     {
-      "boards": [
-        "https://www.gbe.kr/ycg/na/ntt/selectNttList.do?bbsId=2043&mi=4834"
-      ],
+      "boards": [],
       "home": "https://www.gbe.kr/ycg/main.do",
       "home_source": "https://www.gbe.kr/",
       "id": "gbe-예천",
@@ -525,9 +513,7 @@
       "region": "경상북도교육청"
     },
     {
-      "boards": [
-        "https://www.gbe.kr/ul/na/ntt/selectNttList.do?bbsId=1550&mi=7948"
-      ],
+      "boards": [],
       "home": "https://www.gbe.kr/ul/main.do",
       "home_source": "https://www.gbe.kr/",
       "id": "gbe-울릉",
@@ -547,9 +533,7 @@
       "region": "경상북도교육청"
     },
     {
-      "boards": [
-        "https://www.gbe.kr/us/na/ntt/selectNttList.do?bbsId=2496&mi=6342"
-      ],
+      "boards": [],
       "home": "https://www.gbe.kr/us/main.do",
       "home_source": "https://www.gbe.kr/",
       "id": "gbe-의성",
@@ -793,7 +777,12 @@
       "region": "경상남도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://www.goe.go.kr/goe/na/ntt/selectNttList.do?bbsId=1965&mi=10275",
+        "https://www.goe.go.kr/goe/na/ntt/selectNttList.do?bbsId=1950&mi=11123",
+        "https://www.goe.go.kr/goe/na/ntt/selectNttList.do?bbsId=1950&mi=11123&mi=11123",
+        "https://www.goe.go.kr/goe/na/ntt/selectNttList.do?bbsId=1927&mi=10115"
+      ],
       "directory_sources": [
         "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311"
       ],
@@ -862,7 +851,12 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://www.goegn.kr/goegn/na/ntt/selectNttList.do?bbsId=8354&mi=13512",
+        "https://www.goegn.kr/goegn/na/ntt/selectNttList.do?bbsId=8395&mi=13571",
+        "https://www.goegn.kr/goegn/na/ntt/selectNttList.do?bbsId=9921&mi=16822",
+        "https://www.goegn.kr/goegn/na/ntt/selectNttList.do?bbsId=9922&mi=16823"
+      ],
       "home": "https://www.goegn.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-구리남양주",
@@ -872,7 +866,10 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://www.goegu.kr/goegu/na/ntt/selectNttList.do?bbsId=4360&mi=7255",
+        "https://www.goegu.kr/goegu/na/ntt/selectNttList.do?bbsId=4324&mi=7155"
+      ],
       "home": "https://www.goegu.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-군포의왕",
@@ -882,7 +879,9 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://www.gpoe.kr/gpoe/na/ntt/selectNttList.do?bbsId=5189&mi=9325"
+      ],
       "home": "https://www.gpoe.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-김포",
@@ -892,7 +891,11 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://www.goedy.kr/goedy/na/ntt/selectNttList.do?bbsId=10213&mi=10293",
+        "https://www.goedy.kr/goedy/na/ntt/selectNttList.do?bbsId=10214&mi=10294",
+        "https://www.goedy.kr/goedy/na/ntt/selectNttList.do?bbsId=11239&mi=12027"
+      ],
       "home": "https://www.goedy.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-동두천양주",
@@ -902,7 +905,11 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://www.goebc.kr/goebc/na/ntt/selectNttList.do?bbsId=6392&mi=11214",
+        "https://www.goebc.kr/goebc/na/ntt/selectNttList.do?bbsId=6363&mi=11136",
+        "https://www.goebc.kr/goebc/na/ntt/selectNttList.do?bbsId=6390&mi=11186"
+      ],
       "home": "https://www.goebc.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-부천",
@@ -912,7 +919,11 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17815&mi=23503",
+        "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17829&mi=23531",
+        "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17848&mi=23560"
+      ],
       "home": "https://www.goesn.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-성남",
@@ -922,7 +933,11 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://www.goesw.kr/goesw/na/ntt/selectNttList.do?bbsId=11051&mi=18917",
+        "https://www.goesw.kr/goesw/na/ntt/selectNttList.do?bbsId=11053&mi=18919",
+        "https://www.goesw.kr/goesw/na/ntt/selectNttList.do?bbsId=11052&mi=18918"
+      ],
       "home": "https://www.goesw.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-수원",
@@ -932,7 +947,11 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://www.goesh.kr/goesh/na/ntt/selectNttList.do?bbsId=5566&mi=9129",
+        "https://www.goesh.kr/goesh/na/ntt/selectNttList.do?bbsId=5535&mi=9042",
+        "https://www.goesh.kr/goesh/na/ntt/selectNttList.do?bbsId=5536&mi=9043"
+      ],
       "home": "https://www.goesh.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-시흥",
@@ -942,7 +961,11 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://www.goeas.kr/goeas/na/ntt/selectNttList.do?bbsId=5961&mi=11490",
+        "https://www.goeas.kr/goeas/cm/cntnts/cntntsView.do?cntntsId=1715&mi=12828",
+        "https://www.goeas.kr/goeas/na/ntt/selectNttList.do?bbsId=5940&mi=11463"
+      ],
       "home": "https://www.goeas.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-안산",
@@ -952,7 +975,11 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://www.goean.kr/goean/na/ntt/selectNttList.do?bbsId=2793&mi=4552",
+        "https://www.goean.kr/goean/na/ntt/selectNttList.do?bbsId=2794&mi=4553",
+        "https://www.goean.kr/goean/na/ntt/selectNttList.do?bbsId=2792&mi=4551"
+      ],
       "home": "https://www.goean.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-안성",
@@ -962,7 +989,10 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://www.goeay.kr/goeay/na/ntt/selectNttList.do?bbsId=5187&mi=10254",
+        "https://www.goeay.kr/goeay/na/ntt/selectNttList.do?bbsId=5165&mi=10216"
+      ],
       "home": "https://www.goeay.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-안양과천",
@@ -972,7 +1002,10 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://www.goeyp.kr/goeyp/na/ntt/selectNttList.do?bbsId=1890&mi=3580",
+        "https://www.goeyp.kr/goeyp/na/ntt/selectNttList.do?bbsId=1892&mi=3582"
+      ],
       "home": "https://www.goeyp.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-양평",
@@ -982,7 +1015,11 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://www.goeyj.kr/goeyj/na/ntt/selectNttList.do?bbsId=10117&mi=10157",
+        "https://www.goeyj.kr/goeyj/na/ntt/selectNttList.do?bbsId=10114&mi=10154",
+        "https://www.goeyj.kr/goeyj/na/ntt/selectNttList.do?bbsId=10096&mi=10133"
+      ],
       "home": "https://www.goeyj.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-여주",
@@ -992,7 +1029,11 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://www.goeyc.kr/goeyc/na/ntt/selectNttList.do?bbsId=2210&mi=2343",
+        "https://www.goeyc.kr/goeyc/na/ntt/selectNttList.do?bbsId=2234&mi=2466",
+        "https://www.goeyc.kr/goeyc/na/ntt/selectNttList.do?bbsId=2234&mi=2429"
+      ],
       "home": "https://www.goeyc.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-연천",
@@ -1002,7 +1043,12 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://www.goeyi.kr/goeyi/na/ntt/selectNttList.do?bbsId=12277&mi=20260",
+        "https://www.goeyi.kr/goeyi/na/ntt/selectNttList.do?bbsId=12220&mi=20167",
+        "https://www.goeyi.kr/goeyi/na/ntt/selectNttList.do?bbsId=12221&mi=20168",
+        "https://www.goeyi.kr/goeyi/na/ntt/selectNttList.do?bbsId=12258&mi=20230"
+      ],
       "home": "https://www.goeyi.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-용인",
@@ -1012,7 +1058,11 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://www.goeujb.kr/goeujb/na/ntt/selectNttList.do?bbsId=4095&mi=6954",
+        "https://www.goeujb.kr/goeujb/na/ntt/selectNttList.do?bbsId=4158&mi=7091",
+        "https://www.goeujb.kr/goeujb/na/ntt/selectNttList.do?bbsId=4111&mi=6985"
+      ],
       "home": "https://www.goeujb.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-의정부",
@@ -1022,7 +1072,12 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://www.goeic.kr/goeic/na/ntt/selectNttList.do?bbsId=3762&mi=5657",
+        "https://www.goeic.kr/goeic/na/ntt/selectNttList.do?bbsId=3773&mi=5681",
+        "https://www.goeic.kr/goeic/na/ntt/selectNttList.do?bbsId=3761&mi=5656",
+        "https://www.goeic.kr/goeic/na/ntt/selectNttList.do?bbsId=3890&mi=5956"
+      ],
       "home": "https://www.goeic.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-이천",
@@ -1032,7 +1087,10 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://www.goepj.kr/goepj/na/ntt/selectNttList.do?bbsId=7147&mi=10722",
+        "https://www.goepj.kr/goepj/na/ntt/selectNttList.do?bbsId=7194&mi=10806"
+      ],
       "home": "https://www.goepj.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-파주",
@@ -1042,7 +1100,11 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://www.goept.kr/goept/na/ntt/selectNttList.do?bbsId=10115&mi=10124",
+        "https://www.goept.kr/goept/na/ntt/selectNttList.do?bbsId=10097&mi=10090",
+        "https://www.goept.kr/goept/na/ntt/selectNttList.do?bbsId=12917&mi=13586"
+      ],
       "home": "https://www.goept.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-평택",
@@ -1052,7 +1114,10 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://www.goepc.kr/goepc/na/ntt/selectNttList.do?bbsId=2137&mi=2248",
+        "https://www.goepc.kr/goepc/na/ntt/selectNttList.do?bbsId=2141&mi=2254"
+      ],
       "home": "https://www.goepc.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-포천",
@@ -1062,7 +1127,12 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://www.goehs.kr/goehs/na/ntt/selectNttList.do?bbsId=9851&mi=17884",
+        "https://www.goehs.kr/goehs/na/ntt/selectNttList.do?bbsId=9864&mi=17925",
+        "https://www.goehs.kr/goehs/na/ntt/selectNttList.do?bbsId=9826&mi=20966&srch_aditCol1=%EA%B0%90%EC%82%AC%EA%B3%BC",
+        "https://www.goehs.kr/goehs/na/ntt/selectNttList.do?bbsId=9841&mi=17870"
+      ],
       "home": "https://www.goehs.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-화성오산",
@@ -1086,7 +1156,9 @@
       ]
     },
     {
-      "boards": [],
+      "boards": [
+        "https://gwgned.gwe.go.kr/boardCnts/list.do?boardID=96263&m=010808&s=gwgned"
+      ],
       "home": "https://gwgned.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-강릉",
@@ -1096,7 +1168,9 @@
       "region": "강원특별자치도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://gwgsed.gwe.go.kr/boardCnts/list.do?boardID=96269&m=0208&s=kwksed"
+      ],
       "home": "https://gwgsed.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-고성",
@@ -1106,7 +1180,11 @@
       "region": "강원특별자치도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://kwthe.gwe.go.kr/boardCnts/list.do?boardID=5277&m=080201&s=kwthe",
+        "https://kwthe.gwe.go.kr/boardCnts/list.do?boardID=96283&m=080202&s=kwthe",
+        "https://kwthe.gwe.go.kr/boardCnts/list.do?boardID=5277&m=080201&page=1&prntBoardID=0&prntBoardSeq=0&prntLev=0&rsvtListYN=N&s=kwthe&searchType=S&searchType2="
+      ],
       "home": "https://kwthe.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-동해",
@@ -1116,7 +1194,9 @@
       "region": "강원특별자치도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://sce.gwe.go.kr/boardCnts/list.do?boardID=96173&m=010518&s=kwsche"
+      ],
       "home": "https://sce.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-삼척",
@@ -1126,7 +1206,9 @@
       "region": "강원특별자치도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://gwsyed.gwe.go.kr/boardCnts/list.do?boardID=96258&m=021005&s=kwsyed"
+      ],
       "home": "https://gwsyed.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-속초양양",
@@ -1136,7 +1218,9 @@
       "region": "강원특별자치도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://gwyged.gwe.go.kr/boardCnts/list.do?boardID=96265&m=1102&s=kwyged"
+      ],
       "home": "https://gwyged.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-양구",
@@ -1146,7 +1230,10 @@
       "region": "강원특별자치도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://gwywed.gwe.go.kr/boardCnts/list.do?boardID=95572&m=1002&s=gwywed",
+        "https://gwywed.gwe.go.kr/boardCnts/list.do?boardID=96268&m=1004&s=gwywed"
+      ],
       "home": "https://gwywed.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-영월",
@@ -1156,7 +1243,10 @@
       "region": "강원특별자치도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://gwwjed.gwe.go.kr/boardCnts/list.do?boardID=2854&m=010701&s=kwwje",
+        "https://gwwjed.gwe.go.kr/boardCnts/list.do?boardID=2855&m=010702&s=kwwje"
+      ],
       "home": "https://gwwjed.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-원주",
@@ -1166,7 +1256,9 @@
       "region": "강원특별자치도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://gwijed.gwe.go.kr/boardCnts/list.do?boardID=96174&m=0211&s=kwije"
+      ],
       "home": "https://gwijed.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-인제",
@@ -1176,7 +1268,10 @@
       "region": "강원특별자치도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://gwjsed.gwe.go.kr/boardCnts/list.do?boardID=90873&m=0803&s=gwjsed",
+        "https://gwjsed.gwe.go.kr/boardCnts/list.do?boardID=96224&m=0805&s=gwjsed"
+      ],
       "home": "https://gwjsed.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-정선",
@@ -1186,7 +1281,10 @@
       "region": "강원특별자치도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://gwcwed.gwe.go.kr/boardCnts/list.do?boardID=101173&m=1304&s=gwcwed",
+        "https://gwcwed.gwe.go.kr/boardCnts/list.do?boardID=96287&m=0107&s=gwcwed"
+      ],
       "home": "https://gwcwed.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-철원",
@@ -1196,7 +1294,9 @@
       "region": "강원특별자치도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://gwcce.gwe.go.kr/boardCnts/list.do?boardID=96264&m=040304&s=gwcce"
+      ],
       "home": "https://gwcce.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-춘천",
@@ -1206,7 +1306,9 @@
       "region": "강원특별자치도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://kwtbe.gwe.go.kr/boardCnts/list.do?boardID=96266&m=110602&s=kwtbe"
+      ],
       "home": "https://kwtbe.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-태백",
@@ -1216,7 +1318,10 @@
       "region": "강원특별자치도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://gwpce.gwe.go.kr/boardCnts/list.do?boardID=39650&m=050401&s=gwpce",
+        "http://gwpce.gwe.go.kr/boardCnts/list.do?boardID=39650&m=050401&s=gwpce"
+      ],
       "home": "https://gwpce.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-평창",
@@ -1226,7 +1331,11 @@
       "region": "강원특별자치도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://gwhce.gwe.go.kr/boardCnts/list.do?boardID=1547&m=050902&s=gwhce",
+        "https://gwhce.gwe.go.kr/boardCnts/list.do?boardID=96275&m=050903&s=gwhce",
+        "http://gwhce.gwe.go.kr/boardCnts/list.do?boardID=96275&m=050903&s=gwhce"
+      ],
       "home": "https://gwhce.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-홍천",
@@ -1236,7 +1345,9 @@
       "region": "강원특별자치도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://gwhced.gwe.go.kr/boardCnts/list.do?boardID=96271&m=0107&s=gwhced"
+      ],
       "home": "https://gwhced.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-화천",
@@ -1246,7 +1357,9 @@
       "region": "강원특별자치도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://gwhsed.gwe.go.kr/boardCnts/list.do?boardID=96210&m=0312&s=gwhsed"
+      ],
       "home": "https://gwhsed.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-횡성",
@@ -1256,7 +1369,13 @@
       "region": "강원특별자치도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://www.ice.go.kr/ice/na/ntt/selectNttList.do?bbsId=1735&mi=10951",
+        "https://www.ice.go.kr/ice/na/ntt/selectNttList.do?bbsId=2072&mi=12300",
+        "https://www.ice.go.kr/ice/na/ntt/selectNttList.do?bbsId=1737&mi=10953",
+        "https://www.ice.go.kr/ice/na/ntt/selectNttList.do?bbsId=1731&mi=11862",
+        "https://www.ice.go.kr/ice/na/ntt/selectNttList.do?bbsId=1738&mi=10954"
+      ],
       "directory_sources": [
         "https://www.ice.go.kr/"
       ],
@@ -1264,7 +1383,7 @@
       "id": "ice",
       "kind": "시도교육청",
       "name": "인천광역시교육청",
-      "registry_error": "literal_redirect_loop",
+      "registry_error": null,
       "seed_boards": []
     },
     {

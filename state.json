@@ -13,104 +13,759 @@
       "posts": {}
     },
     "https://gwcce.gwe.go.kr/boardCnts/list.do?boardID=96264&m=040304&s=gwcce": {
-      "initialized": false,
-      "posts": {}
+      "initialized": true,
+      "last_success": "2026-10-19T15:35:50.413520+09:00",
+      "posts": {
+        "https://gwcce.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96264&boardID=96264&m=040304&page=2&rsvtYN=N&s=gwcce&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:35:50.413470+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-12-31",
+          "read_status": "목록만 확인",
+          "title": "[봉의초등학교]2025년 9월 종합(학교운영)감사결과공개",
+          "url": "https://gwcce.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96264&boardID=96264&m=040304&page=2&rsvtYN=N&s=gwcce&type=default"
+        },
+        "https://gwcce.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96264&boardID=96264&m=040304&page=3&rsvtYN=N&s=gwcce&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:35:50.413498+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-09-28",
+          "read_status": "목록만 확인",
+          "title": "[예초유치원]2025년 4월종합(학교운영)감사결과공개",
+          "url": "https://gwcce.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96264&boardID=96264&m=040304&page=3&rsvtYN=N&s=gwcce&type=default"
+        },
+        "https://gwcce.gwe.go.kr/boardCnts/view.do?bbsSn=96264&boardID=96264&m=040304&s=gwcce": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:35:50.413409+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-05-30",
+          "read_status": "목록만 확인",
+          "retry_detail": true,
+          "title": "[성심유치원]2026년 4월 종합(유치원운영)감사결과공개",
+          "url": "https://gwcce.gwe.go.kr/boardCnts/view.do?bbsSn=96264&boardID=96264&m=040304&s=gwcce"
+        }
+      }
     },
     "https://gwcwed.gwe.go.kr/boardCnts/list.do?boardID=101173&m=1304&s=gwcwed": {
-      "initialized": false,
-      "posts": {}
+      "initialized": true,
+      "last_success": "2026-10-19T15:35:35.640118+09:00",
+      "posts": {
+        "https://gwcwed.gwe.go.kr/boardCnts/view.do?bbsSn=101173&boardID=101173&m=1304&s=gwcwed": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:35:35.640052+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2020-01-23",
+          "read_status": "목록만 확인",
+          "title": "2020년 철원교육지원청 자체감사 종합계획",
+          "url": "https://gwcwed.gwe.go.kr/boardCnts/view.do?bbsSn=101173&boardID=101173&m=1304&s=gwcwed"
+        }
+      }
     },
     "https://gwcwed.gwe.go.kr/boardCnts/list.do?boardID=96287&m=0107&s=gwcwed": {
-      "initialized": false,
-      "posts": {}
+      "initialized": true,
+      "last_success": "2026-10-19T15:35:41.821546+09:00",
+      "posts": {
+        "https://gwcwed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96287&boardID=96287&m=0107&page=2&rsvtYN=N&s=gwcwed&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:35:41.821497+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2019-11-21",
+          "read_status": "목록만 확인",
+          "title": "2019년 9월 감사결과 공개",
+          "url": "https://gwcwed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96287&boardID=96287&m=0107&page=2&rsvtYN=N&s=gwcwed&type=default"
+        },
+        "https://gwcwed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96287&boardID=96287&m=0107&page=3&rsvtYN=N&s=gwcwed&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:35:41.821524+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2018-11-14",
+          "read_status": "목록만 확인",
+          "title": "2016년 자체감사 결과",
+          "url": "https://gwcwed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96287&boardID=96287&m=0107&page=3&rsvtYN=N&s=gwcwed&type=default"
+        },
+        "https://gwcwed.gwe.go.kr/boardCnts/view.do?bbsSn=96287&boardID=96287&m=0107&s=gwcwed": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:35:41.821433+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2022-09-03",
+          "read_status": "목록만 확인",
+          "retry_detail": true,
+          "title": "2022년 7월 자체감사 결과 공개",
+          "url": "https://gwcwed.gwe.go.kr/boardCnts/view.do?bbsSn=96287&boardID=96287&m=0107&s=gwcwed"
+        }
+      }
     },
     "https://gwgned.gwe.go.kr/boardCnts/list.do?boardID=96263&m=010808&s=gwgned": {
-      "initialized": false,
-      "posts": {}
+      "initialized": true,
+      "last_success": "2026-10-19T15:33:15.276040+09:00",
+      "posts": {
+        "https://gwgned.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96263&boardID=96263&m=010808&page=2&rsvtYN=N&s=gwgned&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:15.275989+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-09-09",
+          "read_status": "목록만 확인",
+          "title": "[운양초등학교] 감사결과보고서 공개",
+          "url": "https://gwgned.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96263&boardID=96263&m=010808&page=2&rsvtYN=N&s=gwgned&type=default"
+        },
+        "https://gwgned.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96263&boardID=96263&m=010808&page=3&rsvtYN=N&s=gwgned&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:15.276017+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2024-12-03",
+          "read_status": "목록만 확인",
+          "title": "[송양초등학교] 감사결과보고서 공개",
+          "url": "https://gwgned.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96263&boardID=96263&m=010808&page=3&rsvtYN=N&s=gwgned&type=default"
+        },
+        "https://gwgned.gwe.go.kr/boardCnts/view.do?bbsSn=96263&boardID=96263&m=010808&s=gwgned": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:15.275922+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-01-02",
+          "read_status": "목록만 확인",
+          "retry_detail": true,
+          "title": "[노암초등학교] 감사결과보고서 공개",
+          "url": "https://gwgned.gwe.go.kr/boardCnts/view.do?bbsSn=96263&boardID=96263&m=010808&s=gwgned"
+        }
+      }
     },
     "https://gwgsed.gwe.go.kr/boardCnts/list.do?boardID=96269&m=0208&s=kwksed": {
-      "initialized": false,
-      "posts": {}
+      "initialized": true,
+      "last_success": "2026-10-19T15:33:36.085253+09:00",
+      "posts": {
+        "https://gwgsed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96269&boardID=96269&m=0208&page=2&rsvtYN=N&s=kwksed&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:36.085165+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2021-08-24",
+          "read_status": "목록만 확인",
+          "title": "간성초등학교 감사결과 보고서 공개",
+          "url": "https://gwgsed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96269&boardID=96269&m=0208&page=2&rsvtYN=N&s=kwksed&type=default"
+        },
+        "https://gwgsed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96269&boardID=96269&m=0208&page=3&rsvtYN=N&s=kwksed&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:36.085191+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2019-02-26",
+          "read_status": "목록만 확인",
+          "title": "2018년 10월 자체 감사 결과 공개",
+          "url": "https://gwgsed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96269&boardID=96269&m=0208&page=3&rsvtYN=N&s=kwksed&type=default"
+        },
+        "https://gwgsed.gwe.go.kr/boardCnts/view.do?bbsSn=96269&boardID=96269&m=0208&s=kwksed": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:36.085107+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2023-10-05",
+          "read_status": "목록만 확인",
+          "retry_detail": true,
+          "title": "[아야진초등학교] 감사결과보고서 공개",
+          "url": "https://gwgsed.gwe.go.kr/boardCnts/view.do?bbsSn=96269&boardID=96269&m=0208&s=kwksed"
+        }
+      }
     },
     "https://gwhce.gwe.go.kr/boardCnts/list.do?boardID=1547&m=050902&s=gwhce": {
-      "initialized": false,
-      "posts": {}
+      "initialized": true,
+      "last_success": "2026-10-19T15:36:12.091364+09:00",
+      "posts": {
+        "https://gwhce.gwe.go.kr/boardCnts/view.do?bbsSn=1547&boardID=1547&m=050902&s=gwhce": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:36:12.091299+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2024-03-18",
+          "read_status": "목록만 확인",
+          "title": "[감사일정]2024년 자체감사 계획 안내",
+          "url": "https://gwhce.gwe.go.kr/boardCnts/view.do?bbsSn=1547&boardID=1547&m=050902&s=gwhce"
+        }
+      }
     },
     "https://gwhce.gwe.go.kr/boardCnts/list.do?boardID=96275&m=050903&s=gwhce": {
-      "initialized": false,
-      "posts": {}
+      "initialized": true,
+      "last_success": "2026-10-19T15:36:20.176588+09:00",
+      "posts": {
+        "https://gwhce.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96275&boardID=96275&m=050903&page=2&rsvtYN=N&s=gwhce&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:36:20.176539+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2023-12-14",
+          "read_status": "목록만 확인",
+          "title": "2023년 9월 자체감사 결과 공개",
+          "url": "https://gwhce.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96275&boardID=96275&m=050903&page=2&rsvtYN=N&s=gwhce&type=default"
+        },
+        "https://gwhce.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96275&boardID=96275&m=050903&page=3&rsvtYN=N&s=gwhce&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:36:20.176566+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2023-12-14",
+          "read_status": "목록만 확인",
+          "title": "2023년 5월 자체감사 결과 공개",
+          "url": "https://gwhce.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96275&boardID=96275&m=050903&page=3&rsvtYN=N&s=gwhce&type=default"
+        },
+        "https://gwhce.gwe.go.kr/boardCnts/view.do?bbsSn=96275&boardID=96275&m=050903&s=gwhce": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:36:20.176474+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-10-21",
+          "read_status": "목록만 확인",
+          "title": "2025년 4월 자체감사 결과 공개",
+          "url": "https://gwhce.gwe.go.kr/boardCnts/view.do?bbsSn=96275&boardID=96275&m=050903&s=gwhce"
+        }
+      }
     },
     "https://gwhced.gwe.go.kr/boardCnts/list.do?boardID=96271&m=0107&s=gwhced": {
-      "initialized": false,
-      "posts": {}
+      "initialized": true,
+      "last_success": "2026-10-19T15:36:17.788518+09:00",
+      "posts": {
+        "https://gwhced.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96271&boardID=96271&m=0107&page=2&rsvtYN=N&s=gwhced&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:36:17.788466+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2020-07-23",
+          "read_status": "목록만 확인",
+          "title": "2020년 5월 자체감사(종합감사)결과 공개",
+          "url": "https://gwhced.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96271&boardID=96271&m=0107&page=2&rsvtYN=N&s=gwhced&type=default"
+        },
+        "https://gwhced.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96271&boardID=96271&m=0107&page=3&rsvtYN=N&s=gwhced&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:36:17.788495+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2017-04-25",
+          "read_status": "목록만 확인",
+          "title": "2017년 4월 중 자체감사 지적사항 및 처분결과 공개",
+          "url": "https://gwhced.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96271&boardID=96271&m=0107&page=3&rsvtYN=N&s=gwhced&type=default"
+        },
+        "https://gwhced.gwe.go.kr/boardCnts/view.do?bbsSn=96271&boardID=96271&m=0107&s=gwhced": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:36:17.788398+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2024-01-16",
+          "read_status": "목록만 확인",
+          "title": "2023년 9월 자체감사(종합감사) 결과 공개",
+          "url": "https://gwhced.gwe.go.kr/boardCnts/view.do?bbsSn=96271&boardID=96271&m=0107&s=gwhced"
+        }
+      }
     },
     "https://gwhsed.gwe.go.kr/boardCnts/list.do?boardID=96210&m=0312&s=gwhsed": {
-      "initialized": false,
-      "posts": {}
+      "initialized": true,
+      "last_success": "2026-10-19T15:36:56.213851+09:00",
+      "posts": {
+        "https://gwhsed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96210&boardID=96210&m=0312&page=2&rsvtYN=N&s=gwhsed&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:36:56.213802+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2019-07-09",
+          "read_status": "목록만 확인",
+          "title": "2019년 6월 자체감사 결과 공개",
+          "url": "https://gwhsed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96210&boardID=96210&m=0312&page=2&rsvtYN=N&s=gwhsed&type=default"
+        },
+        "https://gwhsed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96210&boardID=96210&m=0312&page=3&rsvtYN=N&s=gwhsed&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:36:56.213829+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2018-11-15",
+          "read_status": "목록만 확인",
+          "title": "2017.9월 감사결과 공개",
+          "url": "https://gwhsed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96210&boardID=96210&m=0312&page=3&rsvtYN=N&s=gwhsed&type=default"
+        },
+        "https://gwhsed.gwe.go.kr/boardCnts/view.do?bbsSn=96210&boardID=96210&m=0312&s=gwhsed": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:36:56.213733+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2021-12-22",
+          "read_status": "목록만 확인",
+          "title": "2021년 하반기 자체감사 결과 공개",
+          "url": "https://gwhsed.gwe.go.kr/boardCnts/view.do?bbsSn=96210&boardID=96210&m=0312&s=gwhsed"
+        }
+      }
     },
     "https://gwijed.gwe.go.kr/boardCnts/list.do?boardID=96174&m=0211&s=kwije": {
-      "initialized": false,
-      "posts": {}
+      "initialized": true,
+      "last_success": "2026-10-19T15:35:11.499676+09:00",
+      "posts": {
+        "https://gwijed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96174&boardID=96174&m=0211&page=2&rsvtYN=N&s=kwije&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:35:11.499629+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2022-12-06",
+          "read_status": "목록만 확인",
+          "title": "인제남초등학교 감사 결과보고서 공개",
+          "url": "https://gwijed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96174&boardID=96174&m=0211&page=2&rsvtYN=N&s=kwije&type=default"
+        },
+        "https://gwijed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96174&boardID=96174&m=0211&page=3&rsvtYN=N&s=kwije&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:35:11.499656+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2020-12-18",
+          "read_status": "목록만 확인",
+          "title": "원통초등학교 감사결과 보고서 공개",
+          "url": "https://gwijed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96174&boardID=96174&m=0211&page=3&rsvtYN=N&s=kwije&type=default"
+        },
+        "https://gwijed.gwe.go.kr/boardCnts/view.do?bbsSn=96174&boardID=96174&m=0211&s=kwije": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:35:11.499566+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-01-16",
+          "read_status": "목록만 확인",
+          "retry_detail": true,
+          "title": "한계초등학교 감사 결과보고서 공개",
+          "url": "https://gwijed.gwe.go.kr/boardCnts/view.do?bbsSn=96174&boardID=96174&m=0211&s=kwije"
+        }
+      }
     },
     "https://gwjsed.gwe.go.kr/boardCnts/list.do?boardID=90873&m=0803&s=gwjsed": {
-      "initialized": false,
-      "posts": {}
+      "initialized": true,
+      "last_success": "2026-10-19T15:35:28.288517+09:00",
+      "posts": {
+        "https://gwjsed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=90873&boardID=90873&m=0803&page=2&rsvtYN=N&s=gwjsed&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:35:28.288469+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2024-04-25",
+          "read_status": "목록만 확인",
+          "title": "2024년 5월 자체감사 사전예고 안내",
+          "url": "https://gwjsed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=90873&boardID=90873&m=0803&page=2&rsvtYN=N&s=gwjsed&type=default"
+        },
+        "https://gwjsed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=90873&boardID=90873&m=0803&page=3&rsvtYN=N&s=gwjsed&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:35:28.288496+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2022-04-11",
+          "read_status": "목록만 확인",
+          "title": "2022년 4월 자체감사 사전예고",
+          "url": "https://gwjsed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=90873&boardID=90873&m=0803&page=3&rsvtYN=N&s=gwjsed&type=default"
+        },
+        "https://gwjsed.gwe.go.kr/boardCnts/view.do?bbsSn=90873&boardID=90873&m=0803&s=gwjsed": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:35:28.288411+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-09-08",
+          "read_status": "목록만 확인",
+          "retry_detail": true,
+          "title": "2025년 9월 자체감사 사전 예고 안내",
+          "url": "https://gwjsed.gwe.go.kr/boardCnts/view.do?bbsSn=90873&boardID=90873&m=0803&s=gwjsed"
+        }
+      }
     },
     "https://gwjsed.gwe.go.kr/boardCnts/list.do?boardID=96224&m=0805&s=gwjsed": {
-      "initialized": false,
-      "posts": {}
+      "initialized": true,
+      "last_success": "2026-10-19T15:35:34.085962+09:00",
+      "posts": {
+        "https://gwjsed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96224&boardID=96224&m=0805&page=2&rsvtYN=N&s=gwjsed&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:35:34.085911+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2024-04-25",
+          "read_status": "목록만 확인",
+          "title": "2023년 6월 자체감사 지적사항 및 처분결과",
+          "url": "https://gwjsed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96224&boardID=96224&m=0805&page=2&rsvtYN=N&s=gwjsed&type=default"
+        },
+        "https://gwjsed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96224&boardID=96224&m=0805&page=3&rsvtYN=N&s=gwjsed&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:35:34.085940+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2022-08-26",
+          "read_status": "목록만 확인",
+          "title": "갈래초등학교 종합(학교운영)감사결과 공개(이행완료)",
+          "url": "https://gwjsed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96224&boardID=96224&m=0805&page=3&rsvtYN=N&s=gwjsed&type=default"
+        },
+        "https://gwjsed.gwe.go.kr/boardCnts/view.do?bbsSn=96224&boardID=96224&m=0805&s=gwjsed": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:35:34.085850+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2024-12-25",
+          "read_status": "목록만 확인",
+          "title": "2024년 11월 종합감사 지적사항 및 처분결과",
+          "url": "https://gwjsed.gwe.go.kr/boardCnts/view.do?bbsSn=96224&boardID=96224&m=0805&s=gwjsed"
+        }
+      }
     },
     "https://gwpce.gwe.go.kr/boardCnts/list.do?boardID=39650&m=050401&s=gwpce": {
-      "initialized": false,
-      "posts": {}
+      "initialized": true,
+      "last_success": "2026-10-19T15:36:07.958526+09:00",
+      "posts": {
+        "https://gwpce.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=39650&boardID=39650&m=050401&page=2&rsvtYN=N&s=gwpce&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:36:07.958474+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2019-02-26",
+          "read_status": "목록만 확인",
+          "title": "2019년 사안감사 결과 공개",
+          "url": "https://gwpce.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=39650&boardID=39650&m=050401&page=2&rsvtYN=N&s=gwpce&type=default"
+        },
+        "https://gwpce.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=39650&boardID=39650&m=050401&page=3&rsvtYN=N&s=gwpce&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:36:07.958502+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2017-05-27",
+          "read_status": "목록만 확인",
+          "title": "2016년도 자체감사실적 및 2017년도 자체감사종합계획 안내",
+          "url": "https://gwpce.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=39650&boardID=39650&m=050401&page=3&rsvtYN=N&s=gwpce&type=default"
+        },
+        "https://gwpce.gwe.go.kr/boardCnts/view.do?bbsSn=39650&boardID=39650&m=050401&s=gwpce": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:36:07.958387+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2022-06-30",
+          "read_status": "목록만 확인",
+          "title": "2022년 4·5·6월 자체감사 결과 공개",
+          "url": "https://gwpce.gwe.go.kr/boardCnts/view.do?bbsSn=39650&boardID=39650&m=050401&s=gwpce"
+        }
+      }
     },
     "https://gwsyed.gwe.go.kr/boardCnts/list.do?boardID=96258&m=021005&s=kwsyed": {
-      "initialized": false,
-      "posts": {}
+      "initialized": true,
+      "last_success": "2026-10-19T15:34:12.370328+09:00",
+      "posts": {
+        "https://gwsyed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96258&boardID=96258&m=021005&page=2&rsvtYN=N&s=kwsyed&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:12.370276+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2023-08-18",
+          "read_status": "목록만 확인",
+          "title": "2023년 4월 자체감사 결과 공개",
+          "url": "https://gwsyed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96258&boardID=96258&m=021005&page=2&rsvtYN=N&s=kwsyed&type=default"
+        },
+        "https://gwsyed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96258&boardID=96258&m=021005&page=3&rsvtYN=N&s=kwsyed&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:12.370305+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2021-09-03",
+          "read_status": "목록만 확인",
+          "title": "2021년 5월 자체감사 결과 공개",
+          "url": "https://gwsyed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96258&boardID=96258&m=021005&page=3&rsvtYN=N&s=kwsyed&type=default"
+        },
+        "https://gwsyed.gwe.go.kr/boardCnts/view.do?bbsSn=96258&boardID=96258&m=021005&s=kwsyed": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:12.370192+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2024-11-06",
+          "read_status": "목록만 확인",
+          "retry_detail": true,
+          "title": "2024년 9월 자체감사 결과 공개",
+          "url": "https://gwsyed.gwe.go.kr/boardCnts/view.do?bbsSn=96258&boardID=96258&m=021005&s=kwsyed"
+        }
+      }
     },
     "https://gwwjed.gwe.go.kr/boardCnts/list.do?boardID=2854&m=010701&s=kwwje": {
-      "initialized": false,
-      "posts": {}
+      "initialized": true,
+      "last_success": "2026-10-19T15:34:51.067493+09:00",
+      "posts": {
+        "https://gwwjed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=2854&boardID=2854&m=010701&page=2&rsvtYN=N&s=kwwje&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:51.067441+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2016-12-21",
+          "read_status": "목록만 확인",
+          "title": "2017년 강원도원주교육지원청 자체감사 종합계획 및 일정 알림",
+          "url": "https://gwwjed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=2854&boardID=2854&m=010701&page=2&rsvtYN=N&s=kwwje&type=default"
+        },
+        "https://gwwjed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=2854&boardID=2854&m=010701&page=3&rsvtYN=N&s=kwwje&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:51.067471+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2016-03-30",
+          "read_status": "목록만 확인",
+          "title": "2016년 자체감사 일정 알림",
+          "url": "https://gwwjed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=2854&boardID=2854&m=010701&page=3&rsvtYN=N&s=kwwje&type=default"
+        },
+        "https://gwwjed.gwe.go.kr/boardCnts/view.do?bbsSn=2854&boardID=2854&m=010701&s=kwwje": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:51.067380+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2020-05-25",
+          "read_status": "목록만 확인",
+          "title": "교육부 제2기 시민감사관 모집 홍보",
+          "url": "https://gwwjed.gwe.go.kr/boardCnts/view.do?bbsSn=2854&boardID=2854&m=010701&s=kwwje"
+        }
+      }
     },
     "https://gwwjed.gwe.go.kr/boardCnts/list.do?boardID=2855&m=010702&s=kwwje": {
-      "initialized": false,
-      "posts": {}
+      "initialized": true,
+      "last_success": "2026-10-19T15:34:57.752255+09:00",
+      "posts": {
+        "https://gwwjed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=2855&boardID=2855&m=010702&page=2&rsvtYN=N&s=kwwje&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:57.752161+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2024-12-26",
+          "read_status": "목록만 확인",
+          "title": "2024년 8월 자체감사 결과 공개(반곡초)",
+          "url": "https://gwwjed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=2855&boardID=2855&m=010702&page=2&rsvtYN=N&s=kwwje&type=default"
+        },
+        "https://gwwjed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=2855&boardID=2855&m=010702&page=3&rsvtYN=N&s=kwwje&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:57.752189+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2024-02-23",
+          "read_status": "목록만 확인",
+          "title": "2023년 11월 자체감사 결과 공개(학림유치원)",
+          "url": "https://gwwjed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=2855&boardID=2855&m=010702&page=3&rsvtYN=N&s=kwwje&type=default"
+        },
+        "https://gwwjed.gwe.go.kr/boardCnts/view.do?bbsSn=2855&boardID=2855&m=010702&s=kwwje": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:57.752089+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-12-01",
+          "read_status": "목록만 확인",
+          "retry_detail": true,
+          "title": "2025년 7월 자체감사 결과 공개(남원주중, 문막중)",
+          "url": "https://gwwjed.gwe.go.kr/boardCnts/view.do?bbsSn=2855&boardID=2855&m=010702&s=kwwje"
+        }
+      }
     },
     "https://gwyged.gwe.go.kr/boardCnts/list.do?boardID=96265&m=1102&s=kwyged": {
-      "initialized": false,
-      "posts": {}
+      "initialized": true,
+      "last_success": "2026-10-19T15:34:28.122597+09:00",
+      "posts": {
+        "https://gwyged.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96265&boardID=96265&m=1102&page=2&rsvtYN=N&s=kwyged&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:28.122547+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2022-07-13",
+          "read_status": "목록만 확인",
+          "title": "2022년 5월 자체감사 지적사항 및 처분결과 공개",
+          "url": "https://gwyged.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96265&boardID=96265&m=1102&page=2&rsvtYN=N&s=kwyged&type=default"
+        },
+        "https://gwyged.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96265&boardID=96265&m=1102&page=3&rsvtYN=N&s=kwyged&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:28.122574+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2020-02-10",
+          "read_status": "목록만 확인",
+          "title": "2019년 10월 자체감사 지적사항 및 처분결과 공개",
+          "url": "https://gwyged.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96265&boardID=96265&m=1102&page=3&rsvtYN=N&s=kwyged&type=default"
+        },
+        "https://gwyged.gwe.go.kr/boardCnts/view.do?bbsSn=96265&boardID=96265&m=1102&s=kwyged": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:28.122485+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2024-12-11",
+          "read_status": "목록만 확인",
+          "retry_detail": true,
+          "title": "2024년 10월 자체감사 지적사항 및 처분결과 공개",
+          "url": "https://gwyged.gwe.go.kr/boardCnts/view.do?bbsSn=96265&boardID=96265&m=1102&s=kwyged"
+        }
+      }
     },
     "https://gwywed.gwe.go.kr/boardCnts/list.do?boardID=95572&m=1002&s=gwywed": {
-      "initialized": false,
-      "posts": {}
+      "initialized": true,
+      "last_success": "2026-10-19T15:34:41.986766+09:00",
+      "posts": {
+        "https://gwywed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=95572&boardID=95572&m=1002&page=2&rsvtYN=N&s=gwywed&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:41.986721+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2016-12-26",
+          "read_status": "목록만 확인",
+          "title": "2016 감사백서",
+          "url": "https://gwywed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=95572&boardID=95572&m=1002&page=2&rsvtYN=N&s=gwywed&type=default"
+        },
+        "https://gwywed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=95572&boardID=95572&m=1002&page=2&rsvtYN=N&s=gwywed&type=mobile": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:41.986747+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2016-12-26",
+          "read_status": "목록만 확인",
+          "title": "2016 감사백서",
+          "url": "https://gwywed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=95572&boardID=95572&m=1002&page=2&rsvtYN=N&s=gwywed&type=mobile"
+        },
+        "https://gwywed.gwe.go.kr/boardCnts/view.do?bbsSn=95572&boardID=95572&m=1002&s=gwywed": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:41.986657+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2018-10-23",
+          "read_status": "목록만 확인",
+          "title": "자체감사 제출서식",
+          "url": "https://gwywed.gwe.go.kr/boardCnts/view.do?bbsSn=95572&boardID=95572&m=1002&s=gwywed"
+        }
+      }
     },
     "https://gwywed.gwe.go.kr/boardCnts/list.do?boardID=96268&m=1004&s=gwywed": {
-      "initialized": false,
-      "posts": {}
+      "initialized": true,
+      "last_success": "2026-10-19T15:34:51.489285+09:00",
+      "posts": {
+        "https://gwywed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96268&boardID=96268&m=1004&page=2&rsvtYN=N&s=gwywed&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:51.489226+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2020-09-21",
+          "read_status": "목록만 확인",
+          "title": "2019년 10월 중 자체감사 지적사항 및 처분결과",
+          "url": "https://gwywed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96268&boardID=96268&m=1004&page=2&rsvtYN=N&s=gwywed&type=default"
+        },
+        "https://gwywed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96268&boardID=96268&m=1004&page=3&rsvtYN=N&s=gwywed&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:51.489261+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2018-11-12",
+          "read_status": "목록만 확인",
+          "title": "2016년 10월 중 자체감사 지적사항 및 처분 결과",
+          "url": "https://gwywed.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96268&boardID=96268&m=1004&page=3&rsvtYN=N&s=gwywed&type=default"
+        },
+        "https://gwywed.gwe.go.kr/boardCnts/view.do?bbsSn=96268&boardID=96268&m=1004&s=gwywed": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:51.489147+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2023-12-29",
+          "read_status": "목록만 확인",
+          "retry_detail": true,
+          "title": "2023년 9월 중 자체감사 지적사항 및 처분결과",
+          "url": "https://gwywed.gwe.go.kr/boardCnts/view.do?bbsSn=96268&boardID=96268&m=1004&s=gwywed"
+        }
+      }
     },
     "https://kwtbe.gwe.go.kr/boardCnts/list.do?boardID=96266&m=110602&s=kwtbe": {
-      "initialized": false,
-      "posts": {}
+      "initialized": true,
+      "last_success": "2026-10-19T15:35:56.172917+09:00",
+      "posts": {
+        "https://kwtbe.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96266&boardID=96266&m=110602&page=2&rsvtYN=N&s=kwtbe&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:35:56.172866+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2020-11-05",
+          "read_status": "목록만 확인",
+          "title": "2020년 10월중 자체감사 지적사항 처분결과 공개",
+          "url": "https://kwtbe.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96266&boardID=96266&m=110602&page=2&rsvtYN=N&s=kwtbe&type=default"
+        },
+        "https://kwtbe.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96266&boardID=96266&m=110602&page=3&rsvtYN=N&s=kwtbe&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:35:56.172894+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2018-11-09",
+          "read_status": "목록만 확인",
+          "title": "2018년 2월 자체감사 처분결과 공개",
+          "url": "https://kwtbe.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96266&boardID=96266&m=110602&page=3&rsvtYN=N&s=kwtbe&type=default"
+        },
+        "https://kwtbe.gwe.go.kr/boardCnts/view.do?bbsSn=96266&boardID=96266&m=110602&s=kwtbe": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:35:56.172787+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2024-11-14",
+          "read_status": "목록만 확인",
+          "retry_detail": true,
+          "title": "2024년 4월 자체감사 결과 공개",
+          "url": "https://kwtbe.gwe.go.kr/boardCnts/view.do?bbsSn=96266&boardID=96266&m=110602&s=kwtbe"
+        }
+      }
     },
     "https://kwthe.gwe.go.kr/boardCnts/list.do?boardID=5277&m=080201&page=1&prntBoardID=0&prntBoardSeq=0&prntLev=0&rsvtListYN=N&s=kwthe&searchType=S&searchType2=": {
-      "initialized": false,
-      "posts": {}
+      "initialized": true,
+      "last_success": "2026-10-19T15:34:04.088141+09:00",
+      "posts": {
+        "https://kwthe.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=5277&boardID=5277&m=080201&page=2&prntBoardID=0&prntBoardSeq=0&prntLev=0&rsvtListYN=N&rsvtYN=N&s=kwthe&searchType=S&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:04.088093+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2023-07-14",
+          "read_status": "목록만 확인",
+          "title": "2023년 6월 자체감사 실시계획 알림",
+          "url": "https://kwthe.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=5277&boardID=5277&m=080201&page=2&prntBoardID=0&prntBoardSeq=0&prntLev=0&rsvtListYN=N&rsvtYN=N&s=kwthe&searchType=S&type=default"
+        },
+        "https://kwthe.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=5277&boardID=5277&m=080201&page=3&prntBoardID=0&prntBoardSeq=0&prntLev=0&rsvtListYN=N&rsvtYN=N&s=kwthe&searchType=S&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:04.088120+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2022-01-18",
+          "read_status": "목록만 확인",
+          "title": "2022년 자체감사 종합계획 알림",
+          "url": "https://kwthe.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=5277&boardID=5277&m=080201&page=3&prntBoardID=0&prntBoardSeq=0&prntLev=0&rsvtListYN=N&rsvtYN=N&s=kwthe&searchType=S&type=default"
+        },
+        "https://kwthe.gwe.go.kr/boardCnts/view.do?bbsSn=5277&boardID=5277&m=080201&page=1&prntBoardID=0&prntBoardSeq=0&prntLev=0&rsvtListYN=N&s=kwthe&searchType=S": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:04.088030+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-08-14",
+          "read_status": "목록만 확인",
+          "title": "2025년 9월 자체감사 실시계획 알림",
+          "url": "https://kwthe.gwe.go.kr/boardCnts/view.do?bbsSn=5277&boardID=5277&m=080201&page=1&prntBoardID=0&prntBoardSeq=0&prntLev=0&rsvtListYN=N&s=kwthe&searchType=S"
+        }
+      }
     },
     "https://kwthe.gwe.go.kr/boardCnts/list.do?boardID=5277&m=080201&s=kwthe": {
-      "initialized": false,
-      "posts": {}
+      "initialized": true,
+      "last_success": "2026-10-19T15:33:47.214727+09:00",
+      "posts": {
+        "https://kwthe.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=5277&boardID=5277&m=080201&page=2&rsvtYN=N&s=kwthe&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:47.214678+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2023-07-14",
+          "read_status": "목록만 확인",
+          "title": "2023년 6월 자체감사 실시계획 알림",
+          "url": "https://kwthe.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=5277&boardID=5277&m=080201&page=2&rsvtYN=N&s=kwthe&type=default"
+        },
+        "https://kwthe.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=5277&boardID=5277&m=080201&page=3&rsvtYN=N&s=kwthe&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:47.214705+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2022-01-18",
+          "read_status": "목록만 확인",
+          "title": "2022년 자체감사 종합계획 알림",
+          "url": "https://kwthe.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=5277&boardID=5277&m=080201&page=3&rsvtYN=N&s=kwthe&type=default"
+        },
+        "https://kwthe.gwe.go.kr/boardCnts/view.do?bbsSn=5277&boardID=5277&m=080201&s=kwthe": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:47.214613+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-08-14",
+          "read_status": "목록만 확인",
+          "retry_detail": true,
+          "title": "2025년 9월 자체감사 실시계획 알림",
+          "url": "https://kwthe.gwe.go.kr/boardCnts/view.do?bbsSn=5277&boardID=5277&m=080201&s=kwthe"
+        }
+      }
     },
     "https://kwthe.gwe.go.kr/boardCnts/list.do?boardID=96283&m=080202&s=kwthe": {
-      "initialized": false,
-      "posts": {}
+      "initialized": true,
+      "last_success": "2026-10-19T15:33:54.875716+09:00",
+      "posts": {
+        "https://kwthe.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96283&boardID=96283&m=080202&page=2&rsvtYN=N&s=kwthe&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:54.875667+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2022-11-29",
+          "read_status": "목록만 확인",
+          "title": "2022년 9월 자체감사 결과 공개[해오름유치원]",
+          "url": "https://kwthe.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96283&boardID=96283&m=080202&page=2&rsvtYN=N&s=kwthe&type=default"
+        },
+        "https://kwthe.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96283&boardID=96283&m=080202&page=3&rsvtYN=N&s=kwthe&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:54.875695+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2021-01-07",
+          "read_status": "목록만 확인",
+          "title": "2020년 10월 자체감사 결과 공개[북삼초등학교]",
+          "url": "https://kwthe.gwe.go.kr/boardCnts/view.do?apprYN=N&bbsSn=96283&boardID=96283&m=080202&page=3&rsvtYN=N&s=kwthe&type=default"
+        },
+        "https://kwthe.gwe.go.kr/boardCnts/view.do?bbsSn=96283&boardID=96283&m=080202&s=kwthe": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:54.875605+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2024-12-12",
+          "read_status": "목록만 확인",
+          "title": "2024년 9월 자체감사 결과 공개[묵호중]",
+          "url": "https://kwthe.gwe.go.kr/boardCnts/view.do?bbsSn=96283&boardID=96283&m=080202&s=kwthe"
+        }
+      }
     },
     "https://sce.gwe.go.kr/boardCnts/list.do?boardID=96173&m=010518&s=kwsche": {
-      "initialized": false,
-      "posts": {}
+      "initialized": true,
+      "last_success": "2026-10-19T15:33:50.551374+09:00",
+      "posts": {
+        "https://sce.gwe.go.kr/boardCnts/view.do?bbsSn=96173&boardID=96173&m=010518&s=kwsche": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:50.551306+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-10-13",
+          "read_status": "목록만 확인",
+          "retry_detail": true,
+          "title": "2025년 6월 자체감사 결과 공개(근덕중)",
+          "url": "https://sce.gwe.go.kr/boardCnts/view.do?bbsSn=96173&boardID=96173&m=010518&s=kwsche"
+        }
+      }
     },
     "https://www.cbe.go.kr/cbe/na/ntt/selectNttList.do?bbsId=1719&mi=11793": {
       "initialized": true,
-      "last_success": "2026-10-19T15:05:28.070590+09:00",
+      "last_success": "2026-10-19T15:32:43.210155+09:00",
       "posts": {
         "https://www.cbe.go.kr/cbe/na/ntt/selectNttInfo.do?bbsId=1719&mi=11793&nttSn=1519259": {
           "attachments": [],
@@ -256,7 +911,7 @@
     },
     "https://www.cbe.go.kr/cbe/na/ntt/selectNttList.do?bbsId=1723&mi=11798": {
       "initialized": true,
-      "last_success": "2026-10-19T15:05:12.975967+09:00",
+      "last_success": "2026-10-19T15:32:40.325107+09:00",
       "posts": {
         "https://www.cbe.go.kr/cbe/na/ntt/selectNttInfo.do?bbsId=1723&mi=11798&nttSn=1567743": {
           "attachments": [],
@@ -408,11 +1063,16 @@
           "url": "https://www.cbe.go.kr/cbe/na/ntt/selectNttInfo.do?bbsId=1723&mi=11798&nttSn=513357"
         },
         "https://www.cbe.go.kr/cbe/na/ntt/selectNttInfo.do?bbsId=1723&mi=11798&nttSn=571950": {
-          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "attachments": [],
+          "body_selector_fallback": false,
+          "content_hash": "083e091137a6674db00469f6f80ae1e3efd1432afc6957dc3d2cd7539edac955",
+          "excerpt": "2021년 5월 수감기관 부터 적용되는 종합감사 서식(교육지원청용)입니다 / 수감자료, 우수사례 및 제도개선 사항은 감사실시 10일전까지 제출하시기 바랍니다 / (공무원 행동강령 이행실태 자체 점검표는 수감당일 현장 제출)",
           "first_seen": "2026-10-19T15:05:12.975933+09:00",
+          "last_detail_check": "2026-10-19T15:38:06.893094+09:00",
           "last_listed": "2026-10-19",
           "posted_at": "2021-03-30",
-          "read_status": "목록만 확인",
+          "read_status": "본문 확인",
+          "retry_detail": false,
           "title": "[2021.5월 수감기관부터 적용] 종합감사 서식(교육지원청)",
           "url": "https://www.cbe.go.kr/cbe/na/ntt/selectNttInfo.do?bbsId=1723&mi=11798&nttSn=571950"
         },
@@ -448,7 +1108,7 @@
     },
     "https://www.cbe.go.kr/cbe/na/ntt/selectNttList.do?bbsId=1804&mi=11794": {
       "initialized": true,
-      "last_success": "2026-10-19T15:04:57.365641+09:00",
+      "last_success": "2026-10-19T15:32:37.475731+09:00",
       "posts": {
         "https://www.cbe.go.kr/cbe/na/ntt/selectNttInfo.do?bbsId=1804&mi=11794&nttSn=1579077": {
           "attachments": [],
@@ -650,7 +1310,57 @@
       "initialized": false,
       "posts": {}
     },
+    "https://www.gbe.kr/dep_ins/ad/def/selectAuditsList.do?mi=23189": {
+      "initialized": false,
+      "posts": {}
+    },
+    "https://www.gbe.kr/dep_ins/main.do": {
+      "initialized": true,
+      "last_success": "2026-10-19T15:33:09.668379+09:00",
+      "posts": {
+        "https://www.gbe.kr/dep_ins/na/ntt/selectNttInfo.do?mi=8533&nttSn=1577084": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:09.668358+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-01-27",
+          "read_status": "목록만 확인",
+          "title": "2026년 자체감사 계획",
+          "url": "https://www.gbe.kr/dep_ins/na/ntt/selectNttInfo.do?mi=8533&nttSn=1577084"
+        },
+        "https://www.gbe.kr/dep_ins/na/ntt/selectNttInfo.do?mi=8533&nttSn=1597139": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:09.668331+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-04-04",
+          "read_status": "목록만 확인",
+          "title": "2026 학교자율감사 길라잡이 및 점검메뉴얼",
+          "url": "https://www.gbe.kr/dep_ins/na/ntt/selectNttInfo.do?mi=8533&nttSn=1597139"
+        },
+        "https://www.gbe.kr/dep_ins/na/ntt/selectNttInfo.do?mi=8533&nttSn=1629689": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:09.668261+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-07-14",
+          "read_status": "목록만 확인",
+          "retry_detail": true,
+          "title": "종합감사 수감자료",
+          "url": "https://www.gbe.kr/dep_ins/na/ntt/selectNttInfo.do?mi=8533&nttSn=1629689"
+        }
+      }
+    },
+    "https://www.gbe.kr/dep_ins/na/ntt/selectNttList.do?bbsId=2627&mi=8541": {
+      "initialized": false,
+      "posts": {}
+    },
     "https://www.gbe.kr/dep_ins/na/ntt/selectNttList.do?bbsId=2631&mi=8545": {
+      "initialized": false,
+      "posts": {}
+    },
+    "https://www.gbe.kr/dep_ins/na/ntt/selectNttList.do?bbsId=2634&mi=8549": {
+      "initialized": false,
+      "posts": {}
+    },
+    "https://www.gbe.kr/dep_ins/na/ntt/selectNttList.do?bbsId=2635&mi=8550": {
       "initialized": false,
       "posts": {}
     },
@@ -1462,7 +2172,7 @@
     },
     "https://www.gne.go.kr/user/bbs/BD_selectBbsList.do?q_bbsSn=1295": {
       "initialized": true,
-      "last_success": "2026-10-19T15:20:24.888763+09:00",
+      "last_success": "2026-10-19T15:32:36.752440+09:00",
       "posts": {
         "https://www.gne.go.kr/user/bbs/BD_selectBbs.do?q_bbsDocNo=1208676&q_bbsSn=1295": {
           "attachments": [],
@@ -1482,7 +2192,7 @@
     },
     "https://www.gne.go.kr/user/bbs/BD_selectBbsList.do?q_bbsSn=1296": {
       "initialized": true,
-      "last_success": "2026-10-19T15:20:22.798607+09:00",
+      "last_success": "2026-10-19T15:32:33.741740+09:00",
       "posts": {
         "https://www.gne.go.kr/user/bbs/BD_selectBbs.do?q_bbsDocNo=1451744&q_bbsSn=1296": {
           "attachments": [
@@ -1687,9 +2397,10 @@
             }
           ],
           "body_selector_fallback": false,
+          "content_hash": "5abf6e1608fb8fcd7dfec4e5b6816a048333c1b4be1b1fc7b9636ddfcd9a3292",
           "excerpt": "[표 1] 전문공사 미등록 업체와 계약현황 (단위: 원) 순 계약명 계약일자 계약금액 계약상대자 시공자격 잘못 정당 1 덕천관(C동)중앙현관 환경개선공사 2023.7.25. 48,474,000 ○○○○○○○ (***) 금속구조물.창호.온실공사업 도장.습식.방수. 석공사업 2 항공모빌리티과 환경개선 건축공사 2024.1.22. 45,227,930 주식회사○○○○ (***) 건축공사업 실내건축공 / [표 5] 변경계약 미결재 현황 (단위: 원, 횟수) 순 계약명 계약일자 계약금액 계약상대자 변경내역 공사기간연장 계약금액변경 1 덕천관C동 내진보강공사 및 소방차진입로 개선 전기공사 2023.1.9. 58,688,400 ○○○○주식회사 (***) 3 1 2 덕천관C동 내진보강공사 및 소방차진입로 개선 통신공사 2023.1.9. 47,454,980 주식회사○○○○ (***) 3 1 4 덕천관 / 4. 시설공사 정산업무 소홀 가. 관계법령 및 판단기준 「지방",
           "first_seen": "2026-10-19T14:55:22.140065+09:00",
-          "last_detail_check": "2026-10-19T14:55:25.673059+09:00",
+          "last_detail_check": "2026-10-19T15:38:06.893080+09:00",
           "last_listed": "2026-10-19",
           "posted_at": "2026-09-28",
           "read_status": "본문·첨부 텍스트 확인",
@@ -1897,21 +2608,272 @@
         }
       }
     },
+    "https://www.goe.go.kr/goe/na/ntt/selectNttList.do?bbsId=1927&mi=10115": {
+      "initialized": true,
+      "last_success": "2026-10-19T15:33:43.815867+09:00",
+      "posts": {
+        "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1927&mi=10115&nttSn=2335760": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:43.815840+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-12-29",
+          "read_status": "목록만 확인",
+          "title": "2025년도 공공기관 종합청렴도 평가 결과 공개",
+          "url": "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1927&mi=10115&nttSn=2335760"
+        },
+        "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1927&mi=10115&nttSn=2343067": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:43.815771+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-03-16",
+          "read_status": "목록만 확인",
+          "title": "2026년 경기도교육청 청렴도 향상 종합 추진계획 안내",
+          "url": "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1927&mi=10115&nttSn=2343067"
+        }
+      }
+    },
     "https://www.goe.go.kr/goe/na/ntt/selectNttList.do?bbsId=1950&mi=11123": {
-      "initialized": false,
-      "posts": {}
+      "initialized": true,
+      "last_success": "2026-10-19T15:33:35.701866+09:00",
+      "posts": {
+        "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1950&mi=11123&nttSn=105150": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:35.701847+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-06-10",
+          "read_status": "목록만 확인",
+          "title": "학교주도형 종합감사 매뉴얼 감사점검사항 목록",
+          "url": "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1950&mi=11123&nttSn=105150"
+        },
+        "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1950&mi=11123&nttSn=105152": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:35.701829+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-06-10",
+          "read_status": "목록만 확인",
+          "title": "2025 학교주도형 종합감사 운영 매뉴얼_수정본(25.5.26.)",
+          "url": "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1950&mi=11123&nttSn=105152"
+        },
+        "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1950&mi=11123&nttSn=2324236": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:35.701811+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-08-19",
+          "read_status": "목록만 확인",
+          "title": "2025 학교주도형 종합감사 운영 매뉴얼_수정본(25.8.19.)",
+          "url": "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1950&mi=11123&nttSn=2324236"
+        },
+        "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1950&mi=11123&nttSn=2343445": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:35.701792+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-03-19",
+          "read_status": "목록만 확인",
+          "title": "2026 학교주도형 종합감사 운영 계획",
+          "url": "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1950&mi=11123&nttSn=2343445"
+        },
+        "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1950&mi=11123&nttSn=2343450": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:35.701771+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-03-19",
+          "read_status": "목록만 확인",
+          "title": "2026 학교주도형 종합감사 각종 서식",
+          "url": "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1950&mi=11123&nttSn=2343450"
+        },
+        "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1950&mi=11123&nttSn=2343452": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:35.701745+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-03-19",
+          "read_status": "목록만 확인",
+          "title": "2026 학교주도형 종합감사 감사점검사항 목록",
+          "url": "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1950&mi=11123&nttSn=2343452"
+        },
+        "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1950&mi=11123&nttSn=2344116": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:35.701684+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-03-25",
+          "read_status": "목록만 확인",
+          "title": "2026 학교주도형 종합감사 운영 매뉴얼",
+          "url": "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1950&mi=11123&nttSn=2344116"
+        }
+      }
     },
     "https://www.goe.go.kr/goe/na/ntt/selectNttList.do?bbsId=1950&mi=11123&mi=11123": {
-      "initialized": false,
-      "posts": {}
+      "initialized": true,
+      "last_success": "2026-10-19T15:33:39.997857+09:00",
+      "posts": {
+        "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1950&mi=11123&nttSn=105150": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:39.997840+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-06-10",
+          "read_status": "목록만 확인",
+          "title": "학교주도형 종합감사 매뉴얼 감사점검사항 목록",
+          "url": "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1950&mi=11123&nttSn=105150"
+        },
+        "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1950&mi=11123&nttSn=105152": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:39.997822+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-06-10",
+          "read_status": "목록만 확인",
+          "title": "2025 학교주도형 종합감사 운영 매뉴얼_수정본(25.5.26.)",
+          "url": "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1950&mi=11123&nttSn=105152"
+        },
+        "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1950&mi=11123&nttSn=2324236": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:39.997804+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-08-19",
+          "read_status": "목록만 확인",
+          "title": "2025 학교주도형 종합감사 운영 매뉴얼_수정본(25.8.19.)",
+          "url": "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1950&mi=11123&nttSn=2324236"
+        },
+        "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1950&mi=11123&nttSn=2343445": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:39.997785+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-03-19",
+          "read_status": "목록만 확인",
+          "title": "2026 학교주도형 종합감사 운영 계획",
+          "url": "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1950&mi=11123&nttSn=2343445"
+        },
+        "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1950&mi=11123&nttSn=2343450": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:39.997764+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-03-19",
+          "read_status": "목록만 확인",
+          "title": "2026 학교주도형 종합감사 각종 서식",
+          "url": "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1950&mi=11123&nttSn=2343450"
+        },
+        "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1950&mi=11123&nttSn=2343452": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:39.997738+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-03-19",
+          "read_status": "목록만 확인",
+          "title": "2026 학교주도형 종합감사 감사점검사항 목록",
+          "url": "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1950&mi=11123&nttSn=2343452"
+        },
+        "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1950&mi=11123&nttSn=2344116": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:39.997673+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-03-25",
+          "read_status": "목록만 확인",
+          "title": "2026 학교주도형 종합감사 운영 매뉴얼",
+          "url": "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1950&mi=11123&nttSn=2344116"
+        }
+      }
     },
     "https://www.goe.go.kr/goe/na/ntt/selectNttList.do?bbsId=1965&mi=10275": {
-      "initialized": false,
-      "posts": {}
+      "initialized": true,
+      "last_success": "2026-10-19T15:33:29.389319+09:00",
+      "posts": {
+        "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1965&mi=10275&nttSn=2335725": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:29.389302+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-12-28",
+          "read_status": "목록만 확인",
+          "title": "2025년 경기도평택교육지원청 종합감사 결과 공개",
+          "url": "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1965&mi=10275&nttSn=2335725"
+        },
+        "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1965&mi=10275&nttSn=2335727": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:29.389285+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-12-28",
+          "read_status": "목록만 확인",
+          "title": "2025년 경기도수원교육지원청 종합감사 결과 공개",
+          "url": "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1965&mi=10275&nttSn=2335727"
+        },
+        "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1965&mi=10275&nttSn=2335753": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:29.389267+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-12-29",
+          "read_status": "목록만 확인",
+          "title": "2025년 경기도교육청율곡연수원 종합감사 결과 공개",
+          "url": "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1965&mi=10275&nttSn=2335753"
+        },
+        "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1965&mi=10275&nttSn=2335796": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:29.389248+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-12-29",
+          "read_status": "목록만 확인",
+          "title": "2025년 경기도광명교육지원청 종합감사 결과 공개",
+          "url": "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1965&mi=10275&nttSn=2335796"
+        },
+        "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1965&mi=10275&nttSn=2335818": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:29.389221+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-12-29",
+          "read_status": "목록만 확인",
+          "title": "2025년 경기도파주교육지원청 종합감사 결과 공개",
+          "url": "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1965&mi=10275&nttSn=2335818"
+        },
+        "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1965&mi=10275&nttSn=2336211": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:29.389185+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-01-02",
+          "read_status": "목록만 확인",
+          "title": "2025년 경기도안양과천교육지원청 종합감사 결과 공개",
+          "url": "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1965&mi=10275&nttSn=2336211"
+        },
+        "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1965&mi=10275&nttSn=2336214": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:29.389165+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-01-02",
+          "read_status": "목록만 확인",
+          "title": "2025년 경기도화성오산교육지원청 종합감사 결과 공개",
+          "url": "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1965&mi=10275&nttSn=2336214"
+        },
+        "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1965&mi=10275&nttSn=2336218": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:29.389143+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-01-02",
+          "read_status": "목록만 확인",
+          "title": "2025년 경기도교육청평생학습관 종합감사 결과 공개",
+          "url": "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1965&mi=10275&nttSn=2336218"
+        },
+        "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1965&mi=10275&nttSn=2363594": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:33:29.389116+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-08-24",
+          "read_status": "목록만 확인",
+          "title": "2026년 경기도용인교육지원청 종합감사 결과 공개",
+          "url": "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1965&mi=10275&nttSn=2363594"
+        },
+        "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1965&mi=10275&nttSn=2377384": {
+          "attachments": [],
+          "body_selector_fallback": false,
+          "content_hash": "f5ed0cd559ff9d8f492e39027e53e4d46b8ac43294574f7f79f27396072613f5",
+          "excerpt": "2026년 경기도연천교육지원청 감사결과를 붙임과 같이 공개합니다",
+          "first_seen": "2026-10-19T15:33:29.389051+09:00",
+          "last_detail_check": "2026-10-19T15:38:06.893265+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-10-14",
+          "read_status": "본문 확인",
+          "retry_detail": false,
+          "title": "2026년 경기도연천교육지원청 감사결과 공개",
+          "url": "https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=1965&mi=10275&nttSn=2377384"
+        }
+      }
     },
     "https://www.goean.kr/goean/na/ntt/selectNttList.do?bbsId=2792&mi=4551": {
       "initialized": true,
-      "last_success": "2026-10-19T14:49:36.663441+09:00",
+      "last_success": "2026-10-19T15:36:26.603492+09:00",
       "posts": {
         "https://www.goean.kr/goean/na/ntt/selectNttInfo.do?bbsId=2792&mi=4551&nttSn=1063611": {
           "attachments": [],
@@ -1956,7 +2918,7 @@
     },
     "https://www.goean.kr/goean/na/ntt/selectNttList.do?bbsId=2793&mi=4552": {
       "initialized": true,
-      "last_success": "2026-10-19T14:49:22.817355+09:00",
+      "last_success": "2026-10-19T15:36:24.509424+09:00",
       "posts": {
         "https://www.goean.kr/goean/na/ntt/selectNttInfo.do?bbsId=2793&mi=4552&nttSn=1000468": {
           "attachments": [],
@@ -2092,7 +3054,7 @@
     },
     "https://www.goean.kr/goean/na/ntt/selectNttList.do?bbsId=2794&mi=4553": {
       "initialized": true,
-      "last_success": "2026-10-19T14:49:32.224953+09:00",
+      "last_success": "2026-10-19T15:36:24.957060+09:00",
       "posts": {
         "https://www.goean.kr/goean/na/ntt/selectNttInfo.do?bbsId=2794&mi=4553&nttSn=1024640": {
           "attachments": [],
@@ -2167,7 +3129,7 @@
     },
     "https://www.goeas.kr/goeas/na/ntt/selectNttList.do?bbsId=5940&mi=11463": {
       "initialized": true,
-      "last_success": "2026-10-19T14:49:47.008377+09:00",
+      "last_success": "2026-10-19T15:36:38.164556+09:00",
       "posts": {
         "https://www.goeas.kr/goeas/na/ntt/selectNttInfo.do?bbsId=5940&mi=11463&nttSn=1064907": {
           "attachments": [],
@@ -2264,7 +3226,7 @@
     },
     "https://www.goeas.kr/goeas/na/ntt/selectNttList.do?bbsId=5961&mi=11490": {
       "initialized": true,
-      "last_success": "2026-10-19T14:49:32.893833+09:00",
+      "last_success": "2026-10-19T15:36:34.376536+09:00",
       "posts": {
         "https://www.goeas.kr/goeas/na/ntt/selectNttInfo.do?bbsId=5961&mi=11490&nttSn=1005868": {
           "attachments": [],
@@ -2400,7 +3362,7 @@
     },
     "https://www.goeay.kr/goeay/na/ntt/selectNttList.do?bbsId=5165&mi=10216": {
       "initialized": true,
-      "last_success": "2026-10-19T14:50:00.635138+09:00",
+      "last_success": "2026-10-19T15:36:45.556448+09:00",
       "posts": {
         "https://www.goeay.kr/goeay/na/ntt/selectNttInfo.do?bbsId=5165&mi=10216&nttSn=1256094": {
           "attachments": [],
@@ -2479,7 +3441,7 @@
     },
     "https://www.goeay.kr/goeay/na/ntt/selectNttList.do?bbsId=5187&mi=10254": {
       "initialized": true,
-      "last_success": "2026-10-19T14:49:49.908125+09:00",
+      "last_success": "2026-10-19T15:36:43.245240+09:00",
       "posts": {
         "https://www.goeay.kr/goeay/na/ntt/selectNttInfo.do?bbsId=5187&mi=10254&nttSn=1203505": {
           "attachments": [
@@ -2674,7 +3636,7 @@
     },
     "https://www.goebc.kr/goebc/na/ntt/selectNttList.do?bbsId=6363&mi=11136": {
       "initialized": true,
-      "last_success": "2026-10-19T14:49:15.349687+09:00",
+      "last_success": "2026-10-19T15:35:25.421799+09:00",
       "posts": {
         "https://www.goebc.kr/goebc/na/ntt/selectNttInfo.do?bbsId=6363&mi=11136&nttSn=1111779": {
           "attachments": [],
@@ -2797,7 +3759,7 @@
     },
     "https://www.goebc.kr/goebc/na/ntt/selectNttList.do?bbsId=6390&mi=11186": {
       "initialized": true,
-      "last_success": "2026-10-19T14:49:23.862351+09:00",
+      "last_success": "2026-10-19T15:35:27.311628+09:00",
       "posts": {
         "https://www.goebc.kr/goebc/na/ntt/selectNttInfo.do?bbsId=6390&mi=11186&nttSn=1192472": {
           "attachments": [],
@@ -2868,7 +3830,7 @@
     },
     "https://www.goebc.kr/goebc/na/ntt/selectNttList.do?bbsId=6392&mi=11214": {
       "initialized": true,
-      "last_success": "2026-10-19T14:49:00.873742+09:00",
+      "last_success": "2026-10-19T15:35:23.987491+09:00",
       "posts": {
         "https://www.goebc.kr/goebc/na/ntt/selectNttInfo.do?bbsId=6392&mi=11214&nttSn=1178704": {
           "attachments": [],
@@ -2990,9 +3952,10 @@
         "https://www.goebc.kr/goebc/na/ntt/selectNttInfo.do?bbsId=6392&mi=11214&nttSn=1231795": {
           "attachments": [],
           "body_selector_fallback": false,
+          "content_hash": "29eb9087ed3cbe15056901f3f7f5255c584ea370c5b2f39ac9a5358e45a4ac31",
           "excerpt": "2026년 부천교육지원청 학교 종합감사 결과(3차)를 붙임과 같이 공개합니다 / 붙임 2026년 학교 종합감사 결과 통보서(3차) 1부. 끝.",
           "first_seen": "2026-10-19T14:48:45.462827+09:00",
-          "last_detail_check": "2026-10-19T14:48:47.568501+09:00",
+          "last_detail_check": "2026-10-19T15:38:42.952994+09:00",
           "last_listed": "2026-10-19",
           "posted_at": "2026-09-11",
           "read_status": "본문 확인",
@@ -3004,7 +3967,7 @@
     },
     "https://www.goedy.kr/goedy/na/ntt/selectNttList.do?bbsId=10213&mi=10293": {
       "initialized": true,
-      "last_success": "2026-10-19T14:48:22.008296+09:00",
+      "last_success": "2026-10-19T15:35:06.492972+09:00",
       "posts": {
         "https://www.goedy.kr/goedy/na/ntt/selectNttInfo.do?bbsId=10213&mi=10293&nttSn=1652860": {
           "attachments": [],
@@ -3126,9 +4089,10 @@
         "https://www.goedy.kr/goedy/na/ntt/selectNttInfo.do?bbsId=10213&mi=10293&nttSn=1687654": {
           "attachments": [],
           "body_selector_fallback": true,
+          "content_hash": null,
           "excerpt": "게시글 본문 영역을 확정하지 못했습니다. 원문 확인이 필요합니다.",
           "first_seen": "2026-10-19T14:48:06.285832+09:00",
-          "last_detail_check": "2026-10-19T14:48:08.022892+09:00",
+          "last_detail_check": "2026-10-19T15:38:42.952969+09:00",
           "last_listed": "2026-10-19",
           "posted_at": "2026-10-16",
           "read_status": "일부만 확인",
@@ -3140,7 +4104,7 @@
     },
     "https://www.goedy.kr/goedy/na/ntt/selectNttList.do?bbsId=10214&mi=10294": {
       "initialized": true,
-      "last_success": "2026-10-19T14:48:29.077494+09:00",
+      "last_success": "2026-10-19T15:35:07.681129+09:00",
       "posts": {
         "https://www.goedy.kr/goedy/na/ntt/selectNttInfo.do?bbsId=10214&mi=10294&nttSn=1626634": {
           "attachments": [],
@@ -3211,7 +4175,7 @@
     },
     "https://www.goedy.kr/goedy/na/ntt/selectNttList.do?bbsId=11239&mi=12027": {
       "initialized": true,
-      "last_success": "2026-10-19T14:48:43.552124+09:00",
+      "last_success": "2026-10-19T15:35:07.827557+09:00",
       "posts": {
         "https://www.goedy.kr/goedy/na/ntt/selectNttInfo.do?bbsId=11239&mi=12027&nttSn=1612334": {
           "attachments": [],
@@ -3347,7 +4311,7 @@
     },
     "https://www.goegh.kr/goegh/na/ntt/selectNttList.do?bbsId=5079&mi=8742": {
       "initialized": true,
-      "last_success": "2026-10-19T14:48:32.628403+09:00",
+      "last_success": "2026-10-19T15:33:36.410128+09:00",
       "posts": {
         "https://www.goegh.kr/goegh/na/ntt/selectNttInfo.do?bbsId=5079&mi=8742&nttSn=1047668": {
           "attachments": [],
@@ -3379,7 +4343,7 @@
     },
     "https://www.goegh.kr/goegh/na/ntt/selectNttList.do?bbsId=5080&mi=8743": {
       "initialized": true,
-      "last_success": "2026-10-19T15:21:30.611923+09:00",
+      "last_success": "2026-10-19T15:33:32.704928+09:00",
       "posts": {
         "https://www.goegh.kr/goegh/na/ntt/selectNttInfo.do?bbsId=5080&mi=8743&nttSn=1181356": {
           "attachments": [],
@@ -3449,13 +4413,14 @@
         "https://www.goegh.kr/goegh/na/ntt/selectNttInfo.do?bbsId=5080&mi=8743&nttSn=1198881": {
           "attachments": [],
           "body_selector_fallback": false,
-          "excerpt": "본문·첨부 확인 실패: SSLError",
+          "content_hash": "74089ab6e3492f03dc9aa88a9fadfc37ebf7eda41697101567f6ac9fc1124fee",
+          "excerpt": "2025학년도 주요 감사사례 전달연수를 실시하고 교육자료를 붙임과 같이 게시합니다 / 붙임 2026년 상반기 교육행정실장협의회 주요 감사사례 안내 1부. 끝.",
           "first_seen": "2026-10-19T14:48:20.000901+09:00",
-          "last_detail_check": "2026-10-19T14:48:21.457980+09:00",
+          "last_detail_check": "2026-10-19T15:38:06.893245+09:00",
           "last_listed": "2026-10-19",
           "posted_at": "2026-03-30",
-          "read_status": "목록만 확인",
-          "retry_detail": true,
+          "read_status": "본문 확인",
+          "retry_detail": false,
           "title": "2025학년도 주요 감사사례 안내(2026년 상반기 교육행정실장협의회 연수자료)",
           "url": "https://www.goegh.kr/goegh/na/ntt/selectNttInfo.do?bbsId=5080&mi=8743&nttSn=1198881"
         },
@@ -3519,7 +4484,7 @@
     },
     "https://www.goegm.kr/goegm/na/ntt/selectNttList.do?bbsId=4227&mi=5829": {
       "initialized": true,
-      "last_success": "2026-10-19T14:48:19.127305+09:00",
+      "last_success": "2026-10-19T15:33:21.576341+09:00",
       "posts": {
         "https://www.goegm.kr/goegm/na/ntt/selectNttInfo.do?bbsId=4227&mi=5829&nttSn=1210504": {
           "attachments": [],
@@ -3616,7 +4581,7 @@
     },
     "https://www.goegm.kr/goegm/na/ntt/selectNttList.do?bbsId=4228&mi=5830": {
       "initialized": true,
-      "last_success": "2026-10-19T14:48:22.929146+09:00",
+      "last_success": "2026-10-19T15:33:24.516464+09:00",
       "posts": {
         "https://www.goegm.kr/goegm/na/ntt/selectNttInfo.do?bbsId=4228&mi=5830&nttSn=4784": {
           "attachments": [],
@@ -3648,7 +4613,7 @@
     },
     "https://www.goegm.kr/goegm/na/ntt/selectNttList.do?bbsId=4246&mi=5883": {
       "initialized": true,
-      "last_success": "2026-10-19T15:21:30.315128+09:00",
+      "last_success": "2026-10-19T15:33:18.142078+09:00",
       "posts": {
         "https://www.goegm.kr/goegm/na/ntt/selectNttInfo.do?bbsId=4246&mi=5883&nttSn=1231930": {
           "attachments": [],
@@ -3732,13 +4697,14 @@
         "https://www.goegm.kr/goegm/na/ntt/selectNttInfo.do?bbsId=4246&mi=5883&nttSn=1245199": {
           "attachments": [],
           "body_selector_fallback": false,
-          "excerpt": "본문·첨부 확인 실패: SSLError",
+          "content_hash": "524584a0ff87944b71b3a3954453c6e5e16f257a302766cc29706f348be6058d",
+          "excerpt": "2025년 11월 학교종합감사(광명동초, 도덕초) 결과를 붙임과 같이 공개합니다",
           "first_seen": "2026-10-19T14:47:54.004781+09:00",
-          "last_detail_check": "2026-10-19T14:47:55.413760+09:00",
+          "last_detail_check": "2026-10-19T15:38:06.893187+09:00",
           "last_listed": "2026-10-19",
           "posted_at": "2026-01-07",
-          "read_status": "목록만 확인",
-          "retry_detail": true,
+          "read_status": "본문 확인",
+          "retry_detail": false,
           "title": "2025년 11월 학교종합감사 결과 공개",
           "url": "https://www.goegm.kr/goegm/na/ntt/selectNttInfo.do?bbsId=4246&mi=5883&nttSn=1245199"
         },
@@ -3788,7 +4754,7 @@
     },
     "https://www.goegm.kr/goegm/na/ntt/selectNttList.do?bbsId=4855&mi=7130": {
       "initialized": true,
-      "last_success": "2026-10-19T14:48:32.173374+09:00",
+      "last_success": "2026-10-19T15:33:26.536254+09:00",
       "posts": {
         "https://www.goegm.kr/goegm/na/ntt/selectNttInfo.do?bbsId=4855&mi=7130&nttSn=1247406": {
           "attachments": [],
@@ -3885,7 +4851,7 @@
     },
     "https://www.goegn.kr/goegn/na/ntt/selectNttList.do?bbsId=8354&mi=13512": {
       "initialized": true,
-      "last_success": "2026-10-19T14:48:17.285013+09:00",
+      "last_success": "2026-10-19T15:34:23.008907+09:00",
       "posts": {
         "https://www.goegn.kr/goegn/na/ntt/selectNttInfo.do?bbsId=8354&mi=13512&nttSn=1203105": {
           "attachments": [],
@@ -3955,9 +4921,10 @@
         "https://www.goegn.kr/goegn/na/ntt/selectNttInfo.do?bbsId=8354&mi=13512&nttSn=1405785": {
           "attachments": [],
           "body_selector_fallback": false,
+          "content_hash": "4aaa2098d07ddd044127d50cbe6c739fe6b6175ead068f626763dda6c20cc8d0",
           "excerpt": "공공감사에 관한 법률 제26조에 따라 2026년 상반기(4월~7월) 학교종합감사 결과를 붙임과 같이 공개하오니 업무에 참고하시기 바랍니다 / (개인정보보호를 위하여 일부 내용 삭제) / 공공기관의 정보공개에 관한 법률",
           "first_seen": "2026-10-19T14:48:00.180360+09:00",
-          "last_detail_check": "2026-10-19T14:48:03.018964+09:00",
+          "last_detail_check": "2026-10-19T15:38:06.893306+09:00",
           "last_listed": "2026-10-19",
           "posted_at": "2026-09-07",
           "read_status": "본문 확인",
@@ -4021,7 +4988,7 @@
     },
     "https://www.goegn.kr/goegn/na/ntt/selectNttList.do?bbsId=8395&mi=13571": {
       "initialized": true,
-      "last_success": "2026-10-19T14:48:28.256355+09:00",
+      "last_success": "2026-10-19T15:34:24.285520+09:00",
       "posts": {
         "https://www.goegn.kr/goegn/na/ntt/selectNttInfo.do?bbsId=8395&mi=13571&nttSn=1270807": {
           "attachments": [],
@@ -4118,7 +5085,7 @@
     },
     "https://www.goegn.kr/goegn/na/ntt/selectNttList.do?bbsId=9921&mi=16822": {
       "initialized": true,
-      "last_success": "2026-10-19T14:48:43.255069+09:00",
+      "last_success": "2026-10-19T15:34:24.600376+09:00",
       "posts": {
         "https://www.goegn.kr/goegn/na/ntt/selectNttInfo.do?bbsId=9921&mi=16822&nttSn=1357760": {
           "attachments": [],
@@ -4254,7 +5221,7 @@
     },
     "https://www.goegn.kr/goegn/na/ntt/selectNttList.do?bbsId=9922&mi=16823": {
       "initialized": true,
-      "last_success": "2026-10-19T14:48:56.102935+09:00",
+      "last_success": "2026-10-19T15:34:25.014086+09:00",
       "posts": {
         "https://www.goegn.kr/goegn/na/ntt/selectNttInfo.do?bbsId=9922&mi=16823&nttSn=1315141": {
           "attachments": [],
@@ -4377,7 +5344,7 @@
     },
     "https://www.goegp.kr/goegp/na/ntt/selectNttList.do?bbsId=2688&mi=3230": {
       "initialized": true,
-      "last_success": "2026-10-19T15:21:26.904462+09:00",
+      "last_success": "2026-10-19T15:32:50.114761+09:00",
       "posts": {
         "https://www.goegp.kr/goegp/na/ntt/selectNttInfo.do?bbsId=2688&mi=3230&nttSn=1215069": {
           "attachments": [],
@@ -4397,7 +5364,7 @@
     },
     "https://www.goegp.kr/goegp/na/ntt/selectNttList.do?bbsId=2692&mi=3235": {
       "initialized": true,
-      "last_success": "2026-10-19T15:21:30.111255+09:00",
+      "last_success": "2026-10-19T15:32:53.046190+09:00",
       "posts": {
         "https://www.goegp.kr/goegp/na/ntt/selectNttInfo.do?bbsId=2692&mi=3235&nttSn=1215007": {
           "attachments": [],
@@ -4416,7 +5383,7 @@
     },
     "https://www.goegp.kr/goegp/na/ntt/selectNttList.do?bbsId=2713&mi=3270": {
       "initialized": true,
-      "last_success": "2026-10-19T14:48:28.126035+09:00",
+      "last_success": "2026-10-19T15:32:55.122048+09:00",
       "posts": {
         "https://www.goegp.kr/goegp/na/ntt/selectNttInfo.do?bbsId=2713&mi=3270&nttSn=1218102": {
           "attachments": [],
@@ -4461,7 +5428,7 @@
     },
     "https://www.goegp.kr/goegp/na/ntt/selectNttList.do?bbsId=2802&mi=3452": {
       "initialized": true,
-      "last_success": "2026-10-19T15:21:23.713735+09:00",
+      "last_success": "2026-10-19T15:32:47.721386+09:00",
       "posts": {
         "https://www.goegp.kr/goegp/na/ntt/selectNttInfo.do?bbsId=2802&mi=3452&nttSn=1214225": {
           "attachments": [],
@@ -4550,13 +5517,14 @@
         "https://www.goegp.kr/goegp/na/ntt/selectNttInfo.do?bbsId=2802&mi=3452&nttSn=1217471": {
           "attachments": [],
           "body_selector_fallback": false,
-          "excerpt": "본문·첨부 확인 실패: SSLError",
+          "content_hash": "a63f3addf34600541b3f156afd4e0f1cf1a212b2989f4c6d6b9a016ef1fd63a5",
+          "excerpt": "「공공감사에 관한 법률」제26조(감사결과의 공개)에 따라 2025년 조종중학교 종합감사 결과를 공개합니다",
           "first_seen": "2026-10-19T14:48:05.239620+09:00",
-          "last_detail_check": "2026-10-19T14:48:07.072388+09:00",
+          "last_detail_check": "2026-10-19T15:38:06.893134+09:00",
           "last_listed": "2026-10-19",
           "posted_at": "2025-12-03",
-          "read_status": "목록만 확인",
-          "retry_detail": true,
+          "read_status": "본문 확인",
+          "retry_detail": false,
           "title": "2025년 조종중학교 종합감사 결과 공개(지적사항 없음)",
           "url": "https://www.goegp.kr/goegp/na/ntt/selectNttInfo.do?bbsId=2802&mi=3452&nttSn=1217471"
         },
@@ -4606,7 +5574,7 @@
     },
     "https://www.goegu.kr/goegu/na/ntt/selectNttList.do?bbsId=4324&mi=7155": {
       "initialized": true,
-      "last_success": "2026-10-19T14:48:14.594956+09:00",
+      "last_success": "2026-10-19T15:34:11.721285+09:00",
       "posts": {
         "https://www.goegu.kr/goegu/na/ntt/selectNttInfo.do?bbsId=4324&mi=7155&nttSn=33530": {
           "attachments": [],
@@ -4729,7 +5697,7 @@
     },
     "https://www.goegu.kr/goegu/na/ntt/selectNttList.do?bbsId=4360&mi=7255": {
       "initialized": true,
-      "last_success": "2026-10-19T14:47:58.235451+09:00",
+      "last_success": "2026-10-19T15:34:10.230708+09:00",
       "posts": {
         "https://www.goegu.kr/goegu/na/ntt/selectNttInfo.do?bbsId=4360&mi=7255&nttSn=34469": {
           "attachments": [],
@@ -4851,9 +5819,10 @@
         "https://www.goegu.kr/goegu/na/ntt/selectNttInfo.do?bbsId=4360&mi=7255&nttSn=520439": {
           "attachments": [],
           "body_selector_fallback": false,
+          "content_hash": "3c5fe2e0caf75058974824816eccd71039bf5b0a4c125ad676e89ff7a4271e3e",
           "excerpt": "2026년 학교주도형 종합감사 결과를 붙임과 같이 공개합니다",
           "first_seen": "2026-10-19T14:47:40.576842+09:00",
-          "last_detail_check": "2026-10-19T14:47:42.726902+09:00",
+          "last_detail_check": "2026-10-19T15:38:06.893292+09:00",
           "last_listed": "2026-10-19",
           "posted_at": "2026-09-15",
           "read_status": "본문 확인",
@@ -4865,17 +5834,17 @@
     },
     "https://www.goegy.kr/goegy/na/ntt/selectNttList.do?bbsId=11647&mi=20258&mi=20258&srch_aditCol1=142": {
       "initialized": true,
-      "last_success": "2026-10-19T14:48:35.768722+09:00",
+      "last_success": "2026-10-19T15:33:17.620812+09:00",
       "posts": {}
     },
     "https://www.goegy.kr/goegy/na/ntt/selectNttList.do?bbsId=11647&mi=20258&srch_aditCol1=142": {
       "initialized": true,
-      "last_success": "2026-10-19T14:48:27.191524+09:00",
+      "last_success": "2026-10-19T15:33:11.743966+09:00",
       "posts": {}
     },
     "https://www.goegy.kr/goegy/na/ntt/selectNttList.do?bbsId=11719&mi=20385": {
       "initialized": true,
-      "last_success": "2026-10-19T14:48:35.267060+09:00",
+      "last_success": "2026-10-19T15:33:14.687633+09:00",
       "posts": {
         "https://www.goegy.kr/goegy/na/ntt/selectNttInfo.do?bbsId=11719&mi=20385&nttSn=1103172": {
           "attachments": [],
@@ -4932,9 +5901,10 @@
         "https://www.goegy.kr/goegy/na/ntt/selectNttInfo.do?bbsId=11719&mi=20385&nttSn=1189937": {
           "attachments": [],
           "body_selector_fallback": false,
+          "content_hash": "e4248bce92f29866ca2b96987ab48b41283836d49d49807333dd61e540e44b49",
           "excerpt": "2026년 경기도고양교육지원청 청렴 실천 선언문 / www.clean.go.kr / www.acrc.go.kr",
           "first_seen": "2026-10-19T14:48:27.454023+09:00",
-          "last_detail_check": "2026-10-19T14:48:28.800268+09:00",
+          "last_detail_check": "2026-10-19T15:38:06.893169+09:00",
           "last_listed": "2026-10-19",
           "posted_at": "2026-03-27",
           "read_status": "본문 확인",
@@ -4946,7 +5916,7 @@
     },
     "https://www.goegy.kr/goegy/na/ntt/selectNttList.do?bbsId=11720&mi=20386": {
       "initialized": true,
-      "last_success": "2026-10-19T15:21:29.266444+09:00",
+      "last_success": "2026-10-19T15:33:09.256596+09:00",
       "posts": {
         "https://www.goegy.kr/goegy/na/ntt/selectNttInfo.do?bbsId=11720&mi=20386&nttSn=1153528": {
           "attachments": [],
@@ -5092,12 +6062,12 @@
     },
     "https://www.goehs.kr/goehs/na/ntt/selectNttList.do?bbsId=9826&mi=20966&srch_aditCol1=%EA%B0%90%EC%82%AC%EA%B3%BC": {
       "initialized": true,
-      "last_success": "2026-10-19T14:51:14.755650+09:00",
+      "last_success": "2026-10-19T15:37:56.242356+09:00",
       "posts": {}
     },
     "https://www.goehs.kr/goehs/na/ntt/selectNttList.do?bbsId=9841&mi=17870": {
       "initialized": true,
-      "last_success": "2026-10-19T14:51:19.538916+09:00",
+      "last_success": "2026-10-19T15:37:56.729777+09:00",
       "posts": {
         "https://www.goehs.kr/goehs/na/ntt/selectNttInfo.do?bbsId=9841&mi=17870&nttSn=1283805": {
           "attachments": [],
@@ -5142,7 +6112,7 @@
     },
     "https://www.goehs.kr/goehs/na/ntt/selectNttList.do?bbsId=9851&mi=17884": {
       "initialized": true,
-      "last_success": "2026-10-19T14:51:02.451919+09:00",
+      "last_success": "2026-10-19T15:37:51.184853+09:00",
       "posts": {
         "https://www.goehs.kr/goehs/na/ntt/selectNttInfo.do?bbsId=9851&mi=17884&nttSn=1197837": {
           "attachments": [],
@@ -5278,7 +6248,7 @@
     },
     "https://www.goehs.kr/goehs/na/ntt/selectNttList.do?bbsId=9864&mi=17925": {
       "initialized": true,
-      "last_success": "2026-10-19T14:51:14.099697+09:00",
+      "last_success": "2026-10-19T15:37:55.739878+09:00",
       "posts": {
         "https://www.goehs.kr/goehs/na/ntt/selectNttInfo.do?bbsId=9864&mi=17925&nttSn=1194781": {
           "attachments": [],
@@ -5362,7 +6332,7 @@
     },
     "https://www.goeic.kr/goeic/na/ntt/selectNttList.do?bbsId=3761&mi=5656": {
       "initialized": true,
-      "last_success": "2026-10-19T14:50:23.238798+09:00",
+      "last_success": "2026-10-19T15:37:00.533172+09:00",
       "posts": {
         "https://www.goeic.kr/goeic/na/ntt/selectNttInfo.do?bbsId=3761&mi=5656&nttSn=12992": {
           "attachments": [],
@@ -5459,7 +6429,7 @@
     },
     "https://www.goeic.kr/goeic/na/ntt/selectNttList.do?bbsId=3762&mi=5657": {
       "initialized": true,
-      "last_success": "2026-10-19T14:50:06.328515+09:00",
+      "last_success": "2026-10-19T15:36:58.987069+09:00",
       "posts": {
         "https://www.goeic.kr/goeic/na/ntt/selectNttInfo.do?bbsId=3762&mi=5657&nttSn=13008": {
           "attachments": [],
@@ -5595,7 +6565,7 @@
     },
     "https://www.goeic.kr/goeic/na/ntt/selectNttList.do?bbsId=3773&mi=5681": {
       "initialized": true,
-      "last_success": "2026-10-19T14:50:11.840086+09:00",
+      "last_success": "2026-10-19T15:36:59.648352+09:00",
       "posts": {
         "https://www.goeic.kr/goeic/na/ntt/selectNttInfo.do?bbsId=3773&mi=5681&nttSn=13522": {
           "attachments": [],
@@ -5653,7 +6623,7 @@
     },
     "https://www.goeic.kr/goeic/na/ntt/selectNttList.do?bbsId=3890&mi=5956": {
       "initialized": true,
-      "last_success": "2026-10-19T14:50:31.502965+09:00",
+      "last_success": "2026-10-19T15:37:00.806083+09:00",
       "posts": {
         "https://www.goeic.kr/goeic/na/ntt/selectNttInfo.do?bbsId=3890&mi=5956&nttSn=503427": {
           "attachments": [],
@@ -5750,7 +6720,7 @@
     },
     "https://www.goepc.kr/goepc/na/ntt/selectNttList.do?bbsId=2137&mi=2248": {
       "initialized": true,
-      "last_success": "2026-10-19T14:50:47.271560+09:00",
+      "last_success": "2026-10-19T15:37:45.172161+09:00",
       "posts": {
         "https://www.goepc.kr/goepc/na/ntt/selectNttInfo.do?bbsId=2137&mi=2248&nttSn=1231862": {
           "attachments": [],
@@ -5886,7 +6856,7 @@
     },
     "https://www.goepc.kr/goepc/na/ntt/selectNttList.do?bbsId=2141&mi=2254": {
       "initialized": true,
-      "last_success": "2026-10-19T14:50:51.885507+09:00",
+      "last_success": "2026-10-19T15:37:45.559018+09:00",
       "posts": {
         "https://www.goepc.kr/goepc/na/ntt/selectNttInfo.do?bbsId=2141&mi=2254&nttSn=1235537": {
           "attachments": [],
@@ -5931,7 +6901,7 @@
     },
     "https://www.goepj.kr/goepj/na/ntt/selectNttList.do?bbsId=7147&mi=10722": {
       "initialized": true,
-      "last_success": "2026-10-19T14:50:37.834532+09:00",
+      "last_success": "2026-10-19T15:37:35.829993+09:00",
       "posts": {
         "https://www.goepj.kr/goepj/na/ntt/selectNttInfo.do?bbsId=7147&mi=10722&nttSn=1303124": {
           "attachments": [],
@@ -6067,7 +7037,7 @@
     },
     "https://www.goepj.kr/goepj/na/ntt/selectNttList.do?bbsId=7194&mi=10806": {
       "initialized": true,
-      "last_success": "2026-10-19T14:50:47.143465+09:00",
+      "last_success": "2026-10-19T15:37:36.788437+09:00",
       "posts": {
         "https://www.goepj.kr/goepj/na/ntt/selectNttInfo.do?bbsId=7194&mi=10806&nttSn=1302039": {
           "attachments": [],
@@ -6164,12 +7134,12 @@
     },
     "https://www.goept.kr/goept/na/ntt/selectNttList.do?bbsId=10097&mi=10090": {
       "initialized": true,
-      "last_success": "2026-10-19T14:50:41.847617+09:00",
+      "last_success": "2026-10-19T15:37:41.652221+09:00",
       "posts": {}
     },
     "https://www.goept.kr/goept/na/ntt/selectNttList.do?bbsId=10115&mi=10124": {
       "initialized": true,
-      "last_success": "2026-10-19T14:50:41.549173+09:00",
+      "last_success": "2026-10-19T15:37:40.352927+09:00",
       "posts": {
         "https://www.goept.kr/goept/na/ntt/selectNttInfo.do?bbsId=10115&mi=10124&nttSn=1746898": {
           "attachments": [],
@@ -6305,7 +7275,7 @@
     },
     "https://www.goept.kr/goept/na/ntt/selectNttList.do?bbsId=12917&mi=13586": {
       "initialized": true,
-      "last_success": "2026-10-19T14:50:43.800161+09:00",
+      "last_success": "2026-10-19T15:37:42.672703+09:00",
       "posts": {
         "https://www.goept.kr/goept/na/ntt/selectNttInfo.do?bbsId=12917&mi=13586&nttSn=1747352": {
           "attachments": [],
@@ -6324,7 +7294,7 @@
     },
     "https://www.goesh.kr/goesh/na/ntt/selectNttList.do?bbsId=5535&mi=9042": {
       "initialized": true,
-      "last_success": "2026-10-19T14:49:06.531955+09:00",
+      "last_success": "2026-10-19T15:35:39.996756+09:00",
       "posts": {
         "https://www.goesh.kr/goesh/na/ntt/selectNttInfo.do?bbsId=5535&mi=9042&nttSn=19927": {
           "attachments": [],
@@ -6343,7 +7313,7 @@
     },
     "https://www.goesh.kr/goesh/na/ntt/selectNttList.do?bbsId=5536&mi=9043": {
       "initialized": true,
-      "last_success": "2026-10-19T14:49:15.889256+09:00",
+      "last_success": "2026-10-19T15:35:41.157855+09:00",
       "posts": {
         "https://www.goesh.kr/goesh/na/ntt/selectNttInfo.do?bbsId=5536&mi=9043&nttSn=20098": {
           "attachments": [],
@@ -6414,7 +7384,7 @@
     },
     "https://www.goesh.kr/goesh/na/ntt/selectNttList.do?bbsId=5566&mi=9129": {
       "initialized": true,
-      "last_success": "2026-10-19T14:49:04.969828+09:00",
+      "last_success": "2026-10-19T15:35:38.664284+09:00",
       "posts": {
         "https://www.goesh.kr/goesh/na/ntt/selectNttInfo.do?bbsId=5566&mi=9129&nttSn=21435": {
           "attachments": [],
@@ -6536,9 +7506,10 @@
         "https://www.goesh.kr/goesh/na/ntt/selectNttInfo.do?bbsId=5566&mi=9129&nttSn=535005": {
           "attachments": [],
           "body_selector_fallback": false,
+          "content_hash": "0f5d627bb4bfca73daf4322415b34b8d00e4b48b8d95f19b34636f515fa8c2b0",
           "excerpt": "월 시흥교육지원청 학교 종합감사 결과를 붙임과 같이 공개합니다",
           "first_seen": "2026-10-19T14:48:49.697121+09:00",
-          "last_detail_check": "2026-10-19T14:48:51.352283+09:00",
+          "last_detail_check": "2026-10-19T15:38:42.953023+09:00",
           "last_listed": "2026-10-19",
           "posted_at": "2026-10-12",
           "read_status": "본문 확인",
@@ -6550,7 +7521,7 @@
     },
     "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17815&mi=23503": {
       "initialized": true,
-      "last_success": "2026-10-19T14:49:16.371725+09:00",
+      "last_success": "2026-10-19T15:35:39.666529+09:00",
       "posts": {
         "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17815&mi=23503&nttSn=1864410": {
           "attachments": [],
@@ -6672,9 +7643,10 @@
         "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17815&mi=23503&nttSn=1946810": {
           "attachments": [],
           "body_selector_fallback": true,
+          "content_hash": null,
           "excerpt": "게시글 본문 영역을 확정하지 못했습니다. 원문 확인이 필요합니다.",
           "first_seen": "2026-10-19T14:49:02.023634+09:00",
-          "last_detail_check": "2026-10-19T14:49:03.302793+09:00",
+          "last_detail_check": "2026-10-19T15:38:42.953036+09:00",
           "last_listed": "2026-10-19",
           "posted_at": "2026-08-06",
           "read_status": "일부만 확인",
@@ -6686,7 +7658,7 @@
     },
     "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17829&mi=23531": {
       "initialized": true,
-      "last_success": "2026-10-19T14:49:20.309180+09:00",
+      "last_success": "2026-10-19T15:35:40.930839+09:00",
       "posts": {
         "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17829&mi=23531&nttSn=1946791": {
           "attachments": [],
@@ -6731,7 +7703,7 @@
     },
     "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17848&mi=23560": {
       "initialized": true,
-      "last_success": "2026-10-19T14:49:31.455795+09:00",
+      "last_success": "2026-10-19T15:35:42.346374+09:00",
       "posts": {
         "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17848&mi=23560&nttSn=1874696": {
           "attachments": [],
@@ -6841,7 +7813,7 @@
     },
     "https://www.goesw.kr/goesw/na/ntt/selectNttList.do?bbsId=11051&mi=18917": {
       "initialized": true,
-      "last_success": "2026-10-19T14:48:56.857356+09:00",
+      "last_success": "2026-10-19T15:35:33.371364+09:00",
       "posts": {
         "https://www.goesw.kr/goesw/na/ntt/selectNttInfo.do?bbsId=11051&mi=18917&nttSn=151153": {
           "attachments": [],
@@ -6937,9 +7909,10 @@
         "https://www.goesw.kr/goesw/na/ntt/selectNttInfo.do?bbsId=11051&mi=18917&nttSn=558674": {
           "attachments": [],
           "body_selector_fallback": false,
+          "content_hash": "053624ef6362f63dfe1f42df058d1650a1d85f5f914407c65a81e4b0667b5bf3",
           "excerpt": "본 자료는 2026. 4. 15.(목) 에 실시한 / 2026년 학교종합감사 운영 방향 안내 및 감사사례 교육 (1차시) 교육자료입니다 / 업무 처리에 있어 교육 내용은 참고하시기 바라며,",
           "first_seen": "2026-10-19T14:48:44.206792+09:00",
-          "last_detail_check": "2026-10-19T14:48:45.964265+09:00",
+          "last_detail_check": "2026-10-19T15:38:42.953015+09:00",
           "last_listed": "2026-10-19",
           "posted_at": "2026-05-13",
           "read_status": "본문 확인",
@@ -6951,7 +7924,7 @@
     },
     "https://www.goesw.kr/goesw/na/ntt/selectNttList.do?bbsId=11052&mi=18918": {
       "initialized": true,
-      "last_success": "2026-10-19T14:49:26.701764+09:00",
+      "last_success": "2026-10-19T15:35:36.111525+09:00",
       "posts": {
         "https://www.goesw.kr/goesw/na/ntt/selectNttInfo.do?bbsId=11052&mi=18918&nttSn=548439": {
           "attachments": [],
@@ -7048,7 +8021,7 @@
     },
     "https://www.goesw.kr/goesw/na/ntt/selectNttList.do?bbsId=11053&mi=18919": {
       "initialized": true,
-      "last_success": "2026-10-19T14:49:15.382432+09:00",
+      "last_success": "2026-10-19T15:35:34.831073+09:00",
       "posts": {
         "https://www.goesw.kr/goesw/na/ntt/selectNttInfo.do?bbsId=11053&mi=18919&nttSn=151238": {
           "attachments": [],
@@ -7184,7 +8157,7 @@
     },
     "https://www.goeujb.kr/goeujb/na/ntt/selectNttList.do?bbsId=4095&mi=6954": {
       "initialized": true,
-      "last_success": "2026-10-19T14:50:19.876027+09:00",
+      "last_success": "2026-10-19T15:37:28.297315+09:00",
       "posts": {
         "https://www.goeujb.kr/goeujb/na/ntt/selectNttInfo.do?bbsId=4095&mi=6954&nttSn=1086839": {
           "attachments": [],
@@ -7320,7 +8293,7 @@
     },
     "https://www.goeujb.kr/goeujb/na/ntt/selectNttList.do?bbsId=4111&mi=6985": {
       "initialized": true,
-      "last_success": "2026-10-19T14:50:51.613913+09:00",
+      "last_success": "2026-10-19T15:37:29.822331+09:00",
       "posts": {
         "https://www.goeujb.kr/goeujb/na/ntt/selectNttInfo.do?bbsId=4111&mi=6985&nttSn=1092709": {
           "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
@@ -7644,7 +8617,7 @@
     },
     "https://www.goeujb.kr/goeujb/na/ntt/selectNttList.do?bbsId=4158&mi=7091": {
       "initialized": true,
-      "last_success": "2026-10-19T14:50:34.004872+09:00",
+      "last_success": "2026-10-19T15:37:28.512786+09:00",
       "posts": {
         "https://www.goeujb.kr/goeujb/na/ntt/selectNttInfo.do?bbsId=4158&mi=7091&nttSn=1098963": {
           "attachments": [],
@@ -7780,7 +8753,7 @@
     },
     "https://www.goeyc.kr/goeyc/na/ntt/selectNttList.do?bbsId=2210&mi=2343": {
       "initialized": true,
-      "last_success": "2026-10-19T14:50:12.877811+09:00",
+      "last_success": "2026-10-19T15:37:19.734967+09:00",
       "posts": {
         "https://www.goeyc.kr/goeyc/na/ntt/selectNttInfo.do?bbsId=2210&mi=2343&nttSn=1212821": {
           "attachments": [],
@@ -7916,7 +8889,7 @@
     },
     "https://www.goeyc.kr/goeyc/na/ntt/selectNttList.do?bbsId=2234&mi=2429": {
       "initialized": true,
-      "last_success": "2026-10-19T14:50:21.610787+09:00",
+      "last_success": "2026-10-19T15:37:22.692128+09:00",
       "posts": {
         "https://www.goeyc.kr/goeyc/na/ntt/selectNttInfo.do?bbsId=2234&mi=2429&nttSn=1218770": {
           "attachments": [],
@@ -7961,7 +8934,7 @@
     },
     "https://www.goeyc.kr/goeyc/na/ntt/selectNttList.do?bbsId=2234&mi=2466": {
       "initialized": true,
-      "last_success": "2026-10-19T14:50:17.377825+09:00",
+      "last_success": "2026-10-19T15:37:21.195013+09:00",
       "posts": {
         "https://www.goeyc.kr/goeyc/na/ntt/selectNttInfo.do?bbsId=2234&mi=2466&nttSn=1218770": {
           "attachments": [],
@@ -8006,12 +8979,12 @@
     },
     "https://www.goeyi.kr/goeyi/na/ntt/selectNttList.do?bbsId=12220&mi=20167": {
       "initialized": true,
-      "last_success": "2026-10-19T14:50:07.665522+09:00",
+      "last_success": "2026-10-19T15:37:39.982256+09:00",
       "posts": {}
     },
     "https://www.goeyi.kr/goeyi/na/ntt/selectNttList.do?bbsId=12221&mi=20168": {
       "initialized": true,
-      "last_success": "2026-10-19T14:50:09.777851+09:00",
+      "last_success": "2026-10-19T15:37:40.784265+09:00",
       "posts": {
         "https://www.goeyi.kr/goeyi/na/ntt/selectNttInfo.do?bbsId=12221&mi=20168&nttSn=1509810": {
           "attachments": [],
@@ -8030,12 +9003,12 @@
     },
     "https://www.goeyi.kr/goeyi/na/ntt/selectNttList.do?bbsId=12258&mi=20230": {
       "initialized": true,
-      "last_success": "2026-10-19T14:50:10.230725+09:00",
+      "last_success": "2026-10-19T15:37:42.692312+09:00",
       "posts": {}
     },
     "https://www.goeyi.kr/goeyi/na/ntt/selectNttList.do?bbsId=12277&mi=20260": {
       "initialized": true,
-      "last_success": "2026-10-19T14:50:07.478873+09:00",
+      "last_success": "2026-10-19T15:37:39.143006+09:00",
       "posts": {
         "https://www.goeyi.kr/goeyi/na/ntt/selectNttInfo.do?bbsId=12277&mi=20260&nttSn=1489511": {
           "attachments": [],
@@ -8054,7 +9027,7 @@
     },
     "https://www.goeyj.kr/goeyj/na/ntt/selectNttList.do?bbsId=10096&mi=10133": {
       "initialized": true,
-      "last_success": "2026-10-19T14:50:16.135144+09:00",
+      "last_success": "2026-10-19T15:36:58.893487+09:00",
       "posts": {
         "https://www.goeyj.kr/goeyj/na/ntt/selectNttInfo.do?bbsId=10096&mi=10133&nttSn=1536476": {
           "attachments": [],
@@ -8164,7 +9137,7 @@
     },
     "https://www.goeyj.kr/goeyj/na/ntt/selectNttList.do?bbsId=10114&mi=10154": {
       "initialized": true,
-      "last_success": "2026-10-19T14:50:05.298777+09:00",
+      "last_success": "2026-10-19T15:36:57.857687+09:00",
       "posts": {
         "https://www.goeyj.kr/goeyj/na/ntt/selectNttInfo.do?bbsId=10114&mi=10154&nttSn=1501626": {
           "attachments": [],
@@ -8248,7 +9221,7 @@
     },
     "https://www.goeyj.kr/goeyj/na/ntt/selectNttList.do?bbsId=10117&mi=10157": {
       "initialized": true,
-      "last_success": "2026-10-19T14:49:57.894909+09:00",
+      "last_success": "2026-10-19T15:36:57.596390+09:00",
       "posts": {
         "https://www.goeyj.kr/goeyj/na/ntt/selectNttInfo.do?bbsId=10117&mi=10157&nttSn=1570491": {
           "attachments": [],
@@ -8371,7 +9344,7 @@
     },
     "https://www.goeyp.kr/goeyp/na/ntt/selectNttList.do?bbsId=1890&mi=3580": {
       "initialized": true,
-      "last_success": "2026-10-19T14:49:41.184898+09:00",
+      "last_success": "2026-10-19T15:36:38.949615+09:00",
       "posts": {
         "https://www.goeyp.kr/goeyp/na/ntt/selectNttInfo.do?bbsId=1890&mi=3580&nttSn=1049637": {
           "attachments": [],
@@ -8507,7 +9480,7 @@
     },
     "https://www.goeyp.kr/goeyp/na/ntt/selectNttList.do?bbsId=1892&mi=3582": {
       "initialized": true,
-      "last_success": "2026-10-19T14:49:54.771165+09:00",
+      "last_success": "2026-10-19T15:36:39.756193+09:00",
       "posts": {
         "https://www.goeyp.kr/goeyp/na/ntt/selectNttInfo.do?bbsId=1892&mi=3582&nttSn=1034534": {
           "attachments": [],
@@ -8604,7 +9577,7 @@
     },
     "https://www.gpoe.kr/gpoe/na/ntt/selectNttList.do?bbsId=5189&mi=9325": {
       "initialized": true,
-      "last_success": "2026-10-19T14:48:26.411032+09:00",
+      "last_success": "2026-10-19T15:35:12.383693+09:00",
       "posts": {
         "https://www.gpoe.kr/gpoe/na/ntt/selectNttInfo.do?bbsId=5189&mi=9325&nttSn=1048567": {
           "attachments": [],
@@ -8674,9 +9647,10 @@
         "https://www.gpoe.kr/gpoe/na/ntt/selectNttInfo.do?bbsId=5189&mi=9325&nttSn=1140598": {
           "attachments": [],
           "body_selector_fallback": false,
+          "content_hash": "9c27f21e182f8199e3b477dd4fd0709d537cc9d2b2008f2e0d1e46ebaca71bce",
           "excerpt": "2026년 추석을 맞이하여, 청렴한 김포교육문화를 조성하기 위한 의지를 담은 청렴서한문을 붙임과 같이 공개합니다 / 붙임 2026년 추석맞이 교육장 청렴 서한문 1부. 끝.",
           "first_seen": "2026-10-19T14:48:16.630766+09:00",
-          "last_detail_check": "2026-10-19T14:48:18.359618+09:00",
+          "last_detail_check": "2026-10-19T15:38:42.952985+09:00",
           "last_listed": "2026-10-19",
           "posted_at": "2026-09-22",
           "read_status": "본문 확인",
@@ -8687,12 +9661,585 @@
       }
     },
     "https://www.gwe.go.kr/open/bbs/list.do?key=bTIzMDUzMTA3NDk2NjM%3D": {
-      "initialized": false,
-      "posts": {}
+      "initialized": true,
+      "last_success": "2026-10-19T15:32:32.765014+09:00",
+      "posts": {
+        "https://www.gwe.go.kr/open/bbs/view.do?bbsSn=46034&key=bTIzMDUzMTA3NDk2NjM%3D": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:32.764995+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-11-11",
+          "read_status": "목록만 확인",
+          "title": "강원생명과학고등학교, 강일여자고등학교, 강릉제일고등학교, 동광산업과학고등학교, 문막고등학교 자체감사 결과 공개",
+          "url": "https://www.gwe.go.kr/open/bbs/view.do?bbsSn=46034&key=bTIzMDUzMTA3NDk2NjM%3D"
+        },
+        "https://www.gwe.go.kr/open/bbs/view.do?bbsSn=46036&key=bTIzMDUzMTA3NDk2NjM%3D": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:32.764978+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-11-11",
+          "read_status": "목록만 확인",
+          "title": "새들유치원, 대동여자중학교, 한국에너지마이스터고, 봉의고등학교 자체감사 결과 공개",
+          "url": "https://www.gwe.go.kr/open/bbs/view.do?bbsSn=46036&key=bTIzMDUzMTA3NDk2NjM%3D"
+        },
+        "https://www.gwe.go.kr/open/bbs/view.do?bbsSn=47384&key=bTIzMDUzMTA3NDk2NjM%3D": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:32.764959+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-12-24",
+          "read_status": "목록만 확인",
+          "title": "신철원고등학교, 신남고등학교, 성수고등학교, 간동고등학교 자체감사 결과 공개",
+          "url": "https://www.gwe.go.kr/open/bbs/view.do?bbsSn=47384&key=bTIzMDUzMTA3NDk2NjM%3D"
+        },
+        "https://www.gwe.go.kr/open/bbs/view.do?bbsSn=48297&key=bTIzMDUzMTA3NDk2NjM%3D": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:32.764939+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-01-28",
+          "read_status": "목록만 확인",
+          "title": "홍천고등학교, 황지정보산업고등학교, 춘천여자고등학교, 강원애니고등학교, 원주고등학교, 동해해솔학교 자체감사 결과 공개",
+          "url": "https://www.gwe.go.kr/open/bbs/view.do?bbsSn=48297&key=bTIzMDUzMTA3NDk2NjM%3D"
+        },
+        "https://www.gwe.go.kr/open/bbs/view.do?bbsSn=52432&key=bTIzMDUzMTA3NDk2NjM%3D": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:32.764919+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-06-01",
+          "read_status": "목록만 확인",
+          "title": "부안초등학교, 지정중학교, 미래고등학교, 대곡초등학교 자체감사 결과 공개",
+          "url": "https://www.gwe.go.kr/open/bbs/view.do?bbsSn=52432&key=bTIzMDUzMTA3NDk2NjM%3D"
+        },
+        "https://www.gwe.go.kr/open/bbs/view.do?bbsSn=53482&key=bTIzMDUzMTA3NDk2NjM%3D": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:32.764895+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-07-01",
+          "read_status": "목록만 확인",
+          "title": "마차고등학교, 가곡고등학교, 원주여자고등학교, 한국항공고등학교, 원주삼육고등학교, 한국에너지마이스터고등학교, 정선정보공업고등학교, 강원과학고등학교 자체감사 결과 공개",
+          "url": "https://www.gwe.go.kr/open/bbs/view.do?bbsSn=53482&key=bTIzMDUzMTA3NDk2NjM%3D"
+        },
+        "https://www.gwe.go.kr/open/bbs/view.do?bbsSn=53647&key=bTIzMDUzMTA3NDk2NjM%3D": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:32.764874+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-07-06",
+          "read_status": "목록만 확인",
+          "title": "자체감사(관사 운영 부적정) 결과 공개",
+          "url": "https://www.gwe.go.kr/open/bbs/view.do?bbsSn=53647&key=bTIzMDUzMTA3NDk2NjM%3D"
+        },
+        "https://www.gwe.go.kr/open/bbs/view.do?bbsSn=55587&key=bTIzMDUzMTA3NDk2NjM%3D": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:32.764846+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-09-09",
+          "read_status": "목록만 확인",
+          "title": "안흥고등학교, 철원고등학교, 인제고등학교, 한국국방과학고등학교, 기린고등학교, 강원명진학교, 강릉정보공업고등학교 자체감사 결과 공개",
+          "url": "https://www.gwe.go.kr/open/bbs/view.do?bbsSn=55587&key=bTIzMDUzMTA3NDk2NjM%3D"
+        },
+        "https://www.gwe.go.kr/open/bbs/view.do?bbsSn=55724&key=bTIzMDUzMTA3NDk2NjM%3D": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:32.764806+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-09-14",
+          "read_status": "목록만 확인",
+          "title": "태백라온학교, 강원외국어고등학교, 강릉문성고등학교, 현천고등학교, 횡성여자고등학교 자체감사 결과 공개",
+          "url": "https://www.gwe.go.kr/open/bbs/view.do?bbsSn=55724&key=bTIzMDUzMTA3NDk2NjM%3D"
+        },
+        "https://www.gwe.go.kr/open/bbs/view.do?bbsSn=56810&key=bTIzMDUzMTA3NDk2NjM%3D": {
+          "attachments": [
+            {
+              "name": "운영안내서",
+              "status": "attachment_unread:http_500",
+              "url": "https://www.gwe.go.kr/cmm/fileDown.do?key=51&type=fileMng"
+            },
+            {
+              "name": "01.석정여자고등학교 자체감사 결과 공개.pdf",
+              "status": "attachment_unread:http_500",
+              "url": "https://www.gwe.go.kr/cmm/fileDown.do?encKey=MTMwMDYz&type=bbs"
+            },
+            {
+              "name": "02.성수여자고등학교 자체감사 결과 공개.pdf",
+              "status": "attachment_unread:http_500",
+              "url": "https://www.gwe.go.kr/cmm/fileDown.do?encKey=MTMwMDY0&type=bbs"
+            }
+          ],
+          "body_selector_fallback": true,
+          "content_hash": null,
+          "excerpt": "게시글 본문 영역을 확정하지 못했습니다. 원문 확인이 필요합니다.",
+          "first_seen": "2026-10-19T15:32:32.764594+09:00",
+          "last_detail_check": "2026-10-19T15:38:06.893041+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-10-12",
+          "read_status": "일부만 확인",
+          "retry_detail": false,
+          "title": "석정여자고등학교, 성수여자고등학교 자체감사 결과 공개",
+          "url": "https://www.gwe.go.kr/open/bbs/view.do?bbsSn=56810&key=bTIzMDUzMTA3NDk2NjM%3D"
+        }
+      }
     },
     "https://www.gwe.go.kr/open/sub.do?key=bTIzMDUzMTA3NDY4NDU%3D": {
       "initialized": false,
       "posts": {}
+    },
+    "https://www.ice.go.kr/ice/na/ntt/selectNttList.do?bbsId=1731&mi=11862": {
+      "initialized": true,
+      "last_success": "2026-10-19T15:34:35.334114+09:00",
+      "posts": {
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1731&mi=11862&nttSn=3370008": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:35.334097+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-04-30",
+          "read_status": "목록만 확인",
+          "title": "2026년 반부패·청렴 추진 계획(신트리도서관)",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1731&mi=11862&nttSn=3370008"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1731&mi=11862&nttSn=3370060": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:35.334079+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-04-30",
+          "read_status": "목록만 확인",
+          "title": "인천광역시남부교육지원청 「2026년도 청렴·반부패 정책 추진 계획」",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1731&mi=11862&nttSn=3370060"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1731&mi=11862&nttSn=3370092": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:35.334062+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-04-30",
+          "read_status": "목록만 확인",
+          "title": "2026년 반부패·청렴 추진 계획(연수도서관)",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1731&mi=11862&nttSn=3370092"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1731&mi=11862&nttSn=3370121": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:35.334041+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-04-30",
+          "read_status": "목록만 확인",
+          "title": "2026년 인천광역시교육청계양도서관 반부패 청렴 정책 추진 계획",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1731&mi=11862&nttSn=3370121"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1731&mi=11862&nttSn=3370123": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:35.334017+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-04-30",
+          "read_status": "목록만 확인",
+          "title": "2026년도 반부패·청렴 정책 추진 계획(학생교육문화회관)",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1731&mi=11862&nttSn=3370123"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1731&mi=11862&nttSn=3370124": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:35.333994+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-04-30",
+          "read_status": "목록만 확인",
+          "title": "인천광역시교육청평생학습관 「2026년도 청렴·반부패 정책 추진 계획」",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1731&mi=11862&nttSn=3370124"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1731&mi=11862&nttSn=3370201": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:35.333967+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-05-04",
+          "read_status": "목록만 확인",
+          "title": "인천광역시교육청유아교육진흥원 2026년도 청렴·반부패 정책 추진 계획 공개",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1731&mi=11862&nttSn=3370201"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1731&mi=11862&nttSn=3371144": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:35.333935+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-05-13",
+          "read_status": "목록만 확인",
+          "title": "인천광역시교육청교육연수원 「2026년도 청렴·반부패 정책 추진 계획」",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1731&mi=11862&nttSn=3371144"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1731&mi=11862&nttSn=3372792": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:35.333862+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-05-29",
+          "read_status": "목록만 확인",
+          "title": "인천광역시교육청화도진도서관 「2026년도 청렴·반부패 정책 추진 계획」",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1731&mi=11862&nttSn=3372792"
+        }
+      }
+    },
+    "https://www.ice.go.kr/ice/na/ntt/selectNttList.do?bbsId=1735&mi=10951": {
+      "initialized": true,
+      "last_success": "2026-10-19T15:34:13.411646+09:00",
+      "posts": {
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1735&mi=10951&nttSn=3350319": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:13.411629+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-12-12",
+          "read_status": "목록만 확인",
+          "title": "2025년 자율감사 결과(인천영종고등학교)",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1735&mi=10951&nttSn=3350319"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1735&mi=10951&nttSn=3352179": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:13.411612+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-12-23",
+          "read_status": "목록만 확인",
+          "title": "2025년 자율감사 우수사례(인천바이오과학고)",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1735&mi=10951&nttSn=3352179"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1735&mi=10951&nttSn=3352316": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:13.411594+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-12-23",
+          "read_status": "목록만 확인",
+          "title": "2025년 자율감사 우수사례(인천고잔고)",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1735&mi=10951&nttSn=3352316"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1735&mi=10951&nttSn=3352317": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:13.411574+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-12-23",
+          "read_status": "목록만 확인",
+          "title": "2025년 자율감사 우수사례(인천예술고)",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1735&mi=10951&nttSn=3352317"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1735&mi=10951&nttSn=3352322": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:13.411554+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-12-23",
+          "read_status": "목록만 확인",
+          "title": "2025년 자율감사 우수사례(인천반도체고)",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1735&mi=10951&nttSn=3352322"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1735&mi=10951&nttSn=3353199": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:13.411535+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-12-31",
+          "read_status": "목록만 확인",
+          "title": "2025년 종합감사 결과(인천소방고등학교)",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1735&mi=10951&nttSn=3353199"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1735&mi=10951&nttSn=3353220": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:13.411515+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-12-31",
+          "read_status": "목록만 확인",
+          "title": "20025년 종합감사 결과(인천생활과학고등학교)",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1735&mi=10951&nttSn=3353220"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1735&mi=10951&nttSn=3356675": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:13.411494+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-01-23",
+          "read_status": "목록만 확인",
+          "title": "2025년 종합감사 결과(선인고등학교)",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1735&mi=10951&nttSn=3356675"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1735&mi=10951&nttSn=3365936": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:13.411466+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-03-30",
+          "read_status": "목록만 확인",
+          "title": "2025년 종합감사 결과(인천하늘고등학교)",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1735&mi=10951&nttSn=3365936"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1735&mi=10951&nttSn=3365967": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:13.411397+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-03-30",
+          "read_status": "목록만 확인",
+          "title": "2025년 자율감사 결과(명신여고, 인천바이오과학고, 인평자동차고)",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1735&mi=10951&nttSn=3365967"
+        }
+      }
+    },
+    "https://www.ice.go.kr/ice/na/ntt/selectNttList.do?bbsId=1737&mi=10953": {
+      "initialized": true,
+      "last_success": "2026-10-19T15:34:28.492500+09:00",
+      "posts": {
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1737&mi=10953&nttSn=2375470": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:28.492462+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2019-02-21",
+          "read_status": "목록만 확인",
+          "title": "2018년 국정감사 계획",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1737&mi=10953&nttSn=2375470"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1737&mi=10953&nttSn=2375474": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:28.492401+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2019-02-21",
+          "read_status": "목록만 확인",
+          "title": "2018년 국정감사 주요업무보고",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1737&mi=10953&nttSn=2375474"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1737&mi=10953&nttSn=2403503": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:28.492385+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2020-02-18",
+          "read_status": "목록만 확인",
+          "title": "2018년 국정감사결과보고",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1737&mi=10953&nttSn=2403503"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1737&mi=10953&nttSn=2403504": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:28.492369+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2020-02-18",
+          "read_status": "목록만 확인",
+          "title": "2019년 국정감사 계획",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1737&mi=10953&nttSn=2403504"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1737&mi=10953&nttSn=2439796": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:28.492352+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2021-10-21",
+          "read_status": "목록만 확인",
+          "title": "2020년 국정감사계획",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1737&mi=10953&nttSn=2439796"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1737&mi=10953&nttSn=2439798": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:28.492334+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2021-10-21",
+          "read_status": "목록만 확인",
+          "title": "2021년 국정감사 계획",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1737&mi=10953&nttSn=2439798"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1737&mi=10953&nttSn=2490862": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:28.492316+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2023-11-22",
+          "read_status": "목록만 확인",
+          "title": "2022년 국정감사 계획",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1737&mi=10953&nttSn=2490862"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1737&mi=10953&nttSn=2490863": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:28.492294+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2023-11-22",
+          "read_status": "목록만 확인",
+          "title": "2023년 국정감사 계획",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1737&mi=10953&nttSn=2490863"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1737&mi=10953&nttSn=3304961": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:28.492265+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2024-11-29",
+          "read_status": "목록만 확인",
+          "title": "2024년 국정감사 계획",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1737&mi=10953&nttSn=3304961"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1737&mi=10953&nttSn=3344516": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:28.492176+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-10-28",
+          "read_status": "목록만 확인",
+          "title": "2025년도 국정감사 수감 계획",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1737&mi=10953&nttSn=3344516"
+        }
+      }
+    },
+    "https://www.ice.go.kr/ice/na/ntt/selectNttList.do?bbsId=1738&mi=10954": {
+      "initialized": true,
+      "last_success": "2026-10-19T15:34:42.223180+09:00",
+      "posts": {
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1738&mi=10954&nttSn=2314020": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:42.223164+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2017-03-03",
+          "read_status": "목록만 확인",
+          "title": "2016년도 행정사무감사 수감 결과",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1738&mi=10954&nttSn=2314020"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1738&mi=10954&nttSn=2341212": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:42.223147+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2017-12-29",
+          "read_status": "목록만 확인",
+          "title": "2017년도 행정사무감사 수감 결과",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1738&mi=10954&nttSn=2341212"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1738&mi=10954&nttSn=2370914": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:42.223132+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2019-01-04",
+          "read_status": "목록만 확인",
+          "title": "2018년도 행정사무감사 수감결과",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1738&mi=10954&nttSn=2370914"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1738&mi=10954&nttSn=2399998": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:42.223115+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2020-01-07",
+          "read_status": "목록만 확인",
+          "title": "2019년도 행정사무감사 수감 결과",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1738&mi=10954&nttSn=2399998"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1738&mi=10954&nttSn=2423946": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:42.223098+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2020-12-22",
+          "read_status": "목록만 확인",
+          "title": "2020년도 행정사무감사 수감 결과",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1738&mi=10954&nttSn=2423946"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1738&mi=10954&nttSn=2449710": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:42.223079+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2022-03-03",
+          "read_status": "목록만 확인",
+          "title": "2021년도 행정사무감사 수감 결과",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1738&mi=10954&nttSn=2449710"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1738&mi=10954&nttSn=2471734": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:42.223060+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2023-02-02",
+          "read_status": "목록만 확인",
+          "title": "2022년도 행정사무감사 수감 결과",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1738&mi=10954&nttSn=2471734"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1738&mi=10954&nttSn=3291470": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:42.223038+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2024-07-08",
+          "read_status": "목록만 확인",
+          "title": "2023년도 행정사무감사 수감결과",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1738&mi=10954&nttSn=3291470"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1738&mi=10954&nttSn=3308904": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:42.223012+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2024-12-24",
+          "read_status": "목록만 확인",
+          "title": "2024년도 행정사무감사 수감결과",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1738&mi=10954&nttSn=3308904"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1738&mi=10954&nttSn=3350998": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:42.222951+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-12-16",
+          "read_status": "목록만 확인",
+          "title": "2025년도 행정사무감사 수감결과",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1738&mi=10954&nttSn=3350998"
+        }
+      }
+    },
+    "https://www.ice.go.kr/ice/na/ntt/selectNttList.do?bbsId=2072&mi=12300": {
+      "initialized": true,
+      "last_success": "2026-10-19T15:34:22.514261+09:00",
+      "posts": {
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=2072&mi=12300&nttSn=2423121": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:22.514241+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2020-12-07",
+          "read_status": "목록만 확인",
+          "title": "「인천광역시교육청 자체감사 규칙」전부 개정 알림",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=2072&mi=12300&nttSn=2423121"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=2072&mi=12300&nttSn=2425764": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:22.514196+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2021-01-27",
+          "read_status": "목록만 확인",
+          "title": "2021년도 자체감사계획 알림",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=2072&mi=12300&nttSn=2425764"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=2072&mi=12300&nttSn=3365319": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:22.514175+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-03-24",
+          "read_status": "목록만 확인",
+          "title": "2026.3.24.(화) 청탁방지담당관 청렴교육 자료 탑재",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=2072&mi=12300&nttSn=3365319"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=2072&mi=12300&nttSn=3365340": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:34:22.514148+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-03-24",
+          "read_status": "목록만 확인",
+          "title": "2026.3.25.(수) 학교장 및 청렴 담당자 대상 청탁금지법 10주년 청렴교육 자료 탑재",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=2072&mi=12300&nttSn=3365340"
+        },
+        "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=2072&mi=12300&nttSn=3381100": {
+          "attachments": [
+            {
+              "excerpt": "위반시조치 징계 및 3천만원이하의과태료 소속기관장은해당공직자에게위반사실시정을명하고,불이행시직무를중지ㆍ취소하는 등 필요한조치(제21조, 제26조, 제28조) / 위반시조치 징계 및 3천만원이하의과태료 소속기관장은해당공직자에게위반사실시정을명하고, / 위반시조치 징계 및 3천만원이하의과태료 소속기관장은해당공직자에게위반사실시정을명하고,",
+              "name": "인천광역시교육청 이해충돌방지법 중심 청렴 교육 강의 자료(자료탑재용).pdf 새창 바로듣기",
+              "sha256": "51945350bf54e1e78f74113f8034aa1fd185ef65a63bac90ddd89ba8803db9d4",
+              "status": "text_extracted",
+              "url": "https://www.ice.go.kr/upload/ice/na/bbs_2072/2026/08/946742c70de048469af45a5496c6a826.pdf"
+            },
+            {
+              "excerpt": "⑥ ‘홈페이지 운영’이란 본청홈페이지의 구축, 운용, 개선, 개발, 폐기, 유지관리 등 운영 전반에 관한 사항을 총칭한다 / 제9조(개선) 총괄책임자는 홈페이지에 대한 요구사항 수렴 및 모니터링 등을 통하여 홈페 이지의 미흡한 점을 개선하는 등 서비스의 질 향상을 위하여 지속적으로 노력하여야 한다 / < 인천광역시교육청 대표 및 부서특화 홈페이지 서비스 현황 > 번호 홈페이지명 홈페이지 주소 운영부서 1 인천광역시교육청 대표 https://www.ice.go.kr/ice/main.do 정보지원과 2 학생시민기자단 https://www.ice.go.kr/news/main.do 소통협력담당관 3 재정현황(주민참여예산제) https://www.ice.go.kr/people/main.do 정책기",
+              "name": "홈페이지운영지침",
+              "sha256": "443c5b4055f3e38bf0d203395910198c75677ca6f4b374bbd77cf90d21f6aeb7",
+              "status": "text_extracted_no_page_map",
+              "url": "https://www.ice.go.kr/common/nttFileDownload.do?fileKey=87038e9ce049c694c3a69792270e6103"
+            },
+            {
+              "excerpt": "< 인천광역시교육청 대표 및 부서특화 홈페이지 서비스 현황 > 번호 홈페이지명 홈페이지 주소 운영부서 1 인천광역시교육청 대표 https://www.ice.go.kr/ice/main.do 정보지원과 2 학생시민기자단 https://www.ice.go.kr/news/main.do 소통협력담당관 3 재정현황(주민참여예산제) https://www.ice.go.kr/people/main.do 정책기 / ⑥ ‘홈페이지 운영’이란 본청홈페이지의 구축, 운용, 개선, 개발, 폐기, 유지관리 등 운영 전반에 관한 사항을 총칭한다 / 1. 홈페이지 기능개선을 위해 서비스 중단이 필요한 경우 2. 시스템의 장애 등으로 서비스 중단이 필요한 경우 3. 천재지변 또는 국가 비상사태로 서비스 중단이 필요한 경우 4. 기타 서비스 중단이 불가피하거나 총괄책임자가 필요하다고 판단한 경우 ② 인천광역시교육청은 제5조 제1항의 사유로 서비스를 제공할 수 없는 경우에는 서비스 중",
+              "name": "홈페이지이용약관",
+              "sha256": "1886a65f8cd2cbc347e0ebbe7d2f8fa49ee798fb49601099f739d3cfa0b31a81",
+              "status": "text_extracted_no_page_map",
+              "url": "https://www.ice.go.kr/common/nttFileDownload.do?fileKey=9aba8111325d73637a59858096697e21"
+            },
+            {
+              "excerpt": "[PDF 1쪽] 제 WAQC-260937호ㅤ / ｢디지털포용법｣ 제21조제1항 및 ｢접근성품질인증및 / 시험평가등에 관한 고시｣ 제4조제2항에 따라",
+              "name": "첨부파일",
+              "sha256": "b9c3d92d1c5c5e0da132894af31e99aadf5ac2d7e176c723ad83011590e280c9",
+              "status": "text_extracted",
+              "url": "https://www.ice.go.kr/common/nttFileDownload.do?fileKey=5cce7cc3756b9fdc868e5a765e0e4c81"
+            }
+          ],
+          "body_selector_fallback": false,
+          "content_hash": "ed28a65e16e90074a63489a6943565308e44454845976d04e31396ac72892803",
+          "excerpt": "위반시조치 징계 및 3천만원이하의과태료 소속기관장은해당공직자에게위반사실시정을명하고,불이행시직무를중지ㆍ취소하는 등 필요한조치(제21조, 제26조, 제28조) / 위반시조치 징계 및 3천만원이하의과태료 소속기관장은해당공직자에게위반사실시정을명하고, / 위반시조치 징계 및 3천만원이하의과태료 소속기관장은해당공직자에게위반사실시정을명하고, / ⑥ ‘홈페이지 운영’이란 본청홈페이지의 구축, 운용, 개선, 개발, 폐기, 유지관리 등 운영 전반에 관한 사항을 총칭한다 / 제9조(개선) 총괄책임자는 홈페이지에 대한 요구사항 수렴 및 모니터링 등을 통하여 홈페 이지의 미흡한 점을 개선하는 등 서비스의 질 향상을 위하여 지속적으로 노력하여야 한다 / < 인천광역시교육청 대표 및 부서특화 홈페이지 서비스 현황 > 번호 홈페이지명 홈페이지 주소 운영부서 1 인천광역시교육청 대표 https://www.ice.go.kr/ice/main.do 정보지원과 2 학생시민기자단 https://www.ice.go.kr/news/main.do 소통협력담당관 3 재정현황(주민참여예산제) https://www.ice.go.kr/people/main.do 정책기 / < 인천광역시교육청 대표 및 부서특화 홈페이지 서비스 현황 > 번호 홈페이지명 홈페이지 주소 운영부서 1 인천광역시교육청 대표 ",
+          "first_seen": "2026-10-19T15:34:22.514086+09:00",
+          "last_detail_check": "2026-10-19T15:38:42.952928+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-08-18",
+          "read_status": "본문·첨부 텍스트 확인",
+          "retry_detail": false,
+          "title": "2026.8.24.(월) 이해충돌방지법 중심 청렴 특별교육 자료 탑재",
+          "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=2072&mi=12300&nttSn=3381100"
+        }
+      }
     },
     "https://www.jbe.go.kr/index.jbe?menuCd=DOM_000000104004000000": {
       "initialized": false,
@@ -8727,15 +10274,291 @@
       "posts": {}
     },
     "https://www.moe.go.kr/boardCnts/listRenew.do?boardID=345&m=041202&s=moe": {
-      "initialized": false,
-      "posts": {}
+      "initialized": true,
+      "last_success": "2026-10-19T15:32:41.725075+09:00",
+      "posts": {
+        "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=104185&lev=0&m=041202&opType=N&page=3&s=moe&statusYN=W&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:41.725042+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-10-21",
+          "read_status": "목록만 확인",
+          "title": "학교법인 웅지학원 및 웅지세무대학교 종합감사 결과",
+          "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=104185&lev=0&m=041202&opType=N&page=3&s=moe&statusYN=W&type=default"
+        },
+        "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=104186&lev=0&m=041202&opType=N&page=3&s=moe&statusYN=W&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:41.725058+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-10-20",
+          "read_status": "목록만 확인",
+          "title": "학교법인 오산학원 및 오산대학교 종합감사 계획",
+          "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=104186&lev=0&m=041202&opType=N&page=3&s=moe&statusYN=W&type=default"
+        },
+        "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=104458&lev=0&m=041202&opType=N&page=3&s=moe&statusYN=W&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:41.725025+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-11-10",
+          "read_status": "목록만 확인",
+          "title": "강원대학교 종합감사 계획",
+          "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=104458&lev=0&m=041202&opType=N&page=3&s=moe&statusYN=W&type=default"
+        },
+        "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=104498&lev=0&m=041202&opType=N&page=3&s=moe&statusYN=W&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:41.725008+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-11-14",
+          "read_status": "목록만 확인",
+          "title": "학교법인 수원인제학원 및 수원여자대학교 종합감사 결과 공개",
+          "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=104498&lev=0&m=041202&opType=N&page=3&s=moe&statusYN=W&type=default"
+        },
+        "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=104547&lev=0&m=041202&opType=N&page=3&s=moe&statusYN=W&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:41.724991+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-11-19",
+          "read_status": "목록만 확인",
+          "title": "학교법인 주성학원 및 충북보건과학대학교 재무감사 계획",
+          "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=104547&lev=0&m=041202&opType=N&page=3&s=moe&statusYN=W&type=default"
+        },
+        "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=104649&lev=0&m=041202&opType=N&page=3&s=moe&statusYN=W&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:41.724974+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-11-27",
+          "read_status": "목록만 확인",
+          "title": "2024년도 국정감사 계획서",
+          "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=104649&lev=0&m=041202&opType=N&page=3&s=moe&statusYN=W&type=default"
+        },
+        "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=104650&lev=0&m=041202&opType=N&page=3&s=moe&statusYN=W&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:41.724958+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2025-11-27",
+          "read_status": "목록만 확인",
+          "title": "2025년도 국정감사 계획서",
+          "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=104650&lev=0&m=041202&opType=N&page=3&s=moe&statusYN=W&type=default"
+        },
+        "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=105423&lev=0&m=041202&opType=N&page=3&s=moe&statusYN=W&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:41.724940+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-02-25",
+          "read_status": "목록만 확인",
+          "title": "학교법인 대양학원 및 세종대학교 재무감사 계획",
+          "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=105423&lev=0&m=041202&opType=N&page=3&s=moe&statusYN=W&type=default"
+        },
+        "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=105442&lev=0&m=041202&opType=N&page=3&s=moe&statusYN=W&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:41.724923+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-02-27",
+          "read_status": "목록만 확인",
+          "title": "대한민국학술원 사무국 종합감사 계획",
+          "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=105442&lev=0&m=041202&opType=N&page=3&s=moe&statusYN=W&type=default"
+        },
+        "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=105721&lev=0&m=041202&opType=N&page=2&s=moe&statusYN=W&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:41.724907+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-03-26",
+          "read_status": "목록만 확인",
+          "title": "학교법인 국민학원 및 국민대학교 종합감사 계획",
+          "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=105721&lev=0&m=041202&opType=N&page=2&s=moe&statusYN=W&type=default"
+        },
+        "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=105798&lev=0&m=041202&opType=N&page=2&s=moe&statusYN=W&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:41.724891+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-04-03",
+          "read_status": "목록만 확인",
+          "title": "전남대학교 종합감사 결과",
+          "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=105798&lev=0&m=041202&opType=N&page=2&s=moe&statusYN=W&type=default"
+        },
+        "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=105850&lev=0&m=041202&opType=N&page=2&s=moe&statusYN=W&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:41.724874+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-04-10",
+          "read_status": "목록만 확인",
+          "title": "한국선진학교 종합감사 계획",
+          "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=105850&lev=0&m=041202&opType=N&page=2&s=moe&statusYN=W&type=default"
+        },
+        "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=105873&lev=0&m=041202&opType=N&page=2&s=moe&statusYN=W&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:41.724856+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-04-14",
+          "read_status": "목록만 확인",
+          "title": "전주교육대학교 종합감사 계획",
+          "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=105873&lev=0&m=041202&opType=N&page=2&s=moe&statusYN=W&type=default"
+        },
+        "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=105996&lev=0&m=041202&opType=N&page=2&s=moe&statusYN=W&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:41.724839+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-04-28",
+          "read_status": "목록만 확인",
+          "title": "학교법인 한양학원 및 한양대학교 재무감사 계획",
+          "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=105996&lev=0&m=041202&opType=N&page=2&s=moe&statusYN=W&type=default"
+        },
+        "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=106094&lev=0&m=041202&opType=N&page=2&s=moe&statusYN=W&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:41.724822+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-05-08",
+          "read_status": "목록만 확인",
+          "title": "부산대학교 종합감사 계획",
+          "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=106094&lev=0&m=041202&opType=N&page=2&s=moe&statusYN=W&type=default"
+        },
+        "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=106354&lev=0&m=041202&opType=N&page=2&s=moe&statusYN=W&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:41.724805+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-06-02",
+          "read_status": "목록만 확인",
+          "title": "학교법인 일청학원 및 경일대학교 재무감사 계획",
+          "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=106354&lev=0&m=041202&opType=N&page=2&s=moe&statusYN=W&type=default"
+        },
+        "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=106460&lev=0&m=041202&opType=N&page=2&s=moe&statusYN=W&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:41.724787+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-06-16",
+          "read_status": "목록만 확인",
+          "title": "한국경진학교 종합감사 결과",
+          "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=106460&lev=0&m=041202&opType=N&page=2&s=moe&statusYN=W&type=default"
+        },
+        "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=106649&lev=0&m=041202&opType=N&page=2&s=moe&statusYN=W&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:41.724770+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-07-06",
+          "read_status": "목록만 확인",
+          "title": "학교법인 계원학원 및 계원예술대학교 종합감사 계획",
+          "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=106649&lev=0&m=041202&opType=N&page=2&s=moe&statusYN=W&type=default"
+        },
+        "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=106677&lev=0&m=041202&opType=N&page=2&s=moe&statusYN=W&type=default": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:41.724751+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-07-10",
+          "read_status": "목록만 확인",
+          "title": "학교법인 신구학원 및 신구대학교 재무감사 결과 공개",
+          "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=106677&lev=0&m=041202&opType=N&page=2&s=moe&statusYN=W&type=default"
+        },
+        "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=106678&lev=0&m=041202&opType=N&s=moe&statusYN=W": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:41.724733+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-07-10",
+          "read_status": "목록만 확인",
+          "title": "학교법인 현송학원 및 강릉영동대학교 종합감사 결과 공개",
+          "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=106678&lev=0&m=041202&opType=N&s=moe&statusYN=W"
+        },
+        "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=106747&lev=0&m=041202&opType=N&s=moe&statusYN=W": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:41.724716+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-07-21",
+          "read_status": "목록만 확인",
+          "title": "대구교육대학교 종합감사 결과",
+          "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=106747&lev=0&m=041202&opType=N&s=moe&statusYN=W"
+        },
+        "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=106889&lev=0&m=041202&opType=N&s=moe&statusYN=W": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:41.724699+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-08-10",
+          "read_status": "목록만 확인",
+          "title": "학교법인 화신학원 및 부산경상대학교 종합감사 계획",
+          "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=106889&lev=0&m=041202&opType=N&s=moe&statusYN=W"
+        },
+        "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=106996&lev=0&m=041202&opType=N&s=moe&statusYN=W": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:41.724681+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-08-24",
+          "read_status": "목록만 확인",
+          "title": "학교법인 아신학원 및 나주대학교 종합감사 계획",
+          "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=106996&lev=0&m=041202&opType=N&s=moe&statusYN=W"
+        },
+        "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=107062&lev=0&m=041202&opType=N&s=moe&statusYN=W": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:41.724663+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-08-27",
+          "read_status": "목록만 확인",
+          "title": "한국교육환경보호원 종합감사 계획",
+          "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=107062&lev=0&m=041202&opType=N&s=moe&statusYN=W"
+        },
+        "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=107132&lev=0&m=041202&opType=N&s=moe&statusYN=W": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:41.724643+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-09-04",
+          "read_status": "목록만 확인",
+          "title": "학교법인 화봉학원 및 대동대학교 종합감사 결과 공개",
+          "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=107132&lev=0&m=041202&opType=N&s=moe&statusYN=W"
+        },
+        "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=107139&lev=0&m=041202&opType=N&s=moe&statusYN=W": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:41.724625+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-09-04",
+          "read_status": "목록만 확인",
+          "title": "2025년 하반기 교육부 부패공직자 현황 공개",
+          "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=107139&lev=0&m=041202&opType=N&s=moe&statusYN=W"
+        },
+        "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=107140&lev=0&m=041202&opType=N&s=moe&statusYN=W": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:41.724602+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-09-04",
+          "read_status": "목록만 확인",
+          "title": "2026년 상반기 교육부 부패공직자 현황 공개",
+          "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=107140&lev=0&m=041202&opType=N&s=moe&statusYN=W"
+        },
+        "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=107399&lev=0&m=041202&opType=N&s=moe&statusYN=W": {
+          "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+          "first_seen": "2026-10-19T15:32:41.724575+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-10-12",
+          "read_status": "목록만 확인",
+          "title": "학교법인 국제대학교 및 국제대학교 종합감사 계획",
+          "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=107399&lev=0&m=041202&opType=N&s=moe&statusYN=W"
+        },
+        "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=107421&lev=0&m=041202&opType=N&s=moe&statusYN=W": {
+          "attachments": [
+            {
+              "excerpt": "[HWP Section0] 「헌법」 제61조, 「국회법」 제127조 및 「국정감사 및 조사에 관한 법률」에 따라 소관기관의 국정 전반에 관한 감사를 실시하여 국정실태를 정확히 파악하고, 잘못된 부분을 적발․시정하는 등 헌법이 국회에 부여한 행정부 감시·견제기능을 효과적으로 수행하기 위함. / [HWP Section0] (5) 한국교육시설안전원 / [HWP Section0] 한국학중앙연구원, 한국교육시설안전원,",
+              "name": "다운로드",
+              "sha256": "a4063bdf8440d291f2a357c14e82d99ee7481210e0c7750f66fcd305554a2bf6",
+              "status": "text_extracted_no_page_map",
+              "url": "https://www.moe.go.kr/boardCnts/fileDown.do?fileSeq=f01f46c0b547cb8f0c180c3770ecacf9&m=041202&s=moe"
+            }
+          ],
+          "body_selector_fallback": true,
+          "content_hash": null,
+          "excerpt": "[HWP Section0] 「헌법」 제61조, 「국회법」 제127조 및 「국정감사 및 조사에 관한 법률」에 따라 소관기관의 국정 전반에 관한 감사를 실시하여 국정실태를 정확히 파악하고, 잘못된 부분을 적발․시정하는 등 헌법이 국회에 부여한 행정부 감시·견제기능을 효과적으로 수행하기 위함. / [HWP Section0] (5) 한국교육시설안전원 / [HWP Section0] 한국학중앙연구원, 한국교육시설안전원,",
+          "first_seen": "2026-10-19T15:32:41.724510+09:00",
+          "last_detail_check": "2026-10-19T15:38:06.893112+09:00",
+          "last_listed": "2026-10-19",
+          "posted_at": "2026-10-13",
+          "read_status": "일부만 확인",
+          "retry_detail": false,
+          "title": "2026년도 국정감사 계획서",
+          "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=107421&lev=0&m=041202&opType=N&s=moe&statusYN=W"
+        }
+      }
     },
     "https://www.moe.go.kr/boardCnts/listRenew.do?boardID=72807&m=041211&s=moe": {
       "initialized": false,
       "posts": {}
     }
   },
-  "last_run_at": "2026-10-19T15:21:51.170241+09:00",
+  "last_run_at": "2026-10-19T15:38:42.975588+09:00",
   "offices": {
     "cbe": {
       "boards": [],
@@ -9079,7 +10902,14 @@
       "region": "대전광역시교육청"
     },
     "gbe": {
-      "boards": [],
+      "boards": [
+        "https://www.gbe.kr/dep_ins/na/ntt/selectNttList.do?bbsId=2631&mi=8545",
+        "https://www.gbe.kr/dep_ins/na/ntt/selectNttList.do?bbsId=2627&mi=8541",
+        "https://www.gbe.kr/dep_ins/na/ntt/selectNttList.do?bbsId=2634&mi=8549",
+        "https://www.gbe.kr/dep_ins/ad/def/selectAuditsList.do?mi=23189",
+        "https://www.gbe.kr/dep_ins/na/ntt/selectNttList.do?bbsId=2635&mi=8550",
+        "https://www.gbe.kr/dep_ins/main.do"
+      ],
       "directory_sources": [
         "https://www.gbe.kr/"
       ],
@@ -9101,10 +10931,7 @@
       "region": "경상북도교육청"
     },
     "gbe-경주": {
-      "boards": [
-        "https://www.gbe.kr/gj/na/ntt/selectNttList.do?bbsId=1587&mi=5364",
-        "https://www.gbe.kr/gj/na/ntt/selectNttList.do?bbsId=1588&mi=5366"
-      ],
+      "boards": [],
       "home": "https://www.gbe.kr/gj/main.do",
       "home_source": "https://www.gbe.kr/",
       "id": "gbe-경주",
@@ -9144,10 +10971,7 @@
       "region": "경상북도교육청"
     },
     "gbe-문경": {
-      "boards": [
-        "https://www.gbe.kr/mg/na/ntt/selectNttList.do?bbsId=2101&mi=5179",
-        "https://www.gbe.kr/mg/na/ntt/selectNttList.do?bbsId=2097&mi=5148"
-      ],
+      "boards": [],
       "home": "https://www.gbe.kr/mg/main.do",
       "home_source": "https://www.gbe.kr/",
       "id": "gbe-문경",
@@ -9187,9 +11011,7 @@
       "region": "경상북도교육청"
     },
     "gbe-안동": {
-      "boards": [
-        "https://www.gbe.kr/ad/na/ntt/selectNttList.do?bbsId=1711&mi=5753"
-      ],
+      "boards": [],
       "home": "https://www.gbe.kr/ad/main.do",
       "home_source": "https://www.gbe.kr/",
       "id": "gbe-안동",
@@ -9199,10 +11021,7 @@
       "region": "경상북도교육청"
     },
     "gbe-영덕": {
-      "boards": [
-        "https://www.gbe.kr/yd/na/ntt/selectNttList.do?bbsId=2313&mi=5029",
-        "https://www.gbe.kr/yd/na/ntt/selectNttList.do?bbsId=2379&mi=5210"
-      ],
+      "boards": [],
       "home": "https://www.gbe.kr/yd/main.do",
       "home_source": "https://www.gbe.kr/",
       "id": "gbe-영덕",
@@ -9212,9 +11031,7 @@
       "region": "경상북도교육청"
     },
     "gbe-영양": {
-      "boards": [
-        "https://www.gbe.kr/yy/na/ntt/selectNttList.do?bbsId=3101&mi=10591"
-      ],
+      "boards": [],
       "home": "https://www.gbe.kr/yy/main.do",
       "home_source": "https://www.gbe.kr/",
       "id": "gbe-영양",
@@ -9224,9 +11041,7 @@
       "region": "경상북도교육청"
     },
     "gbe-영주": {
-      "boards": [
-        "https://www.gbe.kr/yj/na/ntt/selectNttList.do?bbsId=1965&mi=3266"
-      ],
+      "boards": [],
       "home": "https://www.gbe.kr/yj/main.do",
       "home_source": "https://www.gbe.kr/",
       "id": "gbe-영주",
@@ -9236,9 +11051,7 @@
       "region": "경상북도교육청"
     },
     "gbe-영천": {
-      "boards": [
-        "https://www.gbe.kr/yc/na/ntt/selectNttList.do?bbsId=2075&mi=4374"
-      ],
+      "boards": [],
       "home": "https://www.gbe.kr/yc/main.do",
       "home_source": "https://www.gbe.kr/",
       "id": "gbe-영천",
@@ -9248,9 +11061,7 @@
       "region": "경상북도교육청"
     },
     "gbe-예천": {
-      "boards": [
-        "https://www.gbe.kr/ycg/na/ntt/selectNttList.do?bbsId=2043&mi=4834"
-      ],
+      "boards": [],
       "home": "https://www.gbe.kr/ycg/main.do",
       "home_source": "https://www.gbe.kr/",
       "id": "gbe-예천",
@@ -9260,9 +11071,7 @@
       "region": "경상북도교육청"
     },
     "gbe-울릉": {
-      "boards": [
-        "https://www.gbe.kr/ul/na/ntt/selectNttList.do?bbsId=1550&mi=7948"
-      ],
+      "boards": [],
       "home": "https://www.gbe.kr/ul/main.do",
       "home_source": "https://www.gbe.kr/",
       "id": "gbe-울릉",
@@ -9282,9 +11091,7 @@
       "region": "경상북도교육청"
     },
     "gbe-의성": {
-      "boards": [
-        "https://www.gbe.kr/us/na/ntt/selectNttList.do?bbsId=2496&mi=6342"
-      ],
+      "boards": [],
       "home": "https://www.gbe.kr/us/main.do",
       "home_source": "https://www.gbe.kr/",
       "id": "gbe-의성",
@@ -9528,7 +11335,12 @@
       "region": "경상남도교육청"
     },
     "goe": {
-      "boards": [],
+      "boards": [
+        "https://www.goe.go.kr/goe/na/ntt/selectNttList.do?bbsId=1965&mi=10275",
+        "https://www.goe.go.kr/goe/na/ntt/selectNttList.do?bbsId=1950&mi=11123",
+        "https://www.goe.go.kr/goe/na/ntt/selectNttList.do?bbsId=1950&mi=11123&mi=11123",
+        "https://www.goe.go.kr/goe/na/ntt/selectNttList.do?bbsId=1927&mi=10115"
+      ],
       "directory_sources": [
         "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311"
       ],
@@ -9597,7 +11409,12 @@
       "region": "경기도교육청"
     },
     "goe-구리남양주": {
-      "boards": [],
+      "boards": [
+        "https://www.goegn.kr/goegn/na/ntt/selectNttList.do?bbsId=8354&mi=13512",
+        "https://www.goegn.kr/goegn/na/ntt/selectNttList.do?bbsId=8395&mi=13571",
+        "https://www.goegn.kr/goegn/na/ntt/selectNttList.do?bbsId=9921&mi=16822",
+        "https://www.goegn.kr/goegn/na/ntt/selectNttList.do?bbsId=9922&mi=16823"
+      ],
       "home": "https://www.goegn.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-구리남양주",
@@ -9607,7 +11424,10 @@
       "region": "경기도교육청"
     },
     "goe-군포의왕": {
-      "boards": [],
+      "boards": [
+        "https://www.goegu.kr/goegu/na/ntt/selectNttList.do?bbsId=4360&mi=7255",
+        "https://www.goegu.kr/goegu/na/ntt/selectNttList.do?bbsId=4324&mi=7155"
+      ],
       "home": "https://www.goegu.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-군포의왕",
@@ -9617,7 +11437,9 @@
       "region": "경기도교육청"
     },
     "goe-김포": {
-      "boards": [],
+      "boards": [
+        "https://www.gpoe.kr/gpoe/na/ntt/selectNttList.do?bbsId=5189&mi=9325"
+      ],
       "home": "https://www.gpoe.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-김포",
@@ -9627,7 +11449,11 @@
       "region": "경기도교육청"
     },
     "goe-동두천양주": {
-      "boards": [],
+      "boards": [
+        "https://www.goedy.kr/goedy/na/ntt/selectNttList.do?bbsId=10213&mi=10293",
+        "https://www.goedy.kr/goedy/na/ntt/selectNttList.do?bbsId=10214&mi=10294",
+        "https://www.goedy.kr/goedy/na/ntt/selectNttList.do?bbsId=11239&mi=12027"
+      ],
       "home": "https://www.goedy.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-동두천양주",
@@ -9637,7 +11463,11 @@
       "region": "경기도교육청"
     },
     "goe-부천": {
-      "boards": [],
+      "boards": [
+        "https://www.goebc.kr/goebc/na/ntt/selectNttList.do?bbsId=6392&mi=11214",
+        "https://www.goebc.kr/goebc/na/ntt/selectNttList.do?bbsId=6363&mi=11136",
+        "https://www.goebc.kr/goebc/na/ntt/selectNttList.do?bbsId=6390&mi=11186"
+      ],
       "home": "https://www.goebc.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-부천",
@@ -9647,7 +11477,11 @@
       "region": "경기도교육청"
     },
     "goe-성남": {
-      "boards": [],
+      "boards": [
+        "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17815&mi=23503",
+        "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17829&mi=23531",
+        "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17848&mi=23560"
+      ],
       "home": "https://www.goesn.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-성남",
@@ -9657,7 +11491,11 @@
       "region": "경기도교육청"
     },
     "goe-수원": {
-      "boards": [],
+      "boards": [
+        "https://www.goesw.kr/goesw/na/ntt/selectNttList.do?bbsId=11051&mi=18917",
+        "https://www.goesw.kr/goesw/na/ntt/selectNttList.do?bbsId=11053&mi=18919",
+        "https://www.goesw.kr/goesw/na/ntt/selectNttList.do?bbsId=11052&mi=18918"
+      ],
       "home": "https://www.goesw.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-수원",
@@ -9667,7 +11505,11 @@
       "region": "경기도교육청"
     },
     "goe-시흥": {
-      "boards": [],
+      "boards": [
+        "https://www.goesh.kr/goesh/na/ntt/selectNttList.do?bbsId=5566&mi=9129",
+        "https://www.goesh.kr/goesh/na/ntt/selectNttList.do?bbsId=5535&mi=9042",
+        "https://www.goesh.kr/goesh/na/ntt/selectNttList.do?bbsId=5536&mi=9043"
+      ],
       "home": "https://www.goesh.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-시흥",
@@ -9677,7 +11519,11 @@
       "region": "경기도교육청"
     },
     "goe-안산": {
-      "boards": [],
+      "boards": [
+        "https://www.goeas.kr/goeas/na/ntt/selectNttList.do?bbsId=5961&mi=11490",
+        "https://www.goeas.kr/goeas/cm/cntnts/cntntsView.do?cntntsId=1715&mi=12828",
+        "https://www.goeas.kr/goeas/na/ntt/selectNttList.do?bbsId=5940&mi=11463"
+      ],
       "home": "https://www.goeas.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-안산",
@@ -9687,7 +11533,11 @@
       "region": "경기도교육청"
     },
     "goe-안성": {
-      "boards": [],
+      "boards": [
+        "https://www.goean.kr/goean/na/ntt/selectNttList.do?bbsId=2793&mi=4552",
+        "https://www.goean.kr/goean/na/ntt/selectNttList.do?bbsId=2794&mi=4553",
+        "https://www.goean.kr/goean/na/ntt/selectNttList.do?bbsId=2792&mi=4551"
+      ],
       "home": "https://www.goean.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-안성",
@@ -9697,7 +11547,10 @@
       "region": "경기도교육청"
     },
     "goe-안양과천": {
-      "boards": [],
+      "boards": [
+        "https://www.goeay.kr/goeay/na/ntt/selectNttList.do?bbsId=5187&mi=10254",
+        "https://www.goeay.kr/goeay/na/ntt/selectNttList.do?bbsId=5165&mi=10216"
+      ],
       "home": "https://www.goeay.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-안양과천",
@@ -9707,7 +11560,10 @@
       "region": "경기도교육청"
     },
     "goe-양평": {
-      "boards": [],
+      "boards": [
+        "https://www.goeyp.kr/goeyp/na/ntt/selectNttList.do?bbsId=1890&mi=3580",
+        "https://www.goeyp.kr/goeyp/na/ntt/selectNttList.do?bbsId=1892&mi=3582"
+      ],
       "home": "https://www.goeyp.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-양평",
@@ -9717,7 +11573,11 @@
       "region": "경기도교육청"
     },
     "goe-여주": {
-      "boards": [],
+      "boards": [
+        "https://www.goeyj.kr/goeyj/na/ntt/selectNttList.do?bbsId=10117&mi=10157",
+        "https://www.goeyj.kr/goeyj/na/ntt/selectNttList.do?bbsId=10114&mi=10154",
+        "https://www.goeyj.kr/goeyj/na/ntt/selectNttList.do?bbsId=10096&mi=10133"
+      ],
       "home": "https://www.goeyj.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-여주",
@@ -9727,7 +11587,11 @@
       "region": "경기도교육청"
     },
     "goe-연천": {
-      "boards": [],
+      "boards": [
+        "https://www.goeyc.kr/goeyc/na/ntt/selectNttList.do?bbsId=2210&mi=2343",
+        "https://www.goeyc.kr/goeyc/na/ntt/selectNttList.do?bbsId=2234&mi=2466",
+        "https://www.goeyc.kr/goeyc/na/ntt/selectNttList.do?bbsId=2234&mi=2429"
+      ],
       "home": "https://www.goeyc.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-연천",
@@ -9737,7 +11601,12 @@
       "region": "경기도교육청"
     },
     "goe-용인": {
-      "boards": [],
+      "boards": [
+        "https://www.goeyi.kr/goeyi/na/ntt/selectNttList.do?bbsId=12277&mi=20260",
+        "https://www.goeyi.kr/goeyi/na/ntt/selectNttList.do?bbsId=12220&mi=20167",
+        "https://www.goeyi.kr/goeyi/na/ntt/selectNttList.do?bbsId=12221&mi=20168",
+        "https://www.goeyi.kr/goeyi/na/ntt/selectNttList.do?bbsId=12258&mi=20230"
+      ],
       "home": "https://www.goeyi.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-용인",
@@ -9747,7 +11616,11 @@
       "region": "경기도교육청"
     },
     "goe-의정부": {
-      "boards": [],
+      "boards": [
+        "https://www.goeujb.kr/goeujb/na/ntt/selectNttList.do?bbsId=4095&mi=6954",
+        "https://www.goeujb.kr/goeujb/na/ntt/selectNttList.do?bbsId=4158&mi=7091",
+        "https://www.goeujb.kr/goeujb/na/ntt/selectNttList.do?bbsId=4111&mi=6985"
+      ],
       "home": "https://www.goeujb.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-의정부",
@@ -9757,7 +11630,12 @@
       "region": "경기도교육청"
     },
     "goe-이천": {
-      "boards": [],
+      "boards": [
+        "https://www.goeic.kr/goeic/na/ntt/selectNttList.do?bbsId=3762&mi=5657",
+        "https://www.goeic.kr/goeic/na/ntt/selectNttList.do?bbsId=3773&mi=5681",
+        "https://www.goeic.kr/goeic/na/ntt/selectNttList.do?bbsId=3761&mi=5656",
+        "https://www.goeic.kr/goeic/na/ntt/selectNttList.do?bbsId=3890&mi=5956"
+      ],
       "home": "https://www.goeic.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-이천",
@@ -9767,7 +11645,10 @@
       "region": "경기도교육청"
     },
     "goe-파주": {
-      "boards": [],
+      "boards": [
+        "https://www.goepj.kr/goepj/na/ntt/selectNttList.do?bbsId=7147&mi=10722",
+        "https://www.goepj.kr/goepj/na/ntt/selectNttList.do?bbsId=7194&mi=10806"
+      ],
       "home": "https://www.goepj.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-파주",
@@ -9777,7 +11658,11 @@
       "region": "경기도교육청"
     },
     "goe-평택": {
-      "boards": [],
+      "boards": [
+        "https://www.goept.kr/goept/na/ntt/selectNttList.do?bbsId=10115&mi=10124",
+        "https://www.goept.kr/goept/na/ntt/selectNttList.do?bbsId=10097&mi=10090",
+        "https://www.goept.kr/goept/na/ntt/selectNttList.do?bbsId=12917&mi=13586"
+      ],
       "home": "https://www.goept.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-평택",
@@ -9787,7 +11672,10 @@
       "region": "경기도교육청"
     },
     "goe-포천": {
-      "boards": [],
+      "boards": [
+        "https://www.goepc.kr/goepc/na/ntt/selectNttList.do?bbsId=2137&mi=2248",
+        "https://www.goepc.kr/goepc/na/ntt/selectNttList.do?bbsId=2141&mi=2254"
+      ],
       "home": "https://www.goepc.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-포천",
@@ -9797,7 +11685,12 @@
       "region": "경기도교육청"
     },
     "goe-화성오산": {
-      "boards": [],
+      "boards": [
+        "https://www.goehs.kr/goehs/na/ntt/selectNttList.do?bbsId=9851&mi=17884",
+        "https://www.goehs.kr/goehs/na/ntt/selectNttList.do?bbsId=9864&mi=17925",
+        "https://www.goehs.kr/goehs/na/ntt/selectNttList.do?bbsId=9826&mi=20966&srch_aditCol1=%EA%B0%90%EC%82%AC%EA%B3%BC",
+        "https://www.goehs.kr/goehs/na/ntt/selectNttList.do?bbsId=9841&mi=17870"
+      ],
       "home": "https://www.goehs.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-화성오산",
@@ -9821,7 +11714,9 @@
       ]
     },
     "gwe-강릉": {
-      "boards": [],
+      "boards": [
+        "https://gwgned.gwe.go.kr/boardCnts/list.do?boardID=96263&m=010808&s=gwgned"
+      ],
       "home": "https://gwgned.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-강릉",
@@ -9831,7 +11726,9 @@
       "region": "강원특별자치도교육청"
     },
     "gwe-고성": {
-      "boards": [],
+      "boards": [
+        "https://gwgsed.gwe.go.kr/boardCnts/list.do?boardID=96269&m=0208&s=kwksed"
+      ],
       "home": "https://gwgsed.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-고성",
@@ -9841,7 +11738,11 @@
       "region": "강원특별자치도교육청"
     },
     "gwe-동해": {
-      "boards": [],
+      "boards": [
+        "https://kwthe.gwe.go.kr/boardCnts/list.do?boardID=5277&m=080201&s=kwthe",
+        "https://kwthe.gwe.go.kr/boardCnts/list.do?boardID=96283&m=080202&s=kwthe",
+        "https://kwthe.gwe.go.kr/boardCnts/list.do?boardID=5277&m=080201&page=1&prntBoardID=0&prntBoardSeq=0&prntLev=0&rsvtListYN=N&s=kwthe&searchType=S&searchType2="
+      ],
       "home": "https://kwthe.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-동해",
@@ -9851,7 +11752,9 @@
       "region": "강원특별자치도교육청"
     },
     "gwe-삼척": {
-      "boards": [],
+      "boards": [
+        "https://sce.gwe.go.kr/boardCnts/list.do?boardID=96173&m=010518&s=kwsche"
+      ],
       "home": "https://sce.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-삼척",
@@ -9861,7 +11764,9 @@
       "region": "강원특별자치도교육청"
     },
     "gwe-속초양양": {
-      "boards": [],
+      "boards": [
+        "https://gwsyed.gwe.go.kr/boardCnts/list.do?boardID=96258&m=021005&s=kwsyed"
+      ],
       "home": "https://gwsyed.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-속초양양",
@@ -9871,7 +11776,9 @@
       "region": "강원특별자치도교육청"
     },
     "gwe-양구": {
-      "boards": [],
+      "boards": [
+        "https://gwyged.gwe.go.kr/boardCnts/list.do?boardID=96265&m=1102&s=kwyged"
+      ],
       "home": "https://gwyged.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-양구",
@@ -9881,7 +11788,10 @@
       "region": "강원특별자치도교육청"
     },
     "gwe-영월": {
-      "boards": [],
+      "boards": [
+        "https://gwywed.gwe.go.kr/boardCnts/list.do?boardID=95572&m=1002&s=gwywed",
+        "https://gwywed.gwe.go.kr/boardCnts/list.do?boardID=96268&m=1004&s=gwywed"
+      ],
       "home": "https://gwywed.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-영월",
@@ -9891,7 +11801,10 @@
       "region": "강원특별자치도교육청"
     },
     "gwe-원주": {
-      "boards": [],
+      "boards": [
+        "https://gwwjed.gwe.go.kr/boardCnts/list.do?boardID=2854&m=010701&s=kwwje",
+        "https://gwwjed.gwe.go.kr/boardCnts/list.do?boardID=2855&m=010702&s=kwwje"
+      ],
       "home": "https://gwwjed.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-원주",
@@ -9901,7 +11814,9 @@
       "region": "강원특별자치도교육청"
     },
     "gwe-인제": {
-      "boards": [],
+      "boards": [
+        "https://gwijed.gwe.go.kr/boardCnts/list.do?boardID=96174&m=0211&s=kwije"
+      ],
       "home": "https://gwijed.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-인제",
@@ -9911,7 +11826,10 @@
       "region": "강원특별자치도교육청"
     },
     "gwe-정선": {
-      "boards": [],
+      "boards": [
+        "https://gwjsed.gwe.go.kr/boardCnts/list.do?boardID=90873&m=0803&s=gwjsed",
+        "https://gwjsed.gwe.go.kr/boardCnts/list.do?boardID=96224&m=0805&s=gwjsed"
+      ],
       "home": "https://gwjsed.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-정선",
@@ -9921,7 +11839,10 @@
       "region": "강원특별자치도교육청"
     },
     "gwe-철원": {
-      "boards": [],
+      "boards": [
+        "https://gwcwed.gwe.go.kr/boardCnts/list.do?boardID=101173&m=1304&s=gwcwed",
+        "https://gwcwed.gwe.go.kr/boardCnts/list.do?boardID=96287&m=0107&s=gwcwed"
+      ],
       "home": "https://gwcwed.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-철원",
@@ -9931,7 +11852,9 @@
       "region": "강원특별자치도교육청"
     },
     "gwe-춘천": {
-      "boards": [],
+      "boards": [
+        "https://gwcce.gwe.go.kr/boardCnts/list.do?boardID=96264&m=040304&s=gwcce"
+      ],
       "home": "https://gwcce.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-춘천",
@@ -9941,7 +11864,9 @@
       "region": "강원특별자치도교육청"
     },
     "gwe-태백": {
-      "boards": [],
+      "boards": [
+        "https://kwtbe.gwe.go.kr/boardCnts/list.do?boardID=96266&m=110602&s=kwtbe"
+      ],
       "home": "https://kwtbe.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-태백",
@@ -9951,7 +11876,10 @@
       "region": "강원특별자치도교육청"
     },
     "gwe-평창": {
-      "boards": [],
+      "boards": [
+        "https://gwpce.gwe.go.kr/boardCnts/list.do?boardID=39650&m=050401&s=gwpce",
+        "http://gwpce.gwe.go.kr/boardCnts/list.do?boardID=39650&m=050401&s=gwpce"
+      ],
       "home": "https://gwpce.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-평창",
@@ -9961,7 +11889,11 @@
       "region": "강원특별자치도교육청"
     },
     "gwe-홍천": {
-      "boards": [],
+      "boards": [
+        "https://gwhce.gwe.go.kr/boardCnts/list.do?boardID=1547&m=050902&s=gwhce",
+        "https://gwhce.gwe.go.kr/boardCnts/list.do?boardID=96275&m=050903&s=gwhce",
+        "http://gwhce.gwe.go.kr/boardCnts/list.do?boardID=96275&m=050903&s=gwhce"
+      ],
       "home": "https://gwhce.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-홍천",
@@ -9971,7 +11903,9 @@
       "region": "강원특별자치도교육청"
     },
     "gwe-화천": {
-      "boards": [],
+      "boards": [
+        "https://gwhced.gwe.go.kr/boardCnts/list.do?boardID=96271&m=0107&s=gwhced"
+      ],
       "home": "https://gwhced.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-화천",
@@ -9981,7 +11915,9 @@
       "region": "강원특별자치도교육청"
     },
     "gwe-횡성": {
-      "boards": [],
+      "boards": [
+        "https://gwhsed.gwe.go.kr/boardCnts/list.do?boardID=96210&m=0312&s=gwhsed"
+      ],
       "home": "https://gwhsed.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-횡성",
@@ -9991,7 +11927,13 @@
       "region": "강원특별자치도교육청"
     },
     "ice": {
-      "boards": [],
+      "boards": [
+        "https://www.ice.go.kr/ice/na/ntt/selectNttList.do?bbsId=1735&mi=10951",
+        "https://www.ice.go.kr/ice/na/ntt/selectNttList.do?bbsId=2072&mi=12300",
+        "https://www.ice.go.kr/ice/na/ntt/selectNttList.do?bbsId=1737&mi=10953",
+        "https://www.ice.go.kr/ice/na/ntt/selectNttList.do?bbsId=1731&mi=11862",
+        "https://www.ice.go.kr/ice/na/ntt/selectNttList.do?bbsId=1738&mi=10954"
+      ],
       "directory_sources": [
         "https://www.ice.go.kr/"
       ],
@@ -9999,7 +11941,7 @@
       "id": "ice",
       "kind": "시도교육청",
       "name": "인천광역시교육청",
-      "registry_error": "literal_redirect_loop",
+      "registry_error": null,
       "seed_boards": []
     },
     "ice-강화": {
