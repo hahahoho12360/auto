@@ -1,6 +1,6 @@
 {
   "expected": 193,
-  "generated_at": "2026-10-19T16:30:25.729426+09:00",
+  "generated_at": "2026-10-20T09:05:46.184489+09:00",
   "offices": [
     {
       "boards": [],
@@ -1149,10 +1149,7 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [
-        "https://www.goepj.kr/goepj/na/ntt/selectNttList.do?bbsId=7147&mi=10722",
-        "https://www.goepj.kr/goepj/na/ntt/selectNttList.do?bbsId=7194&mi=10806"
-      ],
+      "boards": [],
       "home": "https://www.goepj.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-파주",
@@ -1162,11 +1159,7 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [
-        "https://www.goept.kr/goept/na/ntt/selectNttList.do?bbsId=10115&mi=10124",
-        "https://www.goept.kr/goept/na/ntt/selectNttList.do?bbsId=10097&mi=10090",
-        "https://www.goept.kr/goept/na/ntt/selectNttList.do?bbsId=12917&mi=13586"
-      ],
+      "boards": [],
       "home": "https://www.goept.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-평택",
@@ -1176,10 +1169,7 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [
-        "https://www.goepc.kr/goepc/na/ntt/selectNttList.do?bbsId=2137&mi=2248",
-        "https://www.goepc.kr/goepc/na/ntt/selectNttList.do?bbsId=2141&mi=2254"
-      ],
+      "boards": [],
       "home": "https://www.goepc.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-포천",
@@ -1189,12 +1179,7 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [
-        "https://www.goehs.kr/goehs/na/ntt/selectNttList.do?bbsId=9851&mi=17884",
-        "https://www.goehs.kr/goehs/na/ntt/selectNttList.do?bbsId=9864&mi=17925",
-        "https://www.goehs.kr/goehs/na/ntt/selectNttList.do?bbsId=9826&mi=20966&srch_aditCol1=%EA%B0%90%EC%82%AC%EA%B3%BC",
-        "https://www.goehs.kr/goehs/na/ntt/selectNttList.do?bbsId=9841&mi=17870"
-      ],
+      "boards": [],
       "home": "https://www.goehs.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-화성오산",
@@ -1431,7 +1416,13 @@
       "region": "강원특별자치도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://www.ice.go.kr/ice/na/ntt/selectNttList.do?bbsId=1735&mi=10951",
+        "https://www.ice.go.kr/ice/na/ntt/selectNttList.do?bbsId=2072&mi=12300",
+        "https://www.ice.go.kr/ice/na/ntt/selectNttList.do?bbsId=1737&mi=10953",
+        "https://www.ice.go.kr/ice/na/ntt/selectNttList.do?bbsId=1731&mi=11862",
+        "https://www.ice.go.kr/ice/na/ntt/selectNttList.do?bbsId=1738&mi=10954"
+      ],
       "directory_sources": [
         "https://www.ice.go.kr/"
       ],
@@ -1439,7 +1430,7 @@
       "id": "ice",
       "kind": "시도교육청",
       "name": "인천광역시교육청",
-      "registry_error": "literal_redirect_loop",
+      "registry_error": null,
       "seed_boards": []
     },
     {
