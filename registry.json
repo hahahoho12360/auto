@@ -1,6 +1,6 @@
 {
   "expected": 193,
-  "generated_at": "2026-10-20T09:05:46.184489+09:00",
+  "generated_at": "2026-10-21T09:12:36.482431+09:00",
   "offices": [
     {
       "boards": [],
@@ -443,6 +443,7 @@
       "region": "경상북도교육청"
     },
     {
+      "board_discovery_mode": "general_boards_with_audit_title_filter",
       "boards": [],
       "home": "https://www.gbe.kr/sj/main.do",
       "home_source": "https://www.gbe.kr/",
@@ -1902,7 +1903,13 @@
       ]
     },
     {
-      "boards": [],
+      "boards": [
+        "https://www.pen.go.kr/main/na/ntt/selectNttList.do?bbsId=2611&mi=31669",
+        "https://www.pen.go.kr/main/na/ntt/selectNttList.do?bbsId=2370&mi=30502",
+        "https://www.pen.go.kr/dep04/main.do",
+        "https://www.pen.go.kr/main/na/ntt/selectNttList.do?bbsId=2371&mi=30503",
+        "https://www.pen.go.kr/main/na/ntt/selectNttList.do?bbsId=2369&mi=30212"
+      ],
       "directory_sources": [
         "https://www.pen.go.kr/"
       ],
@@ -1914,8 +1921,14 @@
       "seed_boards": []
     },
     {
-      "boards": [],
-      "home": null,
+      "boards": [
+        "https://home.pen.go.kr/nambu/na/ntt/selectNttList.do?bbsId=3918&mi=12229",
+        "https://home.pen.go.kr/nambu/na/ntt/selectNttList.do?bbsId=3919&mi=12233",
+        "https://home.pen.go.kr/nambu/na/ntt/selectNttList.do?bbsId=4182&mi=11875",
+        "https://home.pen.go.kr/nambu/na/ntt/selectNttList.do?bbsId=3846&mi=11876"
+      ],
+      "home": "http://home.pen.go.kr/nambu/main.do",
+      "home_source": "https://www.pen.go.kr/main/main.do",
       "id": "pen-남부",
       "kind": "교육지원청",
       "name": "남부교육지원청",
@@ -1923,8 +1936,14 @@
       "region": "부산광역시교육청"
     },
     {
-      "boards": [],
-      "home": null,
+      "boards": [
+        "https://home.pen.go.kr/dongnae/na/ntt/selectNttList.do?bbsId=3827&mi=12565",
+        "https://home.pen.go.kr/dongnae/na/ntt/selectNttList.do?bbsId=3828&mi=12568",
+        "https://home.pen.go.kr/dongnae/na/ntt/selectNttList.do?bbsId=3656&mi=11271",
+        "https://home.pen.go.kr/dongnae/na/ntt/selectNttList.do?bbsId=3657&mi=11275"
+      ],
+      "home": "http://home.pen.go.kr/dongnae/main.do",
+      "home_source": "https://www.pen.go.kr/main/main.do",
       "id": "pen-동래",
       "kind": "교육지원청",
       "name": "동래교육지원청",
@@ -1932,8 +1951,14 @@
       "region": "부산광역시교육청"
     },
     {
-      "boards": [],
-      "home": null,
+      "boards": [
+        "https://home.pen.go.kr/bukbu/na/ntt/selectNttList.do?bbsId=3788&mi=13594",
+        "https://home.pen.go.kr/bukbu/na/ntt/selectNttList.do?bbsId=3789&mi=13595",
+        "https://home.pen.go.kr/bukbu/na/ntt/selectNttList.do?bbsId=3729&mi=12862",
+        "https://home.pen.go.kr/bukbu/na/ntt/selectNttList.do?bbsId=3730&mi=12865"
+      ],
+      "home": "http://home.pen.go.kr/bukbu/main.do",
+      "home_source": "https://www.pen.go.kr/main/main.do",
       "id": "pen-북부",
       "kind": "교육지원청",
       "name": "북부교육지원청",
@@ -1941,8 +1966,11 @@
       "region": "부산광역시교육청"
     },
     {
-      "boards": [],
-      "home": null,
+      "boards": [
+        "https://home.pen.go.kr/seobu/na/ntt/selectNttList.do?bbsId=3608&mi=9510"
+      ],
+      "home": "http://home.pen.go.kr/seobu/main.do",
+      "home_source": "https://www.pen.go.kr/main/main.do",
       "id": "pen-서부",
       "kind": "교육지원청",
       "name": "서부교육지원청",
@@ -1950,8 +1978,13 @@
       "region": "부산광역시교육청"
     },
     {
-      "boards": [],
-      "home": null,
+      "boards": [
+        "https://home.pen.go.kr/haeundae/na/ntt/selectNttList.do?bbsId=3600&mi=11609",
+        "https://home.pen.go.kr/haeundae/na/ntt/selectNttList.do?bbsId=3586&mi=11610",
+        "https://home.pen.go.kr/haeundae/na/ntt/selectNttList.do?bbsId=3543&mi=11345"
+      ],
+      "home": "http://home.pen.go.kr/haeundae/main.do",
+      "home_source": "https://www.pen.go.kr/main/main.do",
       "id": "pen-해운대",
       "kind": "교육지원청",
       "name": "해운대교육지원청",

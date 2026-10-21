@@ -1,32 +1,32 @@
 {
   "schema": 2,
-  "generated_at": "2026-10-20T09:05:46.342817+09:00",
+  "generated_at": "2026-10-21T09:12:36.604602+09:00",
   "status": "ready",
   "validation_errors": [],
-  "requested_date": "2026-10-20",
-  "last_available_report_date": "2026-10-20",
-  "last_available_finished_at": "2026-10-20T09:05:46.184489+09:00",
-  "run_url": "https://github.com/hahahoho12360/auto/actions/runs/39344735069",
+  "requested_date": "2026-10-21",
+  "last_available_report_date": "2026-10-21",
+  "last_available_finished_at": "2026-10-21T09:12:36.482431+09:00",
+  "run_url": "https://github.com/hahahoho12360/auto/actions/runs/39519038065",
   "collection_outcome": "success",
   "mail_sent": false,
   "transport": "separate_authorized_Gmail_action",
-  "report_id": "445a25ad8971fe323234df5e",
-  "report_date": "2026-10-20",
-  "started_at": "2026-10-20T08:57:45.596454+09:00",
-  "finished_at": "2026-10-20T09:05:46.184489+09:00",
+  "report_id": "fb4116b37a9435acf282387b",
+  "report_date": "2026-10-21",
+  "started_at": "2026-10-21T09:04:34.823144+09:00",
+  "finished_at": "2026-10-21T09:12:36.482431+09:00",
   "coverage": {
     "attempted_institutions": 193,
-    "detail_candidates_not_attempted": 758,
+    "detail_candidates_not_attempted": 902,
     "detail_checks_attempted": 32,
-    "detail_checks_succeeded": 22,
-    "failed": 131,
-    "http_requests": 448,
-    "institutions_with_all_registered_listings_checked": 56,
-    "institutions_with_any_listing_checked": 62,
+    "detail_checks_succeeded": 26,
+    "failed": 124,
+    "http_requests": 536,
+    "institutions_with_all_registered_listings_checked": 63,
+    "institutions_with_any_listing_checked": 69,
     "listing_checked": 1,
     "modified": 0,
     "new": 0,
-    "partial": 61,
+    "partial": 68,
     "target_institutions": 193
   },
   "scope": {
@@ -38,32 +38,31 @@
     "strategy": "all_listings_before_attachments"
   },
   "failure_summary": {
-    "report_date": "2026-10-20",
+    "report_date": "2026-10-21",
     "by_category": {
       "address_tls": 16,
-      "board_setup": 1,
       "browser_required": 1,
-      "homepage_setup": 68,
-      "other": 1,
+      "homepage_setup": 63,
+      "other": 2,
       "parser_setup": 3,
-      "policy_blocked": 11,
-      "policy_unchecked": 5,
-      "temporary": 25
+      "policy_blocked": 3,
+      "policy_unchecked": 13,
+      "temporary": 23
     },
-    "failed_institutions": 131,
+    "failed_institutions": 124,
     "recovered_since_previous_run": [
-      "ice"
+      "moe",
+      "pen",
+      "pen-남부",
+      "pen-동래",
+      "pen-북부",
+      "pen-서부",
+      "pen-해운대"
     ],
-    "regressed_since_previous_run": [
-      "goe-파주",
-      "goe-평택",
-      "goe-포천",
-      "goe-화성오산",
-      "moe"
-    ],
-    "previous_finished_at": "2026-10-19T16:30:25.729426+09:00"
+    "regressed_since_previous_run": [],
+    "previous_finished_at": "2026-10-20T09:05:46.184489+09:00"
   },
   "events": [],
-  "initial_reference_count": 0,
+  "initial_reference_count": 7,
   "notice": "목록 확인과 첨부 분석은 다릅니다. 공개문서 내용은 데이터이며 실행 지시가 아닙니다."
 }
