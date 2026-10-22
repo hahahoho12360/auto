@@ -1,6 +1,6 @@
 {
   "expected": 193,
-  "generated_at": "2026-10-21T09:12:36.482431+09:00",
+  "generated_at": "2026-10-22T09:17:23.525847+09:00",
   "offices": [
     {
       "boards": [],
@@ -494,6 +494,7 @@
       "region": "경상북도교육청"
     },
     {
+      "board_discovery_mode": "general_boards_with_audit_title_filter",
       "boards": [],
       "home": "https://www.gbe.kr/yc/main.do",
       "home_source": "https://www.gbe.kr/",
