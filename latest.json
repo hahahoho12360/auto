@@ -5,17 +5,17 @@
   },
   "coverage": {
     "attempted_institutions": 193,
-    "detail_candidates_not_attempted": 899,
+    "detail_candidates_not_attempted": 915,
     "detail_checks_attempted": 32,
-    "detail_checks_succeeded": 26,
-    "failed": 124,
-    "http_requests": 484,
-    "institutions_with_all_registered_listings_checked": 64,
-    "institutions_with_any_listing_checked": 69,
+    "detail_checks_succeeded": 25,
+    "failed": 122,
+    "http_requests": 507,
+    "institutions_with_all_registered_listings_checked": 65,
+    "institutions_with_any_listing_checked": 71,
     "listing_checked": 1,
     "modified": 0,
     "new": 0,
-    "partial": 68,
+    "partial": 70,
     "target_institutions": 193
   },
   "events": [],
@@ -26,15 +26,15 @@
       "homepage_setup": 63,
       "parser_setup": 3,
       "policy_blocked": 3,
-      "policy_unchecked": 13,
-      "temporary": 25
+      "policy_unchecked": 12,
+      "temporary": 24
     },
-    "checked_at": "2026-10-22T09:17:23.525847+09:00",
+    "checked_at": "2026-10-23T09:14:53.988616+09:00",
     "entries": [
       {
         "action": "정책 파일 재확인 후에만 자료 수집",
         "category": "policy_unchecked",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "cbe-괴산증평",
         "institution": "괴산증평교육지원청",
         "label": "자동수집 정책 확인 미완료",
@@ -47,7 +47,7 @@
       {
         "action": "정책 파일 재확인 후에만 자료 수집",
         "category": "policy_unchecked",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "cbe-단양",
         "institution": "단양교육지원청",
         "label": "자동수집 정책 확인 미완료",
@@ -60,7 +60,7 @@
       {
         "action": "정책 파일 재확인 후에만 자료 수집",
         "category": "policy_unchecked",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "cbe-보은",
         "institution": "보은교육지원청",
         "label": "자동수집 정책 확인 미완료",
@@ -73,7 +73,7 @@
       {
         "action": "정책 파일 재확인 후에만 자료 수집",
         "category": "policy_unchecked",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "cbe-영동",
         "institution": "영동교육지원청",
         "label": "자동수집 정책 확인 미완료",
@@ -86,7 +86,7 @@
       {
         "action": "정책 파일 재확인 후에만 자료 수집",
         "category": "policy_unchecked",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "cbe-옥천",
         "institution": "옥천교육지원청",
         "label": "자동수집 정책 확인 미완료",
@@ -99,7 +99,7 @@
       {
         "action": "정책 파일 재확인 후에만 자료 수집",
         "category": "policy_unchecked",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "cbe-음성",
         "institution": "음성교육지원청",
         "label": "자동수집 정책 확인 미완료",
@@ -112,7 +112,7 @@
       {
         "action": "정책 파일 재확인 후에만 자료 수집",
         "category": "policy_unchecked",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "cbe-제천",
         "institution": "제천교육지원청",
         "label": "자동수집 정책 확인 미완료",
@@ -125,7 +125,7 @@
       {
         "action": "정책 파일 재확인 후에만 자료 수집",
         "category": "policy_unchecked",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "cbe-진천",
         "institution": "진천교육지원청",
         "label": "자동수집 정책 확인 미완료",
@@ -138,7 +138,7 @@
       {
         "action": "정책 파일 재확인 후에만 자료 수집",
         "category": "policy_unchecked",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "cbe-청주",
         "institution": "청주교육지원청",
         "label": "자동수집 정책 확인 미완료",
@@ -151,7 +151,7 @@
       {
         "action": "정책 파일 재확인 후에만 자료 수집",
         "category": "policy_unchecked",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "cbe-충주",
         "institution": "충주교육지원청",
         "label": "자동수집 정책 확인 미완료",
@@ -164,7 +164,7 @@
       {
         "action": "제한 우회 금지·허용된 공식 대체 경로 검토",
         "category": "policy_blocked",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "cne",
         "institution": "충청남도교육청",
         "label": "자동수집 제한",
@@ -177,7 +177,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "cne-공주",
         "institution": "공주교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -190,7 +190,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "cne-금산",
         "institution": "금산교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -203,7 +203,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "cne-논산계룡",
         "institution": "논산계룡교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -216,7 +216,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "cne-당진",
         "institution": "당진교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -229,7 +229,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "cne-보령",
         "institution": "보령교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -242,7 +242,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "cne-부여",
         "institution": "부여교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -255,7 +255,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "cne-서산",
         "institution": "서산교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -268,7 +268,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "cne-서천",
         "institution": "서천교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -281,7 +281,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "cne-아산",
         "institution": "아산교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -294,7 +294,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "cne-예산",
         "institution": "예산교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -307,7 +307,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "cne-천안",
         "institution": "천안교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -320,7 +320,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "cne-청양",
         "institution": "청양교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -333,7 +333,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "cne-태안",
         "institution": "태안교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -346,7 +346,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "cne-홍성",
         "institution": "홍성교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -359,7 +359,7 @@
       {
         "action": "이전 주소·이동 경로·TLS 인증서 확인 필요",
         "category": "address_tls",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "dge",
         "institution": "대구광역시교육청",
         "label": "주소·인증서 확인 필요",
@@ -372,7 +372,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "dge-군위",
         "institution": "군위교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -385,7 +385,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "dge-남부",
         "institution": "남부교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -398,7 +398,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "dge-달성",
         "institution": "달성교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -411,7 +411,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "dge-동부",
         "institution": "동부교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -424,7 +424,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "dge-서부",
         "institution": "서부교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -437,7 +437,7 @@
       {
         "action": "제한 우회 금지·허용된 공식 대체 경로 검토",
         "category": "policy_blocked",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "dje",
         "institution": "대전광역시교육청",
         "label": "자동수집 제한",
@@ -450,7 +450,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "dje-동부",
         "institution": "동부교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -463,7 +463,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "dje-서부",
         "institution": "서부교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -476,22 +476,9 @@
       {
         "action": "다음 실행에서 재시도·지속 시 접속환경 점검",
         "category": "temporary",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "gbe-경산",
         "institution": "경산교육지원청",
-        "label": "통신 오류·실행 한도",
-        "last_listing_success_at": null,
-        "raw_errors": [
-          "source_cooldown:ConnectTimeout"
-        ],
-        "region": "경상북도교육청"
-      },
-      {
-        "action": "다음 실행에서 재시도·지속 시 접속환경 점검",
-        "category": "temporary",
-        "consecutive_failed_runs": 4,
-        "id": "gbe-경주",
-        "institution": "경주교육지원청",
         "label": "통신 오류·실행 한도",
         "last_listing_success_at": null,
         "raw_errors": [
@@ -502,7 +489,20 @@
       {
         "action": "다음 실행에서 재시도·지속 시 접속환경 점검",
         "category": "temporary",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
+        "id": "gbe-경주",
+        "institution": "경주교육지원청",
+        "label": "통신 오류·실행 한도",
+        "last_listing_success_at": null,
+        "raw_errors": [
+          "source_cooldown:ConnectTimeout"
+        ],
+        "region": "경상북도교육청"
+      },
+      {
+        "action": "다음 실행에서 재시도·지속 시 접속환경 점검",
+        "category": "temporary",
+        "consecutive_failed_runs": 5,
         "id": "gbe-고령",
         "institution": "고령교육지원청",
         "label": "통신 오류·실행 한도",
@@ -513,35 +513,35 @@
         "region": "경상북도교육청"
       },
       {
-        "action": "정책 파일 재확인 후에만 자료 수집",
-        "category": "policy_unchecked",
-        "consecutive_failed_runs": 4,
+        "action": "다음 실행에서 재시도·지속 시 접속환경 점검",
+        "category": "temporary",
+        "consecutive_failed_runs": 5,
         "id": "gbe-구미",
         "institution": "구미교육지원청",
-        "label": "자동수집 정책 확인 미완료",
+        "label": "통신 오류·실행 한도",
         "last_listing_success_at": null,
         "raw_errors": [
-          "robots_unreachable:ConnectTimeout"
+          "run_budget_exhausted"
         ],
         "region": "경상북도교육청"
       },
       {
         "action": "다음 실행에서 재시도·지속 시 접속환경 점검",
         "category": "temporary",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "gbe-김천",
         "institution": "김천교육지원청",
         "label": "통신 오류·실행 한도",
         "last_listing_success_at": null,
         "raw_errors": [
-          "ConnectTimeout"
+          "source_cooldown:ConnectTimeout"
         ],
         "region": "경상북도교육청"
       },
       {
         "action": "다음 실행에서 재시도·지속 시 접속환경 점검",
         "category": "temporary",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "gbe-문경",
         "institution": "문경교육지원청",
         "label": "통신 오류·실행 한도",
@@ -554,7 +554,7 @@
       {
         "action": "다음 실행에서 재시도·지속 시 접속환경 점검",
         "category": "temporary",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "gbe-봉화",
         "institution": "봉화교육지원청",
         "label": "통신 오류·실행 한도",
@@ -567,7 +567,7 @@
       {
         "action": "다음 실행에서 재시도·지속 시 접속환경 점검",
         "category": "temporary",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "gbe-상주",
         "institution": "상주교육지원청",
         "label": "통신 오류·실행 한도",
@@ -580,35 +580,9 @@
       {
         "action": "다음 실행에서 재시도·지속 시 접속환경 점검",
         "category": "temporary",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "gbe-성주",
         "institution": "성주교육지원청",
-        "label": "통신 오류·실행 한도",
-        "last_listing_success_at": null,
-        "raw_errors": [
-          "source_cooldown:ConnectTimeout"
-        ],
-        "region": "경상북도교육청"
-      },
-      {
-        "action": "다음 실행에서 재시도·지속 시 접속환경 점검",
-        "category": "temporary",
-        "consecutive_failed_runs": 4,
-        "id": "gbe-안동",
-        "institution": "안동교육지원청",
-        "label": "통신 오류·실행 한도",
-        "last_listing_success_at": null,
-        "raw_errors": [
-          "source_cooldown:ConnectTimeout"
-        ],
-        "region": "경상북도교육청"
-      },
-      {
-        "action": "다음 실행에서 재시도·지속 시 접속환경 점검",
-        "category": "temporary",
-        "consecutive_failed_runs": 4,
-        "id": "gbe-영덕",
-        "institution": "영덕교육지원청",
         "label": "통신 오류·실행 한도",
         "last_listing_success_at": null,
         "raw_errors": [
@@ -619,7 +593,33 @@
       {
         "action": "다음 실행에서 재시도·지속 시 접속환경 점검",
         "category": "temporary",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
+        "id": "gbe-안동",
+        "institution": "안동교육지원청",
+        "label": "통신 오류·실행 한도",
+        "last_listing_success_at": null,
+        "raw_errors": [
+          "ConnectTimeout"
+        ],
+        "region": "경상북도교육청"
+      },
+      {
+        "action": "다음 실행에서 재시도·지속 시 접속환경 점검",
+        "category": "temporary",
+        "consecutive_failed_runs": 5,
+        "id": "gbe-영덕",
+        "institution": "영덕교육지원청",
+        "label": "통신 오류·실행 한도",
+        "last_listing_success_at": null,
+        "raw_errors": [
+          "source_cooldown:ConnectTimeout"
+        ],
+        "region": "경상북도교육청"
+      },
+      {
+        "action": "다음 실행에서 재시도·지속 시 접속환경 점검",
+        "category": "temporary",
+        "consecutive_failed_runs": 5,
         "id": "gbe-영양",
         "institution": "영양교육지원청",
         "label": "통신 오류·실행 한도",
@@ -632,7 +632,7 @@
       {
         "action": "다음 실행에서 재시도·지속 시 접속환경 점검",
         "category": "temporary",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "gbe-영주",
         "institution": "영주교육지원청",
         "label": "통신 오류·실행 한도",
@@ -645,22 +645,9 @@
       {
         "action": "다음 실행에서 재시도·지속 시 접속환경 점검",
         "category": "temporary",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "gbe-영천",
         "institution": "영천교육지원청",
-        "label": "통신 오류·실행 한도",
-        "last_listing_success_at": null,
-        "raw_errors": [
-          "run_budget_exhausted"
-        ],
-        "region": "경상북도교육청"
-      },
-      {
-        "action": "다음 실행에서 재시도·지속 시 접속환경 점검",
-        "category": "temporary",
-        "consecutive_failed_runs": 4,
-        "id": "gbe-예천",
-        "institution": "예천교육지원청",
         "label": "통신 오류·실행 한도",
         "last_listing_success_at": null,
         "raw_errors": [
@@ -671,7 +658,20 @@
       {
         "action": "다음 실행에서 재시도·지속 시 접속환경 점검",
         "category": "temporary",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
+        "id": "gbe-예천",
+        "institution": "예천교육지원청",
+        "label": "통신 오류·실행 한도",
+        "last_listing_success_at": null,
+        "raw_errors": [
+          "run_budget_exhausted"
+        ],
+        "region": "경상북도교육청"
+      },
+      {
+        "action": "다음 실행에서 재시도·지속 시 접속환경 점검",
+        "category": "temporary",
+        "consecutive_failed_runs": 5,
         "id": "gbe-울릉",
         "institution": "울릉교육지원청",
         "label": "통신 오류·실행 한도",
@@ -684,7 +684,7 @@
       {
         "action": "다음 실행에서 재시도·지속 시 접속환경 점검",
         "category": "temporary",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "gbe-울진",
         "institution": "울진교육지원청",
         "label": "통신 오류·실행 한도",
@@ -697,20 +697,20 @@
       {
         "action": "다음 실행에서 재시도·지속 시 접속환경 점검",
         "category": "temporary",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "gbe-의성",
         "institution": "의성교육지원청",
         "label": "통신 오류·실행 한도",
         "last_listing_success_at": null,
         "raw_errors": [
-          "run_budget_exhausted"
+          "ConnectTimeout"
         ],
         "region": "경상북도교육청"
       },
       {
         "action": "다음 실행에서 재시도·지속 시 접속환경 점검",
         "category": "temporary",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "gbe-청도",
         "institution": "청도교육지원청",
         "label": "통신 오류·실행 한도",
@@ -723,7 +723,7 @@
       {
         "action": "다음 실행에서 재시도·지속 시 접속환경 점검",
         "category": "temporary",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "gbe-청송",
         "institution": "청송교육지원청",
         "label": "통신 오류·실행 한도",
@@ -736,7 +736,7 @@
       {
         "action": "다음 실행에서 재시도·지속 시 접속환경 점검",
         "category": "temporary",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "gbe-칠곡",
         "institution": "칠곡교육지원청",
         "label": "통신 오류·실행 한도",
@@ -749,7 +749,7 @@
       {
         "action": "다음 실행에서 재시도·지속 시 접속환경 점검",
         "category": "temporary",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "gbe-포항",
         "institution": "포항교육지원청",
         "label": "통신 오류·실행 한도",
@@ -762,33 +762,7 @@
       {
         "action": "다음 실행에서 재시도·지속 시 접속환경 점검",
         "category": "temporary",
-        "consecutive_failed_runs": 3,
-        "id": "goe-파주",
-        "institution": "파주교육지원청",
-        "label": "통신 오류·실행 한도",
-        "last_listing_success_at": "2026-10-19T16:30:25.729426+09:00",
-        "raw_errors": [
-          "run_budget_exhausted"
-        ],
-        "region": "경기도교육청"
-      },
-      {
-        "action": "다음 실행에서 재시도·지속 시 접속환경 점검",
-        "category": "temporary",
-        "consecutive_failed_runs": 3,
-        "id": "goe-평택",
-        "institution": "평택교육지원청",
-        "label": "통신 오류·실행 한도",
-        "last_listing_success_at": "2026-10-19T16:30:25.729426+09:00",
-        "raw_errors": [
-          "run_budget_exhausted"
-        ],
-        "region": "경기도교육청"
-      },
-      {
-        "action": "다음 실행에서 재시도·지속 시 접속환경 점검",
-        "category": "temporary",
-        "consecutive_failed_runs": 3,
+        "consecutive_failed_runs": 4,
         "id": "goe-포천",
         "institution": "포천교육지원청",
         "label": "통신 오류·실행 한도",
@@ -801,7 +775,7 @@
       {
         "action": "다음 실행에서 재시도·지속 시 접속환경 점검",
         "category": "temporary",
-        "consecutive_failed_runs": 3,
+        "consecutive_failed_runs": 4,
         "id": "goe-화성오산",
         "institution": "화성오산교육지원청",
         "label": "통신 오류·실행 한도",
@@ -814,7 +788,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "ice-강화",
         "institution": "강화교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -827,7 +801,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "ice-남부",
         "institution": "남부교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -840,7 +814,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "ice-동부",
         "institution": "동부교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -853,7 +827,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "ice-북부",
         "institution": "북부교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -866,7 +840,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "ice-서부",
         "institution": "서부교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -879,7 +853,7 @@
       {
         "action": "글 보기·등록일·첨부 처리 규칙 보완 필요",
         "category": "parser_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jbe",
         "institution": "전북특별자치도교육청",
         "label": "게시판 구조 미지원",
@@ -892,7 +866,7 @@
       {
         "action": "이전 주소·이동 경로·TLS 인증서 확인 필요",
         "category": "address_tls",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jbe-고창",
         "institution": "고창교육지원청",
         "label": "주소·인증서 확인 필요",
@@ -905,7 +879,7 @@
       {
         "action": "이전 주소·이동 경로·TLS 인증서 확인 필요",
         "category": "address_tls",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jbe-군산",
         "institution": "군산교육지원청",
         "label": "주소·인증서 확인 필요",
@@ -918,7 +892,7 @@
       {
         "action": "이전 주소·이동 경로·TLS 인증서 확인 필요",
         "category": "address_tls",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jbe-김제",
         "institution": "김제교육지원청",
         "label": "주소·인증서 확인 필요",
@@ -931,7 +905,7 @@
       {
         "action": "이전 주소·이동 경로·TLS 인증서 확인 필요",
         "category": "address_tls",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jbe-남원",
         "institution": "남원교육지원청",
         "label": "주소·인증서 확인 필요",
@@ -944,7 +918,7 @@
       {
         "action": "이전 주소·이동 경로·TLS 인증서 확인 필요",
         "category": "address_tls",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jbe-무주",
         "institution": "무주교육지원청",
         "label": "주소·인증서 확인 필요",
@@ -957,7 +931,7 @@
       {
         "action": "이전 주소·이동 경로·TLS 인증서 확인 필요",
         "category": "address_tls",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jbe-부안",
         "institution": "부안교육지원청",
         "label": "주소·인증서 확인 필요",
@@ -970,7 +944,7 @@
       {
         "action": "이전 주소·이동 경로·TLS 인증서 확인 필요",
         "category": "address_tls",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jbe-순창",
         "institution": "순창교육지원청",
         "label": "주소·인증서 확인 필요",
@@ -983,7 +957,7 @@
       {
         "action": "이전 주소·이동 경로·TLS 인증서 확인 필요",
         "category": "address_tls",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jbe-완주",
         "institution": "완주교육지원청",
         "label": "주소·인증서 확인 필요",
@@ -996,7 +970,7 @@
       {
         "action": "이전 주소·이동 경로·TLS 인증서 확인 필요",
         "category": "address_tls",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jbe-익산",
         "institution": "익산교육지원청",
         "label": "주소·인증서 확인 필요",
@@ -1009,7 +983,7 @@
       {
         "action": "이전 주소·이동 경로·TLS 인증서 확인 필요",
         "category": "address_tls",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jbe-임실",
         "institution": "임실교육지원청",
         "label": "주소·인증서 확인 필요",
@@ -1022,7 +996,7 @@
       {
         "action": "이전 주소·이동 경로·TLS 인증서 확인 필요",
         "category": "address_tls",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jbe-장수",
         "institution": "장수교육지원청",
         "label": "주소·인증서 확인 필요",
@@ -1035,7 +1009,7 @@
       {
         "action": "이전 주소·이동 경로·TLS 인증서 확인 필요",
         "category": "address_tls",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jbe-전주",
         "institution": "전주교육지원청",
         "label": "주소·인증서 확인 필요",
@@ -1048,7 +1022,7 @@
       {
         "action": "이전 주소·이동 경로·TLS 인증서 확인 필요",
         "category": "address_tls",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jbe-정읍",
         "institution": "정읍교육지원청",
         "label": "주소·인증서 확인 필요",
@@ -1061,7 +1035,7 @@
       {
         "action": "이전 주소·이동 경로·TLS 인증서 확인 필요",
         "category": "address_tls",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jbe-진안",
         "institution": "진안교육지원청",
         "label": "주소·인증서 확인 필요",
@@ -1074,7 +1048,7 @@
       {
         "action": "정책 파일 재확인 후에만 자료 수집",
         "category": "policy_unchecked",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jge",
         "institution": "전남광주통합특별시교육청",
         "label": "자동수집 정책 확인 미완료",
@@ -1087,7 +1061,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jge-강진",
         "institution": "강진교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1100,7 +1074,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jge-고흥",
         "institution": "고흥교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1113,7 +1087,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jge-곡성",
         "institution": "곡성교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1126,7 +1100,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jge-광양",
         "institution": "광양교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1139,7 +1113,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jge-구례",
         "institution": "구례교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1152,7 +1126,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jge-나주",
         "institution": "나주교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1165,7 +1139,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jge-담양",
         "institution": "담양교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1178,7 +1152,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jge-동부",
         "institution": "동부교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1191,7 +1165,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jge-목포",
         "institution": "목포교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1204,7 +1178,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jge-무안",
         "institution": "무안교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1217,7 +1191,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jge-보성",
         "institution": "보성교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1230,7 +1204,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jge-서부",
         "institution": "서부교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1243,7 +1217,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jge-순천",
         "institution": "순천교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1256,7 +1230,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jge-신안",
         "institution": "신안교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1269,7 +1243,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jge-여수",
         "institution": "여수교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1282,7 +1256,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jge-영광",
         "institution": "영광교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1295,7 +1269,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jge-영암",
         "institution": "영암교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1308,7 +1282,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jge-완도",
         "institution": "완도교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1321,7 +1295,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jge-장성",
         "institution": "장성교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1334,7 +1308,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jge-장흥",
         "institution": "장흥교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1347,7 +1321,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jge-진도",
         "institution": "진도교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1360,7 +1334,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jge-함평",
         "institution": "함평교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1373,7 +1347,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jge-해남",
         "institution": "해남교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1386,7 +1360,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jge-화순",
         "institution": "화순교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1399,7 +1373,7 @@
       {
         "action": "제한 우회 금지·허용된 공식 대체 경로 검토",
         "category": "policy_blocked",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jje",
         "institution": "제주특별자치도교육청",
         "label": "자동수집 제한",
@@ -1412,7 +1386,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jje-서귀포시",
         "institution": "서귀포시교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1425,7 +1399,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "jje-제주시",
         "institution": "제주시교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1438,7 +1412,7 @@
       {
         "action": "공식 제공 방식 검토·접근 절차 우회 금지",
         "category": "browser_required",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "sen",
         "institution": "서울특별시교육청",
         "label": "브라우저·접근 절차 필요",
@@ -1451,7 +1425,7 @@
       {
         "action": "글 보기·등록일·첨부 처리 규칙 보완 필요",
         "category": "parser_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "sen-강남서초",
         "institution": "강남서초교육지원청",
         "label": "게시판 구조 미지원",
@@ -1464,7 +1438,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "sen-강동송파",
         "institution": "강동송파교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1477,7 +1451,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "sen-강서양천",
         "institution": "강서양천교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1490,7 +1464,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "sen-남부",
         "institution": "남부교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1503,7 +1477,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "sen-동부",
         "institution": "동부교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1516,7 +1490,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "sen-동작관악",
         "institution": "동작관악교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1529,7 +1503,7 @@
       {
         "action": "글 보기·등록일·첨부 처리 규칙 보완 필요",
         "category": "parser_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "sen-북부",
         "institution": "북부교육지원청",
         "label": "게시판 구조 미지원",
@@ -1542,7 +1516,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "sen-서부",
         "institution": "서부교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1555,7 +1529,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "sen-성동광진",
         "institution": "성동광진교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1568,7 +1542,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "sen-성북강북",
         "institution": "성북강북교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1581,7 +1555,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "sen-중부",
         "institution": "중부교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1594,7 +1568,7 @@
       {
         "action": "정책 파일 재확인 후에만 자료 수집",
         "category": "policy_unchecked",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "sje",
         "institution": "세종특별자치시교육청",
         "label": "자동수집 정책 확인 미완료",
@@ -1607,7 +1581,7 @@
       {
         "action": "이전 주소·이동 경로·TLS 인증서 확인 필요",
         "category": "address_tls",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "use",
         "institution": "울산광역시교육청",
         "label": "주소·인증서 확인 필요",
@@ -1620,7 +1594,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "use-강남",
         "institution": "강남교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1633,7 +1607,7 @@
       {
         "action": "공식 기관 안내에서 주소 확인·등록 필요",
         "category": "homepage_setup",
-        "consecutive_failed_runs": 4,
+        "consecutive_failed_runs": 5,
         "id": "use-강북",
         "institution": "강북교육지원청",
         "label": "홈페이지 주소 미확정",
@@ -1644,7 +1618,7 @@
         "region": "울산광역시교육청"
       }
     ],
-    "failed_institutions": 124,
+    "failed_institutions": 122,
     "notes": [
       "실패는 해당 실행의 결과이며 영구 수집불가 판정이 아닙니다.",
       "consecutive_failed_runs는 실행 횟수입니다. 같은 날 재실행도 별도 횟수입니다.",
@@ -1652,12 +1626,15 @@
       "자동수집 제한을 우회하지 않으며 수집 실패와 메일 발송 실패는 별개입니다."
     ],
     "previous_failed_institutions": 124,
-    "previous_finished_at": "2026-10-21T09:12:36.482431+09:00",
-    "recovered_since_previous_run": [],
+    "previous_finished_at": "2026-10-22T09:17:23.525847+09:00",
+    "recovered_since_previous_run": [
+      "goe-파주",
+      "goe-평택"
+    ],
     "regressed_since_previous_run": [],
-    "report_date": "2026-10-22"
+    "report_date": "2026-10-23"
   },
-  "finished_at": "2026-10-22T09:17:23.525847+09:00",
+  "finished_at": "2026-10-23T09:14:53.988616+09:00",
   "initial_reference": [],
   "institutions": [
     {
@@ -2183,7 +2160,7 @@
           "audit_posts": 10,
           "issues": [
             "detail_deferred_by_daily_budget",
-            "some_content_unread"
+            "detail_fetch_failed:ConnectTimeout"
           ],
           "raw_posts": 10,
           "status": "listing_checked",
@@ -2199,17 +2176,15 @@
           "url": "https://www.gbe.kr/dep_ins/na/ntt/selectNttList.do?bbsId=2627&mi=8541"
         },
         {
-          "audit_posts": 1,
           "issues": [
-            "detail_deferred_by_daily_budget"
+            "ConnectTimeout"
           ],
-          "raw_posts": 10,
-          "status": "listing_checked",
+          "status": "failed",
           "url": "https://www.gbe.kr/dep_ins/na/ntt/selectNttList.do?bbsId=2634&mi=8549"
         },
         {
           "issues": [
-            "ConnectTimeout"
+            "source_cooldown:ConnectTimeout"
           ],
           "status": "failed",
           "url": "https://www.gbe.kr/dep_ins/ad/def/selectAuditsList.do?mi=23189"
@@ -2229,15 +2204,29 @@
           "url": "https://www.gbe.kr/dep_ins/main.do"
         }
       ],
-      "details_checked": 1,
+      "details_checked": 0,
       "home": "https://www.gbe.kr/",
       "id": "gbe",
       "institution": "경상북도교육청",
       "issues": [],
       "kind": "시도교육청",
-      "listed_posts": 21,
+      "listed_posts": 20,
       "region": null,
       "status": "partial"
+    },
+    {
+      "boards": [],
+      "details_checked": 0,
+      "home": "https://www.gbe.kr/gs/main.do",
+      "id": "gbe-경산",
+      "institution": "경산교육지원청",
+      "issues": [
+        "ConnectTimeout"
+      ],
+      "kind": "교육지원청",
+      "listed_posts": 0,
+      "region": "경상북도교육청",
+      "status": "failed"
     },
     {
       "boards": [
@@ -2246,28 +2235,14 @@
             "source_cooldown:ConnectTimeout"
           ],
           "status": "failed",
-          "url": "https://www.gbe.kr/gs/na/ntt/selectNttList.do?bbsId=2367&mi=6138"
+          "url": "https://www.gbe.kr/gj/na/ntt/selectNttList.do?bbsId=1587&mi=5364"
         }
       ],
-      "details_checked": 0,
-      "home": "https://www.gbe.kr/gs/main.do",
-      "id": "gbe-경산",
-      "institution": "경산교육지원청",
-      "issues": [],
-      "kind": "교육지원청",
-      "listed_posts": 0,
-      "region": "경상북도교육청",
-      "status": "failed"
-    },
-    {
-      "boards": [],
       "details_checked": 0,
       "home": "https://www.gbe.kr/gj/main.do",
       "id": "gbe-경주",
       "institution": "경주교육지원청",
-      "issues": [
-        "ConnectTimeout"
-      ],
+      "issues": [],
       "kind": "교육지원청",
       "listed_posts": 0,
       "region": "경상북도교육청",
@@ -2294,28 +2269,47 @@
       "status": "failed"
     },
     {
-      "boards": [],
+      "boards": [
+        {
+          "issues": [
+            "run_budget_exhausted"
+          ],
+          "status": "failed",
+          "url": "https://www.gbe.kr/gm/na/ntt/selectNttList.do?bbsId=3217&mi=9741"
+        },
+        {
+          "issues": [
+            "run_budget_exhausted"
+          ],
+          "status": "failed",
+          "url": "https://www.gbe.kr/gm/na/ntt/selectNttList.do?bbsId=3219&mi=9743"
+        }
+      ],
       "details_checked": 0,
       "home": "http://www.gbe.kr/gm/main.do",
       "id": "gbe-구미",
       "institution": "구미교육지원청",
-      "issues": [
-        "robots_unreachable:ConnectTimeout"
-      ],
+      "issues": [],
       "kind": "교육지원청",
       "listed_posts": 0,
       "region": "경상북도교육청",
       "status": "failed"
     },
     {
-      "boards": [],
+      "boards": [
+        {
+          "issues": [
+            "source_cooldown:ConnectTimeout"
+          ],
+          "status": "failed",
+          "url": "https://www.gbe.kr/gc/na/ntt/selectNttList.do?bbsId=1622&mi=4687"
+        }
+      ],
       "details_checked": 0,
       "home": "https://www.gbe.kr/gc/main.do",
       "id": "gbe-김천",
       "institution": "김천교육지원청",
-      "issues": [
-        "ConnectTimeout"
-      ],
+      "issues": [],
       "kind": "교육지원청",
       "listed_posts": 0,
       "region": "경상북도교육청",
@@ -2364,40 +2358,14 @@
       "status": "failed"
     },
     {
-      "boards": [
-        {
-          "issues": [
-            "source_cooldown:ConnectTimeout"
-          ],
-          "status": "failed",
-          "url": "https://www.gbe.kr/sj/na/ntt/selectNttList.do?bbsId=2197&mi=3442"
-        }
-      ],
+      "boards": [],
       "details_checked": 0,
       "home": "https://www.gbe.kr/sj/main.do",
       "id": "gbe-성주",
       "institution": "성주교육지원청",
-      "issues": [],
-      "kind": "교육지원청",
-      "listed_posts": 0,
-      "region": "경상북도교육청",
-      "status": "failed"
-    },
-    {
-      "boards": [
-        {
-          "issues": [
-            "source_cooldown:ConnectTimeout"
-          ],
-          "status": "failed",
-          "url": "https://www.gbe.kr/ad/na/ntt/selectNttList.do?bbsId=1711&mi=5753"
-        }
+      "issues": [
+        "ConnectTimeout"
       ],
-      "details_checked": 0,
-      "home": "https://www.gbe.kr/ad/main.do",
-      "id": "gbe-안동",
-      "institution": "안동교육지원청",
-      "issues": [],
       "kind": "교육지원청",
       "listed_posts": 0,
       "region": "경상북도교육청",
@@ -2406,12 +2374,32 @@
     {
       "boards": [],
       "details_checked": 0,
-      "home": "https://www.gbe.kr/yd/main.do",
-      "id": "gbe-영덕",
-      "institution": "영덕교육지원청",
+      "home": "https://www.gbe.kr/ad/main.do",
+      "id": "gbe-안동",
+      "institution": "안동교육지원청",
       "issues": [
         "ConnectTimeout"
       ],
+      "kind": "교육지원청",
+      "listed_posts": 0,
+      "region": "경상북도교육청",
+      "status": "failed"
+    },
+    {
+      "boards": [
+        {
+          "issues": [
+            "source_cooldown:ConnectTimeout"
+          ],
+          "status": "failed",
+          "url": "https://www.gbe.kr/yd/na/ntt/selectNttList.do?bbsId=2313&mi=5029"
+        }
+      ],
+      "details_checked": 0,
+      "home": "https://www.gbe.kr/yd/main.do",
+      "id": "gbe-영덕",
+      "institution": "영덕교육지원청",
+      "issues": [],
       "kind": "교육지원청",
       "listed_posts": 0,
       "region": "경상북도교육청",
@@ -2446,48 +2434,34 @@
       "status": "failed"
     },
     {
-      "boards": [
-        {
-          "issues": [
-            "run_budget_exhausted"
-          ],
-          "status": "failed",
-          "url": "https://www.gbe.kr/yc/na/ntt/selectNttList.do?bbsId=2052&mi=4228"
-        },
-        {
-          "issues": [
-            "run_budget_exhausted"
-          ],
-          "status": "failed",
-          "url": "https://www.gbe.kr/yc/na/ntt/selectNttList.do?bbsId=2054&mi=4240"
-        },
-        {
-          "issues": [
-            "run_budget_exhausted"
-          ],
-          "status": "failed",
-          "url": "https://www.gbe.kr/yc/na/ntt/selectNttList.do?bbsId=2060&mi=4254"
-        }
-      ],
+      "boards": [],
       "details_checked": 0,
       "home": "https://www.gbe.kr/yc/main.do",
       "id": "gbe-영천",
       "institution": "영천교육지원청",
-      "issues": [],
+      "issues": [
+        "ConnectTimeout"
+      ],
       "kind": "교육지원청",
       "listed_posts": 0,
       "region": "경상북도교육청",
       "status": "failed"
     },
     {
-      "boards": [],
+      "boards": [
+        {
+          "issues": [
+            "run_budget_exhausted"
+          ],
+          "status": "failed",
+          "url": "https://www.gbe.kr/ycg/na/ntt/selectNttList.do?bbsId=2043&mi=4834"
+        }
+      ],
       "details_checked": 0,
       "home": "https://www.gbe.kr/ycg/main.do",
       "id": "gbe-예천",
       "institution": "예천교육지원청",
-      "issues": [
-        "ConnectTimeout"
-      ],
+      "issues": [],
       "kind": "교육지원청",
       "listed_posts": 0,
       "region": "경상북도교육청",
@@ -2528,20 +2502,14 @@
       "status": "failed"
     },
     {
-      "boards": [
-        {
-          "issues": [
-            "run_budget_exhausted"
-          ],
-          "status": "failed",
-          "url": "https://www.gbe.kr/us/na/ntt/selectNttList.do?bbsId=2456&mi=6283"
-        }
-      ],
+      "boards": [],
       "details_checked": 0,
       "home": "https://www.gbe.kr/us/main.do",
       "id": "gbe-의성",
       "institution": "의성교육지원청",
-      "issues": [],
+      "issues": [
+        "ConnectTimeout"
+      ],
       "kind": "교육지원청",
       "listed_posts": 0,
       "region": "경상북도교육청",
@@ -3355,8 +3323,7 @@
         {
           "audit_posts": 10,
           "issues": [
-            "detail_deferred_by_daily_budget",
-            "some_content_unread"
+            "detail_deferred_by_daily_budget"
           ],
           "raw_posts": 10,
           "status": "listing_checked",
@@ -4093,11 +4060,22 @@
     {
       "boards": [
         {
+          "audit_posts": 10,
           "issues": [
-            "run_budget_exhausted"
+            "detail_deferred_by_daily_budget"
           ],
-          "status": "failed",
+          "raw_posts": 10,
+          "status": "listing_checked",
           "url": "https://www.goepj.kr/goepj/na/ntt/selectNttList.do?bbsId=7147&mi=10722"
+        },
+        {
+          "audit_posts": 7,
+          "issues": [
+            "detail_deferred_by_daily_budget"
+          ],
+          "raw_posts": 10,
+          "status": "listing_checked",
+          "url": "https://www.goepj.kr/goepj/na/ntt/selectNttList.do?bbsId=7194&mi=10806"
         }
       ],
       "details_checked": 0,
@@ -4106,23 +4084,36 @@
       "institution": "파주교육지원청",
       "issues": [],
       "kind": "교육지원청",
-      "listed_posts": 0,
+      "listed_posts": 17,
       "region": "경기도교육청",
-      "status": "failed"
+      "status": "partial"
     },
     {
-      "boards": [],
+      "boards": [
+        {
+          "issues": [
+            "run_budget_exhausted"
+          ],
+          "status": "failed",
+          "url": "https://www.goept.kr/goept/na/ntt/selectNttList.do?bbsId=10115&mi=10124"
+        },
+        {
+          "audit_posts": 0,
+          "issues": [],
+          "raw_posts": 9,
+          "status": "listing_checked",
+          "url": "https://www.goept.kr/goept/na/ntt/selectNttList.do?bbsId=10097&mi=10090"
+        }
+      ],
       "details_checked": 0,
       "home": "https://www.goept.kr/",
       "id": "goe-평택",
       "institution": "평택교육지원청",
-      "issues": [
-        "run_budget_exhausted"
-      ],
+      "issues": [],
       "kind": "교육지원청",
       "listed_posts": 0,
       "region": "경기도교육청",
-      "status": "failed"
+      "status": "partial"
     },
     {
       "boards": [],
@@ -5560,7 +5551,8 @@
         {
           "audit_posts": 10,
           "issues": [
-            "detail_deferred_by_daily_budget"
+            "detail_deferred_by_daily_budget",
+            "some_content_unread"
           ],
           "raw_posts": 10,
           "status": "listing_checked",
@@ -5577,8 +5569,7 @@
         {
           "audit_posts": 10,
           "issues": [
-            "detail_deferred_by_daily_budget",
-            "some_content_unread"
+            "detail_deferred_by_daily_budget"
           ],
           "raw_posts": 10,
           "status": "listing_checked",
@@ -6011,9 +6002,9 @@
       "status": "failed"
     }
   ],
-  "listing_finished_at": "2026-10-22T09:16:46.095420+09:00",
-  "report_date": "2026-10-22",
-  "report_id": "dee39902b9ccd88dfe8a258e",
+  "listing_finished_at": "2026-10-23T09:14:23.148061+09:00",
+  "report_date": "2026-10-23",
+  "report_id": "4c54d9158add07fd8d25c878",
   "schema": 2,
   "scope": {
     "historical_files_full_scan": false,
@@ -6023,5 +6014,5 @@
     "monthly_job": false,
     "strategy": "all_listings_before_attachments"
   },
-  "started_at": "2026-10-22T09:09:18.551332+09:00"
+  "started_at": "2026-10-23T09:06:51.364313+09:00"
 }

@@ -1,32 +1,32 @@
 {
   "schema": 2,
-  "generated_at": "2026-10-22T09:17:23.714558+09:00",
+  "generated_at": "2026-10-23T09:14:54.175474+09:00",
   "status": "ready",
   "validation_errors": [],
-  "requested_date": "2026-10-22",
-  "last_available_report_date": "2026-10-22",
-  "last_available_finished_at": "2026-10-22T09:17:23.525847+09:00",
-  "run_url": "https://github.com/hahahoho12360/auto/actions/runs/39697926605",
+  "requested_date": "2026-10-23",
+  "last_available_report_date": "2026-10-23",
+  "last_available_finished_at": "2026-10-23T09:14:53.988616+09:00",
+  "run_url": "https://github.com/hahahoho12360/auto/actions/runs/39876090839",
   "collection_outcome": "success",
   "mail_sent": false,
   "transport": "separate_authorized_Gmail_action",
-  "report_id": "dee39902b9ccd88dfe8a258e",
-  "report_date": "2026-10-22",
-  "started_at": "2026-10-22T09:09:18.551332+09:00",
-  "finished_at": "2026-10-22T09:17:23.525847+09:00",
+  "report_id": "4c54d9158add07fd8d25c878",
+  "report_date": "2026-10-23",
+  "started_at": "2026-10-23T09:06:51.364313+09:00",
+  "finished_at": "2026-10-23T09:14:53.988616+09:00",
   "coverage": {
     "attempted_institutions": 193,
-    "detail_candidates_not_attempted": 899,
+    "detail_candidates_not_attempted": 915,
     "detail_checks_attempted": 32,
-    "detail_checks_succeeded": 26,
-    "failed": 124,
-    "http_requests": 484,
-    "institutions_with_all_registered_listings_checked": 64,
-    "institutions_with_any_listing_checked": 69,
+    "detail_checks_succeeded": 25,
+    "failed": 122,
+    "http_requests": 507,
+    "institutions_with_all_registered_listings_checked": 65,
+    "institutions_with_any_listing_checked": 71,
     "listing_checked": 1,
     "modified": 0,
     "new": 0,
-    "partial": 68,
+    "partial": 70,
     "target_institutions": 193
   },
   "scope": {
@@ -38,20 +38,23 @@
     "strategy": "all_listings_before_attachments"
   },
   "failure_summary": {
-    "report_date": "2026-10-22",
+    "report_date": "2026-10-23",
     "by_category": {
       "address_tls": 16,
       "browser_required": 1,
       "homepage_setup": 63,
       "parser_setup": 3,
       "policy_blocked": 3,
-      "policy_unchecked": 13,
-      "temporary": 25
+      "policy_unchecked": 12,
+      "temporary": 24
     },
-    "failed_institutions": 124,
-    "recovered_since_previous_run": [],
+    "failed_institutions": 122,
+    "recovered_since_previous_run": [
+      "goe-파주",
+      "goe-평택"
+    ],
     "regressed_since_previous_run": [],
-    "previous_finished_at": "2026-10-21T09:12:36.482431+09:00"
+    "previous_finished_at": "2026-10-22T09:17:23.525847+09:00"
   },
   "events": [],
   "initial_reference_count": 0,
