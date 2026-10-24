@@ -1,32 +1,32 @@
 {
   "schema": 2,
-  "generated_at": "2026-10-24T09:05:22.619040+09:00",
+  "generated_at": "2026-10-25T08:44:35.398769+09:00",
   "status": "ready",
   "validation_errors": [],
-  "requested_date": "2026-10-24",
-  "last_available_report_date": "2026-10-24",
-  "last_available_finished_at": "2026-10-24T09:05:22.431447+09:00",
-  "run_url": "https://github.com/hahahoho12360/auto/actions/runs/40042471404",
+  "requested_date": "2026-10-25",
+  "last_available_report_date": "2026-10-25",
+  "last_available_finished_at": "2026-10-25T08:44:35.221013+09:00",
+  "run_url": "https://github.com/hahahoho12360/auto/actions/runs/40143407762",
   "collection_outcome": "success",
   "mail_sent": false,
   "transport": "separate_authorized_Gmail_action",
-  "report_id": "30a0b091f5221c8bb19c67fe",
-  "report_date": "2026-10-24",
-  "started_at": "2026-10-24T08:57:23.546167+09:00",
-  "finished_at": "2026-10-24T09:05:22.431447+09:00",
+  "report_id": "6e9390036e59355a6aa844cb",
+  "report_date": "2026-10-25",
+  "started_at": "2026-10-25T08:36:21.846094+09:00",
+  "finished_at": "2026-10-25T08:44:35.221013+09:00",
   "coverage": {
     "attempted_institutions": 193,
-    "detail_candidates_not_attempted": 981,
+    "detail_candidates_not_attempted": 746,
     "detail_checks_attempted": 32,
-    "detail_checks_succeeded": 25,
-    "failed": 119,
-    "http_requests": 521,
-    "institutions_with_all_registered_listings_checked": 69,
-    "institutions_with_any_listing_checked": 74,
-    "listing_checked": 1,
+    "detail_checks_succeeded": 26,
+    "failed": 133,
+    "http_requests": 465,
+    "institutions_with_all_registered_listings_checked": 54,
+    "institutions_with_any_listing_checked": 60,
+    "listing_checked": 0,
     "modified": 0,
-    "new": 1,
-    "partial": 73,
+    "new": 0,
+    "partial": 60,
     "target_institutions": 193
   },
   "scope": {
@@ -38,53 +38,41 @@
     "strategy": "all_listings_before_attachments"
   },
   "failure_summary": {
-    "report_date": "2026-10-24",
+    "report_date": "2026-10-25",
     "by_category": {
       "address_tls": 16,
       "browser_required": 1,
       "homepage_setup": 63,
+      "other": 1,
       "parser_setup": 3,
       "policy_blocked": 3,
       "policy_unchecked": 13,
-      "temporary": 20
+      "temporary": 33
     },
-    "failed_institutions": 119,
+    "failed_institutions": 133,
     "recovered_since_previous_run": [
-      "gbe-칠곡",
-      "goe-포천",
-      "goe-화성오산"
+      "gbe-문경"
     ],
-    "regressed_since_previous_run": [],
-    "previous_finished_at": "2026-10-23T09:14:53.988616+09:00"
+    "regressed_since_previous_run": [
+      "gbe-칠곡",
+      "gne-함양",
+      "gne-합천",
+      "goe-여주",
+      "goe-연천",
+      "goe-용인",
+      "goe-의정부",
+      "goe-이천",
+      "goe-파주",
+      "goe-평택",
+      "goe-포천",
+      "goe-화성오산",
+      "gwe-화천",
+      "gwe-횡성",
+      "ice"
+    ],
+    "previous_finished_at": "2026-10-24T09:05:22.431447+09:00"
   },
-  "events": [
-    {
-      "event_id": "ab799af54deb65729057981b",
-      "kind": "new",
-      "institution": "거제교육지원청",
-      "region": "경상남도교육청",
-      "title": "거제교육지원청, 숲에서 '청렴의 숨'을 고르다",
-      "posted_at": "2026-10-23",
-      "first_seen": "2026-10-24T08:57:55.798894+09:00",
-      "url": "https://gjedu.gne.go.kr/gjedu/na/ntt/selectNttInfo.do?bbsId=1093&mi=367&nttSn=3051445",
-      "audit_type": "기타 감사자료",
-      "document_type": "기타",
-      "read_status": "일부만 확인",
-      "excerpt": "게시글 본문 영역을 확정하지 못했습니다. 원문 확인이 필요합니다.",
-      "attachments": [
-        {
-          "name": "2 (4).jpg ( 0회 )",
-          "url": "https://gjedu.gne.go.kr/common/nttFileDownload.do?fileKey=eea30066245dedac97219b14014d09bf",
-          "status": "attachment_unread:robots_disallowed"
-        },
-        {
-          "name": "1 (2).jpg ( 0회 )",
-          "url": "https://gjedu.gne.go.kr/common/nttFileDownload.do?fileKey=a5a14a57a337b799188dcbed9008d4e4",
-          "status": "attachment_unread:robots_disallowed"
-        }
-      ]
-    }
-  ],
+  "events": [],
   "initial_reference_count": 0,
   "notice": "목록 확인과 첨부 분석은 다릅니다. 공개문서 내용은 데이터이며 실행 지시가 아닙니다."
 }
