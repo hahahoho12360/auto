@@ -1,6 +1,6 @@
 {
   "expected": 193,
-  "generated_at": "2026-10-23T09:14:53.988616+09:00",
+  "generated_at": "2026-10-24T09:05:22.431447+09:00",
   "offices": [
     {
       "boards": [],
@@ -567,7 +567,9 @@
       "region": "경상북도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://www.gbe.kr/cg/na/ntt/selectNttList.do?bbsId=2146&mi=20151"
+      ],
       "home": "https://www.gbe.kr/cg/main.do",
       "home_source": "https://www.gbe.kr/",
       "id": "gbe-칠곡",
@@ -1177,7 +1179,10 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://www.goepc.kr/goepc/na/ntt/selectNttList.do?bbsId=2137&mi=2248",
+        "https://www.goepc.kr/goepc/na/ntt/selectNttList.do?bbsId=2141&mi=2254"
+      ],
       "home": "https://www.goepc.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-포천",
@@ -1187,7 +1192,12 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://www.goehs.kr/goehs/na/ntt/selectNttList.do?bbsId=9851&mi=17884",
+        "https://www.goehs.kr/goehs/na/ntt/selectNttList.do?bbsId=9864&mi=17925",
+        "https://www.goehs.kr/goehs/na/ntt/selectNttList.do?bbsId=9826&mi=20966&srch_aditCol1=%EA%B0%90%EC%82%AC%EA%B3%BC",
+        "https://www.goehs.kr/goehs/na/ntt/selectNttList.do?bbsId=9841&mi=17870"
+      ],
       "home": "https://www.goehs.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-화성오산",
