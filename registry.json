@@ -1,6 +1,6 @@
 {
   "expected": 193,
-  "generated_at": "2026-10-26T08:38:13.170660+09:00",
+  "generated_at": "2026-10-27T09:52:17.279376+09:00",
   "offices": [
     {
       "boards": [],
@@ -1001,7 +1001,11 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://www.goesw.kr/goesw/na/ntt/selectNttList.do?bbsId=11051&mi=18917",
+        "https://www.goesw.kr/goesw/na/ntt/selectNttList.do?bbsId=11053&mi=18919",
+        "https://www.goesw.kr/goesw/na/ntt/selectNttList.do?bbsId=11052&mi=18918"
+      ],
       "home": "https://www.goesw.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-수원",
