@@ -1,6 +1,6 @@
 {
   "expected": 193,
-  "generated_at": "2026-10-27T09:52:17.279376+09:00",
+  "generated_at": "2026-10-28T09:49:37.986113+09:00",
   "offices": [
     {
       "boards": [],
@@ -127,7 +127,7 @@
       "id": "cne",
       "kind": "시도교육청",
       "name": "충청남도교육청",
-      "registry_error": "robots_disallowed",
+      "registry_error": "robots_unreachable:ConnectTimeout",
       "seed_boards": []
     },
     {
@@ -476,7 +476,9 @@
     },
     {
       "board_discovery_mode": "general_boards_with_audit_title_filter",
-      "boards": [],
+      "boards": [
+        "https://www.gbe.kr/yy/na/ntt/selectNttList.do?bbsId=3101&mi=10591"
+      ],
       "home": "https://www.gbe.kr/yy/main.do",
       "home_source": "https://www.gbe.kr/",
       "id": "gbe-영양",
@@ -1182,10 +1184,7 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [
-        "https://www.goepc.kr/goepc/na/ntt/selectNttList.do?bbsId=2137&mi=2248",
-        "https://www.goepc.kr/goepc/na/ntt/selectNttList.do?bbsId=2141&mi=2254"
-      ],
+      "boards": [],
       "home": "https://www.goepc.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-포천",
@@ -1195,12 +1194,7 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [
-        "https://www.goehs.kr/goehs/na/ntt/selectNttList.do?bbsId=9851&mi=17884",
-        "https://www.goehs.kr/goehs/na/ntt/selectNttList.do?bbsId=9864&mi=17925",
-        "https://www.goehs.kr/goehs/na/ntt/selectNttList.do?bbsId=9826&mi=20966&srch_aditCol1=%EA%B0%90%EC%82%AC%EA%B3%BC",
-        "https://www.goehs.kr/goehs/na/ntt/selectNttList.do?bbsId=9841&mi=17870"
-      ],
+      "boards": [],
       "home": "https://www.goehs.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-화성오산",
