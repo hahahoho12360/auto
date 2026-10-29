@@ -1,32 +1,32 @@
 {
   "schema": 2,
-  "generated_at": "2026-10-28T09:49:38.132085+09:00",
+  "generated_at": "2026-10-29T10:19:01.932934+09:00",
   "status": "ready",
   "validation_errors": [],
-  "requested_date": "2026-10-28",
-  "last_available_report_date": "2026-10-28",
-  "last_available_finished_at": "2026-10-28T09:49:37.986113+09:00",
-  "run_url": "https://github.com/hahahoho12360/auto/actions/runs/40610338016",
+  "requested_date": "2026-10-29",
+  "last_available_report_date": "2026-10-29",
+  "last_available_finished_at": "2026-10-29T10:19:01.818275+09:00",
+  "run_url": "https://github.com/hahahoho12360/auto/actions/runs/40798882057",
   "collection_outcome": "success",
   "mail_sent": false,
   "transport": "separate_authorized_Gmail_action",
-  "report_id": "0acff16227832e14720406df",
-  "report_date": "2026-10-28",
-  "started_at": "2026-10-28T09:41:29.235858+09:00",
-  "finished_at": "2026-10-28T09:49:37.986113+09:00",
+  "report_id": "292b46a113f71b39626df332",
+  "report_date": "2026-10-29",
+  "started_at": "2026-10-29T10:11:37.286546+09:00",
+  "finished_at": "2026-10-29T10:19:01.818275+09:00",
   "coverage": {
     "attempted_institutions": 193,
-    "detail_candidates_not_attempted": 945,
+    "detail_candidates_not_attempted": 987,
     "detail_checks_attempted": 32,
-    "detail_checks_succeeded": 29,
-    "failed": 120,
-    "http_requests": 524,
-    "institutions_with_all_registered_listings_checked": 67,
-    "institutions_with_any_listing_checked": 73,
+    "detail_checks_succeeded": 28,
+    "failed": 118,
+    "http_requests": 512,
+    "institutions_with_all_registered_listings_checked": 70,
+    "institutions_with_any_listing_checked": 75,
     "listing_checked": 1,
     "modified": 0,
-    "new": 12,
-    "partial": 72,
+    "new": 8,
+    "partial": 74,
     "target_institutions": 193
   },
   "scope": {
@@ -38,325 +38,73 @@
     "strategy": "all_listings_before_attachments"
   },
   "failure_summary": {
-    "report_date": "2026-10-28",
+    "report_date": "2026-10-29",
     "by_category": {
       "address_tls": 16,
       "browser_required": 1,
       "homepage_setup": 63,
-      "other": 1,
       "parser_setup": 3,
-      "policy_blocked": 2,
+      "policy_blocked": 3,
       "policy_unchecked": 13,
-      "temporary": 21
+      "temporary": 19
     },
-    "failed_institutions": 120,
+    "failed_institutions": 118,
     "recovered_since_previous_run": [
-      "gbe-영양"
-    ],
-    "regressed_since_previous_run": [
+      "gbe-칠곡",
       "goe-포천",
       "goe-화성오산"
     ],
-    "previous_finished_at": "2026-10-27T09:52:17.279376+09:00"
+    "regressed_since_previous_run": [
+      "gbe-영양"
+    ],
+    "previous_finished_at": "2026-10-28T09:49:37.986113+09:00"
   },
   "events": [
     {
-      "event_id": "a7f5f288b28a5780eb1abc25",
+      "event_id": "bba029388e3a1026c1aa4e28",
       "kind": "new",
-      "institution": "인천광역시교육청",
+      "institution": "경상북도교육청",
       "region": null,
-      "title": "2026년 인천광역시교육청난정평화교육원 종합감사 결과 및 우수사례 공개",
-      "posted_at": "2026-10-27",
-      "first_seen": "2026-10-28T09:41:54.175406+09:00",
-      "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1735&mi=10951&nttSn=3387475",
+      "title": "종합감사 결과 공개(기북초, 흥해서부초, 항구초)",
+      "posted_at": "2026-10-29",
+      "first_seen": "2026-10-29T10:11:58.451563+09:00",
+      "url": "https://www.gbe.kr/dep_ins/na/ntt/selectNttInfo.do?bbsId=2631&mi=8545&nttSn=1659981",
       "audit_type": "종합감사",
       "document_type": "결과",
-      "read_status": "본문·첨부 텍스트 확인",
-      "excerpt": "기관주의 및 시정(회수)요구 / 회계연도 계약명 예산편성일 계약일 계약금액 계약업체 계약방법 / 약상대자의 계약이행내용의 전부 또는 일부가 계약에 위반되거나 부당함을 발견 / ⑥ ‘홈페이지 운영’이란 본청홈페이지의 구축, 운용, 개선, 개발, 폐기, 유지관리 등 운영 전반에 관한 사항을 총칭한다 / 제9조(개선) 총괄책임자는 홈페이지에 대한 요구사항 수렴 및 모니터링 등을 통하여 홈페 이지의 미흡한 점을 개선하는 등 서비스의 질 향상을 위하여 지속적으로 노력하여야 한다 / < 인천광역시교육청 대표 및 부서특화 홈페이지 서비스 현황 > 번호 홈페이지명 홈페이지 주소 운영부서 1 인천광역시교육청 대표 https://www.ice.go.kr/ice/main.do 정보지원과 2 학생시민기자단 https://www.ice.go.kr/news/main.do 소통협력담당관 3 재정현황(주민참여예산제) https://www.ice.go.kr/people/main.do 정책기 / < 인천광역시교육청 대표 및 부서특화 홈페이지 서비스 현황 > 번호 홈페이지명 홈페이지 주소 운영부서 1 인천광역시교육청 대표 https://www.ice.go.kr/ice/main.do 정보지원과 2 학생시민기자단 https://www.ice.go.kr/news/main.do 소통협력",
+      "read_status": "일부만 확인",
+      "excerpt": "계약체결방법, 계약상대자의 성명, 계약금액, 계약변경에 관한 사항 / ※ 일반 공무원과 달리 검사와 법관은 검사징계법, 법관징계법에 따라 징계 시 징계 내용을 / 징계사유, 징계처분, 징계사유 세부내용: 공개",
       "attachments": [
         {
-          "name": "인천광역시교육청난정평화교육원 종합감사 결과(공개).pdf 새창 바로듣기",
-          "url": "https://www.ice.go.kr/upload/ice/na/bbs_1735/2026/10/62149230ee7141e1ba5f7b54ed6710f7.pdf",
-          "status": "text_extracted"
-        },
-        {
-          "name": "홈페이지운영지침",
-          "url": "https://www.ice.go.kr/common/nttFileDownload.do?fileKey=87038e9ce049c694c3a69792270e6103",
-          "status": "text_extracted_no_page_map"
-        },
-        {
-          "name": "홈페이지이용약관",
-          "url": "https://www.ice.go.kr/common/nttFileDownload.do?fileKey=9aba8111325d73637a59858096697e21",
-          "status": "text_extracted_no_page_map"
-        },
-        {
-          "name": "첨부파일",
-          "url": "https://www.ice.go.kr/common/nttFileDownload.do?fileKey=5cce7cc3756b9fdc868e5a765e0e4c81",
-          "status": "text_extracted"
+          "name": "정보공개 운영 매뉴얼",
+          "url": "https://www.gbe.kr/main/cf/fileDownload.do?fileKey=e222516e166c749cc7c6222205dcf514&mi=17868",
+          "status": "partial_page_limit"
         }
       ]
     },
     {
-      "event_id": "98f9e3336f4eb90723eb5d12",
+      "event_id": "d60f7b19de3eb5e8edf95dea",
       "kind": "new",
-      "institution": "인천광역시교육청",
-      "region": null,
-      "title": "2026년 인천광역시교육청연수도서관 종합감사 결과 및 우수사례 공개",
-      "posted_at": "2026-10-27",
-      "first_seen": "2026-10-28T09:41:54.175436+09:00",
-      "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1735&mi=10951&nttSn=3387474",
-      "audit_type": "종합감사",
-      "document_type": "결과",
-      "read_status": "본문·첨부 텍스트 확인",
-      "excerpt": "▢ 자체감사 대상 기관의 주요 업무, 예산, 계약(집행), 복무 등 업무 전반의 / 적법성·타당성 등을 점검하고 문제점에 대한 시정 요구 및 개선 대안을 / - 자체예산 뿐만 아니라 공모 및 재배정 사업의 효율적인 예산 배분을 통해 / ⑥ ‘홈페이지 운영’이란 본청홈페이지의 구축, 운용, 개선, 개발, 폐기, 유지관리 등 운영 전반에 관한 사항을 총칭한다 / 제9조(개선) 총괄책임자는 홈페이지에 대한 요구사항 수렴 및 모니터링 등을 통하여 홈페 이지의 미흡한 점을 개선하는 등 서비스의 질 향상을 위하여 지속적으로 노력하여야 한다 / < 인천광역시교육청 대표 및 부서특화 홈페이지 서비스 현황 > 번호 홈페이지명 홈페이지 주소 운영부서 1 인천광역시교육청 대표 https://www.ice.go.kr/ice/main.do 정보지원과 2 학생시민기자단 https://www.ice.go.kr/news/main.do 소통협력담당관 3 재정현황(주민참여예산제) https://www.ice.go.kr/people/main.do 정책기 / < 인천광역시교육청 대표 및 부서특화 홈페이지 서비스 현황 > 번호 홈페이지명 홈페이지 주소 운영부서 1 인천광역시교육청 대표 https://www.ice.go.kr/ice/main.do 정보지원과 2 학생시민기자단 https",
-      "attachments": [
-        {
-          "name": "인천광역시교육청연수도서관 종합감사 결과보고서(공개).pdf 새창 바로듣기",
-          "url": "https://www.ice.go.kr/upload/ice/na/bbs_1735/2026/10/b6cad302f85640c8a47e886183867183.pdf",
-          "status": "text_extracted"
-        },
-        {
-          "name": "홈페이지운영지침",
-          "url": "https://www.ice.go.kr/common/nttFileDownload.do?fileKey=87038e9ce049c694c3a69792270e6103",
-          "status": "text_extracted_no_page_map"
-        },
-        {
-          "name": "홈페이지이용약관",
-          "url": "https://www.ice.go.kr/common/nttFileDownload.do?fileKey=9aba8111325d73637a59858096697e21",
-          "status": "text_extracted_no_page_map"
-        },
-        {
-          "name": "첨부파일",
-          "url": "https://www.ice.go.kr/common/nttFileDownload.do?fileKey=5cce7cc3756b9fdc868e5a765e0e4c81",
-          "status": "text_extracted"
-        }
-      ]
-    },
-    {
-      "event_id": "9ea82235cfad613c6c3c656c",
-      "kind": "new",
-      "institution": "인천광역시교육청",
-      "region": null,
-      "title": "2026년 인천광역시교육청계양도서관 종합감사 결과 및 우수사례 공개",
-      "posted_at": "2026-10-27",
-      "first_seen": "2026-10-28T09:41:54.175448+09:00",
-      "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1735&mi=10951&nttSn=3387473",
-      "audit_type": "종합감사",
-      "document_type": "결과",
-      "read_status": "본문·첨부 텍스트 확인",
-      "excerpt": "▢ 자체감사 대상 기관의 주요 업무, 예산, 계약(집행), 복무 등 업무 전반의 / 적법성·타당성 등을 점검하고 문제점에 대한 시정 요구 및 개선 대안을 / 제 목 교직원 복무관리 소홀에 따른 연차수당 지급 부적정 / ⑥ ‘홈페이지 운영’이란 본청홈페이지의 구축, 운용, 개선, 개발, 폐기, 유지관리 등 운영 전반에 관한 사항을 총칭한다 / 제9조(개선) 총괄책임자는 홈페이지에 대한 요구사항 수렴 및 모니터링 등을 통하여 홈페 이지의 미흡한 점을 개선하는 등 서비스의 질 향상을 위하여 지속적으로 노력하여야 한다 / < 인천광역시교육청 대표 및 부서특화 홈페이지 서비스 현황 > 번호 홈페이지명 홈페이지 주소 운영부서 1 인천광역시교육청 대표 https://www.ice.go.kr/ice/main.do 정보지원과 2 학생시민기자단 https://www.ice.go.kr/news/main.do 소통협력담당관 3 재정현황(주민참여예산제) https://www.ice.go.kr/people/main.do 정책기 / < 인천광역시교육청 대표 및 부서특화 홈페이지 서비스 현황 > 번호 홈페이지명 홈페이지 주소 운영부서 1 인천광역시교육청 대표 https://www.ice.go.kr/ice/main.do 정보지원과 2 학생시민기자단 https://www.ice",
-      "attachments": [
-        {
-          "name": "인천광역시교육청계양도서관 종합감사 결과 최종보고서(공개).pdf 새창 바로듣기",
-          "url": "https://www.ice.go.kr/upload/ice/na/bbs_1735/2026/10/589e682ad2c14c7a9f577374f779328c.pdf",
-          "status": "text_extracted"
-        },
-        {
-          "name": "홈페이지운영지침",
-          "url": "https://www.ice.go.kr/common/nttFileDownload.do?fileKey=87038e9ce049c694c3a69792270e6103",
-          "status": "text_extracted_no_page_map"
-        },
-        {
-          "name": "홈페이지이용약관",
-          "url": "https://www.ice.go.kr/common/nttFileDownload.do?fileKey=9aba8111325d73637a59858096697e21",
-          "status": "text_extracted_no_page_map"
-        },
-        {
-          "name": "첨부파일",
-          "url": "https://www.ice.go.kr/common/nttFileDownload.do?fileKey=5cce7cc3756b9fdc868e5a765e0e4c81",
-          "status": "text_extracted"
-        }
-      ]
-    },
-    {
-      "event_id": "232d7fb5e07f89733ee4d555",
-      "kind": "new",
-      "institution": "인천광역시교육청",
-      "region": null,
-      "title": "2026년 인천광역시교육청주안도서관 종합감사 결과 및 우수사례 공개",
-      "posted_at": "2026-10-27",
-      "first_seen": "2026-10-28T09:41:54.175463+09:00",
-      "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1735&mi=10951&nttSn=3387472",
-      "audit_type": "종합감사",
-      "document_type": "결과",
-      "read_status": "본문·첨부 텍스트 확인",
-      "excerpt": "▢ 자체감사 대상 기관의 주요 업무, 예산, 계약(집행), 복무 등 업무 전반의 / 적법성·타당성 등을 점검하고 문제점에 대한 시정 요구 및 개선 대안을 / 10월 정당 지급액3) 정당 회수액 기 회수액4) 추가 회수액 / ⑥ ‘홈페이지 운영’이란 본청홈페이지의 구축, 운용, 개선, 개발, 폐기, 유지관리 등 운영 전반에 관한 사항을 총칭한다 / 제9조(개선) 총괄책임자는 홈페이지에 대한 요구사항 수렴 및 모니터링 등을 통하여 홈페 이지의 미흡한 점을 개선하는 등 서비스의 질 향상을 위하여 지속적으로 노력하여야 한다 / < 인천광역시교육청 대표 및 부서특화 홈페이지 서비스 현황 > 번호 홈페이지명 홈페이지 주소 운영부서 1 인천광역시교육청 대표 https://www.ice.go.kr/ice/main.do 정보지원과 2 학생시민기자단 https://www.ice.go.kr/news/main.do 소통협력담당관 3 재정현황(주민참여예산제) https://www.ice.go.kr/people/main.do 정책기 / < 인천광역시교육청 대표 및 부서특화 홈페이지 서비스 현황 > 번호 홈페이지명 홈페이지 주소 운영부서 1 인천광역시교육청 대표 https://www.ice.go.kr/ice/main.do 정보지원과 2 학생시민기자단 https://www.",
-      "attachments": [
-        {
-          "name": "인천광역시교육청주안도서관 종합감사 결과 최종보고서(공개).pdf 새창 바로듣기",
-          "url": "https://www.ice.go.kr/upload/ice/na/bbs_1735/2026/10/a1414951bb754d2f8d5480eb335028e6.pdf",
-          "status": "text_extracted"
-        },
-        {
-          "name": "홈페이지운영지침",
-          "url": "https://www.ice.go.kr/common/nttFileDownload.do?fileKey=87038e9ce049c694c3a69792270e6103",
-          "status": "text_extracted_no_page_map"
-        },
-        {
-          "name": "홈페이지이용약관",
-          "url": "https://www.ice.go.kr/common/nttFileDownload.do?fileKey=9aba8111325d73637a59858096697e21",
-          "status": "text_extracted_no_page_map"
-        },
-        {
-          "name": "첨부파일",
-          "url": "https://www.ice.go.kr/common/nttFileDownload.do?fileKey=5cce7cc3756b9fdc868e5a765e0e4c81",
-          "status": "text_extracted"
-        }
-      ]
-    },
-    {
-      "event_id": "d9e43266cd632638f43e222c",
-      "kind": "new",
-      "institution": "인천광역시교육청",
-      "region": null,
-      "title": "2026년 인천광역시교육청중앙도서관 종합감사 결과 및 우수사례 공개",
-      "posted_at": "2026-10-27",
-      "first_seen": "2026-10-28T09:41:54.175474+09:00",
-      "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1735&mi=10951&nttSn=3387466",
-      "audit_type": "종합감사",
-      "document_type": "결과",
-      "read_status": "본문·첨부 텍스트 확인",
-      "excerpt": "▢ 자체감사 대상 기관의 주요 업무, 예산, 계약(집행), 복무 등 업무 전반의 / 적법성·타당성 등을 점검하고 문제점에 대한 시정 요구 및 개선 대안을 / 계약담당자는 공사의 도급계약의 경우 계약상대자로 하여금 그 공사의 하자보수 / ⑥ ‘홈페이지 운영’이란 본청홈페이지의 구축, 운용, 개선, 개발, 폐기, 유지관리 등 운영 전반에 관한 사항을 총칭한다 / 제9조(개선) 총괄책임자는 홈페이지에 대한 요구사항 수렴 및 모니터링 등을 통하여 홈페 이지의 미흡한 점을 개선하는 등 서비스의 질 향상을 위하여 지속적으로 노력하여야 한다 / < 인천광역시교육청 대표 및 부서특화 홈페이지 서비스 현황 > 번호 홈페이지명 홈페이지 주소 운영부서 1 인천광역시교육청 대표 https://www.ice.go.kr/ice/main.do 정보지원과 2 학생시민기자단 https://www.ice.go.kr/news/main.do 소통협력담당관 3 재정현황(주민참여예산제) https://www.ice.go.kr/people/main.do 정책기 / < 인천광역시교육청 대표 및 부서특화 홈페이지 서비스 현황 > 번호 홈페이지명 홈페이지 주소 운영부서 1 인천광역시교육청 대표 https://www.ice.go.kr/ice/main.do 정보지원과 2 학생시민기자단 https",
-      "attachments": [
-        {
-          "name": "인천광역시교육청중앙도서관 종합감사 결과 최종보고서(공개용).pdf 새창 바로듣기",
-          "url": "https://www.ice.go.kr/upload/ice/na/bbs_1735/2026/10/8db90882742b4198a2eb6c9f5cf423c7.pdf",
-          "status": "text_extracted"
-        },
-        {
-          "name": "홈페이지운영지침",
-          "url": "https://www.ice.go.kr/common/nttFileDownload.do?fileKey=87038e9ce049c694c3a69792270e6103",
-          "status": "text_extracted_no_page_map"
-        },
-        {
-          "name": "홈페이지이용약관",
-          "url": "https://www.ice.go.kr/common/nttFileDownload.do?fileKey=9aba8111325d73637a59858096697e21",
-          "status": "text_extracted_no_page_map"
-        },
-        {
-          "name": "첨부파일",
-          "url": "https://www.ice.go.kr/common/nttFileDownload.do?fileKey=5cce7cc3756b9fdc868e5a765e0e4c81",
-          "status": "text_extracted"
-        }
-      ]
-    },
-    {
-      "event_id": "be95623c7775a27d14811d4d",
-      "kind": "new",
-      "institution": "인천광역시교육청",
-      "region": null,
-      "title": "2026년 인천광역시교육청학생교육문화회관 종합감사 결과 공개",
-      "posted_at": "2026-10-27",
-      "first_seen": "2026-10-28T09:41:54.175482+09:00",
-      "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1735&mi=10951&nttSn=3387465",
-      "audit_type": "종합감사",
-      "document_type": "결과",
-      "read_status": "본문·첨부 텍스트 확인",
-      "excerpt": "제 목 예산 과목(자산취득비) 미준수 등 세출예산 집행 부적정 / 따른 프로젝터 등을 구입하면서 취득비 예산 항목(430-01)이 아닌 시설비 예산 / 체의 장, 계약담당자는 계약상대자가 계약의 전부 또는 일부의 이행을 끝내면 / ⑥ ‘홈페이지 운영’이란 본청홈페이지의 구축, 운용, 개선, 개발, 폐기, 유지관리 등 운영 전반에 관한 사항을 총칭한다 / 제9조(개선) 총괄책임자는 홈페이지에 대한 요구사항 수렴 및 모니터링 등을 통하여 홈페 이지의 미흡한 점을 개선하는 등 서비스의 질 향상을 위하여 지속적으로 노력하여야 한다 / < 인천광역시교육청 대표 및 부서특화 홈페이지 서비스 현황 > 번호 홈페이지명 홈페이지 주소 운영부서 1 인천광역시교육청 대표 https://www.ice.go.kr/ice/main.do 정보지원과 2 학생시민기자단 https://www.ice.go.kr/news/main.do 소통협력담당관 3 재정현황(주민참여예산제) https://www.ice.go.kr/people/main.do 정책기 / < 인천광역시교육청 대표 및 부서특화 홈페이지 서비스 현황 > 번호 홈페이지명 홈페이지 주소 운영부서 1 인천광역시교육청 대표 https://www.ice.go.kr/ice/main.do 정보지원과 2 학생시민기자단 https://",
-      "attachments": [
-        {
-          "name": "인천광역시교육청학생교육문화회관 종합감사 결과보고서(공개용).pdf 새창 바로듣기",
-          "url": "https://www.ice.go.kr/upload/ice/na/bbs_1735/2026/10/8ae9897aa6914cb9b2fa686ec3ef04a0.pdf",
-          "status": "text_extracted"
-        },
-        {
-          "name": "홈페이지운영지침",
-          "url": "https://www.ice.go.kr/common/nttFileDownload.do?fileKey=87038e9ce049c694c3a69792270e6103",
-          "status": "text_extracted_no_page_map"
-        },
-        {
-          "name": "홈페이지이용약관",
-          "url": "https://www.ice.go.kr/common/nttFileDownload.do?fileKey=9aba8111325d73637a59858096697e21",
-          "status": "text_extracted_no_page_map"
-        },
-        {
-          "name": "첨부파일",
-          "url": "https://www.ice.go.kr/common/nttFileDownload.do?fileKey=5cce7cc3756b9fdc868e5a765e0e4c81",
-          "status": "text_extracted"
-        }
-      ]
-    },
-    {
-      "event_id": "2ca05e5f42835bb9addf627a",
-      "kind": "new",
-      "institution": "인천광역시교육청",
-      "region": null,
-      "title": "2026년 자율감사 우수사례(인천중산고)",
-      "posted_at": "2026-10-27",
-      "first_seen": "2026-10-28T09:41:54.175490+09:00",
-      "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1735&mi=10951&nttSn=3387455",
+      "institution": "이천교육지원청",
+      "region": "경기도교육청",
+      "title": "7. 감사 톡톡(Talk Talk)-공사면허 및 분할계약",
+      "posted_at": "2026-10-28",
+      "first_seen": "2026-10-29T10:16:28.508687+09:00",
+      "url": "https://www.goeic.kr/goeic/na/ntt/selectNttInfo.do?bbsId=3890&mi=5956&nttSn=515654",
       "audit_type": "기타 감사자료",
-      "document_type": "사례",
-      "read_status": "본문·첨부 텍스트 확인",
-      "excerpt": "우수사례 학교의 예산집행 관련 교직원 사전 연수 / · 물품(용역포함)은 1천만원 이상이면 전자계약 대상, 전자계약 않하면 감사 / 계약 : 행정계장/ 물품 조달 구매, 지출 : ○○○/ 인건비와 여비 : ▢▢▢/ 민원 / ⑥ ‘홈페이지 운영’이란 본청홈페이지의 구축, 운용, 개선, 개발, 폐기, 유지관리 등 운영 전반에 관한 사항을 총칭한다 / 제9조(개선) 총괄책임자는 홈페이지에 대한 요구사항 수렴 및 모니터링 등을 통하여 홈페 이지의 미흡한 점을 개선하는 등 서비스의 질 향상을 위하여 지속적으로 노력하여야 한다 / < 인천광역시교육청 대표 및 부서특화 홈페이지 서비스 현황 > 번호 홈페이지명 홈페이지 주소 운영부서 1 인천광역시교육청 대표 https://www.ice.go.kr/ice/main.do 정보지원과 2 학생시민기자단 https://www.ice.go.kr/news/main.do 소통협력담당관 3 재정현황(주민참여예산제) https://www.ice.go.kr/people/main.do 정책기 / < 인천광역시교육청 대표 및 부서특화 홈페이지 서비스 현황 > 번호 홈페이지명 홈페이지 주소 운영부서 1 인천광역시교육청 대표 https://www.ice.go.kr/ice/main.do 정보지원과 2 학생시민기자단 https://www.",
-      "attachments": [
-        {
-          "name": "인천중산고등학교 자율감사 우수사례.pdf 새창 바로듣기",
-          "url": "https://www.ice.go.kr/upload/ice/na/bbs_1735/2026/10/44771a422beb4569b6df64654019f556.pdf",
-          "status": "text_extracted"
-        },
-        {
-          "name": "홈페이지운영지침",
-          "url": "https://www.ice.go.kr/common/nttFileDownload.do?fileKey=87038e9ce049c694c3a69792270e6103",
-          "status": "text_extracted_no_page_map"
-        },
-        {
-          "name": "홈페이지이용약관",
-          "url": "https://www.ice.go.kr/common/nttFileDownload.do?fileKey=9aba8111325d73637a59858096697e21",
-          "status": "text_extracted_no_page_map"
-        },
-        {
-          "name": "첨부파일",
-          "url": "https://www.ice.go.kr/common/nttFileDownload.do?fileKey=5cce7cc3756b9fdc868e5a765e0e4c81",
-          "status": "text_extracted"
-        }
-      ]
+      "document_type": "기타",
+      "read_status": "본문 확인",
+      "excerpt": "2026년 10월 이천교육지원청 감사팀에서 제작하여 배포하오니, 행정 업무에 참고하시기 바랍니다 / (만화 출처-AI 생성이미지)",
+      "attachments": []
     },
     {
-      "event_id": "ee8b33807a08f20144303d17",
+      "event_id": "98a1e6942bea73c77d13febb",
       "kind": "new",
-      "institution": "인천광역시교육청",
-      "region": null,
-      "title": "2026년 자율감사 결과(중산고, 강남영상미디어고, 산업정보학교, 보건고)",
-      "posted_at": "2026-10-27",
-      "first_seen": "2026-10-28T09:41:54.175497+09:00",
-      "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?bbsId=1735&mi=10951&nttSn=3387454",
-      "audit_type": "기타 감사자료",
-      "document_type": "결과",
-      "read_status": "본문·첨부 텍스트 확인",
-      "excerpt": "10 현장체험학습 버스 임차 계약 업무 부적정 처분기준 기관주의최종(감경) / 처분기준 경고2주의3 20 기관주의9 회수1 2,798 / 계약제 교원 운영 부적정 현지조치(주의·시정) 기관주의⇒ 현지조치 학교자체지적 / ⑥ ‘홈페이지 운영’이란 본청홈페이지의 구축, 운용, 개선, 개발, 폐기, 유지관리 등 운영 전반에 관한 사항을 총칭한다 / 제9조(개선) 총괄책임자는 홈페이지에 대한 요구사항 수렴 및 모니터링 등을 통하여 홈페 이지의 미흡한 점을 개선하는 등 서비스의 질 향상을 위하여 지속적으로 노력하여야 한다 / < 인천광역시교육청 대표 및 부서특화 홈페이지 서비스 현황 > 번호 홈페이지명 홈페이지 주소 운영부서 1 인천광역시교육청 대표 https://www.ice.go.kr/ice/main.do 정보지원과 2 학생시민기자단 https://www.ice.go.kr/news/main.do 소통협력담당관 3 재정현황(주민참여예산제) https://www.ice.go.kr/people/main.do 정책기 / < 인천광역시교육청 대표 및 부서특화 홈페이지 서비스 현황 > 번호 홈페이지명 홈페이지 주소 운영부서 1 인천광역시교육청 대표 https://www.ice.go.kr/ice/main.do 정보지원과 2 학생시민기자단 https://www.ic",
-      "attachments": [
-        {
-          "name": "2026 자율감사 결과 최종 보고서(중산고,강남영상미디어고,산업정보학교,보건고).pdf 새창 바로듣기",
-          "url": "https://www.ice.go.kr/upload/ice/na/bbs_1735/2026/10/a1d5a5eefa8647d7857b5d3029db5a77.pdf",
-          "status": "text_extracted"
-        },
-        {
-          "name": "홈페이지운영지침",
-          "url": "https://www.ice.go.kr/common/nttFileDownload.do?fileKey=87038e9ce049c694c3a69792270e6103",
-          "status": "text_extracted_no_page_map"
-        },
-        {
-          "name": "홈페이지이용약관",
-          "url": "https://www.ice.go.kr/common/nttFileDownload.do?fileKey=9aba8111325d73637a59858096697e21",
-          "status": "text_extracted_no_page_map"
-        },
-        {
-          "name": "첨부파일",
-          "url": "https://www.ice.go.kr/common/nttFileDownload.do?fileKey=5cce7cc3756b9fdc868e5a765e0e4c81",
-          "status": "text_extracted"
-        }
-      ]
-    },
-    {
-      "event_id": "ff67a72e00bea14fbeecf0f5",
-      "kind": "new",
-      "institution": "동두천양주교육지원청",
+      "institution": "평택교육지원청",
       "region": "경기도교육청",
-      "title": "2026년 8월 학교종합감사(실지) 결과 공개",
-      "posted_at": "2026-10-27",
-      "first_seen": "2026-10-28T09:43:10.286573+09:00",
-      "url": "https://www.goedy.kr/goedy/na/ntt/selectNttInfo.do?bbsId=10213&mi=10293&nttSn=1688864",
+      "title": "2026년 7월 학교 종합감사 결과 공개",
+      "posted_at": "2026-10-28",
+      "first_seen": "2026-10-29T10:16:45.000331+09:00",
+      "url": "https://www.goept.kr/goept/na/ntt/selectNttInfo.do?bbsId=10115&mi=10124&nttSn=2575042",
       "audit_type": "종합감사",
       "document_type": "결과",
       "read_status": "일부만 확인",
@@ -364,14 +112,14 @@
       "attachments": []
     },
     {
-      "event_id": "38281e394725db258da7bc2e",
+      "event_id": "7ac00ddca690437c94c71db4",
       "kind": "new",
-      "institution": "성남교육지원청",
+      "institution": "평택교육지원청",
       "region": "경기도교육청",
-      "title": "2026년 4월~7월 학교종합감사 결과 공개",
-      "posted_at": "2026-10-27",
-      "first_seen": "2026-10-28T09:43:39.756205+09:00",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17815&mi=23503&nttSn=1964984",
+      "title": "2026년 6월 학교 종합감사 결과 공개",
+      "posted_at": "2026-10-28",
+      "first_seen": "2026-10-29T10:16:45.000375+09:00",
+      "url": "https://www.goept.kr/goept/na/ntt/selectNttInfo.do?bbsId=10115&mi=10124&nttSn=2575038",
       "audit_type": "종합감사",
       "document_type": "결과",
       "read_status": "일부만 확인",
@@ -379,33 +127,63 @@
       "attachments": []
     },
     {
-      "event_id": "47619cc97ec0e393ee01b9f1",
+      "event_id": "af5857c6a60f1ade77af4b48",
       "kind": "new",
-      "institution": "성남교육지원청",
+      "institution": "포천교육지원청",
       "region": "경기도교육청",
-      "title": "2025년 8월~11월 학교종합감사 결과 공개",
-      "posted_at": "2026-10-27",
-      "first_seen": "2026-10-28T09:43:39.756266+09:00",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17815&mi=23503&nttSn=1964983",
+      "title": "2026년 7월 학교주도형 종합감사 결과 공개(청성초)",
+      "posted_at": "2026-10-28",
+      "first_seen": "2026-10-29T10:17:06.067906+09:00",
+      "url": "https://www.goepc.kr/goepc/na/ntt/selectNttInfo.do?bbsId=2137&mi=2248&nttSn=1255016",
       "audit_type": "종합감사",
       "document_type": "결과",
-      "read_status": "일부만 확인",
-      "excerpt": "첨부 언급은 있으나 다운로드 링크를 확인하지 못했습니다. 본문 발췌: 게시글 본문 영역을 확정하지 못했습니다. 원문 확인이 필요합니다.",
+      "read_status": "본문 확인",
+      "excerpt": "2026년 7월 학교주도형 종합감사 결과를 다음과 같이 공개합니다 / 1. 대상학교: 청성초등학교 / 3. 학교주도형 종합감사 결과 통보서: 해당없음(행정처분 사항 없음)",
       "attachments": []
     },
     {
-      "event_id": "278399ecd872d45e6ad17271",
+      "event_id": "82aa8f6ebd0ac1ea33abae02",
       "kind": "new",
-      "institution": "성남교육지원청",
+      "institution": "포천교육지원청",
       "region": "경기도교육청",
-      "title": "2025년 4월~7월 학교종합감사 결과 공개",
-      "posted_at": "2026-10-27",
-      "first_seen": "2026-10-28T09:43:39.756277+09:00",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17815&mi=23503&nttSn=1964982",
+      "title": "2026년 7월 학교주도형 종합감사 결과 공개(영중중)",
+      "posted_at": "2026-10-28",
+      "first_seen": "2026-10-29T10:17:06.067977+09:00",
+      "url": "https://www.goepc.kr/goepc/na/ntt/selectNttInfo.do?bbsId=2137&mi=2248&nttSn=1255014",
       "audit_type": "종합감사",
       "document_type": "결과",
-      "read_status": "일부만 확인",
-      "excerpt": "첨부 언급은 있으나 다운로드 링크를 확인하지 못했습니다. 본문 발췌: 게시글 본문 영역을 확정하지 못했습니다. 원문 확인이 필요합니다.",
+      "read_status": "본문 확인",
+      "excerpt": "2026년 7월 학교주도형 종합감사 결과를 다음과 같이 공개합니다 / 1. 대상학교: 영중중학교 / 3. 학교주도형 종합감사 결과 통보서: 해당없음(행정처분 사항 없음)",
+      "attachments": []
+    },
+    {
+      "event_id": "83542495831a40c9caf79270",
+      "kind": "new",
+      "institution": "포천교육지원청",
+      "region": "경기도교육청",
+      "title": "2026년 7월 학교주도형 종합감사 결과 공개(가산초)",
+      "posted_at": "2026-10-28",
+      "first_seen": "2026-10-29T10:17:06.067990+09:00",
+      "url": "https://www.goepc.kr/goepc/na/ntt/selectNttInfo.do?bbsId=2137&mi=2248&nttSn=1255013",
+      "audit_type": "종합감사",
+      "document_type": "결과",
+      "read_status": "본문 확인",
+      "excerpt": "2026년 7월 학교주도형 종합감사 결과를 다음과 같이 공개합니다 / 1. 대상학교: 가산초등학교 / 3. 학교주도형 종합감사 결과 통보서: 해당없음(행정처분 사항 없음)",
+      "attachments": []
+    },
+    {
+      "event_id": "f53054088834e144bd229e0c",
+      "kind": "new",
+      "institution": "포천교육지원청",
+      "region": "경기도교육청",
+      "title": "2026년 7월 학교주도형 종합감사 결과 공개(송우중)",
+      "posted_at": "2026-10-28",
+      "first_seen": "2026-10-29T10:17:06.067998+09:00",
+      "url": "https://www.goepc.kr/goepc/na/ntt/selectNttInfo.do?bbsId=2137&mi=2248&nttSn=1255012",
+      "audit_type": "종합감사",
+      "document_type": "결과",
+      "read_status": "본문 확인",
+      "excerpt": "2026년 7월 학교주도형 종합감사 결과를 다음과 같이 공개합니다 / 1. 대상학교: 송우중학교 / 3. 학교주도형 종합감사 결과 통보서: 해당없음(행정처분 사항 없음)",
       "attachments": []
     }
   ],
