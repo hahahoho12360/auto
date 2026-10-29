@@ -1,10 +1,8 @@
 {
-  "checked_at_utc": "2026-10-29T01:11:33.741025+00:00",
-  "collect": true,
+  "checked_at_utc": "2026-10-29T01:44:53.047750+00:00",
+  "collect": false,
   "reasons": [
-    "finish_not_today",
-    "heartbeat_not_today",
-    "report_not_today"
+    "current_daily_report_already_ready"
   ],
-  "current_run_id": "40798882057"
+  "current_run_id": "40802256044"
 }
