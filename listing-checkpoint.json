@@ -2,149 +2,98 @@
   "events": [
     {
       "attachments": null,
+      "audit_type": "기타 감사자료",
+      "board_url": "https://www.pen.go.kr/main/na/ntt/selectNttList.do?bbsId=2611&mi=31669",
+      "document_type": "기타",
+      "event_id": "f251226bcca73646c4917c6b",
+      "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+      "first_seen": "2026-10-30T10:19:26.154136+09:00",
+      "institution": "부산광역시교육청",
+      "kind": "new",
+      "posted_at": "2026-10-29",
+      "read_status": "목록만 확인",
+      "region": null,
+      "relationship": "원문 확인 필요",
+      "title": "비밀글 감사정보제공 새글 답글 (1)",
+      "url": "https://www.pen.go.kr/main/na/ntt/selectNttInfo.do?bbsId=2611&mi=31669&nttSn=1182811"
+    },
+    {
+      "attachments": null,
       "audit_type": "종합감사",
       "board_url": "https://www.gbe.kr/dep_ins/na/ntt/selectNttList.do?bbsId=2631&mi=8545",
       "document_type": "결과",
-      "event_id": "bba029388e3a1026c1aa4e28",
+      "event_id": "9e68f2f01140cf89ffc715c8",
       "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
-      "first_seen": "2026-10-29T10:11:58.451563+09:00",
+      "first_seen": "2026-10-30T10:19:28.931965+09:00",
       "institution": "경상북도교육청",
       "kind": "new",
       "posted_at": "2026-10-29",
       "read_status": "목록만 확인",
       "region": null,
       "relationship": "원문 확인 필요",
-      "title": "종합감사 결과 공개(기북초, 흥해서부초, 항구초)",
-      "url": "https://www.gbe.kr/dep_ins/na/ntt/selectNttInfo.do?bbsId=2631&mi=8545&nttSn=1659981"
+      "title": "종합감사 결과 공개(영천중, 영천동부초)",
+      "url": "https://www.gbe.kr/dep_ins/na/ntt/selectNttInfo.do?bbsId=2631&mi=8545&nttSn=1660216"
+    },
+    {
+      "attachments": null,
+      "audit_type": "행정사무감사",
+      "board_url": "https://www.goeyp.kr/goeyp/na/ntt/selectNttList.do?bbsId=1890&mi=3580",
+      "document_type": "결과",
+      "event_id": "f3c3b4afcfbfdbf324d46b7a",
+      "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+      "first_seen": "2026-10-30T10:23:35.148213+09:00",
+      "institution": "양평교육지원청",
+      "kind": "new",
+      "posted_at": "2026-10-29",
+      "read_status": "목록만 확인",
+      "region": "경기도교육청",
+      "relationship": "원문 확인 필요",
+      "title": "2025년도 경기도의회 행정사무감사 시정 처리요구 및 건의사항 최종 처리결과",
+      "url": "https://www.goeyp.kr/goeyp/na/ntt/selectNttInfo.do?bbsId=1890&mi=3580&nttSn=1068578"
+    },
+    {
+      "attachments": null,
+      "audit_type": "행정사무감사",
+      "board_url": "https://www.goeyc.kr/goeyc/na/ntt/selectNttList.do?bbsId=2210&mi=2343",
+      "document_type": "결과",
+      "event_id": "f60a6e810acf3738e6466d35",
+      "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
+      "first_seen": "2026-10-30T10:24:18.609633+09:00",
+      "institution": "연천교육지원청",
+      "kind": "new",
+      "posted_at": "2026-10-29",
+      "read_status": "목록만 확인",
+      "region": "경기도교육청",
+      "relationship": "원문 확인 필요",
+      "title": "2025년 행정사무감사 시정처리 요구 및 건의사항 처리 결과",
+      "url": "https://www.goeyc.kr/goeyc/na/ntt/selectNttInfo.do?bbsId=2210&mi=2343&nttSn=1224809"
     },
     {
       "attachments": null,
       "audit_type": "기타 감사자료",
-      "board_url": "https://www.goeic.kr/goeic/na/ntt/selectNttList.do?bbsId=3890&mi=5956",
+      "board_url": "https://www.goeic.kr/goeic/na/ntt/selectNttList.do?bbsId=3761&mi=5656",
       "document_type": "기타",
-      "event_id": "d60f7b19de3eb5e8edf95dea",
+      "event_id": "b0278e70d1f6aeb7268aa12f",
       "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
-      "first_seen": "2026-10-29T10:16:28.508687+09:00",
+      "first_seen": "2026-10-30T10:25:12.558657+09:00",
       "institution": "이천교육지원청",
       "kind": "new",
-      "posted_at": "2026-10-28",
+      "posted_at": "2026-10-30",
       "read_status": "목록만 확인",
       "region": "경기도교육청",
       "relationship": "원문 확인 필요",
-      "title": "7. 감사 톡톡(Talk Talk)-공사면허 및 분할계약",
-      "url": "https://www.goeic.kr/goeic/na/ntt/selectNttInfo.do?bbsId=3890&mi=5956&nttSn=515654"
-    },
-    {
-      "attachments": null,
-      "audit_type": "종합감사",
-      "board_url": "https://www.goept.kr/goept/na/ntt/selectNttList.do?bbsId=10115&mi=10124",
-      "document_type": "결과",
-      "event_id": "98a1e6942bea73c77d13febb",
-      "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
-      "first_seen": "2026-10-29T10:16:45.000331+09:00",
-      "institution": "평택교육지원청",
-      "kind": "new",
-      "posted_at": "2026-10-28",
-      "read_status": "목록만 확인",
-      "region": "경기도교육청",
-      "relationship": "원문 확인 필요",
-      "title": "2026년 7월 학교 종합감사 결과 공개",
-      "url": "https://www.goept.kr/goept/na/ntt/selectNttInfo.do?bbsId=10115&mi=10124&nttSn=2575042"
-    },
-    {
-      "attachments": null,
-      "audit_type": "종합감사",
-      "board_url": "https://www.goept.kr/goept/na/ntt/selectNttList.do?bbsId=10115&mi=10124",
-      "document_type": "결과",
-      "event_id": "7ac00ddca690437c94c71db4",
-      "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
-      "first_seen": "2026-10-29T10:16:45.000375+09:00",
-      "institution": "평택교육지원청",
-      "kind": "new",
-      "posted_at": "2026-10-28",
-      "read_status": "목록만 확인",
-      "region": "경기도교육청",
-      "relationship": "원문 확인 필요",
-      "title": "2026년 6월 학교 종합감사 결과 공개",
-      "url": "https://www.goept.kr/goept/na/ntt/selectNttInfo.do?bbsId=10115&mi=10124&nttSn=2575038"
-    },
-    {
-      "attachments": null,
-      "audit_type": "종합감사",
-      "board_url": "https://www.goepc.kr/goepc/na/ntt/selectNttList.do?bbsId=2137&mi=2248",
-      "document_type": "결과",
-      "event_id": "af5857c6a60f1ade77af4b48",
-      "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
-      "first_seen": "2026-10-29T10:17:06.067906+09:00",
-      "institution": "포천교육지원청",
-      "kind": "new",
-      "posted_at": "2026-10-28",
-      "read_status": "목록만 확인",
-      "region": "경기도교육청",
-      "relationship": "원문 확인 필요",
-      "title": "2026년 7월 학교주도형 종합감사 결과 공개(청성초)",
-      "url": "https://www.goepc.kr/goepc/na/ntt/selectNttInfo.do?bbsId=2137&mi=2248&nttSn=1255016"
-    },
-    {
-      "attachments": null,
-      "audit_type": "종합감사",
-      "board_url": "https://www.goepc.kr/goepc/na/ntt/selectNttList.do?bbsId=2137&mi=2248",
-      "document_type": "결과",
-      "event_id": "82aa8f6ebd0ac1ea33abae02",
-      "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
-      "first_seen": "2026-10-29T10:17:06.067977+09:00",
-      "institution": "포천교육지원청",
-      "kind": "new",
-      "posted_at": "2026-10-28",
-      "read_status": "목록만 확인",
-      "region": "경기도교육청",
-      "relationship": "원문 확인 필요",
-      "title": "2026년 7월 학교주도형 종합감사 결과 공개(영중중)",
-      "url": "https://www.goepc.kr/goepc/na/ntt/selectNttInfo.do?bbsId=2137&mi=2248&nttSn=1255014"
-    },
-    {
-      "attachments": null,
-      "audit_type": "종합감사",
-      "board_url": "https://www.goepc.kr/goepc/na/ntt/selectNttList.do?bbsId=2137&mi=2248",
-      "document_type": "결과",
-      "event_id": "83542495831a40c9caf79270",
-      "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
-      "first_seen": "2026-10-29T10:17:06.067990+09:00",
-      "institution": "포천교육지원청",
-      "kind": "new",
-      "posted_at": "2026-10-28",
-      "read_status": "목록만 확인",
-      "region": "경기도교육청",
-      "relationship": "원문 확인 필요",
-      "title": "2026년 7월 학교주도형 종합감사 결과 공개(가산초)",
-      "url": "https://www.goepc.kr/goepc/na/ntt/selectNttInfo.do?bbsId=2137&mi=2248&nttSn=1255013"
-    },
-    {
-      "attachments": null,
-      "audit_type": "종합감사",
-      "board_url": "https://www.goepc.kr/goepc/na/ntt/selectNttList.do?bbsId=2137&mi=2248",
-      "document_type": "결과",
-      "event_id": "f53054088834e144bd229e0c",
-      "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
-      "first_seen": "2026-10-29T10:17:06.067998+09:00",
-      "institution": "포천교육지원청",
-      "kind": "new",
-      "posted_at": "2026-10-28",
-      "read_status": "목록만 확인",
-      "region": "경기도교육청",
-      "relationship": "원문 확인 필요",
-      "title": "2026년 7월 학교주도형 종합감사 결과 공개(송우중)",
-      "url": "https://www.goepc.kr/goepc/na/ntt/selectNttInfo.do?bbsId=2137&mi=2248&nttSn=1255012"
+      "title": "2026년 이천교육지원청 청렴 실천 선언문 안내",
+      "url": "https://www.goeic.kr/goeic/na/ntt/selectNttInfo.do?bbsId=3761&mi=5656&nttSn=515784"
     }
   ],
-  "finished_at": "2026-10-29T10:18:40.547632+09:00",
+  "finished_at": "2026-10-30T10:25:59.421612+09:00",
   "institutions": [
     {
       "boards": [],
       "details_checked": 0,
-      "home": "http://www.cne.go.kr/",
-      "id": "cne",
-      "institution": "충청남도교육청",
+      "home": "https://www.dje.go.kr/",
+      "id": "dje",
+      "institution": "대전광역시교육청",
       "issues": [
         "robots_disallowed"
       ],
@@ -156,9 +105,9 @@
     {
       "boards": [],
       "details_checked": 0,
-      "home": "https://www.dje.go.kr/",
-      "id": "dje",
-      "institution": "대전광역시교육청",
+      "home": "http://www.cne.go.kr/",
+      "id": "cne",
+      "institution": "충청남도교육청",
       "issues": [
         "robots_disallowed"
       ],
@@ -204,34 +153,6 @@
       "status": "partial"
     },
     {
-      "boards": [],
-      "details_checked": 0,
-      "home": "https://www.jge.go.kr/",
-      "id": "jge",
-      "institution": "전남광주통합특별시교육청",
-      "issues": [
-        "robots_unreachable:ConnectTimeout"
-      ],
-      "kind": "시도교육청",
-      "listed_posts": 0,
-      "region": null,
-      "status": "failed"
-    },
-    {
-      "boards": [],
-      "details_checked": 0,
-      "home": "https://www.jje.go.kr/",
-      "id": "jje",
-      "institution": "제주특별자치도교육청",
-      "issues": [
-        "robots_disallowed"
-      ],
-      "kind": "시도교육청",
-      "listed_posts": 0,
-      "region": null,
-      "status": "failed"
-    },
-    {
       "boards": [
         {
           "audit_posts": 15,
@@ -265,11 +186,11 @@
     {
       "boards": [],
       "details_checked": 0,
-      "home": "https://www.sen.go.kr/",
-      "id": "sen",
-      "institution": "서울특별시교육청",
+      "home": "https://www.jje.go.kr/",
+      "id": "jje",
+      "institution": "제주특별자치도교육청",
       "issues": [
-        "browser_or_access_gate_required"
+        "robots_unreachable:ConnectTimeout"
       ],
       "kind": "시도교육청",
       "listed_posts": 0,
@@ -310,11 +231,11 @@
     {
       "boards": [],
       "details_checked": 0,
-      "home": "https://www.use.go.kr/",
-      "id": "use",
-      "institution": "울산광역시교육청",
+      "home": "https://www.sen.go.kr/",
+      "id": "sen",
+      "institution": "서울특별시교육청",
       "issues": [
-        "robots_unreachable:SSLError"
+        "browser_or_access_gate_required"
       ],
       "kind": "시도교육청",
       "listed_posts": 0,
@@ -358,97 +279,6 @@
       "issues": [],
       "kind": "시도교육청",
       "listed_posts": 34,
-      "region": null,
-      "status": "partial"
-    },
-    {
-      "boards": [],
-      "details_checked": 0,
-      "home": null,
-      "id": "cne-공주",
-      "institution": "공주교육지원청",
-      "issues": [
-        "homepage_unresolved"
-      ],
-      "kind": "교육지원청",
-      "listed_posts": 0,
-      "region": "충청남도교육청",
-      "status": "failed"
-    },
-    {
-      "boards": [],
-      "details_checked": 0,
-      "home": null,
-      "id": "dge-군위",
-      "institution": "군위교육지원청",
-      "issues": [
-        "homepage_unresolved"
-      ],
-      "kind": "교육지원청",
-      "listed_posts": 0,
-      "region": "대구광역시교육청",
-      "status": "failed"
-    },
-    {
-      "boards": [],
-      "details_checked": 0,
-      "home": null,
-      "id": "dje-동부",
-      "institution": "동부교육지원청",
-      "issues": [
-        "homepage_unresolved"
-      ],
-      "kind": "교육지원청",
-      "listed_posts": 0,
-      "region": "대전광역시교육청",
-      "status": "failed"
-    },
-    {
-      "boards": [
-        {
-          "audit_posts": 10,
-          "issues": [
-            "detail_limit_unchecked"
-          ],
-          "raw_posts": 10,
-          "status": "listing_checked",
-          "url": "https://www.goe.go.kr/goe/na/ntt/selectNttList.do?bbsId=1965&mi=10275"
-        },
-        {
-          "audit_posts": 7,
-          "issues": [
-            "detail_limit_unchecked"
-          ],
-          "raw_posts": 7,
-          "status": "listing_checked",
-          "url": "https://www.goe.go.kr/goe/na/ntt/selectNttList.do?bbsId=1950&mi=11123"
-        },
-        {
-          "audit_posts": 7,
-          "issues": [
-            "detail_limit_unchecked"
-          ],
-          "raw_posts": 7,
-          "status": "listing_checked",
-          "url": "https://www.goe.go.kr/goe/na/ntt/selectNttList.do?bbsId=1950&mi=11123&mi=11123"
-        },
-        {
-          "audit_posts": 2,
-          "issues": [
-            "detail_limit_unchecked"
-          ],
-          "raw_posts": 8,
-          "status": "listing_checked",
-          "url": "https://www.goe.go.kr/goe/na/ntt/selectNttList.do?bbsId=1927&mi=10115"
-        }
-      ],
-      "details_checked": 0,
-      "home": "https://www.goe.go.kr/goe/main.do",
-      "id": "goe",
-      "institution": "경기도교육청",
-      "issues": [],
-      "kind": "시도교육청",
-      "listed_posts": 26,
       "region": null,
       "status": "partial"
     },
@@ -531,52 +361,101 @@
           ],
           "raw_posts": 10,
           "status": "listing_checked",
-          "url": "https://www.pen.go.kr/main/na/ntt/selectNttList.do?bbsId=2611&mi=31669"
+          "url": "https://www.goe.go.kr/goe/na/ntt/selectNttList.do?bbsId=1965&mi=10275"
         },
         {
-          "audit_posts": 10,
+          "audit_posts": 7,
           "issues": [
             "detail_limit_unchecked"
           ],
-          "raw_posts": 10,
+          "raw_posts": 7,
           "status": "listing_checked",
-          "url": "https://www.pen.go.kr/main/na/ntt/selectNttList.do?bbsId=2370&mi=30502"
+          "url": "https://www.goe.go.kr/goe/na/ntt/selectNttList.do?bbsId=1950&mi=11123"
         },
         {
-          "audit_posts": 0,
-          "issues": [],
-          "raw_posts": 2,
-          "status": "listing_checked",
-          "url": "https://www.pen.go.kr/dep04/main.do"
-        },
-        {
-          "audit_posts": 10,
+          "audit_posts": 7,
           "issues": [
             "detail_limit_unchecked"
           ],
-          "raw_posts": 10,
+          "raw_posts": 7,
           "status": "listing_checked",
-          "url": "https://www.pen.go.kr/main/na/ntt/selectNttList.do?bbsId=2371&mi=30503"
+          "url": "https://www.goe.go.kr/goe/na/ntt/selectNttList.do?bbsId=1950&mi=11123&mi=11123"
         },
         {
-          "audit_posts": 1,
+          "audit_posts": 2,
           "issues": [
             "detail_limit_unchecked"
           ],
-          "raw_posts": 9,
+          "raw_posts": 8,
           "status": "listing_checked",
-          "url": "https://www.pen.go.kr/main/na/ntt/selectNttList.do?bbsId=2369&mi=30212"
+          "url": "https://www.goe.go.kr/goe/na/ntt/selectNttList.do?bbsId=1927&mi=10115"
         }
       ],
       "details_checked": 0,
-      "home": "https://www.pen.go.kr/",
-      "id": "pen",
-      "institution": "부산광역시교육청",
+      "home": "https://www.goe.go.kr/goe/main.do",
+      "id": "goe",
+      "institution": "경기도교육청",
       "issues": [],
       "kind": "시도교육청",
-      "listed_posts": 31,
+      "listed_posts": 26,
       "region": null,
       "status": "partial"
+    },
+    {
+      "boards": [],
+      "details_checked": 0,
+      "home": null,
+      "id": "cne-공주",
+      "institution": "공주교육지원청",
+      "issues": [
+        "homepage_unresolved"
+      ],
+      "kind": "교육지원청",
+      "listed_posts": 0,
+      "region": "충청남도교육청",
+      "status": "failed"
+    },
+    {
+      "boards": [],
+      "details_checked": 0,
+      "home": null,
+      "id": "dge-군위",
+      "institution": "군위교육지원청",
+      "issues": [
+        "homepage_unresolved"
+      ],
+      "kind": "교육지원청",
+      "listed_posts": 0,
+      "region": "대구광역시교육청",
+      "status": "failed"
+    },
+    {
+      "boards": [],
+      "details_checked": 0,
+      "home": null,
+      "id": "dje-동부",
+      "institution": "동부교육지원청",
+      "issues": [
+        "homepage_unresolved"
+      ],
+      "kind": "교육지원청",
+      "listed_posts": 0,
+      "region": "대전광역시교육청",
+      "status": "failed"
+    },
+    {
+      "boards": [],
+      "details_checked": 0,
+      "home": "https://www.use.go.kr/",
+      "id": "use",
+      "institution": "울산광역시교육청",
+      "issues": [
+        "robots_unreachable:SSLError"
+      ],
+      "kind": "시도교육청",
+      "listed_posts": 0,
+      "region": null,
+      "status": "failed"
     },
     {
       "boards": [
@@ -637,20 +516,6 @@
       "status": "partial"
     },
     {
-      "boards": [],
-      "details_checked": 0,
-      "home": null,
-      "id": "ice-강화",
-      "institution": "강화교육지원청",
-      "issues": [
-        "homepage_unresolved"
-      ],
-      "kind": "교육지원청",
-      "listed_posts": 0,
-      "region": "인천광역시교육청",
-      "status": "failed"
-    },
-    {
       "boards": [
         {
           "audit_posts": 8,
@@ -673,31 +538,39 @@
       "status": "partial"
     },
     {
-      "boards": [],
-      "details_checked": 0,
-      "home": null,
-      "id": "jge-강진",
-      "institution": "강진교육지원청",
-      "issues": [
-        "homepage_unresolved"
+      "boards": [
+        {
+          "audit_posts": 1,
+          "issues": [
+            "detail_limit_unchecked"
+          ],
+          "raw_posts": 1,
+          "status": "listing_checked",
+          "url": "https://gwgned.gwe.go.kr/boardCnts/list.do?boardID=96263&m=010808&s=gwgned"
+        }
       ],
+      "details_checked": 0,
+      "home": "https://gwgned.gwe.go.kr/",
+      "id": "gwe-강릉",
+      "institution": "강릉교육지원청",
+      "issues": [],
       "kind": "교육지원청",
-      "listed_posts": 0,
-      "region": "전남광주통합특별시교육청",
-      "status": "failed"
+      "listed_posts": 1,
+      "region": "강원특별자치도교육청",
+      "status": "partial"
     },
     {
       "boards": [],
       "details_checked": 0,
       "home": null,
-      "id": "jje-서귀포시",
-      "institution": "서귀포시교육지원청",
+      "id": "ice-강화",
+      "institution": "강화교육지원청",
       "issues": [
         "homepage_unresolved"
       ],
       "kind": "교육지원청",
       "listed_posts": 0,
-      "region": "제주특별자치도교육청",
+      "region": "인천광역시교육청",
       "status": "failed"
     },
     {
@@ -750,119 +623,60 @@
       "status": "partial"
     },
     {
-      "boards": [
-        {
-          "audit_posts": 10,
-          "issues": [
-            "detail_limit_unchecked"
-          ],
-          "raw_posts": 10,
-          "status": "listing_checked",
-          "url": "https://www.gbe.kr/dep_ins/na/ntt/selectNttList.do?bbsId=2631&mi=8545"
-        },
-        {
-          "audit_posts": 10,
-          "issues": [
-            "detail_limit_unchecked"
-          ],
-          "raw_posts": 10,
-          "status": "listing_checked",
-          "url": "https://www.gbe.kr/dep_ins/na/ntt/selectNttList.do?bbsId=2627&mi=8541"
-        },
-        {
-          "audit_posts": 1,
-          "issues": [
-            "detail_limit_unchecked"
-          ],
-          "raw_posts": 10,
-          "status": "listing_checked",
-          "url": "https://www.gbe.kr/dep_ins/na/ntt/selectNttList.do?bbsId=2634&mi=8549"
-        },
-        {
-          "issues": [
-            "list_parser_unverified"
-          ],
-          "parser_hints": [
-            {
-              "data_id": null,
-              "href": "/main/cm/cntnts/cntntsView.do?mi=3842&cntntsId=3070",
-              "label": "청렴신고센터",
-              "onclick": null
-            },
-            {
-              "data_id": null,
-              "href": "/main/cm/cntnts/cntntsView.do?mi=3842&cntntsId=3070",
-              "label": "청렴신고센터",
-              "onclick": null
-            },
-            {
-              "data_id": null,
-              "href": "/dep_ins/na/ntt/selectNttList.do?mi=8535&bbsId=2623",
-              "label": "참여감사",
-              "onclick": null
-            },
-            {
-              "data_id": null,
-              "href": "/dep_ins/na/ntt/selectNttList.do?mi=8535&bbsId=2623",
-              "label": "감사인력풀",
-              "onclick": null
-            },
-            {
-              "data_id": null,
-              "href": "/dep_ins/na/ntt/selectNttList.do?mi=8536&bbsId=2624",
-              "label": "주민감사관",
-              "onclick": null
-            },
-            {
-              "data_id": null,
-              "href": "/dep_ins/na/ntt/selectNttList.do?mi=8537&bbsId=2625",
-              "label": "감사일정",
-              "onclick": null
-            },
-            {
-              "data_id": null,
-              "href": "/dep_ins/na/ntt/selectNttList.do?mi=8539&bbsId=2626",
-              "label": "열린감사방",
-              "onclick": null
-            },
-            {
-              "data_id": null,
-              "href": "/dep_ins/na/ntt/selectNttList.do?mi=8539&bbsId=2626",
-              "label": "감사의견함",
-              "onclick": null
-            }
-          ],
-          "status": "failed",
-          "url": "https://www.gbe.kr/dep_ins/ad/def/selectAuditsList.do?mi=23189"
-        },
-        {
-          "audit_posts": 10,
-          "issues": [
-            "detail_limit_unchecked"
-          ],
-          "raw_posts": 10,
-          "status": "listing_checked",
-          "url": "https://www.gbe.kr/dep_ins/na/ntt/selectNttList.do?bbsId=2635&mi=8550"
-        },
-        {
-          "audit_posts": 3,
-          "issues": [
-            "detail_limit_unchecked"
-          ],
-          "raw_posts": 9,
-          "status": "listing_checked",
-          "url": "https://www.gbe.kr/dep_ins/main.do"
-        }
-      ],
+      "boards": [],
       "details_checked": 0,
-      "home": "https://www.gbe.kr/",
-      "id": "gbe",
-      "institution": "경상북도교육청",
-      "issues": [],
+      "home": null,
+      "id": "jge-강진",
+      "institution": "강진교육지원청",
+      "issues": [
+        "homepage_unresolved"
+      ],
+      "kind": "교육지원청",
+      "listed_posts": 0,
+      "region": "전남광주통합특별시교육청",
+      "status": "failed"
+    },
+    {
+      "boards": [],
+      "details_checked": 0,
+      "home": null,
+      "id": "jje-서귀포시",
+      "institution": "서귀포시교육지원청",
+      "issues": [
+        "homepage_unresolved"
+      ],
+      "kind": "교육지원청",
+      "listed_posts": 0,
+      "region": "제주특별자치도교육청",
+      "status": "failed"
+    },
+    {
+      "boards": [],
+      "details_checked": 0,
+      "home": "http://www.jbgce.kr/",
+      "id": "jbe-고창",
+      "institution": "고창교육지원청",
+      "issues": [
+        "untrusted_domain"
+      ],
+      "kind": "교육지원청",
+      "listed_posts": 0,
+      "region": "전북특별자치도교육청",
+      "status": "failed"
+    },
+    {
+      "boards": [],
+      "details_checked": 0,
+      "home": "https://www.jge.go.kr/",
+      "id": "jge",
+      "institution": "전남광주통합특별시교육청",
+      "issues": [
+        "robots_unreachable:ConnectTimeout"
+      ],
       "kind": "시도교육청",
-      "listed_posts": 34,
+      "listed_posts": 0,
       "region": null,
-      "status": "partial"
+      "status": "failed"
     },
     {
       "boards": [],
@@ -879,18 +693,60 @@
       "status": "failed"
     },
     {
-      "boards": [],
-      "details_checked": 0,
-      "home": "http://www.jbgce.kr/",
-      "id": "jbe-고창",
-      "institution": "고창교육지원청",
-      "issues": [
-        "untrusted_domain"
+      "boards": [
+        {
+          "audit_posts": 10,
+          "issues": [
+            "detail_limit_unchecked"
+          ],
+          "raw_posts": 10,
+          "status": "listing_checked",
+          "url": "https://www.pen.go.kr/main/na/ntt/selectNttList.do?bbsId=2611&mi=31669"
+        },
+        {
+          "audit_posts": 10,
+          "issues": [
+            "detail_limit_unchecked"
+          ],
+          "raw_posts": 10,
+          "status": "listing_checked",
+          "url": "https://www.pen.go.kr/main/na/ntt/selectNttList.do?bbsId=2370&mi=30502"
+        },
+        {
+          "audit_posts": 0,
+          "issues": [],
+          "raw_posts": 2,
+          "status": "listing_checked",
+          "url": "https://www.pen.go.kr/dep04/main.do"
+        },
+        {
+          "audit_posts": 10,
+          "issues": [
+            "detail_limit_unchecked"
+          ],
+          "raw_posts": 10,
+          "status": "listing_checked",
+          "url": "https://www.pen.go.kr/main/na/ntt/selectNttList.do?bbsId=2371&mi=30503"
+        },
+        {
+          "audit_posts": 1,
+          "issues": [
+            "detail_limit_unchecked"
+          ],
+          "raw_posts": 9,
+          "status": "listing_checked",
+          "url": "https://www.pen.go.kr/main/na/ntt/selectNttList.do?bbsId=2369&mi=30212"
+        }
       ],
-      "kind": "교육지원청",
-      "listed_posts": 0,
-      "region": "전북특별자치도교육청",
-      "status": "failed"
+      "details_checked": 0,
+      "home": "https://www.pen.go.kr/",
+      "id": "pen",
+      "institution": "부산광역시교육청",
+      "issues": [],
+      "kind": "시도교육청",
+      "listed_posts": 31,
+      "region": null,
+      "status": "partial"
     },
     {
       "boards": [],
@@ -935,26 +791,60 @@
       "status": "failed"
     },
     {
+      "boards": [],
+      "details_checked": 0,
+      "home": "https://www.sje.go.kr/",
+      "id": "sje",
+      "institution": "세종특별자치시교육청",
+      "issues": [
+        "robots_unreachable:ConnectTimeout"
+      ],
+      "kind": "시도교육청",
+      "listed_posts": 0,
+      "region": null,
+      "status": "failed"
+    },
+    {
+      "boards": [],
+      "details_checked": 0,
+      "home": "http://www.cbgje.go.kr/",
+      "id": "cbe-괴산증평",
+      "institution": "괴산증평교육지원청",
+      "issues": [
+        "robots_unreachable:ConnectTimeout"
+      ],
+      "kind": "교육지원청",
+      "listed_posts": 0,
+      "region": "충청북도교육청",
+      "status": "failed"
+    },
+    {
       "boards": [
         {
-          "audit_posts": 1,
           "issues": [
-            "detail_limit_unchecked"
+            "list_parser_unverified"
           ],
-          "raw_posts": 1,
-          "status": "listing_checked",
-          "url": "https://gwgned.gwe.go.kr/boardCnts/list.do?boardID=96263&m=010808&s=gwgned"
+          "parser_hints": [
+            {
+              "data_id": null,
+              "href": "http://gnscedu.sen.go.kr/CMS/openedu/openedu13/openedu135/1335288_7628.html",
+              "label": "2023년 강남서초 청렴연수 자료 공유합니다.",
+              "onclick": null
+            }
+          ],
+          "status": "failed",
+          "url": "https://gnscedu.sen.go.kr/CMS/openedu/openedu13/openedu135/index.html"
         }
       ],
       "details_checked": 0,
-      "home": "https://gwgned.gwe.go.kr/",
-      "id": "gwe-강릉",
-      "institution": "강릉교육지원청",
+      "home": "https://gnscedu.sen.go.kr/",
+      "id": "sen-강남서초",
+      "institution": "강남서초교육지원청",
       "issues": [],
       "kind": "교육지원청",
-      "listed_posts": 1,
-      "region": "강원특별자치도교육청",
-      "status": "partial"
+      "listed_posts": 0,
+      "region": "서울특별시교육청",
+      "status": "failed"
     },
     {
       "boards": [
@@ -1005,31 +895,17 @@
       "status": "partial"
     },
     {
-      "boards": [
-        {
-          "issues": [
-            "list_parser_unverified"
-          ],
-          "parser_hints": [
-            {
-              "data_id": null,
-              "href": "http://gnscedu.sen.go.kr/CMS/openedu/openedu13/openedu135/1335288_7628.html",
-              "label": "2023년 강남서초 청렴연수 자료 공유합니다.",
-              "onclick": null
-            }
-          ],
-          "status": "failed",
-          "url": "https://gnscedu.sen.go.kr/CMS/openedu/openedu13/openedu135/index.html"
-        }
-      ],
+      "boards": [],
       "details_checked": 0,
-      "home": "https://gnscedu.sen.go.kr/",
-      "id": "sen-강남서초",
-      "institution": "강남서초교육지원청",
-      "issues": [],
+      "home": null,
+      "id": "ice-남부",
+      "institution": "남부교육지원청",
+      "issues": [
+        "homepage_unresolved"
+      ],
       "kind": "교육지원청",
       "listed_posts": 0,
-      "region": "서울특별시교육청",
+      "region": "인천광역시교육청",
       "status": "failed"
     },
     {
@@ -1053,34 +929,6 @@
       "listed_posts": 10,
       "region": "경상남도교육청",
       "status": "partial"
-    },
-    {
-      "boards": [],
-      "details_checked": 0,
-      "home": null,
-      "id": "ice-남부",
-      "institution": "남부교육지원청",
-      "issues": [
-        "homepage_unresolved"
-      ],
-      "kind": "교육지원청",
-      "listed_posts": 0,
-      "region": "인천광역시교육청",
-      "status": "failed"
-    },
-    {
-      "boards": [],
-      "details_checked": 0,
-      "home": "http://www.jbgse.kr/",
-      "id": "jbe-군산",
-      "institution": "군산교육지원청",
-      "issues": [
-        "untrusted_domain"
-      ],
-      "kind": "교육지원청",
-      "listed_posts": 0,
-      "region": "전북특별자치도교육청",
-      "status": "failed"
     },
     {
       "boards": [],
@@ -1111,18 +959,26 @@
       "status": "failed"
     },
     {
-      "boards": [],
-      "details_checked": 0,
-      "home": "https://www.sje.go.kr/",
-      "id": "sje",
-      "institution": "세종특별자치시교육청",
-      "issues": [
-        "robots_unreachable:ConnectTimeout"
+      "boards": [
+        {
+          "audit_posts": 1,
+          "issues": [
+            "detail_limit_unchecked"
+          ],
+          "raw_posts": 1,
+          "status": "listing_checked",
+          "url": "https://gwgsed.gwe.go.kr/boardCnts/list.do?boardID=96269&m=0208&s=kwksed"
+        }
       ],
-      "kind": "시도교육청",
-      "listed_posts": 0,
-      "region": null,
-      "status": "failed"
+      "details_checked": 0,
+      "home": "https://gwgsed.gwe.go.kr/",
+      "id": "gwe-고성",
+      "institution": "고성교육지원청",
+      "issues": [],
+      "kind": "교육지원청",
+      "listed_posts": 1,
+      "region": "강원특별자치도교육청",
+      "status": "partial"
     },
     {
       "boards": [],
@@ -1153,26 +1009,18 @@
       "status": "failed"
     },
     {
-      "boards": [
-        {
-          "audit_posts": 1,
-          "issues": [
-            "detail_limit_unchecked"
-          ],
-          "raw_posts": 1,
-          "status": "listing_checked",
-          "url": "https://gwgsed.gwe.go.kr/boardCnts/list.do?boardID=96269&m=0208&s=kwksed"
-        }
-      ],
+      "boards": [],
       "details_checked": 0,
-      "home": "https://gwgsed.gwe.go.kr/",
-      "id": "gwe-고성",
-      "institution": "고성교육지원청",
-      "issues": [],
+      "home": "http://www.jbgse.kr/",
+      "id": "jbe-군산",
+      "institution": "군산교육지원청",
+      "issues": [
+        "untrusted_domain"
+      ],
       "kind": "교육지원청",
-      "listed_posts": 1,
-      "region": "강원특별자치도교육청",
-      "status": "partial"
+      "listed_posts": 0,
+      "region": "전북특별자치도교육청",
+      "status": "failed"
     },
     {
       "boards": [],
@@ -1200,20 +1048,6 @@
       "kind": "교육지원청",
       "listed_posts": 0,
       "region": "대구광역시교육청",
-      "status": "failed"
-    },
-    {
-      "boards": [],
-      "details_checked": 0,
-      "home": "http://www.cbgje.go.kr/",
-      "id": "cbe-괴산증평",
-      "institution": "괴산증평교육지원청",
-      "issues": [
-        "robots_unreachable:ConnectTimeout"
-      ],
-      "kind": "교육지원청",
-      "listed_posts": 0,
-      "region": "충청북도교육청",
       "status": "failed"
     },
     {
@@ -1334,6 +1168,20 @@
     {
       "boards": [],
       "details_checked": 0,
+      "home": "http://www.cbdye.go.kr/",
+      "id": "cbe-단양",
+      "institution": "단양교육지원청",
+      "issues": [
+        "robots_unreachable:ConnectTimeout"
+      ],
+      "kind": "교육지원청",
+      "listed_posts": 0,
+      "region": "충청북도교육청",
+      "status": "failed"
+    },
+    {
+      "boards": [],
+      "details_checked": 0,
       "home": null,
       "id": "ice-동부",
       "institution": "동부교육지원청",
@@ -1398,7 +1246,7 @@
           "issues": [
             "detail_limit_unchecked"
           ],
-          "raw_posts": 10,
+          "raw_posts": 9,
           "status": "listing_checked",
           "url": "https://www.goegm.kr/goegm/na/ntt/selectNttList.do?bbsId=4228&mi=5830"
         },
@@ -1434,48 +1282,6 @@
       "kind": "교육지원청",
       "listed_posts": 0,
       "region": "서울특별시교육청",
-      "status": "failed"
-    },
-    {
-      "boards": [],
-      "details_checked": 0,
-      "home": "http://www.cbdye.go.kr/",
-      "id": "cbe-단양",
-      "institution": "단양교육지원청",
-      "issues": [
-        "robots_unreachable:ConnectTimeout"
-      ],
-      "kind": "교육지원청",
-      "listed_posts": 0,
-      "region": "충청북도교육청",
-      "status": "failed"
-    },
-    {
-      "boards": [],
-      "details_checked": 0,
-      "home": null,
-      "id": "cne-당진",
-      "institution": "당진교육지원청",
-      "issues": [
-        "homepage_unresolved"
-      ],
-      "kind": "교육지원청",
-      "listed_posts": 0,
-      "region": "충청남도교육청",
-      "status": "failed"
-    },
-    {
-      "boards": [],
-      "details_checked": 0,
-      "home": null,
-      "id": "dge-동부",
-      "institution": "동부교육지원청",
-      "issues": [
-        "homepage_unresolved"
-      ],
-      "kind": "교육지원청",
-      "listed_posts": 0,
-      "region": "대구광역시교육청",
       "status": "failed"
     },
     {
@@ -1516,6 +1322,101 @@
       "kind": "교육지원청",
       "listed_posts": 3,
       "region": "강원특별자치도교육청",
+      "status": "partial"
+    },
+    {
+      "boards": [],
+      "details_checked": 0,
+      "home": null,
+      "id": "cne-당진",
+      "institution": "당진교육지원청",
+      "issues": [
+        "homepage_unresolved"
+      ],
+      "kind": "교육지원청",
+      "listed_posts": 0,
+      "region": "충청남도교육청",
+      "status": "failed"
+    },
+    {
+      "boards": [],
+      "details_checked": 0,
+      "home": null,
+      "id": "dge-동부",
+      "institution": "동부교육지원청",
+      "issues": [
+        "homepage_unresolved"
+      ],
+      "kind": "교육지원청",
+      "listed_posts": 0,
+      "region": "대구광역시교육청",
+      "status": "failed"
+    },
+    {
+      "boards": [],
+      "details_checked": 0,
+      "home": "http://www.cbbee.go.kr/",
+      "id": "cbe-보은",
+      "institution": "보은교육지원청",
+      "issues": [
+        "robots_unreachable:ConnectTimeout"
+      ],
+      "kind": "교육지원청",
+      "listed_posts": 0,
+      "region": "충청북도교육청",
+      "status": "failed"
+    },
+    {
+      "boards": [
+        {
+          "audit_posts": 3,
+          "issues": [
+            "detail_limit_unchecked"
+          ],
+          "raw_posts": 6,
+          "status": "listing_checked",
+          "url": "https://ghedu.gne.go.kr/ghedu/na/ntt/selectNttList.do?bbsId=1148&mi=2400"
+        }
+      ],
+      "details_checked": 0,
+      "home": "https://ghedu.gne.go.kr/",
+      "id": "gne-김해",
+      "institution": "김해교육지원청",
+      "issues": [],
+      "kind": "교육지원청",
+      "listed_posts": 3,
+      "region": "경상남도교육청",
+      "status": "partial"
+    },
+    {
+      "boards": [
+        {
+          "audit_posts": 10,
+          "issues": [
+            "detail_limit_unchecked"
+          ],
+          "raw_posts": 10,
+          "status": "listing_checked",
+          "url": "https://www.goegh.kr/goegh/na/ntt/selectNttList.do?bbsId=5080&mi=8743"
+        },
+        {
+          "audit_posts": 2,
+          "issues": [
+            "detail_limit_unchecked"
+          ],
+          "raw_posts": 10,
+          "status": "listing_checked",
+          "url": "https://www.goegh.kr/goegh/na/ntt/selectNttList.do?bbsId=5079&mi=8742"
+        }
+      ],
+      "details_checked": 0,
+      "home": "https://www.goegh.kr/",
+      "id": "goe-광주하남",
+      "institution": "광주하남교육지원청",
+      "issues": [],
+      "kind": "교육지원청",
+      "listed_posts": 12,
+      "region": "경기도교육청",
       "status": "partial"
     },
     {
@@ -1567,26 +1468,18 @@
       "status": "partial"
     },
     {
-      "boards": [
-        {
-          "audit_posts": 3,
-          "issues": [
-            "detail_limit_unchecked"
-          ],
-          "raw_posts": 6,
-          "status": "listing_checked",
-          "url": "https://ghedu.gne.go.kr/ghedu/na/ntt/selectNttList.do?bbsId=1148&mi=2400"
-        }
-      ],
+      "boards": [],
       "details_checked": 0,
-      "home": "https://ghedu.gne.go.kr/",
-      "id": "gne-김해",
-      "institution": "김해교육지원청",
-      "issues": [],
+      "home": null,
+      "id": "ice-북부",
+      "institution": "북부교육지원청",
+      "issues": [
+        "homepage_unresolved"
+      ],
       "kind": "교육지원청",
-      "listed_posts": 3,
-      "region": "경상남도교육청",
-      "status": "partial"
+      "listed_posts": 0,
+      "region": "인천광역시교육청",
+      "status": "failed"
     },
     {
       "boards": [
@@ -1614,51 +1507,6 @@
       "boards": [],
       "details_checked": 0,
       "home": null,
-      "id": "ice-북부",
-      "institution": "북부교육지원청",
-      "issues": [
-        "homepage_unresolved"
-      ],
-      "kind": "교육지원청",
-      "listed_posts": 0,
-      "region": "인천광역시교육청",
-      "status": "failed"
-    },
-    {
-      "boards": [
-        {
-          "audit_posts": 10,
-          "issues": [
-            "detail_limit_unchecked"
-          ],
-          "raw_posts": 10,
-          "status": "listing_checked",
-          "url": "https://www.goegh.kr/goegh/na/ntt/selectNttList.do?bbsId=5080&mi=8743"
-        },
-        {
-          "audit_posts": 2,
-          "issues": [
-            "detail_limit_unchecked"
-          ],
-          "raw_posts": 10,
-          "status": "listing_checked",
-          "url": "https://www.goegh.kr/goegh/na/ntt/selectNttList.do?bbsId=5079&mi=8742"
-        }
-      ],
-      "details_checked": 0,
-      "home": "https://www.goegh.kr/",
-      "id": "goe-광주하남",
-      "institution": "광주하남교육지원청",
-      "issues": [],
-      "kind": "교육지원청",
-      "listed_posts": 12,
-      "region": "경기도교육청",
-      "status": "partial"
-    },
-    {
-      "boards": [],
-      "details_checked": 0,
-      "home": null,
       "id": "jge-광양",
       "institution": "광양교육지원청",
       "issues": [
@@ -1670,26 +1518,18 @@
       "status": "failed"
     },
     {
-      "boards": [
-        {
-          "audit_posts": 10,
-          "issues": [
-            "detail_limit_unchecked"
-          ],
-          "raw_posts": 10,
-          "status": "listing_checked",
-          "url": "https://home.pen.go.kr/seobu/na/ntt/selectNttList.do?bbsId=3608&mi=9510"
-        }
-      ],
+      "boards": [],
       "details_checked": 0,
-      "home": "http://home.pen.go.kr/seobu/main.do",
-      "id": "pen-서부",
-      "institution": "서부교육지원청",
-      "issues": [],
+      "home": "http://www.jbnwe.kr/",
+      "id": "jbe-남원",
+      "institution": "남원교육지원청",
+      "issues": [
+        "untrusted_domain"
+      ],
       "kind": "교육지원청",
-      "listed_posts": 10,
-      "region": "부산광역시교육청",
-      "status": "partial"
+      "listed_posts": 0,
+      "region": "전북특별자치도교육청",
+      "status": "failed"
     },
     {
       "boards": [],
@@ -1708,15 +1548,15 @@
     {
       "boards": [],
       "details_checked": 0,
-      "home": "http://www.jbnwe.kr/",
-      "id": "jbe-남원",
-      "institution": "남원교육지원청",
+      "home": "http://www.cbyde.go.kr/",
+      "id": "cbe-영동",
+      "institution": "영동교육지원청",
       "issues": [
-        "untrusted_domain"
+        "robots_unreachable:ConnectTimeout"
       ],
       "kind": "교육지원청",
       "listed_posts": 0,
-      "region": "전북특별자치도교육청",
+      "region": "충청북도교육청",
       "status": "failed"
     },
     {
@@ -1748,17 +1588,45 @@
       "status": "failed"
     },
     {
-      "boards": [],
-      "details_checked": 0,
-      "home": "http://www.cbbee.go.kr/",
-      "id": "cbe-보은",
-      "institution": "보은교육지원청",
-      "issues": [
-        "robots_unreachable:ConnectTimeout"
+      "boards": [
+        {
+          "audit_posts": 10,
+          "issues": [
+            "detail_limit_unchecked"
+          ],
+          "raw_posts": 10,
+          "status": "listing_checked",
+          "url": "https://home.pen.go.kr/seobu/na/ntt/selectNttList.do?bbsId=3608&mi=9510"
+        }
       ],
+      "details_checked": 0,
+      "home": "http://home.pen.go.kr/seobu/main.do",
+      "id": "pen-서부",
+      "institution": "서부교육지원청",
+      "issues": [],
+      "kind": "교육지원청",
+      "listed_posts": 10,
+      "region": "부산광역시교육청",
+      "status": "partial"
+    },
+    {
+      "boards": [
+        {
+          "issues": [
+            "source_cooldown:ConnectTimeout"
+          ],
+          "status": "failed",
+          "url": "https://www.gbe.kr/gs/na/ntt/selectNttList.do?bbsId=2367&mi=6138"
+        }
+      ],
+      "details_checked": 0,
+      "home": "https://www.gbe.kr/gs/main.do",
+      "id": "gbe-경산",
+      "institution": "경산교육지원청",
+      "issues": [],
       "kind": "교육지원청",
       "listed_posts": 0,
-      "region": "충청북도교육청",
+      "region": "경상북도교육청",
       "status": "failed"
     },
     {
@@ -1792,32 +1660,53 @@
       "status": "partial"
     },
     {
-      "boards": [],
-      "details_checked": 0,
-      "home": "https://www.gbe.kr/gj/main.do",
-      "id": "gbe-경주",
-      "institution": "경주교육지원청",
-      "issues": [
-        "ConnectTimeout"
+      "boards": [
+        {
+          "audit_posts": 10,
+          "issues": [
+            "detail_limit_unchecked"
+          ],
+          "raw_posts": 10,
+          "status": "listing_checked",
+          "url": "https://www.goegn.kr/goegn/na/ntt/selectNttList.do?bbsId=8354&mi=13512"
+        },
+        {
+          "audit_posts": 7,
+          "issues": [
+            "detail_limit_unchecked"
+          ],
+          "raw_posts": 10,
+          "status": "listing_checked",
+          "url": "https://www.goegn.kr/goegn/na/ntt/selectNttList.do?bbsId=8395&mi=13571"
+        },
+        {
+          "audit_posts": 10,
+          "issues": [
+            "detail_limit_unchecked"
+          ],
+          "raw_posts": 10,
+          "status": "listing_checked",
+          "url": "https://www.goegn.kr/goegn/na/ntt/selectNttList.do?bbsId=9921&mi=16822"
+        },
+        {
+          "audit_posts": 9,
+          "issues": [
+            "detail_limit_unchecked"
+          ],
+          "raw_posts": 9,
+          "status": "listing_checked",
+          "url": "https://www.goegn.kr/goegn/na/ntt/selectNttList.do?bbsId=9922&mi=16823"
+        }
       ],
-      "kind": "교육지원청",
-      "listed_posts": 0,
-      "region": "경상북도교육청",
-      "status": "failed"
-    },
-    {
-      "boards": [],
       "details_checked": 0,
-      "home": "http://www.cbyde.go.kr/",
-      "id": "cbe-영동",
-      "institution": "영동교육지원청",
-      "issues": [
-        "robots_unreachable:ConnectTimeout"
-      ],
+      "home": "https://www.goegn.kr/",
+      "id": "goe-구리남양주",
+      "institution": "구리남양주교육지원청",
+      "issues": [],
       "kind": "교육지원청",
-      "listed_posts": 0,
-      "region": "충청북도교육청",
-      "status": "failed"
+      "listed_posts": 36,
+      "region": "경기도교육청",
+      "status": "partial"
     },
     {
       "boards": [],
@@ -1906,16 +1795,7 @@
           ],
           "raw_posts": 10,
           "status": "listing_checked",
-          "url": "https://www.goegn.kr/goegn/na/ntt/selectNttList.do?bbsId=8354&mi=13512"
-        },
-        {
-          "audit_posts": 7,
-          "issues": [
-            "detail_limit_unchecked"
-          ],
-          "raw_posts": 10,
-          "status": "listing_checked",
-          "url": "https://www.goegn.kr/goegn/na/ntt/selectNttList.do?bbsId=8395&mi=13571"
+          "url": "https://www.gbe.kr/dep_ins/na/ntt/selectNttList.do?bbsId=2631&mi=8545"
         },
         {
           "audit_posts": 10,
@@ -1924,26 +1804,97 @@
           ],
           "raw_posts": 10,
           "status": "listing_checked",
-          "url": "https://www.goegn.kr/goegn/na/ntt/selectNttList.do?bbsId=9921&mi=16822"
+          "url": "https://www.gbe.kr/dep_ins/na/ntt/selectNttList.do?bbsId=2627&mi=8541"
         },
         {
-          "audit_posts": 9,
+          "audit_posts": 1,
           "issues": [
             "detail_limit_unchecked"
           ],
-          "raw_posts": 9,
+          "raw_posts": 10,
           "status": "listing_checked",
-          "url": "https://www.goegn.kr/goegn/na/ntt/selectNttList.do?bbsId=9922&mi=16823"
+          "url": "https://www.gbe.kr/dep_ins/na/ntt/selectNttList.do?bbsId=2634&mi=8549"
+        },
+        {
+          "issues": [
+            "list_parser_unverified"
+          ],
+          "parser_hints": [
+            {
+              "data_id": null,
+              "href": "/main/cm/cntnts/cntntsView.do?mi=3842&cntntsId=3070",
+              "label": "청렴신고센터",
+              "onclick": null
+            },
+            {
+              "data_id": null,
+              "href": "/main/cm/cntnts/cntntsView.do?mi=3842&cntntsId=3070",
+              "label": "청렴신고센터",
+              "onclick": null
+            },
+            {
+              "data_id": null,
+              "href": "/dep_ins/na/ntt/selectNttList.do?mi=8535&bbsId=2623",
+              "label": "참여감사",
+              "onclick": null
+            },
+            {
+              "data_id": null,
+              "href": "/dep_ins/na/ntt/selectNttList.do?mi=8535&bbsId=2623",
+              "label": "감사인력풀",
+              "onclick": null
+            },
+            {
+              "data_id": null,
+              "href": "/dep_ins/na/ntt/selectNttList.do?mi=8536&bbsId=2624",
+              "label": "주민감사관",
+              "onclick": null
+            },
+            {
+              "data_id": null,
+              "href": "/dep_ins/na/ntt/selectNttList.do?mi=8537&bbsId=2625",
+              "label": "감사일정",
+              "onclick": null
+            },
+            {
+              "data_id": null,
+              "href": "/dep_ins/na/ntt/selectNttList.do?mi=8539&bbsId=2626",
+              "label": "열린감사방",
+              "onclick": null
+            },
+            {
+              "data_id": null,
+              "href": "/dep_ins/na/ntt/selectNttList.do?mi=8539&bbsId=2626",
+              "label": "감사의견함",
+              "onclick": null
+            }
+          ],
+          "status": "failed",
+          "url": "https://www.gbe.kr/dep_ins/ad/def/selectAuditsList.do?mi=23189"
+        },
+        {
+          "issues": [
+            "ConnectTimeout"
+          ],
+          "status": "failed",
+          "url": "https://www.gbe.kr/dep_ins/na/ntt/selectNttList.do?bbsId=2635&mi=8550"
+        },
+        {
+          "issues": [
+            "source_cooldown:ConnectTimeout"
+          ],
+          "status": "failed",
+          "url": "https://www.gbe.kr/dep_ins/main.do"
         }
       ],
       "details_checked": 0,
-      "home": "https://www.goegn.kr/",
-      "id": "goe-구리남양주",
-      "institution": "구리남양주교육지원청",
+      "home": "https://www.gbe.kr/",
+      "id": "gbe",
+      "institution": "경상북도교육청",
       "issues": [],
-      "kind": "교육지원청",
-      "listed_posts": 36,
-      "region": "경기도교육청",
+      "kind": "시도교육청",
+      "listed_posts": 21,
+      "region": null,
       "status": "partial"
     },
     {
@@ -1998,26 +1949,6 @@
       "listed_posts": 20,
       "region": "부산광역시교육청",
       "status": "partial"
-    },
-    {
-      "boards": [
-        {
-          "issues": [
-            "source_cooldown:ConnectTimeout"
-          ],
-          "status": "failed",
-          "url": "https://www.gbe.kr/gs/na/ntt/selectNttList.do?bbsId=2367&mi=6138"
-        }
-      ],
-      "details_checked": 0,
-      "home": "https://www.gbe.kr/gs/main.do",
-      "id": "gbe-경산",
-      "institution": "경산교육지원청",
-      "issues": [],
-      "kind": "교육지원청",
-      "listed_posts": 0,
-      "region": "경상북도교육청",
-      "status": "failed"
     },
     {
       "boards": [
@@ -2089,6 +2020,20 @@
     {
       "boards": [],
       "details_checked": 0,
+      "home": "http://www.jbbae.go.kr/",
+      "id": "jbe-부안",
+      "institution": "부안교육지원청",
+      "issues": [
+        "untrusted_domain"
+      ],
+      "kind": "교육지원청",
+      "listed_posts": 0,
+      "region": "전북특별자치도교육청",
+      "status": "failed"
+    },
+    {
+      "boards": [],
+      "details_checked": 0,
       "home": null,
       "id": "jge-나주",
       "institution": "나주교육지원청",
@@ -2115,34 +2060,6 @@
       "status": "failed"
     },
     {
-      "boards": [],
-      "details_checked": 0,
-      "home": "http://www.jbbae.go.kr/",
-      "id": "jbe-부안",
-      "institution": "부안교육지원청",
-      "issues": [
-        "untrusted_domain"
-      ],
-      "kind": "교육지원청",
-      "listed_posts": 0,
-      "region": "전북특별자치도교육청",
-      "status": "failed"
-    },
-    {
-      "boards": [],
-      "details_checked": 0,
-      "home": null,
-      "id": "cne-서산",
-      "institution": "서산교육지원청",
-      "issues": [
-        "homepage_unresolved"
-      ],
-      "kind": "교육지원청",
-      "listed_posts": 0,
-      "region": "충청남도교육청",
-      "status": "failed"
-    },
-    {
       "boards": [
         {
           "audit_posts": 1,
@@ -2162,6 +2079,70 @@
       "kind": "교육지원청",
       "listed_posts": 1,
       "region": "강원특별자치도교육청",
+      "status": "partial"
+    },
+    {
+      "boards": [],
+      "details_checked": 0,
+      "home": null,
+      "id": "cne-서산",
+      "institution": "서산교육지원청",
+      "issues": [
+        "homepage_unresolved"
+      ],
+      "kind": "교육지원청",
+      "listed_posts": 0,
+      "region": "충청남도교육청",
+      "status": "failed"
+    },
+    {
+      "boards": [],
+      "details_checked": 0,
+      "home": "http://www.cbuse.go.kr/",
+      "id": "cbe-음성",
+      "institution": "음성교육지원청",
+      "issues": [
+        "robots_unreachable:ConnectTimeout"
+      ],
+      "kind": "교육지원청",
+      "listed_posts": 0,
+      "region": "충청북도교육청",
+      "status": "failed"
+    },
+    {
+      "boards": [],
+      "details_checked": 0,
+      "home": "https://www.gbe.kr/gr/main.do",
+      "id": "gbe-고령",
+      "institution": "고령교육지원청",
+      "issues": [
+        "ConnectionError"
+      ],
+      "kind": "교육지원청",
+      "listed_posts": 0,
+      "region": "경상북도교육청",
+      "status": "failed"
+    },
+    {
+      "boards": [
+        {
+          "audit_posts": 6,
+          "issues": [
+            "detail_limit_unchecked"
+          ],
+          "raw_posts": 9,
+          "status": "listing_checked",
+          "url": "https://www.gpoe.kr/gpoe/na/ntt/selectNttList.do?bbsId=5189&mi=9325"
+        }
+      ],
+      "details_checked": 0,
+      "home": "https://www.gpoe.kr/",
+      "id": "goe-김포",
+      "institution": "김포교육지원청",
+      "issues": [],
+      "kind": "교육지원청",
+      "listed_posts": 6,
+      "region": "경기도교육청",
       "status": "partial"
     },
     {
@@ -2232,42 +2213,6 @@
       "status": "partial"
     },
     {
-      "boards": [
-        {
-          "audit_posts": 6,
-          "issues": [
-            "detail_limit_unchecked"
-          ],
-          "raw_posts": 9,
-          "status": "listing_checked",
-          "url": "https://www.gpoe.kr/gpoe/na/ntt/selectNttList.do?bbsId=5189&mi=9325"
-        }
-      ],
-      "details_checked": 0,
-      "home": "https://www.gpoe.kr/",
-      "id": "goe-김포",
-      "institution": "김포교육지원청",
-      "issues": [],
-      "kind": "교육지원청",
-      "listed_posts": 6,
-      "region": "경기도교육청",
-      "status": "partial"
-    },
-    {
-      "boards": [],
-      "details_checked": 0,
-      "home": "http://www.cbuse.go.kr/",
-      "id": "cbe-음성",
-      "institution": "음성교육지원청",
-      "issues": [
-        "robots_unreachable:ConnectTimeout"
-      ],
-      "kind": "교육지원청",
-      "listed_posts": 0,
-      "region": "충청북도교육청",
-      "status": "failed"
-    },
-    {
       "boards": [],
       "details_checked": 0,
       "home": "http://www.jbsce.kr/",
@@ -2329,15 +2274,15 @@
     {
       "boards": [],
       "details_checked": 0,
-      "home": "https://www.gbe.kr/gr/main.do",
-      "id": "gbe-고령",
-      "institution": "고령교육지원청",
+      "home": "http://www.cbjche.go.kr/",
+      "id": "cbe-제천",
+      "institution": "제천교육지원청",
       "issues": [
-        "ConnectTimeout"
+        "robots_unreachable:ConnectTimeout"
       ],
       "kind": "교육지원청",
       "listed_posts": 0,
-      "region": "경상북도교육청",
+      "region": "충청북도교육청",
       "status": "failed"
     },
     {
@@ -2425,20 +2370,6 @@
       "status": "failed"
     },
     {
-      "boards": [],
-      "details_checked": 0,
-      "home": "http://www.cbjche.go.kr/",
-      "id": "cbe-제천",
-      "institution": "제천교육지원청",
-      "issues": [
-        "robots_unreachable:ConnectTimeout"
-      ],
-      "kind": "교육지원청",
-      "listed_posts": 0,
-      "region": "충청북도교육청",
-      "status": "failed"
-    },
-    {
       "boards": [
         {
           "audit_posts": 7,
@@ -2499,6 +2430,20 @@
       "listed_posts": 25,
       "region": "경기도교육청",
       "status": "partial"
+    },
+    {
+      "boards": [],
+      "details_checked": 0,
+      "home": "http://www.cbjce.go.kr/",
+      "id": "cbe-진천",
+      "institution": "진천교육지원청",
+      "issues": [
+        "robots_unreachable:ConnectTimeout"
+      ],
+      "kind": "교육지원청",
+      "listed_posts": 0,
+      "region": "충청북도교육청",
+      "status": "failed"
     },
     {
       "boards": [
@@ -2590,9 +2535,23 @@
     {
       "boards": [],
       "details_checked": 0,
-      "home": "http://www.cbjce.go.kr/",
-      "id": "cbe-진천",
-      "institution": "진천교육지원청",
+      "home": "https://www.gbe.kr/gc/main.do",
+      "id": "gbe-김천",
+      "institution": "김천교육지원청",
+      "issues": [
+        "ConnectTimeout"
+      ],
+      "kind": "교육지원청",
+      "listed_posts": 0,
+      "region": "경상북도교육청",
+      "status": "failed"
+    },
+    {
+      "boards": [],
+      "details_checked": 0,
+      "home": "http://www.cbcje.go.kr/",
+      "id": "cbe-청주",
+      "institution": "청주교육지원청",
       "issues": [
         "robots_unreachable:ConnectTimeout"
       ],
@@ -2669,20 +2628,6 @@
       "listed_posts": 24,
       "region": "경기도교육청",
       "status": "partial"
-    },
-    {
-      "boards": [],
-      "details_checked": 0,
-      "home": "http://www.cbcje.go.kr/",
-      "id": "cbe-청주",
-      "institution": "청주교육지원청",
-      "issues": [
-        "robots_unreachable:ConnectTimeout"
-      ],
-      "kind": "교육지원청",
-      "listed_posts": 0,
-      "region": "충청북도교육청",
-      "status": "failed"
     },
     {
       "boards": [
@@ -2765,9 +2710,9 @@
     {
       "boards": [],
       "details_checked": 0,
-      "home": "https://www.gbe.kr/gc/main.do",
-      "id": "gbe-김천",
-      "institution": "김천교육지원청",
+      "home": "https://www.gbe.kr/mg/main.do",
+      "id": "gbe-문경",
+      "institution": "문경교육지원청",
       "issues": [
         "ConnectTimeout"
       ],
@@ -2839,35 +2784,18 @@
       "status": "partial"
     },
     {
-      "boards": [
-        {
-          "audit_posts": 1,
-          "issues": [
-            "detail_limit_unchecked"
-          ],
-          "raw_posts": 1,
-          "status": "listing_checked",
-          "url": "https://gwjsed.gwe.go.kr/boardCnts/list.do?boardID=90873&m=0803&s=gwjsed"
-        },
-        {
-          "audit_posts": 1,
-          "issues": [
-            "detail_limit_unchecked"
-          ],
-          "raw_posts": 1,
-          "status": "listing_checked",
-          "url": "https://gwjsed.gwe.go.kr/boardCnts/list.do?boardID=96224&m=0805&s=gwjsed"
-        }
-      ],
+      "boards": [],
       "details_checked": 0,
-      "home": "https://gwjsed.gwe.go.kr/",
-      "id": "gwe-정선",
-      "institution": "정선교육지원청",
-      "issues": [],
+      "home": "http://www.cbchje.go.kr/",
+      "id": "cbe-충주",
+      "institution": "충주교육지원청",
+      "issues": [
+        "robots_unreachable:ConnectTimeout"
+      ],
       "kind": "교육지원청",
-      "listed_posts": 2,
-      "region": "강원특별자치도교육청",
-      "status": "partial"
+      "listed_posts": 0,
+      "region": "충청북도교육청",
+      "status": "failed"
     },
     {
       "boards": [],
@@ -2926,18 +2854,35 @@
       "status": "failed"
     },
     {
-      "boards": [],
-      "details_checked": 0,
-      "home": "http://www.cbchje.go.kr/",
-      "id": "cbe-충주",
-      "institution": "충주교육지원청",
-      "issues": [
-        "robots_unreachable:ConnectTimeout"
+      "boards": [
+        {
+          "audit_posts": 1,
+          "issues": [
+            "detail_limit_unchecked"
+          ],
+          "raw_posts": 1,
+          "status": "listing_checked",
+          "url": "https://gwjsed.gwe.go.kr/boardCnts/list.do?boardID=90873&m=0803&s=gwjsed"
+        },
+        {
+          "audit_posts": 1,
+          "issues": [
+            "detail_limit_unchecked"
+          ],
+          "raw_posts": 1,
+          "status": "listing_checked",
+          "url": "https://gwjsed.gwe.go.kr/boardCnts/list.do?boardID=96224&m=0805&s=gwjsed"
+        }
       ],
+      "details_checked": 0,
+      "home": "https://gwjsed.gwe.go.kr/",
+      "id": "gwe-정선",
+      "institution": "정선교육지원청",
+      "issues": [],
       "kind": "교육지원청",
-      "listed_posts": 0,
-      "region": "충청북도교육청",
-      "status": "failed"
+      "listed_posts": 2,
+      "region": "강원특별자치도교육청",
+      "status": "partial"
     },
     {
       "boards": [
@@ -3004,9 +2949,9 @@
     {
       "boards": [],
       "details_checked": 0,
-      "home": "https://www.gbe.kr/mg/main.do",
-      "id": "gbe-문경",
-      "institution": "문경교육지원청",
+      "home": "https://www.gbe.kr/bh/main.do",
+      "id": "gbe-봉화",
+      "institution": "봉화교육지원청",
       "issues": [
         "ConnectTimeout"
       ],
@@ -3016,35 +2961,18 @@
       "status": "failed"
     },
     {
-      "boards": [
-        {
-          "audit_posts": 1,
-          "issues": [
-            "detail_limit_unchecked"
-          ],
-          "raw_posts": 1,
-          "status": "listing_checked",
-          "url": "https://gwcwed.gwe.go.kr/boardCnts/list.do?boardID=101173&m=1304&s=gwcwed"
-        },
-        {
-          "audit_posts": 1,
-          "issues": [
-            "detail_limit_unchecked"
-          ],
-          "raw_posts": 1,
-          "status": "listing_checked",
-          "url": "https://gwcwed.gwe.go.kr/boardCnts/list.do?boardID=96287&m=0107&s=gwcwed"
-        }
-      ],
+      "boards": [],
       "details_checked": 0,
-      "home": "https://gwcwed.gwe.go.kr/",
-      "id": "gwe-철원",
-      "institution": "철원교육지원청",
-      "issues": [],
+      "home": "http://www.jbjse.kr/",
+      "id": "jbe-장수",
+      "institution": "장수교육지원청",
+      "issues": [
+        "untrusted_domain"
+      ],
       "kind": "교육지원청",
-      "listed_posts": 2,
-      "region": "강원특별자치도교육청",
-      "status": "partial"
+      "listed_posts": 0,
+      "region": "전북특별자치도교육청",
+      "status": "failed"
     },
     {
       "boards": [],
@@ -3089,18 +3017,35 @@
       "status": "failed"
     },
     {
-      "boards": [],
-      "details_checked": 0,
-      "home": "http://www.jbjse.kr/",
-      "id": "jbe-장수",
-      "institution": "장수교육지원청",
-      "issues": [
-        "untrusted_domain"
+      "boards": [
+        {
+          "audit_posts": 1,
+          "issues": [
+            "detail_limit_unchecked"
+          ],
+          "raw_posts": 1,
+          "status": "listing_checked",
+          "url": "https://gwcwed.gwe.go.kr/boardCnts/list.do?boardID=101173&m=1304&s=gwcwed"
+        },
+        {
+          "audit_posts": 1,
+          "issues": [
+            "detail_limit_unchecked"
+          ],
+          "raw_posts": 1,
+          "status": "listing_checked",
+          "url": "https://gwcwed.gwe.go.kr/boardCnts/list.do?boardID=96287&m=0107&s=gwcwed"
+        }
       ],
+      "details_checked": 0,
+      "home": "https://gwcwed.gwe.go.kr/",
+      "id": "gwe-철원",
+      "institution": "철원교육지원청",
+      "issues": [],
       "kind": "교육지원청",
-      "listed_posts": 0,
-      "region": "전북특별자치도교육청",
-      "status": "failed"
+      "listed_posts": 2,
+      "region": "강원특별자치도교육청",
+      "status": "partial"
     },
     {
       "boards": [
@@ -3123,20 +3068,6 @@
       "listed_posts": 15,
       "region": "경상남도교육청",
       "status": "partial"
-    },
-    {
-      "boards": [],
-      "details_checked": 0,
-      "home": "https://www.gbe.kr/bh/main.do",
-      "id": "gbe-봉화",
-      "institution": "봉화교육지원청",
-      "issues": [
-        "ConnectTimeout"
-      ],
-      "kind": "교육지원청",
-      "listed_posts": 0,
-      "region": "경상북도교육청",
-      "status": "failed"
     },
     {
       "boards": [
@@ -3203,6 +3134,20 @@
     {
       "boards": [],
       "details_checked": 0,
+      "home": "http://www.jbjje.kr/",
+      "id": "jbe-전주",
+      "institution": "전주교육지원청",
+      "issues": [
+        "untrusted_domain"
+      ],
+      "kind": "교육지원청",
+      "listed_posts": 0,
+      "region": "전북특별자치도교육청",
+      "status": "failed"
+    },
+    {
+      "boards": [],
+      "details_checked": 0,
       "home": null,
       "id": "jge-서부",
       "institution": "서부교육지원청",
@@ -3231,15 +3176,15 @@
     {
       "boards": [],
       "details_checked": 0,
-      "home": "http://www.jbjje.kr/",
-      "id": "jbe-전주",
-      "institution": "전주교육지원청",
+      "home": "http://www.gbe.kr/gm/main.do",
+      "id": "gbe-구미",
+      "institution": "구미교육지원청",
       "issues": [
-        "untrusted_domain"
+        "robots_unreachable:ConnectTimeout"
       ],
       "kind": "교육지원청",
       "listed_posts": 0,
-      "region": "전북특별자치도교육청",
+      "region": "경상북도교육청",
       "status": "failed"
     },
     {
@@ -3272,6 +3217,26 @@
       "listed_posts": 11,
       "region": "경상남도교육청",
       "status": "partial"
+    },
+    {
+      "boards": [
+        {
+          "issues": [
+            "source_cooldown:ConnectTimeout"
+          ],
+          "status": "failed",
+          "url": "https://www.gbe.kr/gj/na/ntt/selectNttList.do?bbsId=1587&mi=5364"
+        }
+      ],
+      "details_checked": 0,
+      "home": "https://www.gbe.kr/gj/main.do",
+      "id": "gbe-경주",
+      "institution": "경주교육지원청",
+      "issues": [],
+      "kind": "교육지원청",
+      "listed_posts": 0,
+      "region": "경상북도교육청",
+      "status": "failed"
     },
     {
       "boards": [
@@ -3386,20 +3351,6 @@
     {
       "boards": [],
       "details_checked": 0,
-      "home": "http://www.gbe.kr/gm/main.do",
-      "id": "gbe-구미",
-      "institution": "구미교육지원청",
-      "issues": [
-        "robots_unreachable:ConnectTimeout"
-      ],
-      "kind": "교육지원청",
-      "listed_posts": 0,
-      "region": "경상북도교육청",
-      "status": "failed"
-    },
-    {
-      "boards": [],
-      "details_checked": 0,
       "home": null,
       "id": "jge-순천",
       "institution": "순천교육지원청",
@@ -3446,7 +3397,7 @@
           "issues": [
             "detail_limit_unchecked"
           ],
-          "raw_posts": 9,
+          "raw_posts": 8,
           "status": "listing_checked",
           "url": "https://tyedu.gne.go.kr/tyedu/na/ntt/selectNttList.do?bbsId=781&mi=1329"
         }
@@ -3460,20 +3411,6 @@
       "listed_posts": 1,
       "region": "경상남도교육청",
       "status": "partial"
-    },
-    {
-      "boards": [],
-      "details_checked": 0,
-      "home": "https://www.gbe.kr/sje/main.do",
-      "id": "gbe-상주",
-      "institution": "상주교육지원청",
-      "issues": [
-        "ConnectTimeout"
-      ],
-      "kind": "교육지원청",
-      "listed_posts": 0,
-      "region": "경상북도교육청",
-      "status": "failed"
     },
     {
       "boards": [
@@ -3514,6 +3451,20 @@
       "listed_posts": 18,
       "region": "경기도교육청",
       "status": "partial"
+    },
+    {
+      "boards": [],
+      "details_checked": 0,
+      "home": "https://www.gbe.kr/sj/main.do",
+      "id": "gbe-성주",
+      "institution": "성주교육지원청",
+      "issues": [
+        "ConnectTimeout"
+      ],
+      "kind": "교육지원청",
+      "listed_posts": 0,
+      "region": "경상북도교육청",
+      "status": "failed"
     },
     {
       "boards": [],
@@ -3626,34 +3577,6 @@
       "status": "partial"
     },
     {
-      "boards": [],
-      "details_checked": 0,
-      "home": "https://www.gbe.kr/sj/main.do",
-      "id": "gbe-성주",
-      "institution": "성주교육지원청",
-      "issues": [
-        "ConnectTimeout"
-      ],
-      "kind": "교육지원청",
-      "listed_posts": 0,
-      "region": "경상북도교육청",
-      "status": "failed"
-    },
-    {
-      "boards": [],
-      "details_checked": 0,
-      "home": null,
-      "id": "jge-여수",
-      "institution": "여수교육지원청",
-      "issues": [
-        "homepage_unresolved"
-      ],
-      "kind": "교육지원청",
-      "listed_posts": 0,
-      "region": "전남광주통합특별시교육청",
-      "status": "failed"
-    },
-    {
       "boards": [
         {
           "audit_posts": 1,
@@ -3690,6 +3613,34 @@
       "listed_posts": 2,
       "region": "강원특별자치도교육청",
       "status": "partial"
+    },
+    {
+      "boards": [],
+      "details_checked": 0,
+      "home": null,
+      "id": "jge-여수",
+      "institution": "여수교육지원청",
+      "issues": [
+        "homepage_unresolved"
+      ],
+      "kind": "교육지원청",
+      "listed_posts": 0,
+      "region": "전남광주통합특별시교육청",
+      "status": "failed"
+    },
+    {
+      "boards": [],
+      "details_checked": 0,
+      "home": "https://www.gbe.kr/ad/main.do",
+      "id": "gbe-안동",
+      "institution": "안동교육지원청",
+      "issues": [
+        "ConnectTimeout"
+      ],
+      "kind": "교육지원청",
+      "listed_posts": 0,
+      "region": "경상북도교육청",
+      "status": "failed"
     },
     {
       "boards": [
@@ -3783,9 +3734,9 @@
     {
       "boards": [],
       "details_checked": 0,
-      "home": "https://www.gbe.kr/ad/main.do",
-      "id": "gbe-안동",
-      "institution": "안동교육지원청",
+      "home": "https://www.gbe.kr/yd/main.do",
+      "id": "gbe-영덕",
+      "institution": "영덕교육지원청",
       "issues": [
         "ConnectTimeout"
       ],
@@ -3908,9 +3859,9 @@
     {
       "boards": [],
       "details_checked": 0,
-      "home": "https://www.gbe.kr/yd/main.do",
-      "id": "gbe-영덕",
-      "institution": "영덕교육지원청",
+      "home": "https://www.gbe.kr/yy/main.do",
+      "id": "gbe-영양",
+      "institution": "영양교육지원청",
       "issues": [
         "ConnectTimeout"
       ],
@@ -3940,6 +3891,40 @@
       "listed_posts": 4,
       "region": "경상남도교육청",
       "status": "partial"
+    },
+    {
+      "boards": [
+        {
+          "issues": [
+            "source_cooldown:ConnectTimeout"
+          ],
+          "status": "failed",
+          "url": "https://www.gbe.kr/sje/na/ntt/selectNttList.do?bbsId=3007&mi=10027"
+        }
+      ],
+      "details_checked": 0,
+      "home": "https://www.gbe.kr/sje/main.do",
+      "id": "gbe-상주",
+      "institution": "상주교육지원청",
+      "issues": [],
+      "kind": "교육지원청",
+      "listed_posts": 0,
+      "region": "경상북도교육청",
+      "status": "failed"
+    },
+    {
+      "boards": [],
+      "details_checked": 0,
+      "home": null,
+      "id": "jge-완도",
+      "institution": "완도교육지원청",
+      "issues": [
+        "homepage_unresolved"
+      ],
+      "kind": "교육지원청",
+      "listed_posts": 0,
+      "region": "전남광주통합특별시교육청",
+      "status": "failed"
     },
     {
       "boards": [
@@ -3980,40 +3965,6 @@
       "listed_posts": 18,
       "region": "경기도교육청",
       "status": "partial"
-    },
-    {
-      "boards": [],
-      "details_checked": 0,
-      "home": null,
-      "id": "jge-완도",
-      "institution": "완도교육지원청",
-      "issues": [
-        "homepage_unresolved"
-      ],
-      "kind": "교육지원청",
-      "listed_posts": 0,
-      "region": "전남광주통합특별시교육청",
-      "status": "failed"
-    },
-    {
-      "boards": [
-        {
-          "issues": [
-            "ConnectTimeout"
-          ],
-          "status": "failed",
-          "url": "https://www.gbe.kr/yy/na/ntt/selectNttList.do?bbsId=3101&mi=10591"
-        }
-      ],
-      "details_checked": 0,
-      "home": "https://www.gbe.kr/yy/main.do",
-      "id": "gbe-영양",
-      "institution": "영양교육지원청",
-      "issues": [],
-      "kind": "교육지원청",
-      "listed_posts": 0,
-      "region": "경상북도교육청",
-      "status": "failed"
     },
     {
       "boards": [
@@ -4077,9 +4028,9 @@
     {
       "boards": [],
       "details_checked": 0,
-      "home": "https://www.gbe.kr/yj/main.do",
-      "id": "gbe-영주",
-      "institution": "영주교육지원청",
+      "home": "https://www.gbe.kr/ycg/main.do",
+      "id": "gbe-예천",
+      "institution": "예천교육지원청",
       "issues": [
         "ConnectTimeout"
       ],
@@ -4143,18 +4094,26 @@
       "status": "failed"
     },
     {
-      "boards": [],
-      "details_checked": 0,
-      "home": "https://www.gbe.kr/yc/main.do",
-      "id": "gbe-영천",
-      "institution": "영천교육지원청",
-      "issues": [
-        "ConnectTimeout"
+      "boards": [
+        {
+          "audit_posts": 1,
+          "issues": [
+            "detail_limit_unchecked"
+          ],
+          "raw_posts": 5,
+          "status": "listing_checked",
+          "url": "https://www.gbe.kr/us/na/ntt/selectNttList.do?bbsId=2496&mi=6342"
+        }
       ],
+      "details_checked": 0,
+      "home": "https://www.gbe.kr/us/main.do",
+      "id": "gbe-의성",
+      "institution": "의성교육지원청",
+      "issues": [],
       "kind": "교육지원청",
-      "listed_posts": 0,
+      "listed_posts": 1,
       "region": "경상북도교육청",
-      "status": "failed"
+      "status": "partial"
     },
     {
       "boards": [
@@ -4220,14 +4179,20 @@
       "status": "failed"
     },
     {
-      "boards": [],
-      "details_checked": 0,
-      "home": "https://www.gbe.kr/ycg/main.do",
-      "id": "gbe-예천",
-      "institution": "예천교육지원청",
-      "issues": [
-        "ConnectTimeout"
+      "boards": [
+        {
+          "issues": [
+            "run_budget_exhausted"
+          ],
+          "status": "failed",
+          "url": "https://www.gbe.kr/yj/na/ntt/selectNttList.do?bbsId=1965&mi=3266"
+        }
       ],
+      "details_checked": 0,
+      "home": "https://www.gbe.kr/yj/main.do",
+      "id": "gbe-영주",
+      "institution": "영주교육지원청",
+      "issues": [],
       "kind": "교육지원청",
       "listed_posts": 0,
       "region": "경상북도교육청",
@@ -4236,21 +4201,17 @@
     {
       "boards": [
         {
-          "audit_posts": 10,
           "issues": [
-            "detail_limit_unchecked"
+            "run_budget_exhausted"
           ],
-          "raw_posts": 10,
-          "status": "listing_checked",
+          "status": "failed",
           "url": "https://www.goepj.kr/goepj/na/ntt/selectNttList.do?bbsId=7147&mi=10722"
         },
         {
-          "audit_posts": 7,
           "issues": [
-            "detail_limit_unchecked"
+            "run_budget_exhausted"
           ],
-          "raw_posts": 10,
-          "status": "listing_checked",
+          "status": "failed",
           "url": "https://www.goepj.kr/goepj/na/ntt/selectNttList.do?bbsId=7194&mi=10806"
         }
       ],
@@ -4260,9 +4221,9 @@
       "institution": "파주교육지원청",
       "issues": [],
       "kind": "교육지원청",
-      "listed_posts": 17,
+      "listed_posts": 0,
       "region": "경기도교육청",
-      "status": "partial"
+      "status": "failed"
     },
     {
       "boards": [],
@@ -4281,28 +4242,24 @@
     {
       "boards": [
         {
-          "audit_posts": 10,
           "issues": [
-            "detail_limit_unchecked"
+            "run_budget_exhausted"
           ],
-          "raw_posts": 10,
-          "status": "listing_checked",
+          "status": "failed",
           "url": "https://www.goept.kr/goept/na/ntt/selectNttList.do?bbsId=10115&mi=10124"
         },
         {
-          "audit_posts": 0,
-          "issues": [],
-          "raw_posts": 9,
-          "status": "listing_checked",
+          "issues": [
+            "run_budget_exhausted"
+          ],
+          "status": "failed",
           "url": "https://www.goept.kr/goept/na/ntt/selectNttList.do?bbsId=10097&mi=10090"
         },
         {
-          "audit_posts": 1,
           "issues": [
-            "detail_limit_unchecked"
+            "run_budget_exhausted"
           ],
-          "raw_posts": 3,
-          "status": "listing_checked",
+          "status": "failed",
           "url": "https://www.goept.kr/goept/na/ntt/selectNttList.do?bbsId=12917&mi=13586"
         }
       ],
@@ -4312,9 +4269,9 @@
       "institution": "평택교육지원청",
       "issues": [],
       "kind": "교육지원청",
-      "listed_posts": 11,
+      "listed_posts": 0,
       "region": "경기도교육청",
-      "status": "partial"
+      "status": "failed"
     },
     {
       "boards": [],
@@ -4331,17 +4288,30 @@
       "status": "failed"
     },
     {
-      "boards": [],
-      "details_checked": 0,
-      "home": "https://www.gbe.kr/ul/main.do",
-      "id": "gbe-울릉",
-      "institution": "울릉교육지원청",
-      "issues": [
-        "ConnectTimeout"
+      "boards": [
+        {
+          "issues": [
+            "run_budget_exhausted"
+          ],
+          "status": "failed",
+          "url": "https://www.goepc.kr/goepc/na/ntt/selectNttList.do?bbsId=2137&mi=2248"
+        },
+        {
+          "issues": [
+            "run_budget_exhausted"
+          ],
+          "status": "failed",
+          "url": "https://www.goepc.kr/goepc/na/ntt/selectNttList.do?bbsId=2141&mi=2254"
+        }
       ],
+      "details_checked": 0,
+      "home": "https://www.goepc.kr/",
+      "id": "goe-포천",
+      "institution": "포천교육지원청",
+      "issues": [],
       "kind": "교육지원청",
       "listed_posts": 0,
-      "region": "경상북도교육청",
+      "region": "경기도교육청",
       "status": "failed"
     },
     {
@@ -4356,6 +4326,47 @@
       "kind": "교육지원청",
       "listed_posts": 0,
       "region": "전남광주통합특별시교육청",
+      "status": "failed"
+    },
+    {
+      "boards": [
+        {
+          "issues": [
+            "run_budget_exhausted"
+          ],
+          "status": "failed",
+          "url": "https://www.goehs.kr/goehs/na/ntt/selectNttList.do?bbsId=9851&mi=17884"
+        },
+        {
+          "issues": [
+            "run_budget_exhausted"
+          ],
+          "status": "failed",
+          "url": "https://www.goehs.kr/goehs/na/ntt/selectNttList.do?bbsId=9864&mi=17925"
+        },
+        {
+          "issues": [
+            "run_budget_exhausted"
+          ],
+          "status": "failed",
+          "url": "https://www.goehs.kr/goehs/na/ntt/selectNttList.do?bbsId=9826&mi=20966&srch_aditCol1=%EA%B0%90%EC%82%AC%EA%B3%BC"
+        },
+        {
+          "issues": [
+            "run_budget_exhausted"
+          ],
+          "status": "failed",
+          "url": "https://www.goehs.kr/goehs/na/ntt/selectNttList.do?bbsId=9841&mi=17870"
+        }
+      ],
+      "details_checked": 0,
+      "home": "https://www.goehs.kr/",
+      "id": "goe-화성오산",
+      "institution": "화성오산교육지원청",
+      "issues": [],
+      "kind": "교육지원청",
+      "listed_posts": 0,
+      "region": "경기도교육청",
       "status": "failed"
     },
     {
@@ -4375,112 +4386,44 @@
     {
       "boards": [
         {
-          "audit_posts": 10,
           "issues": [
-            "detail_limit_unchecked"
+            "run_budget_exhausted"
           ],
-          "raw_posts": 10,
-          "status": "listing_checked",
-          "url": "https://www.goepc.kr/goepc/na/ntt/selectNttList.do?bbsId=2137&mi=2248"
+          "status": "failed",
+          "url": "https://www.gbe.kr/yc/na/ntt/selectNttList.do?bbsId=2052&mi=4228"
         },
         {
-          "audit_posts": 3,
           "issues": [
-            "detail_limit_unchecked"
+            "run_budget_exhausted"
           ],
-          "raw_posts": 10,
-          "status": "listing_checked",
-          "url": "https://www.goepc.kr/goepc/na/ntt/selectNttList.do?bbsId=2141&mi=2254"
+          "status": "failed",
+          "url": "https://www.gbe.kr/yc/na/ntt/selectNttList.do?bbsId=2054&mi=4240"
+        },
+        {
+          "issues": [
+            "run_budget_exhausted"
+          ],
+          "status": "failed",
+          "url": "https://www.gbe.kr/yc/na/ntt/selectNttList.do?bbsId=2060&mi=4254"
         }
       ],
       "details_checked": 0,
-      "home": "https://www.goepc.kr/",
-      "id": "goe-포천",
-      "institution": "포천교육지원청",
+      "home": "https://www.gbe.kr/yc/main.do",
+      "id": "gbe-영천",
+      "institution": "영천교육지원청",
       "issues": [],
       "kind": "교육지원청",
-      "listed_posts": 13,
-      "region": "경기도교육청",
-      "status": "partial"
-    },
-    {
-      "boards": [
-        {
-          "audit_posts": 10,
-          "issues": [
-            "detail_limit_unchecked"
-          ],
-          "raw_posts": 10,
-          "status": "listing_checked",
-          "url": "https://www.goehs.kr/goehs/na/ntt/selectNttList.do?bbsId=9851&mi=17884"
-        },
-        {
-          "audit_posts": 6,
-          "issues": [
-            "detail_limit_unchecked"
-          ],
-          "raw_posts": 10,
-          "status": "listing_checked",
-          "url": "https://www.goehs.kr/goehs/na/ntt/selectNttList.do?bbsId=9864&mi=17925"
-        },
-        {
-          "audit_posts": 0,
-          "issues": [],
-          "raw_posts": 9,
-          "status": "listing_checked",
-          "url": "https://www.goehs.kr/goehs/na/ntt/selectNttList.do?bbsId=9826&mi=20966&srch_aditCol1=%EA%B0%90%EC%82%AC%EA%B3%BC"
-        },
-        {
-          "audit_posts": 3,
-          "issues": [
-            "detail_limit_unchecked"
-          ],
-          "raw_posts": 9,
-          "status": "listing_checked",
-          "url": "https://www.goehs.kr/goehs/na/ntt/selectNttList.do?bbsId=9841&mi=17870"
-        }
-      ],
-      "details_checked": 0,
-      "home": "https://www.goehs.kr/",
-      "id": "goe-화성오산",
-      "institution": "화성오산교육지원청",
-      "issues": [],
-      "kind": "교육지원청",
-      "listed_posts": 19,
-      "region": "경기도교육청",
-      "status": "partial"
-    },
-    {
-      "boards": [
-        {
-          "audit_posts": 1,
-          "issues": [
-            "detail_limit_unchecked"
-          ],
-          "raw_posts": 5,
-          "status": "listing_checked",
-          "url": "https://www.gbe.kr/us/na/ntt/selectNttList.do?bbsId=2496&mi=6342"
-        }
-      ],
-      "details_checked": 0,
-      "home": "https://www.gbe.kr/us/main.do",
-      "id": "gbe-의성",
-      "institution": "의성교육지원청",
-      "issues": [],
-      "kind": "교육지원청",
-      "listed_posts": 1,
+      "listed_posts": 0,
       "region": "경상북도교육청",
-      "status": "partial"
+      "status": "failed"
     },
     {
       "boards": [
         {
-          "audit_posts": 10,
           "issues": [
-            "detail_limit_unchecked"
+            "response_limit"
           ],
-          "raw_posts": 10,
-          "status": "listing_checked",
+          "status": "failed",
           "url": "https://www.gbe.kr/cg/na/ntt/selectNttList.do?bbsId=2146&mi=20151"
         }
       ],
@@ -4490,9 +4433,23 @@
       "institution": "칠곡교육지원청",
       "issues": [],
       "kind": "교육지원청",
-      "listed_posts": 10,
+      "listed_posts": 0,
       "region": "경상북도교육청",
-      "status": "partial"
+      "status": "failed"
+    },
+    {
+      "boards": [],
+      "details_checked": 0,
+      "home": "https://www.gbe.kr/ph/main.do",
+      "id": "gbe-포항",
+      "institution": "포항교육지원청",
+      "issues": [
+        "response_limit"
+      ],
+      "kind": "교육지원청",
+      "listed_posts": 0,
+      "region": "경상북도교육청",
+      "status": "failed"
     },
     {
       "boards": [
@@ -4508,6 +4465,26 @@
       "home": "https://www.gbe.kr/cd/main.do",
       "id": "gbe-청도",
       "institution": "청도교육지원청",
+      "issues": [],
+      "kind": "교육지원청",
+      "listed_posts": 0,
+      "region": "경상북도교육청",
+      "status": "failed"
+    },
+    {
+      "boards": [
+        {
+          "issues": [
+            "run_budget_exhausted"
+          ],
+          "status": "failed",
+          "url": "https://www.gbe.kr/ul/na/ntt/selectNttList.do?bbsId=1550&mi=7948"
+        }
+      ],
+      "details_checked": 0,
+      "home": "https://www.gbe.kr/ul/main.do",
+      "id": "gbe-울릉",
+      "institution": "울릉교육지원청",
       "issues": [],
       "kind": "교육지원청",
       "listed_posts": 0,
@@ -4542,26 +4519,6 @@
       "home": "https://www.gbe.kr/cs/main.do",
       "id": "gbe-청송",
       "institution": "청송교육지원청",
-      "issues": [],
-      "kind": "교육지원청",
-      "listed_posts": 0,
-      "region": "경상북도교육청",
-      "status": "failed"
-    },
-    {
-      "boards": [
-        {
-          "issues": [
-            "run_budget_exhausted"
-          ],
-          "status": "failed",
-          "url": "https://www.gbe.kr/ph/na/ntt/selectNttList.do?bbsId=1456&mi=6642"
-        }
-      ],
-      "details_checked": 0,
-      "home": "https://www.gbe.kr/ph/main.do",
-      "id": "gbe-포항",
-      "institution": "포항교육지원청",
       "issues": [],
       "kind": "교육지원청",
       "listed_posts": 0,
