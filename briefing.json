@@ -1,31 +1,31 @@
 {
   "schema": 2,
-  "generated_at": "2026-10-30T10:26:26.923186+09:00",
+  "generated_at": "2026-10-31T10:07:41.284859+09:00",
   "status": "ready",
   "validation_errors": [],
-  "requested_date": "2026-10-30",
-  "last_available_report_date": "2026-10-30",
-  "last_available_finished_at": "2026-10-30T10:26:26.775510+09:00",
-  "run_url": "https://github.com/hahahoho12360/auto/actions/runs/40985035521",
+  "requested_date": "2026-10-31",
+  "last_available_report_date": "2026-10-31",
+  "last_available_finished_at": "2026-10-31T10:07:41.125601+09:00",
+  "run_url": "https://github.com/hahahoho12360/auto/actions/runs/41153039403",
   "collection_outcome": "success",
   "mail_sent": false,
   "transport": "separate_authorized_Gmail_action",
-  "report_id": "fdd2e6e3759af69b5c7d8be0",
-  "report_date": "2026-10-30",
-  "started_at": "2026-10-30T10:18:29.457673+09:00",
-  "finished_at": "2026-10-30T10:26:26.775510+09:00",
+  "report_id": "4a0a01aa06a383a069bf89cd",
+  "report_date": "2026-10-31",
+  "started_at": "2026-10-31T09:59:12.141454+09:00",
+  "finished_at": "2026-10-31T10:07:41.125601+09:00",
   "coverage": {
     "attempted_institutions": 193,
-    "detail_candidates_not_attempted": 904,
+    "detail_candidates_not_attempted": 891,
     "detail_checks_attempted": 32,
     "detail_checks_succeeded": 26,
     "failed": 123,
-    "http_requests": 477,
-    "institutions_with_all_registered_listings_checked": 65,
+    "http_requests": 510,
+    "institutions_with_all_registered_listings_checked": 64,
     "institutions_with_any_listing_checked": 70,
     "listing_checked": 1,
-    "modified": 0,
-    "new": 5,
+    "modified": 2,
+    "new": 7,
     "partial": 69,
     "target_institutions": 193
   },
@@ -38,35 +38,35 @@
     "strategy": "all_listings_before_attachments"
   },
   "failure_summary": {
-    "report_date": "2026-10-30",
+    "report_date": "2026-10-31",
     "by_category": {
       "address_tls": 16,
       "browser_required": 1,
       "homepage_setup": 63,
-      "other": 2,
+      "other": 1,
       "parser_setup": 3,
-      "policy_blocked": 2,
-      "policy_unchecked": 14,
-      "temporary": 22
+      "policy_blocked": 3,
+      "policy_unchecked": 12,
+      "temporary": 24
     },
     "failed_institutions": 123,
-    "recovered_since_previous_run": [],
-    "regressed_since_previous_run": [
-      "gbe-칠곡",
+    "recovered_since_previous_run": [
       "goe-파주",
-      "goe-평택",
-      "goe-포천",
-      "goe-화성오산"
+      "goe-평택"
     ],
-    "previous_finished_at": "2026-10-29T10:19:01.818275+09:00"
+    "regressed_since_previous_run": [
+      "gbe-의성",
+      "ice"
+    ],
+    "previous_finished_at": "2026-10-30T10:26:26.775510+09:00"
   },
   "events": [
     {
-      "event_id": "f251226bcca73646c4917c6b",
-      "kind": "new",
+      "event_id": "d525a2e6bcd3354931177f64",
+      "kind": "modified",
       "institution": "부산광역시교육청",
       "region": null,
-      "title": "비밀글 감사정보제공 새글 답글 (1)",
+      "title": "비밀글 감사정보제공 답글 (1)",
       "posted_at": "2026-10-29",
       "first_seen": "2026-10-30T10:19:26.154136+09:00",
       "url": "https://www.pen.go.kr/main/na/ntt/selectNttInfo.do?bbsId=2611&mi=31669&nttSn=1182811",
@@ -77,63 +77,153 @@
       "attachments": []
     },
     {
-      "event_id": "9e68f2f01140cf89ffc715c8",
+      "event_id": "cb917e20261abe626a37c6ce",
       "kind": "new",
-      "institution": "경상북도교육청",
-      "region": null,
-      "title": "종합감사 결과 공개(영천중, 영천동부초)",
-      "posted_at": "2026-10-29",
-      "first_seen": "2026-10-30T10:19:28.931965+09:00",
-      "url": "https://www.gbe.kr/dep_ins/na/ntt/selectNttInfo.do?bbsId=2631&mi=8545&nttSn=1660216",
+      "institution": "남부교육지원청",
+      "region": "부산광역시교육청",
+      "title": "큰별유치원 종합감사 실시결과",
+      "posted_at": "2026-10-30",
+      "first_seen": "2026-10-31T09:59:50.996874+09:00",
+      "url": "https://home.pen.go.kr/nambu/na/ntt/selectNttInfo.do?bbsId=3918&mi=12229&nttSn=1044459",
       "audit_type": "종합감사",
+      "document_type": "결과",
+      "read_status": "일부만 확인",
+      "excerpt": "게시글 본문 영역을 확정하지 못했습니다. 원문 확인이 필요합니다.",
+      "attachments": [
+        {
+          "name": "미리보기",
+          "url": "http://homedoc.pen.go.kr/SynapDocViewServer/job?convertType=0&fid=https%3A%2F%2Fhome.pen.go.kr%2Fcommon%2FnttFileDownload.do%3FfileKey%3D3ddf4fc7d3759bfb4c3a06b8dc2da9de&filePath=https%3A%2F%2Fhome.pen.go.kr%2Fcommon%2FnttFileDownload.do%3FfileKey%3D3ddf4fc7d3759bfb4c3a06b8dc2da9de&fileType=URL",
+          "status": "unread:ValueError:unsupported_attachment"
+        }
+      ]
+    },
+    {
+      "event_id": "a96bcfb1bc47440d657d834b",
+      "kind": "new",
+      "institution": "남부교육지원청",
+      "region": "부산광역시교육청",
+      "title": "전포초등학교 종합감사 실시결과",
+      "posted_at": "2026-10-30",
+      "first_seen": "2026-10-31T09:59:50.996937+09:00",
+      "url": "https://home.pen.go.kr/nambu/na/ntt/selectNttInfo.do?bbsId=3918&mi=12229&nttSn=1044457",
+      "audit_type": "종합감사",
+      "document_type": "결과",
+      "read_status": "일부만 확인",
+      "excerpt": "게시글 본문 영역을 확정하지 못했습니다. 원문 확인이 필요합니다.",
+      "attachments": [
+        {
+          "name": "미리보기",
+          "url": "http://homedoc.pen.go.kr/SynapDocViewServer/job?convertType=0&fid=https%3A%2F%2Fhome.pen.go.kr%2Fcommon%2FnttFileDownload.do%3FfileKey%3D49eecdfabe2a0b684db0518610d7ba95&filePath=https%3A%2F%2Fhome.pen.go.kr%2Fcommon%2FnttFileDownload.do%3FfileKey%3D49eecdfabe2a0b684db0518610d7ba95&fileType=URL",
+          "status": "unread:ValueError:unsupported_attachment"
+        }
+      ]
+    },
+    {
+      "event_id": "f57088b8a6bac0d4fd50a0ea",
+      "kind": "new",
+      "institution": "남부교육지원청",
+      "region": "부산광역시교육청",
+      "title": "문현초등학교 종합감사 실시결과",
+      "posted_at": "2026-10-30",
+      "first_seen": "2026-10-31T09:59:50.996961+09:00",
+      "url": "https://home.pen.go.kr/nambu/na/ntt/selectNttInfo.do?bbsId=3918&mi=12229&nttSn=1044456",
+      "audit_type": "종합감사",
+      "document_type": "결과",
+      "read_status": "일부만 확인",
+      "excerpt": "게시글 본문 영역을 확정하지 못했습니다. 원문 확인이 필요합니다.",
+      "attachments": [
+        {
+          "name": "미리보기",
+          "url": "http://homedoc.pen.go.kr/SynapDocViewServer/job?convertType=0&fid=https%3A%2F%2Fhome.pen.go.kr%2Fcommon%2FnttFileDownload.do%3FfileKey%3D5bc8196643cc1a773fa1f1f2dcb7845b&filePath=https%3A%2F%2Fhome.pen.go.kr%2Fcommon%2FnttFileDownload.do%3FfileKey%3D5bc8196643cc1a773fa1f1f2dcb7845b&fileType=URL",
+          "status": "unread:ValueError:unsupported_attachment"
+        }
+      ]
+    },
+    {
+      "event_id": "0a555cc201c9f095dde8fae1",
+      "kind": "new",
+      "institution": "남부교육지원청",
+      "region": "부산광역시교육청",
+      "title": "양정초등학교 종합감사 실시결과",
+      "posted_at": "2026-10-30",
+      "first_seen": "2026-10-31T09:59:50.996979+09:00",
+      "url": "https://home.pen.go.kr/nambu/na/ntt/selectNttInfo.do?bbsId=3918&mi=12229&nttSn=1044455",
+      "audit_type": "종합감사",
+      "document_type": "결과",
+      "read_status": "일부만 확인",
+      "excerpt": "게시글 본문 영역을 확정하지 못했습니다. 원문 확인이 필요합니다.",
+      "attachments": [
+        {
+          "name": "미리보기",
+          "url": "http://homedoc.pen.go.kr/SynapDocViewServer/job?convertType=0&fid=https%3A%2F%2Fhome.pen.go.kr%2Fcommon%2FnttFileDownload.do%3FfileKey%3D97f7d2945f98bfcf5fd838bd9b090f5d&filePath=https%3A%2F%2Fhome.pen.go.kr%2Fcommon%2FnttFileDownload.do%3FfileKey%3D97f7d2945f98bfcf5fd838bd9b090f5d&fileType=URL",
+          "status": "unread:ValueError:unsupported_attachment"
+        }
+      ]
+    },
+    {
+      "event_id": "783b1250cee0c41c4711c967",
+      "kind": "new",
+      "institution": "성남교육지원청",
+      "region": "경기도교육청",
+      "title": "2025년도 경기도의회 행정사무감사 지적사항 조치결과",
+      "posted_at": "2026-10-30",
+      "first_seen": "2026-10-31T10:01:46.605134+09:00",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17815&mi=23503&nttSn=1966002",
+      "audit_type": "행정사무감사",
+      "document_type": "조치결과",
+      "read_status": "일부만 확인",
+      "excerpt": "첨부 언급은 있으나 다운로드 링크를 확인하지 못했습니다. 본문 발췌: 게시글 본문 영역을 확정하지 못했습니다. 원문 확인이 필요합니다.",
+      "attachments": []
+    },
+    {
+      "event_id": "41cf9e45e72fcdc867f95df4",
+      "kind": "modified",
+      "institution": "철원교육지원청",
+      "region": "강원특별자치도교육청",
+      "title": "2022년 11월 자체감사 결과 공개",
+      "posted_at": "2023-01-16",
+      "first_seen": "2026-10-19T15:35:41.821433+09:00",
+      "url": "https://gwcwed.gwe.go.kr/boardCnts/view.do?bbsSn=96287&boardID=96287&m=0107&s=gwcwed",
+      "audit_type": "기타 감사자료",
       "document_type": "결과",
       "read_status": "목록만 확인",
       "excerpt": "처리 상한으로 본문·첨부 미확인. 원문 링크를 확인해 주세요.",
       "attachments": []
     },
     {
-      "event_id": "f3c3b4afcfbfdbf324d46b7a",
+      "event_id": "6049d235eafaeb1488c861ed",
       "kind": "new",
-      "institution": "양평교육지원청",
+      "institution": "안양과천교육지원청",
       "region": "경기도교육청",
-      "title": "2025년도 경기도의회 행정사무감사 시정 처리요구 및 건의사항 최종 처리결과",
-      "posted_at": "2026-10-29",
-      "first_seen": "2026-10-30T10:23:35.148213+09:00",
-      "url": "https://www.goeyp.kr/goeyp/na/ntt/selectNttInfo.do?bbsId=1890&mi=3580&nttSn=1068578",
-      "audit_type": "행정사무감사",
-      "document_type": "결과",
-      "read_status": "일부만 확인",
-      "excerpt": "첨부 언급은 있으나 다운로드 링크를 확인하지 못했습니다. 본문 발췌: 게시글 본문 영역을 확정하지 못했습니다. 원문 확인이 필요합니다.",
-      "attachments": []
-    },
-    {
-      "event_id": "f60a6e810acf3738e6466d35",
-      "kind": "new",
-      "institution": "연천교육지원청",
-      "region": "경기도교육청",
-      "title": "2025년 행정사무감사 시정처리 요구 및 건의사항 처리 결과",
-      "posted_at": "2026-10-29",
-      "first_seen": "2026-10-30T10:24:18.609633+09:00",
-      "url": "https://www.goeyc.kr/goeyc/na/ntt/selectNttInfo.do?bbsId=2210&mi=2343&nttSn=1224809",
-      "audit_type": "행정사무감사",
-      "document_type": "결과",
-      "read_status": "일부만 확인",
-      "excerpt": "첨부 언급은 있으나 다운로드 링크를 확인하지 못했습니다. 본문 발췌: 2025년 행정사무감사 시정처리 요구 및 건의사항 처리결과를 붙임과 같이 공개합니다",
-      "attachments": []
-    },
-    {
-      "event_id": "b0278e70d1f6aeb7268aa12f",
-      "kind": "new",
-      "institution": "이천교육지원청",
-      "region": "경기도교육청",
-      "title": "2026년 이천교육지원청 청렴 실천 선언문 안내",
+      "title": "2026년 7~9월 공직기강 복무점검 결과",
       "posted_at": "2026-10-30",
-      "first_seen": "2026-10-30T10:25:12.558657+09:00",
-      "url": "https://www.goeic.kr/goeic/na/ntt/selectNttInfo.do?bbsId=3761&mi=5656&nttSn=515784",
+      "first_seen": "2026-10-31T10:03:23.732612+09:00",
+      "url": "https://www.goeay.kr/goeay/na/ntt/selectNttInfo.do?bbsId=5187&mi=10254&nttSn=1337184",
+      "audit_type": "기타 감사자료",
+      "document_type": "결과",
+      "read_status": "일부만 확인",
+      "excerpt": "2026년 7~9월 공직기강 복무점검 결과를 붙임과 같이 공개합니다",
+      "attachments": [
+        {
+          "name": "정보공개매뉴얼(다운로드)",
+          "url": "https://www.goeay.kr/common/fileDownload.do?fileKey=9MItwZKq3FVY7omgCYN1mopXQgURXfAtKFrsXcNQ&mi=10390",
+          "status": "unread:ValueError:unsupported_attachment"
+        }
+      ]
+    },
+    {
+      "event_id": "dde4e3649361a37925c27ae3",
+      "kind": "new",
+      "institution": "파주교육지원청",
+      "region": "경기도교육청",
+      "title": "2026년 추석 명절 맞이 교육장 청렴 서한문",
+      "posted_at": "2026-10-29",
+      "first_seen": "2026-10-31T10:05:58.562821+09:00",
+      "url": "https://www.goepj.kr/goepj/na/ntt/selectNttInfo.do?bbsId=7194&mi=10806&nttSn=1357306",
       "audit_type": "기타 감사자료",
       "document_type": "기타",
       "read_status": "본문 확인",
-      "excerpt": "내외부 청렴 체감도 향상을 도모하고 부패 인식 개선을 위한 『청렴 실천 선언문』을 붙임과 같이 안내하오니, / 각급 학교에서는 교직원, 학부모, 외부이해관계자 등에게 적극 홍보해 주시기 바랍니다 / 가. 건명: 2026년 이천교육지원청 청렴 실천 선언문",
+      "excerpt": "2026년 추석 명절을 맞이하여 신뢰와 존중의 청렴문화 확산을 위해 / <2026년 '추석 명절 맞이' 교육장 청렴 서한문>을 붙임과 같이 알려드립니다",
       "attachments": []
     }
   ],

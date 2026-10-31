@@ -1,942 +1,942 @@
 {
   "cbe": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "cbe-괴산증평": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "cbe-단양": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "cbe-보은": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "cbe-영동": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "cbe-옥천": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "cbe-음성": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "cbe-제천": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "cbe-진천": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "cbe-청주": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "cbe-충주": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "cne": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "cne-공주": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "cne-금산": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "cne-논산계룡": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "cne-당진": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "cne-보령": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "cne-부여": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "cne-서산": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "cne-서천": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "cne-아산": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "cne-예산": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "cne-천안": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "cne-청양": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "cne-태안": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "cne-홍성": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "dge": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "dge-군위": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "dge-남부": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "dge-달성": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "dge-동부": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "dge-서부": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "dje": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "dje-동부": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "dje-서부": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gbe": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gbe-경산": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gbe-경주": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gbe-고령": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gbe-구미": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gbe-김천": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gbe-문경": {
-    "consecutive_failed_runs": 5,
+    "consecutive_failed_runs": 6,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00",
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00",
     "last_listing_success_at": "2026-10-25T08:44:35.221013+09:00"
   },
   "gbe-봉화": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gbe-상주": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gbe-성주": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gbe-안동": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gbe-영덕": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gbe-영양": {
-    "consecutive_failed_runs": 2,
+    "consecutive_failed_runs": 3,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00",
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00",
     "last_listing_success_at": "2026-10-28T09:49:37.986113+09:00"
   },
   "gbe-영주": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gbe-영천": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gbe-예천": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gbe-울릉": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gbe-울진": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gbe-의성": {
-    "consecutive_failed_runs": 0,
+    "consecutive_failed_runs": 1,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-25T08:44:35.221013+09:00",
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00",
     "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
   },
   "gbe-청도": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gbe-청송": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gbe-칠곡": {
-    "consecutive_failed_runs": 1,
+    "consecutive_failed_runs": 2,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00",
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00",
     "last_listing_success_at": "2026-10-29T10:19:01.818275+09:00"
   },
   "gbe-포항": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gne": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gne-거제": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gne-거창": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gne-고성": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gne-김해": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gne-남해": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gne-밀양": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gne-사천": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gne-산청": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gne-양산": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gne-의령": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gne-진주": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gne-창녕": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gne-창원": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gne-통영": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gne-하동": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gne-함안": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gne-함양": {
     "consecutive_failed_runs": 0,
     "first_failure_seen_at": "2026-10-25T08:44:35.221013+09:00",
     "last_failed_at": "2026-10-25T08:44:35.221013+09:00",
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gne-합천": {
     "consecutive_failed_runs": 0,
     "first_failure_seen_at": "2026-10-25T08:44:35.221013+09:00",
     "last_failed_at": "2026-10-25T08:44:35.221013+09:00",
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "goe": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "goe-가평": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "goe-고양": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "goe-광명": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "goe-광주하남": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "goe-구리남양주": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "goe-군포의왕": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "goe-김포": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "goe-동두천양주": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "goe-부천": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "goe-성남": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "goe-수원": {
     "consecutive_failed_runs": 0,
     "first_failure_seen_at": "2026-10-26T08:38:13.170660+09:00",
     "last_failed_at": "2026-10-26T08:38:13.170660+09:00",
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "goe-시흥": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "goe-안산": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "goe-안성": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "goe-안양과천": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "goe-양평": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "goe-여주": {
     "consecutive_failed_runs": 0,
     "first_failure_seen_at": "2026-10-25T08:44:35.221013+09:00",
     "last_failed_at": "2026-10-25T08:44:35.221013+09:00",
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "goe-연천": {
     "consecutive_failed_runs": 0,
     "first_failure_seen_at": "2026-10-25T08:44:35.221013+09:00",
     "last_failed_at": "2026-10-25T08:44:35.221013+09:00",
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "goe-용인": {
     "consecutive_failed_runs": 0,
     "first_failure_seen_at": "2026-10-25T08:44:35.221013+09:00",
     "last_failed_at": "2026-10-25T08:44:35.221013+09:00",
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "goe-의정부": {
     "consecutive_failed_runs": 0,
     "first_failure_seen_at": "2026-10-25T08:44:35.221013+09:00",
     "last_failed_at": "2026-10-25T08:44:35.221013+09:00",
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "goe-이천": {
     "consecutive_failed_runs": 0,
     "first_failure_seen_at": "2026-10-25T08:44:35.221013+09:00",
     "last_failed_at": "2026-10-25T08:44:35.221013+09:00",
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "goe-파주": {
-    "consecutive_failed_runs": 1,
+    "consecutive_failed_runs": 0,
     "first_failure_seen_at": "2026-10-20T09:05:46.184489+09:00",
     "last_failed_at": "2026-10-30T10:26:26.775510+09:00",
-    "last_listing_success_at": "2026-10-29T10:19:01.818275+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "goe-평택": {
-    "consecutive_failed_runs": 1,
+    "consecutive_failed_runs": 0,
     "first_failure_seen_at": "2026-10-20T09:05:46.184489+09:00",
     "last_failed_at": "2026-10-30T10:26:26.775510+09:00",
-    "last_listing_success_at": "2026-10-29T10:19:01.818275+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "goe-포천": {
-    "consecutive_failed_runs": 1,
+    "consecutive_failed_runs": 2,
     "first_failure_seen_at": "2026-10-20T09:05:46.184489+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00",
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00",
     "last_listing_success_at": "2026-10-29T10:19:01.818275+09:00"
   },
   "goe-화성오산": {
-    "consecutive_failed_runs": 1,
+    "consecutive_failed_runs": 2,
     "first_failure_seen_at": "2026-10-20T09:05:46.184489+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00",
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00",
     "last_listing_success_at": "2026-10-29T10:19:01.818275+09:00"
   },
   "gwe": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gwe-강릉": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gwe-고성": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gwe-동해": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gwe-삼척": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gwe-속초양양": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gwe-양구": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gwe-영월": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gwe-원주": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gwe-인제": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gwe-정선": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gwe-철원": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gwe-춘천": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gwe-태백": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gwe-평창": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gwe-홍천": {
     "consecutive_failed_runs": 0,
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gwe-화천": {
     "consecutive_failed_runs": 0,
     "first_failure_seen_at": "2026-10-25T08:44:35.221013+09:00",
     "last_failed_at": "2026-10-25T08:44:35.221013+09:00",
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "gwe-횡성": {
     "consecutive_failed_runs": 0,
     "first_failure_seen_at": "2026-10-25T08:44:35.221013+09:00",
     "last_failed_at": "2026-10-25T08:44:35.221013+09:00",
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "ice": {
-    "consecutive_failed_runs": 0,
+    "consecutive_failed_runs": 1,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-25T08:44:35.221013+09:00",
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00",
     "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
   },
   "ice-강화": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "ice-남부": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "ice-동부": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "ice-북부": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "ice-서부": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jbe": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jbe-고창": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jbe-군산": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jbe-김제": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jbe-남원": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jbe-무주": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jbe-부안": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jbe-순창": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jbe-완주": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jbe-익산": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jbe-임실": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jbe-장수": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jbe-전주": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jbe-정읍": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jbe-진안": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jge": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jge-강진": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jge-고흥": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jge-곡성": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jge-광양": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jge-구례": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jge-나주": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jge-담양": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jge-동부": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jge-목포": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jge-무안": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jge-보성": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jge-서부": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jge-순천": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jge-신안": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jge-여수": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jge-영광": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jge-영암": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jge-완도": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jge-장성": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jge-장흥": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jge-진도": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jge-함평": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jge-해남": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jge-화순": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jje": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jje-서귀포시": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "jje-제주시": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "moe": {
     "consecutive_failed_runs": 0,
     "first_failure_seen_at": "2026-10-20T09:05:46.184489+09:00",
     "last_failed_at": "2026-10-20T09:05:46.184489+09:00",
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "pen": {
     "consecutive_failed_runs": 0,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
     "last_failed_at": "2026-10-20T09:05:46.184489+09:00",
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "pen-남부": {
     "consecutive_failed_runs": 0,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
     "last_failed_at": "2026-10-20T09:05:46.184489+09:00",
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "pen-동래": {
     "consecutive_failed_runs": 0,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
     "last_failed_at": "2026-10-20T09:05:46.184489+09:00",
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "pen-북부": {
     "consecutive_failed_runs": 0,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
     "last_failed_at": "2026-10-20T09:05:46.184489+09:00",
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "pen-서부": {
     "consecutive_failed_runs": 0,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
     "last_failed_at": "2026-10-20T09:05:46.184489+09:00",
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "pen-해운대": {
     "consecutive_failed_runs": 0,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
     "last_failed_at": "2026-10-20T09:05:46.184489+09:00",
-    "last_listing_success_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_listing_success_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "sen": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "sen-강남서초": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "sen-강동송파": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "sen-강서양천": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "sen-남부": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "sen-동부": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "sen-동작관악": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "sen-북부": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "sen-서부": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "sen-성동광진": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "sen-성북강북": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "sen-중부": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "sje": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "use": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "use-강남": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   },
   "use-강북": {
-    "consecutive_failed_runs": 12,
+    "consecutive_failed_runs": 13,
     "first_failure_seen_at": "2026-10-19T16:30:25.729426+09:00",
-    "last_failed_at": "2026-10-30T10:26:26.775510+09:00"
+    "last_failed_at": "2026-10-31T10:07:41.125601+09:00"
   }
 }
