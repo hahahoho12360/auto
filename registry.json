@@ -1,6 +1,6 @@
 {
   "expected": 193,
-  "generated_at": "2026-11-01T09:31:54.655220+09:00",
+  "generated_at": "2026-11-02T10:07:48.217212+09:00",
   "offices": [
     {
       "boards": [],
@@ -375,10 +375,7 @@
       "region": "경상북도교육청"
     },
     {
-      "boards": [
-        "https://www.gbe.kr/gj/na/ntt/selectNttList.do?bbsId=1587&mi=5364",
-        "https://www.gbe.kr/gj/na/ntt/selectNttList.do?bbsId=1588&mi=5366"
-      ],
+      "boards": [],
       "home": "https://www.gbe.kr/gj/main.do",
       "home_source": "https://www.gbe.kr/",
       "id": "gbe-경주",
@@ -1158,7 +1155,10 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://www.goepj.kr/goepj/na/ntt/selectNttList.do?bbsId=7147&mi=10722",
+        "https://www.goepj.kr/goepj/na/ntt/selectNttList.do?bbsId=7194&mi=10806"
+      ],
       "home": "https://www.goepj.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-파주",
@@ -1168,7 +1168,10 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://www.goept.kr/goept/na/ntt/selectNttList.do?bbsId=10115&mi=10124",
+        "https://www.goept.kr/goept/na/ntt/selectNttList.do?bbsId=10097&mi=10090"
+      ],
       "home": "https://www.goept.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-평택",
