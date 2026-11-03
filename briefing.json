@@ -1,31 +1,31 @@
 {
   "schema": 2,
-  "generated_at": "2026-11-02T10:07:48.352245+09:00",
+  "generated_at": "2026-11-03T12:10:34.797535+09:00",
   "status": "ready",
   "validation_errors": [],
-  "requested_date": "2026-11-02",
-  "last_available_report_date": "2026-11-02",
-  "last_available_finished_at": "2026-11-02T10:07:48.217212+09:00",
-  "run_url": "https://github.com/hahahoho12360/auto/actions/runs/41370067930",
+  "requested_date": "2026-11-03",
+  "last_available_report_date": "2026-11-03",
+  "last_available_finished_at": "2026-11-03T12:10:34.625213+09:00",
+  "run_url": "https://github.com/hahahoho12360/auto/actions/runs/41569701155",
   "collection_outcome": "success",
   "mail_sent": false,
   "transport": "separate_authorized_Gmail_action",
-  "report_id": "0c1dcab3908b7f4c50411400",
-  "report_date": "2026-11-02",
-  "started_at": "2026-11-02T09:59:35.858728+09:00",
-  "finished_at": "2026-11-02T10:07:48.217212+09:00",
+  "report_id": "432d02471bfd2d0d348f3fbd",
+  "report_date": "2026-11-03",
+  "started_at": "2026-11-03T12:02:03.655195+09:00",
+  "finished_at": "2026-11-03T12:10:34.625213+09:00",
   "coverage": {
     "attempted_institutions": 193,
-    "detail_candidates_not_attempted": 898,
+    "detail_candidates_not_attempted": 908,
     "detail_checks_attempted": 32,
-    "detail_checks_succeeded": 25,
+    "detail_checks_succeeded": 30,
     "failed": 122,
-    "http_requests": 496,
+    "http_requests": 517,
     "institutions_with_all_registered_listings_checked": 65,
     "institutions_with_any_listing_checked": 71,
     "listing_checked": 1,
     "modified": 0,
-    "new": 0,
+    "new": 22,
     "partial": 70,
     "target_institutions": 193
   },
@@ -38,28 +38,470 @@
     "strategy": "all_listings_before_attachments"
   },
   "failure_summary": {
-    "report_date": "2026-11-02",
+    "report_date": "2026-11-03",
     "by_category": {
       "address_tls": 16,
       "browser_required": 1,
       "homepage_setup": 63,
       "other": 1,
       "parser_setup": 3,
-      "policy_blocked": 3,
-      "policy_unchecked": 13,
+      "policy_blocked": 1,
+      "policy_unchecked": 15,
       "temporary": 22
     },
     "failed_institutions": 122,
     "recovered_since_previous_run": [
+      "gbe-영덕",
+      "gbe-영양",
+      "ice"
+    ],
+    "regressed_since_previous_run": [
+      "goe-이천",
       "goe-파주",
       "goe-평택"
     ],
-    "regressed_since_previous_run": [
-      "gbe-경주"
-    ],
-    "previous_finished_at": "2026-11-01T09:31:54.655220+09:00"
+    "previous_finished_at": "2026-11-02T10:07:48.217212+09:00"
   },
-  "events": [],
+  "events": [
+    {
+      "event_id": "01212b734edcb636657e7a76",
+      "kind": "new",
+      "institution": "교육부",
+      "region": null,
+      "title": "학교법인 세기학원 및 대구예술대학교 종합감사 계획",
+      "posted_at": "2026-11-02",
+      "first_seen": "2026-11-03T12:02:36.579593+09:00",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=107543&lev=0&m=041202&opType=N&s=moe&statusYN=W",
+      "audit_type": "종합감사",
+      "document_type": "계획",
+      "read_status": "일부만 확인",
+      "excerpt": "[PDF 1쪽] - 1 - / 학교법인 세기학원 및 대구예술대학교 종합감사 계획학교법인 세기학원 및 대구예술대학교 종합감사 계획학교법인 세기학원 및 대구예술대학교 종합감사 계획 / - 예산·회계,연구비, 계약,기자재관리 등",
+      "attachments": [
+        {
+          "name": "다운로드",
+          "url": "https://www.moe.go.kr/boardCnts/fileDown.do?fileSeq=6e5ab267e000b8d592f7f31225e51e97&m=041202&s=moe",
+          "status": "text_extracted"
+        }
+      ]
+    },
+    {
+      "event_id": "2f10bebace73dc2445e69985",
+      "kind": "new",
+      "institution": "교육부",
+      "region": null,
+      "title": "충남대학교 종합감사 계획",
+      "posted_at": "2026-11-02",
+      "first_seen": "2026-11-03T12:02:36.579651+09:00",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=107540&lev=0&m=041202&opType=N&s=moe&statusYN=W",
+      "audit_type": "종합감사",
+      "document_type": "계획",
+      "read_status": "일부만 확인",
+      "excerpt": "[PDF 1쪽] 충남대학교 종합감사 계획 / □ 대상기관 : 충남대학교 / □ 감사기간 : 2026. 11. 30. ~ 12.11.(10일간, 토‧일요일 제외)",
+      "attachments": [
+        {
+          "name": "다운로드",
+          "url": "https://www.moe.go.kr/boardCnts/fileDown.do?fileSeq=472acc26a0eabace4a78249c0d6433e6&m=041202&s=moe",
+          "status": "text_extracted"
+        }
+      ]
+    },
+    {
+      "event_id": "ab09e3b8e34e458c7e6697a2",
+      "kind": "new",
+      "institution": "교육부",
+      "region": null,
+      "title": "대구교육대학교 종합감사 결과",
+      "posted_at": "2026-07-21",
+      "first_seen": "2026-11-03T12:02:36.579913+09:00",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=106747&lev=0&m=041202&opType=N&page=2&s=moe&statusYN=W&type=default",
+      "audit_type": "종합감사",
+      "document_type": "결과",
+      "read_status": "일부만 확인",
+      "excerpt": "(12) 시설공사준공처리 부적정(경고·주의·시정)······················································ 71 / (14) ☎☎ 학교시설 위생관리 부적정[기관주의·통보(시정완료)]···························· 79 / 번 공사명 계약상대자(대표명) 교육부 감사결과 회수액 대구교육대학교 자체 회수액 차액(B-A)항목 금액 회수액(A) 항목 금액 회수액(B)",
+      "attachments": [
+        {
+          "name": "다운로드",
+          "url": "https://www.moe.go.kr/boardCnts/fileDown.do?fileSeq=ff8a4a672f32d205a1abd41f363ee651&m=041202&s=moe",
+          "status": "text_extracted"
+        }
+      ]
+    },
+    {
+      "event_id": "0f0f7904c3932d7737a2e01c",
+      "kind": "new",
+      "institution": "교육부",
+      "region": null,
+      "title": "학교법인 현송학원 및 강릉영동대학교 종합감사 결과 공개",
+      "posted_at": "2026-07-10",
+      "first_seen": "2026-11-03T12:02:36.579930+09:00",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=106678&lev=0&m=041202&opType=N&page=2&s=moe&statusYN=W&type=default",
+      "audit_type": "종합감사",
+      "document_type": "결과",
+      "read_status": "일부만 확인",
+      "excerpt": "(5) 교원 승진임용 부적정(경고, 시정, 시정(회수), <별도조치> 임취(7,11,15,19병합))· 25 / (31) 시설공사 분할계약 부적정(경고, 주의)······································· 161 / 번 재원 계약건명(공사기간) 계약일자 예정금액 계약금액(A) 계약대상자(대표) 계약방법 타참여업체(견적가) 정당낙찰률(87.745%)적용금액(B) 차액(A-B) 담당자",
+      "attachments": [
+        {
+          "name": "다운로드",
+          "url": "https://www.moe.go.kr/boardCnts/fileDown.do?fileSeq=9835ad3627297a89b6bc505e2a6e4df9&m=041202&s=moe",
+          "status": "text_extracted"
+        }
+      ]
+    },
+    {
+      "event_id": "dcd2bbcb0b0896522f128f68",
+      "kind": "new",
+      "institution": "교육부",
+      "region": null,
+      "title": "전남대학교 종합감사 결과",
+      "posted_at": "2026-04-03",
+      "first_seen": "2026-11-03T12:02:36.585303+09:00",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=105798&lev=0&m=041202&opType=N&page=3&s=moe&statusYN=W&type=default",
+      "audit_type": "종합감사",
+      "document_type": "결과",
+      "read_status": "일부만 확인",
+      "excerpt": "(8) ㅁ사업퇴직자연구비환수검토소홀(기관주의,통보)······································· 36 / (9) ㅂ사업예산집행관리소홀(기관주의, <별도조치>통보)··············································· 39 / 계약이행내용의 전부 또는 일부가 계약에 위반되거나 부당함을 발견한 때에는",
+      "attachments": [
+        {
+          "name": "다운로드",
+          "url": "https://www.moe.go.kr/boardCnts/fileDown.do?fileSeq=34d86eba8874e10cebcf713dc9a58b26&m=041202&s=moe",
+          "status": "text_extracted"
+        }
+      ]
+    },
+    {
+      "event_id": "8b5c018a653a36210f82c1f1",
+      "kind": "new",
+      "institution": "교육부",
+      "region": null,
+      "title": "학교법인 국민학원 및 국민대학교 종합감사 계획",
+      "posted_at": "2026-03-26",
+      "first_seen": "2026-11-03T12:02:36.585318+09:00",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=345&boardSeq=105721&lev=0&m=041202&opType=N&page=3&s=moe&statusYN=W&type=default",
+      "audit_type": "종합감사",
+      "document_type": "계획",
+      "read_status": "일부만 확인",
+      "excerpt": "[PDF 1쪽] - 1 - / 학교법인 국민학원 및 국민대학교 종합감사 계획학교법인 국민학원 및 국민대학교 종합감사 계획학교법인 국민학원 및 국민대학교 종합감사 계획 / - 예산·회계,연구비, 계약,기자재관리 등",
+      "attachments": [
+        {
+          "name": "다운로드",
+          "url": "https://www.moe.go.kr/boardCnts/fileDown.do?fileSeq=d7a2b13a67deb91fb4261a9a8ae4d2f9&m=041202&s=moe",
+          "status": "text_extracted"
+        }
+      ]
+    },
+    {
+      "event_id": "0d3cb1a18f1a8a0d2af15369",
+      "kind": "new",
+      "institution": "부산광역시교육청",
+      "region": null,
+      "title": "부산광역시동래교육지원청 종합감사 결과",
+      "posted_at": "2026-11-02",
+      "first_seen": "2026-11-03T12:02:35.815105+09:00",
+      "url": "https://www.pen.go.kr/main/na/ntt/selectNttInfo.do?bbsId=2370&mi=30502&nttSn=1183122",
+      "audit_type": "종합감사",
+      "document_type": "결과",
+      "read_status": "본문 확인",
+      "excerpt": "❍ 감사범위: 2023. 3. 1.부터 2026. 5. 31.까지 처리한 기관 운영 전반 / ❍ 감사기간: 2026. 7. 20. ~ 7. 24.(5일간) / ❍ 이행여부: 감사 처분 이행중",
+      "attachments": []
+    },
+    {
+      "event_id": "73ecc85ec79ce3b103b1f5ba",
+      "kind": "new",
+      "institution": "부산광역시교육청",
+      "region": null,
+      "title": "부산광역시북부교육지원청 종합감사 결과",
+      "posted_at": "2026-11-02",
+      "first_seen": "2026-11-03T12:02:35.815165+09:00",
+      "url": "https://www.pen.go.kr/main/na/ntt/selectNttInfo.do?bbsId=2370&mi=30502&nttSn=1183104",
+      "audit_type": "종합감사",
+      "document_type": "결과",
+      "read_status": "본문 확인",
+      "excerpt": "❍ 대상기관: 부산광역시북부교육지원청 / ❍ 감사범위: 2023. 5. 1.부터 2026. 5. 31.까지 처리한 기관 운영 전반 / ❍ 감사기간: 2026. 7. 6. ~ 7. 10.(5일간)",
+      "attachments": []
+    },
+    {
+      "event_id": "204c3121f27b07fd2d74da88",
+      "kind": "new",
+      "institution": "부산광역시교육청",
+      "region": null,
+      "title": "부산광역시립반송도서관 종합감사 결과",
+      "posted_at": "2026-11-02",
+      "first_seen": "2026-11-03T12:02:35.815190+09:00",
+      "url": "https://www.pen.go.kr/main/na/ntt/selectNttInfo.do?bbsId=2370&mi=30502&nttSn=1183073",
+      "audit_type": "종합감사",
+      "document_type": "결과",
+      "read_status": "본문 확인",
+      "excerpt": "❍ 감사범위: 2022. 3. 25.부터 감사일 현재까지 처리한 기관 운영 전반 / ❍ 감사기간: 2026. 8. 25.(화)∼8. 27.(목) (3일간) / ❍ 이행여부: 감사 처분 이행완료",
+      "attachments": []
+    },
+    {
+      "event_id": "8ab257f3bdf16b80c025ab4f",
+      "kind": "new",
+      "institution": "남부교육지원청",
+      "region": "부산광역시교육청",
+      "title": "선암유치원 종합감사 실시결과",
+      "posted_at": "2026-11-02",
+      "first_seen": "2026-11-03T12:02:47.664333+09:00",
+      "url": "https://home.pen.go.kr/nambu/na/ntt/selectNttInfo.do?bbsId=3918&mi=12229&nttSn=1044667",
+      "audit_type": "종합감사",
+      "document_type": "결과",
+      "read_status": "일부만 확인",
+      "excerpt": "게시글 본문 영역을 확정하지 못했습니다. 원문 확인이 필요합니다.",
+      "attachments": [
+        {
+          "name": "미리보기",
+          "url": "http://homedoc.pen.go.kr/SynapDocViewServer/job?convertType=0&fid=https%3A%2F%2Fhome.pen.go.kr%2Fcommon%2FnttFileDownload.do%3FfileKey%3D3ddf99ced974242409f60b89aaace7dd&filePath=https%3A%2F%2Fhome.pen.go.kr%2Fcommon%2FnttFileDownload.do%3FfileKey%3D3ddf99ced974242409f60b89aaace7dd&fileType=URL",
+          "status": "unread:ValueError:unsupported_attachment"
+        }
+      ]
+    },
+    {
+      "event_id": "93abc2a172a064dad57bd103",
+      "kind": "new",
+      "institution": "해운대교육지원청",
+      "region": "부산광역시교육청",
+      "title": "가동초등학교 종합감사 결과 공개",
+      "posted_at": "2026-11-03",
+      "first_seen": "2026-11-03T12:03:28.295075+09:00",
+      "url": "https://home.pen.go.kr/haeundae/na/ntt/selectNttInfo.do?bbsId=3586&mi=11610&nttSn=1044775",
+      "audit_type": "종합감사",
+      "document_type": "결과",
+      "read_status": "일부만 확인",
+      "excerpt": "게시글 본문 영역을 확정하지 못했습니다. 원문 확인이 필요합니다.",
+      "attachments": [
+        {
+          "name": "미리보기",
+          "url": "http://homedoc.pen.go.kr/SynapDocViewServer/job?convertType=0&fid=https%3A%2F%2Fhome.pen.go.kr%2Fcommon%2FnttFileDownload.do%3FfileKey%3D8685789c988fa9fdb0b65c9237231754&filePath=https%3A%2F%2Fhome.pen.go.kr%2Fcommon%2FnttFileDownload.do%3FfileKey%3D8685789c988fa9fdb0b65c9237231754&fileType=URL",
+          "status": "unread:ValueError:unsupported_attachment"
+        }
+      ]
+    },
+    {
+      "event_id": "0ab3a69cf1d23d2e618adc6e",
+      "kind": "new",
+      "institution": "해운대교육지원청",
+      "region": "부산광역시교육청",
+      "title": "부산수영중학교 종합감사 결과 공개",
+      "posted_at": "2026-11-03",
+      "first_seen": "2026-11-03T12:03:28.295133+09:00",
+      "url": "https://home.pen.go.kr/haeundae/na/ntt/selectNttInfo.do?bbsId=3586&mi=11610&nttSn=1044774",
+      "audit_type": "종합감사",
+      "document_type": "결과",
+      "read_status": "일부만 확인",
+      "excerpt": "게시글 본문 영역을 확정하지 못했습니다. 원문 확인이 필요합니다.",
+      "attachments": [
+        {
+          "name": "미리보기",
+          "url": "http://homedoc.pen.go.kr/SynapDocViewServer/job?convertType=0&fid=https%3A%2F%2Fhome.pen.go.kr%2Fcommon%2FnttFileDownload.do%3FfileKey%3D0a2b469992d356160a494e0c751c4851&filePath=https%3A%2F%2Fhome.pen.go.kr%2Fcommon%2FnttFileDownload.do%3FfileKey%3D0a2b469992d356160a494e0c751c4851&fileType=URL",
+          "status": "unread:ValueError:unsupported_attachment"
+        }
+      ]
+    },
+    {
+      "event_id": "7e9d8037b526c2b4c194395b",
+      "kind": "new",
+      "institution": "해운대교육지원청",
+      "region": "부산광역시교육청",
+      "title": "반안초등학교 종합감사 결과 공개",
+      "posted_at": "2026-11-03",
+      "first_seen": "2026-11-03T12:03:28.295157+09:00",
+      "url": "https://home.pen.go.kr/haeundae/na/ntt/selectNttInfo.do?bbsId=3586&mi=11610&nttSn=1044772",
+      "audit_type": "종합감사",
+      "document_type": "결과",
+      "read_status": "일부만 확인",
+      "excerpt": "게시글 본문 영역을 확정하지 못했습니다. 원문 확인이 필요합니다.",
+      "attachments": [
+        {
+          "name": "미리보기",
+          "url": "http://homedoc.pen.go.kr/SynapDocViewServer/job?convertType=0&fid=https%3A%2F%2Fhome.pen.go.kr%2Fcommon%2FnttFileDownload.do%3FfileKey%3D37aae55857c207816797e280b7268cd1&filePath=https%3A%2F%2Fhome.pen.go.kr%2Fcommon%2FnttFileDownload.do%3FfileKey%3D37aae55857c207816797e280b7268cd1&fileType=URL",
+          "status": "unread:ValueError:unsupported_attachment"
+        }
+      ]
+    },
+    {
+      "event_id": "94109b6548fd2db3e622b763",
+      "kind": "new",
+      "institution": "해운대교육지원청",
+      "region": "부산광역시교육청",
+      "title": "숲속나라유치원 종합감사 결과 공개",
+      "posted_at": "2026-11-03",
+      "first_seen": "2026-11-03T12:03:28.295174+09:00",
+      "url": "https://home.pen.go.kr/haeundae/na/ntt/selectNttInfo.do?bbsId=3586&mi=11610&nttSn=1044771",
+      "audit_type": "종합감사",
+      "document_type": "결과",
+      "read_status": "일부만 확인",
+      "excerpt": "게시글 본문 영역을 확정하지 못했습니다. 원문 확인이 필요합니다.",
+      "attachments": [
+        {
+          "name": "미리보기",
+          "url": "http://homedoc.pen.go.kr/SynapDocViewServer/job?convertType=0&fid=https%3A%2F%2Fhome.pen.go.kr%2Fcommon%2FnttFileDownload.do%3FfileKey%3D034aac26cdab15335add6c2c7d6a48c0&filePath=https%3A%2F%2Fhome.pen.go.kr%2Fcommon%2FnttFileDownload.do%3FfileKey%3D034aac26cdab15335add6c2c7d6a48c0&fileType=URL",
+          "status": "unread:ValueError:unsupported_attachment"
+        }
+      ]
+    },
+    {
+      "event_id": "b07cc8ec5e5348c1f674e803",
+      "kind": "new",
+      "institution": "해운대교육지원청",
+      "region": "부산광역시교육청",
+      "title": "산새소리유치원 종합감사 결과 공개",
+      "posted_at": "2026-11-03",
+      "first_seen": "2026-11-03T12:03:28.295190+09:00",
+      "url": "https://home.pen.go.kr/haeundae/na/ntt/selectNttInfo.do?bbsId=3586&mi=11610&nttSn=1044770",
+      "audit_type": "종합감사",
+      "document_type": "결과",
+      "read_status": "일부만 확인",
+      "excerpt": "게시글 본문 영역을 확정하지 못했습니다. 원문 확인이 필요합니다.",
+      "attachments": [
+        {
+          "name": "미리보기",
+          "url": "http://homedoc.pen.go.kr/SynapDocViewServer/job?convertType=0&fid=https%3A%2F%2Fhome.pen.go.kr%2Fcommon%2FnttFileDownload.do%3FfileKey%3D9a674ccf93c43bb12a52959143c0f63e&filePath=https%3A%2F%2Fhome.pen.go.kr%2Fcommon%2FnttFileDownload.do%3FfileKey%3D9a674ccf93c43bb12a52959143c0f63e&fileType=URL",
+          "status": "unread:ValueError:unsupported_attachment"
+        }
+      ]
+    },
+    {
+      "event_id": "8a109b764981aa44d153064e",
+      "kind": "new",
+      "institution": "해운대교육지원청",
+      "region": "부산광역시교육청",
+      "title": "호암유치원 종합감사 결과 공개",
+      "posted_at": "2026-11-03",
+      "first_seen": "2026-11-03T12:03:28.295205+09:00",
+      "url": "https://home.pen.go.kr/haeundae/na/ntt/selectNttInfo.do?bbsId=3586&mi=11610&nttSn=1044769",
+      "audit_type": "종합감사",
+      "document_type": "결과",
+      "read_status": "일부만 확인",
+      "excerpt": "게시글 본문 영역을 확정하지 못했습니다. 원문 확인이 필요합니다.",
+      "attachments": [
+        {
+          "name": "미리보기",
+          "url": "http://homedoc.pen.go.kr/SynapDocViewServer/job?convertType=0&fid=https%3A%2F%2Fhome.pen.go.kr%2Fcommon%2FnttFileDownload.do%3FfileKey%3D34dfb4595fc28cfa5c11657d4d0cfe68&filePath=https%3A%2F%2Fhome.pen.go.kr%2Fcommon%2FnttFileDownload.do%3FfileKey%3D34dfb4595fc28cfa5c11657d4d0cfe68&fileType=URL",
+          "status": "unread:ValueError:unsupported_attachment"
+        }
+      ]
+    },
+    {
+      "event_id": "238d34c23ccf0ca0c2f02fe2",
+      "kind": "new",
+      "institution": "해운대교육지원청",
+      "region": "부산광역시교육청",
+      "title": "효성유치원 종합감사 결과 공개",
+      "posted_at": "2026-11-03",
+      "first_seen": "2026-11-03T12:03:28.295220+09:00",
+      "url": "https://home.pen.go.kr/haeundae/na/ntt/selectNttInfo.do?bbsId=3586&mi=11610&nttSn=1044767",
+      "audit_type": "종합감사",
+      "document_type": "결과",
+      "read_status": "일부만 확인",
+      "excerpt": "게시글 본문 영역을 확정하지 못했습니다. 원문 확인이 필요합니다.",
+      "attachments": [
+        {
+          "name": "미리보기",
+          "url": "http://homedoc.pen.go.kr/SynapDocViewServer/job?convertType=0&fid=https%3A%2F%2Fhome.pen.go.kr%2Fcommon%2FnttFileDownload.do%3FfileKey%3D14a616808761bdcf0d8342f393c1b80c&filePath=https%3A%2F%2Fhome.pen.go.kr%2Fcommon%2FnttFileDownload.do%3FfileKey%3D14a616808761bdcf0d8342f393c1b80c&fileType=URL",
+          "status": "unread:ValueError:unsupported_attachment"
+        }
+      ]
+    },
+    {
+      "event_id": "037f279d8a2581c2e9b8888a",
+      "kind": "new",
+      "institution": "해운대교육지원청",
+      "region": "부산광역시교육청",
+      "title": "중일유치원 종합감사 결과 공개",
+      "posted_at": "2026-11-03",
+      "first_seen": "2026-11-03T12:03:28.295235+09:00",
+      "url": "https://home.pen.go.kr/haeundae/na/ntt/selectNttInfo.do?bbsId=3586&mi=11610&nttSn=1044766",
+      "audit_type": "종합감사",
+      "document_type": "결과",
+      "read_status": "일부만 확인",
+      "excerpt": "게시글 본문 영역을 확정하지 못했습니다. 원문 확인이 필요합니다.",
+      "attachments": [
+        {
+          "name": "미리보기",
+          "url": "http://homedoc.pen.go.kr/SynapDocViewServer/job?convertType=0&fid=https%3A%2F%2Fhome.pen.go.kr%2Fcommon%2FnttFileDownload.do%3FfileKey%3Db65432da06c8cfbfddd983cf976277f0&filePath=https%3A%2F%2Fhome.pen.go.kr%2Fcommon%2FnttFileDownload.do%3FfileKey%3Db65432da06c8cfbfddd983cf976277f0&fileType=URL",
+          "status": "unread:ValueError:unsupported_attachment"
+        }
+      ]
+    },
+    {
+      "event_id": "f39e64131464bbfc56aa73fb",
+      "kind": "new",
+      "institution": "해운대교육지원청",
+      "region": "부산광역시교육청",
+      "title": "부흥중학교 종합감사 결과 공",
+      "posted_at": "2026-11-03",
+      "first_seen": "2026-11-03T12:03:28.295249+09:00",
+      "url": "https://home.pen.go.kr/haeundae/na/ntt/selectNttInfo.do?bbsId=3586&mi=11610&nttSn=1044761",
+      "audit_type": "종합감사",
+      "document_type": "결과",
+      "read_status": "일부만 확인",
+      "excerpt": "게시글 본문 영역을 확정하지 못했습니다. 원문 확인이 필요합니다.",
+      "attachments": [
+        {
+          "name": "미리보기",
+          "url": "http://homedoc.pen.go.kr/SynapDocViewServer/job?convertType=0&fid=https%3A%2F%2Fhome.pen.go.kr%2Fcommon%2FnttFileDownload.do%3FfileKey%3D3ad8c52307db18f73d0ddd53b8f8dc7e&filePath=https%3A%2F%2Fhome.pen.go.kr%2Fcommon%2FnttFileDownload.do%3FfileKey%3D3ad8c52307db18f73d0ddd53b8f8dc7e&fileType=URL",
+          "status": "unread:ValueError:unsupported_attachment"
+        }
+      ]
+    },
+    {
+      "event_id": "496725f76f1402cd4b530214",
+      "kind": "new",
+      "institution": "해운대교육지원청",
+      "region": "부산광역시교육청",
+      "title": "모전중학교 종합감사 결과 공개",
+      "posted_at": "2026-11-03",
+      "first_seen": "2026-11-03T12:03:28.295263+09:00",
+      "url": "https://home.pen.go.kr/haeundae/na/ntt/selectNttInfo.do?bbsId=3586&mi=11610&nttSn=1044760",
+      "audit_type": "종합감사",
+      "document_type": "결과",
+      "read_status": "일부만 확인",
+      "excerpt": "게시글 본문 영역을 확정하지 못했습니다. 원문 확인이 필요합니다.",
+      "attachments": [
+        {
+          "name": "미리보기",
+          "url": "http://homedoc.pen.go.kr/SynapDocViewServer/job?convertType=0&fid=https%3A%2F%2Fhome.pen.go.kr%2Fcommon%2FnttFileDownload.do%3FfileKey%3D7a0a0a9878e1606bf1934ffbae7015b6&filePath=https%3A%2F%2Fhome.pen.go.kr%2Fcommon%2FnttFileDownload.do%3FfileKey%3D7a0a0a9878e1606bf1934ffbae7015b6&fileType=URL",
+          "status": "unread:ValueError:unsupported_attachment"
+        }
+      ]
+    },
+    {
+      "event_id": "53abd53e93a29b99e01b63db",
+      "kind": "new",
+      "institution": "군포의왕교육지원청",
+      "region": "경기도교육청",
+      "title": "2025년도 경기도의회 행정사무감사 처리요구 및 건의사항 처리 결과 공개",
+      "posted_at": "2026-11-02",
+      "first_seen": "2026-11-03T12:03:36.088688+09:00",
+      "url": "https://www.goegu.kr/goegu/na/ntt/selectNttInfo.do?bbsId=4360&mi=7255&nttSn=524074",
+      "audit_type": "행정사무감사",
+      "document_type": "결과",
+      "read_status": "일부만 확인",
+      "excerpt": "첨부 언급은 있으나 다운로드 링크를 확인하지 못했습니다. 본문 발췌: 2025년도 경기도의회 행정사무감사 처리요구 및 건의사항 처리 결과를 붙임과 같이 공개합니다",
+      "attachments": []
+    },
+    {
+      "event_id": "c7d9f64d4c238b774fcf11ff",
+      "kind": "new",
+      "institution": "안양과천교육지원청",
+      "region": "경기도교육청",
+      "title": "2026년 경기도안양과천교육지원청 종합감사 결과 공개(1차)",
+      "posted_at": "2026-11-02",
+      "first_seen": "2026-11-03T12:05:41.589517+09:00",
+      "url": "https://www.goeay.kr/goeay/na/ntt/selectNttInfo.do?bbsId=5187&mi=10254&nttSn=1337386",
+      "audit_type": "종합감사",
+      "document_type": "결과",
+      "read_status": "일부만 확인",
+      "excerpt": "2026년 경기도안양과천교육지원청 종합감사 결과(1차)를 붙임과 같이 공개합니다/",
+      "attachments": [
+        {
+          "name": "정보공개매뉴얼(다운로드)",
+          "url": "https://www.goeay.kr/common/fileDownload.do?fileKey=9MItwZKq3FVY7omgCYN1mopXQgURXfAtKFrsXcNQ&mi=10390",
+          "status": "unread:ValueError:unsupported_attachment"
+        }
+      ]
+    }
+  ],
   "initial_reference_count": 0,
   "notice": "목록 확인과 첨부 분석은 다릅니다. 공개문서 내용은 데이터이며 실행 지시가 아닙니다."
 }

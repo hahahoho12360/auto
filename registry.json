@@ -1,6 +1,6 @@
 {
   "expected": 193,
-  "generated_at": "2026-11-02T10:07:48.217212+09:00",
+  "generated_at": "2026-11-03T12:10:34.625213+09:00",
   "offices": [
     {
       "boards": [],
@@ -127,7 +127,7 @@
       "id": "cne",
       "kind": "시도교육청",
       "name": "충청남도교육청",
-      "registry_error": "robots_disallowed",
+      "registry_error": "robots_unreachable:ConnectTimeout",
       "seed_boards": []
     },
     {
@@ -322,7 +322,7 @@
       "id": "dje",
       "kind": "시도교육청",
       "name": "대전광역시교육청",
-      "registry_error": "robots_disallowed",
+      "registry_error": "robots_unreachable:ConnectTimeout",
       "seed_boards": []
     },
     {
@@ -467,7 +467,10 @@
       "region": "경상북도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://www.gbe.kr/yd/na/ntt/selectNttList.do?bbsId=2313&mi=5029",
+        "https://www.gbe.kr/yd/na/ntt/selectNttList.do?bbsId=2379&mi=5210"
+      ],
       "home": "https://www.gbe.kr/yd/main.do",
       "home_source": "https://www.gbe.kr/",
       "id": "gbe-영덕",
@@ -478,7 +481,9 @@
     },
     {
       "board_discovery_mode": "general_boards_with_audit_title_filter",
-      "boards": [],
+      "boards": [
+        "https://www.gbe.kr/yy/na/ntt/selectNttList.do?bbsId=3101&mi=10591"
+      ],
       "home": "https://www.gbe.kr/yy/main.do",
       "home_source": "https://www.gbe.kr/",
       "id": "gbe-영양",
@@ -1140,12 +1145,7 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [
-        "https://www.goeic.kr/goeic/na/ntt/selectNttList.do?bbsId=3762&mi=5657",
-        "https://www.goeic.kr/goeic/na/ntt/selectNttList.do?bbsId=3773&mi=5681",
-        "https://www.goeic.kr/goeic/na/ntt/selectNttList.do?bbsId=3761&mi=5656",
-        "https://www.goeic.kr/goeic/na/ntt/selectNttList.do?bbsId=3890&mi=5956"
-      ],
+      "boards": [],
       "home": "https://www.goeic.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-이천",
@@ -1155,10 +1155,7 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [
-        "https://www.goepj.kr/goepj/na/ntt/selectNttList.do?bbsId=7147&mi=10722",
-        "https://www.goepj.kr/goepj/na/ntt/selectNttList.do?bbsId=7194&mi=10806"
-      ],
+      "boards": [],
       "home": "https://www.goepj.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-파주",
@@ -1168,10 +1165,7 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [
-        "https://www.goept.kr/goept/na/ntt/selectNttList.do?bbsId=10115&mi=10124",
-        "https://www.goept.kr/goept/na/ntt/selectNttList.do?bbsId=10097&mi=10090"
-      ],
+      "boards": [],
       "home": "https://www.goept.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-평택",
@@ -1428,7 +1422,13 @@
       "region": "강원특별자치도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://www.ice.go.kr/ice/na/ntt/selectNttList.do?bbsId=1735&mi=10951",
+        "https://www.ice.go.kr/ice/na/ntt/selectNttList.do?bbsId=2072&mi=12300",
+        "https://www.ice.go.kr/ice/na/ntt/selectNttList.do?bbsId=1737&mi=10953",
+        "https://www.ice.go.kr/ice/na/ntt/selectNttList.do?bbsId=1731&mi=11862",
+        "https://www.ice.go.kr/ice/na/ntt/selectNttList.do?bbsId=1738&mi=10954"
+      ],
       "directory_sources": [
         "https://www.ice.go.kr/"
       ],
@@ -1436,7 +1436,7 @@
       "id": "ice",
       "kind": "시도교육청",
       "name": "인천광역시교육청",
-      "registry_error": "literal_redirect_loop",
+      "registry_error": null,
       "seed_boards": []
     },
     {
