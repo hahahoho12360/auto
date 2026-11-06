@@ -1,20 +1,15 @@
 {
   "schema": 2,
-  "target_date": "2026-11-05",
-  "run_id": "41950457681",
+  "target_date": "2026-11-06",
+  "run_id": "42145914799",
   "attempt": "1",
   "event": "schedule",
   "schedule_expression": "35 21 * * *",
   "source_sha": "120e1f3fbc56ef0faa7ef62efef4af14e3749af2",
-  "started_at_utc": "2026-11-05T01:43:45.806778+00:00",
-  "run_url": "https://github.com/hahahoho12360/auto/actions/runs/41950457681",
-  "previous_report_id": "b385bca0b998247f04f5e86b",
-  "collection_outcome": "success",
-  "report_id": "c766c6dd629d3f5274a8450c",
-  "email_sent": false,
-  "finished_at_utc": "2026-11-05T01:52:09.825676+00:00",
-  "last_observed_report_id": "c766c6dd629d3f5274a8450c",
-  "validation_errors": [],
-  "tests_outcome": "success",
-  "collector_step_outcome": "success"
+  "started_at_utc": "2026-11-06T01:45:29.425253+00:00",
+  "run_url": "https://github.com/hahahoho12360/auto/actions/runs/42145914799",
+  "previous_report_id": "c766c6dd629d3f5274a8450c",
+  "collection_outcome": "running",
+  "report_id": null,
+  "email_sent": false
 }
