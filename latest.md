@@ -1,14 +1,14 @@
-# 전국 교육감사 변경 점검 | 2026-11-05
+# 전국 교육감사 변경 점검 | 2026-11-06
 
-수집 시작: 2026-11-05T10:43:49.129136+09:00 / 종료: 2026-11-05T10:52:09.714765+09:00
-대상 193기관 · 목록 확인 1 · 일부 확인 65 · 미확인/실패 127
+수집 시작: 2026-11-06T10:45:36.746344+09:00 / 종료: 2026-11-06T10:53:56.265224+09:00
+대상 193기관 · 목록 확인 1 · 일부 확인 60 · 미확인/실패 132
 
-목록 단계: 1개 이상 등록 경로 확인 66기관 / 등록 경로 모두의 목록 확인 59기관. 이는 모든 감사 공개 경로를 찾아냈다는 뜻이 아닙니다.
-본문·첨부 단계: 시도 32건 / 상세 응답 처리 25건 / 미시도 후보 787건. 첨부 미확인 상태는 각 자료에서 별도 확인합니다.
+목록 단계: 1개 이상 등록 경로 확인 61기관 / 등록 경로 모두의 목록 확인 56기관. 이는 모든 감사 공개 경로를 찾아냈다는 뜻이 아닙니다.
+본문·첨부 단계: 시도 32건 / 상세 응답 처리 27건 / 미시도 후보 783건. 첨부 미확인 상태는 각 자료에서 별도 확인합니다.
 
 **범위 주의:** 등록 공개 경로의 최근 목록을 점검했습니다. 전국 모든 웹페이지·오래된 첨부 교체까지 확인했다는 의미가 아닙니다.
 
-신규 3건 / 수정 0건
+신규 4건 / 수정 0건
 
 ## 미확인 원인과 다음 조치
 
@@ -22,28 +22,33 @@
 | 추가 진단 필요 | 1 | 구체적 오류와 원문 경로 점검 |
 | 게시판 구조 미지원 | 3 | 글 보기·등록일·첨부 처리 규칙 보완 필요 |
 | 자동수집 제한 | 3 | 제한 우회 금지·허용된 공식 대체 경로 검토 |
-| 자동수집 정책 확인 미완료 | 13 | 정책 파일 재확인 후에만 자료 수집 |
-| 통신 오류·실행 한도 | 27 | 다음 실행에서 재시도·지속 시 접속환경 점검 |
+| 자동수집 정책 확인 미완료 | 12 | 정책 파일 재확인 후에만 자료 수집 |
+| 통신 오류·실행 한도 | 33 | 다음 실행에서 재시도·지속 시 접속환경 점검 |
 
-직전 실행 대비 목록 확인 회복 2기관 / 새로 확인 실패 11기관.
+직전 실행 대비 목록 확인 회복 2기관 / 새로 확인 실패 7기관.
 반복실행은 접속 상태를 다시 확인할 뿐, 미지원 게시판의 코드를 자동 수정하지 않습니다.
 
 ## 신규·수정 자료
 
-### [new] 광주하남교육지원청 | 청렴 카드뉴스 '학교에서 꼭 알아야 할 청탁금지법'편
-게시일: 2026-11-04 · 기타 감사자료 · 기타 · 본문 확인
-원문: https://www.goegh.kr/goegh/na/ntt/selectNttInfo.do?bbsId=5079&mi=8742&nttSn=1233669
-자동 발췌(판단·해석 아님): 광주하남 청렴동아리 및 청렴 주니어보드 'All 파인Day'에서 학교에서 꼭 알아야 할 청탁금지법 카드뉴스를 제작하였습니다 / 광주하남 교육가족 여러분들께서는 카드뉴스를 숙지 및 활용하시어 청탁금지법 준수에 참고하여 주시기 바랍니다
+### [new] 충청북도교육청 | 새글 N 2026년 12월 자체감사 계획
+게시일: 2026-11-05 · 기타 감사자료 · 계획 · 일부만 확인
+원문: https://www.cbe.go.kr/cbe/na/ntt/selectNttInfo.do?bbsId=1723&mi=11798&nttSn=1581828
+자동 발췌(판단·해석 아님): 첨부 언급은 있으나 다운로드 링크를 확인하지 못했습니다. 본문 발췌: 월 자체감사 실시 계획입니다 / 첨부한 문서를 참고하여 주시기 바랍니다
 
-### [new] 광주하남교육지원청 | 청렴 카드뉴스 '공직자의 이해충돌방지법'편
-게시일: 2026-11-04 · 기타 감사자료 · 기타 · 본문 확인
-원문: https://www.goegh.kr/goegh/na/ntt/selectNttInfo.do?bbsId=5079&mi=8742&nttSn=1233668
-자동 발췌(판단·해석 아님): 광주하남 청렴동아리 및 청렴 주니어보드 'All 파인Day'에서 공직자의 이해충돌방지법 카드뉴스를 제작하였습니다 / 광주하남 교육가족 여러분들께서는 카드뉴스를 숙지 및 활용하시어 이해충돌방지법 준수에 참고하여 주시기 바랍니다
+### [new] 광명교육지원청 | 2026년 9월 학교종합감사 결과 공개
+게시일: 2026-11-05 · 종합감사 · 결과 · 일부만 확인
+원문: https://www.goegm.kr/goegm/na/ntt/selectNttInfo.do?bbsId=4246&mi=5883&nttSn=1262716
+자동 발췌(판단·해석 아님): 첨부 언급은 있으나 다운로드 링크를 확인하지 못했습니다. 본문 발췌: 2026년 9월 학교종합감사(광명북중, 광문고) 결과를 붙임과 같이 공개합니다
 
-### [new] 광주하남교육지원청 | 청렴 카드뉴스 '함께 만드는 건강한 회식문화'편
-게시일: 2026-11-04 · 기타 감사자료 · 기타 · 본문 확인
-원문: https://www.goegh.kr/goegh/na/ntt/selectNttInfo.do?bbsId=5079&mi=8742&nttSn=1233667
-자동 발췌(판단·해석 아님): 광주하남 청렴동아리 및 청렴 주니어보드 'All 파인Day'에서 함께 만드는 건강한 회식문화 카드뉴스를 제작하였습니다 / 광주하남 교육가족 여러분들께서는 카드뉴스를 숙지 및 활용하시어 건강한 회식문화 조성에 동참하여 주시기 바랍니다
+### [new] 광명교육지원청 | 2026년 8월 학교종합감사 결과 공개
+게시일: 2026-11-05 · 종합감사 · 결과 · 일부만 확인
+원문: https://www.goegm.kr/goegm/na/ntt/selectNttInfo.do?bbsId=4246&mi=5883&nttSn=1262715
+자동 발췌(판단·해석 아님): 첨부 언급은 있으나 다운로드 링크를 확인하지 못했습니다. 본문 발췌: 2026년 8월 학교종합감사(빛가온중학교) 결과를 붙임과 같이 공개합니다
+
+### [new] 수원교육지원청 | 부패취약분야 이해관계자에게 보내는 청렴 실천선언문
+게시일: 2026-11-05 · 기타 감사자료 · 기타 · 본문 확인
+원문: https://www.goesw.kr/goesw/na/ntt/selectNttInfo.do?bbsId=11052&mi=18918&nttSn=599375
+자동 발췌(판단·해석 아님): 우리 수원교육지원청의 청렴 실천선언문을 다음과 같이 안내드립니다 / 부패취약분야 5개분야(공사 관리감독, 계약, 현장체험학습, 학교운동부, 방과후학교)의 / 이해관계자(계약상대방, 공사 현장소장, 학생선수 학부모, 방과후학교 강사 등)에게 보내는
 
 ## 미확인·부분 확인 기관
 -  충청북도교육청: detail_deferred_by_daily_budget, some_content_unread
@@ -81,25 +86,24 @@
 -  대전광역시교육청: robots_disallowed
 - 대전광역시교육청 동부교육지원청: homepage_unresolved
 - 대전광역시교육청 서부교육지원청: homepage_unresolved
--  경상북도교육청: detail_deferred_by_daily_budget, detail_fetch_failed:ConnectTimeout, list_parser_unverified
-- 경상북도교육청 경산교육지원청: detail_deferred_by_daily_budget, some_content_unread
-- 경상북도교육청 경주교육지원청: ConnectTimeout, detail_deferred_by_daily_budget
+-  경상북도교육청: detail_deferred_by_daily_budget, list_parser_unverified, some_content_unread
+- 경상북도교육청 경산교육지원청: ConnectTimeout
+- 경상북도교육청 경주교육지원청: detail_deferred_by_daily_budget
 - 경상북도교육청 고령교육지원청: source_cooldown:ConnectTimeout
-- 경상북도교육청 구미교육지원청: robots_unreachable:ConnectTimeout
-- 경상북도교육청 김천교육지원청: ConnectTimeout
+- 경상북도교육청 구미교육지원청: run_budget_exhausted
+- 경상북도교육청 김천교육지원청: run_budget_exhausted
 - 경상북도교육청 문경교육지원청: source_cooldown:ConnectTimeout
-- 경상북도교육청 봉화교육지원청: source_cooldown:ConnectTimeout
-- 경상북도교육청 상주교육지원청: source_cooldown:ConnectTimeout
-- 경상북도교육청 성주교육지원청: ConnectTimeout
-- 경상북도교육청 안동교육지원청: run_budget_exhausted
-- 경상북도교육청 영덕교육지원청: detail_deferred_by_daily_budget, run_budget_exhausted
-- 경상북도교육청 영양교육지원청: ConnectTimeout
+- 경상북도교육청 봉화교육지원청: response_limit
+- 경상북도교육청 성주교육지원청: source_cooldown:ConnectTimeout
+- 경상북도교육청 안동교육지원청: ConnectTimeout
+- 경상북도교육청 영덕교육지원청: detail_deferred_by_daily_budget
+- 경상북도교육청 영양교육지원청: source_cooldown:ConnectTimeout
 - 경상북도교육청 영주교육지원청: run_budget_exhausted
 - 경상북도교육청 영천교육지원청: run_budget_exhausted
 - 경상북도교육청 예천교육지원청: run_budget_exhausted
 - 경상북도교육청 울릉교육지원청: run_budget_exhausted
 - 경상북도교육청 울진교육지원청: run_budget_exhausted
-- 경상북도교육청 의성교육지원청: ConnectTimeout
+- 경상북도교육청 의성교육지원청: run_budget_exhausted
 - 경상북도교육청 청도교육지원청: run_budget_exhausted
 - 경상북도교육청 청송교육지원청: run_budget_exhausted
 - 경상북도교육청 칠곡교육지원청: run_budget_exhausted
@@ -120,13 +124,14 @@
 - 경상남도교육청 창원교육지원청: detail_deferred_by_daily_budget
 - 경상남도교육청 통영교육지원청: detail_deferred_by_daily_budget
 - 경상남도교육청 하동교육지원청: detail_deferred_by_daily_budget
-- 경상남도교육청 함안교육지원청: detail_deferred_by_daily_budget
+- 경상남도교육청 함안교육지원청: run_budget_exhausted
+- 경상남도교육청 함양교육지원청: run_budget_exhausted
 - 경상남도교육청 합천교육지원청: run_budget_exhausted
--  경기도교육청: detail_deferred_by_daily_budget, some_content_unread
-- 경기도교육청 가평교육지원청: detail_deferred_by_daily_budget, some_content_unread
-- 경기도교육청 고양교육지원청: detail_deferred_by_daily_budget, some_content_unread
-- 경기도교육청 광명교육지원청: detail_deferred_by_daily_budget
-- 경기도교육청 광주하남교육지원청: detail_deferred_by_daily_budget
+-  경기도교육청: detail_deferred_by_daily_budget
+- 경기도교육청 가평교육지원청: detail_deferred_by_daily_budget
+- 경기도교육청 고양교육지원청: detail_deferred_by_daily_budget
+- 경기도교육청 광명교육지원청: detail_deferred_by_daily_budget, some_content_unread
+- 경기도교육청 광주하남교육지원청: detail_deferred_by_daily_budget, some_content_unread
 - 경기도교육청 구리남양주교육지원청: detail_deferred_by_daily_budget
 - 경기도교육청 군포의왕교육지원청: detail_deferred_by_daily_budget
 - 경기도교육청 김포교육지원청: detail_deferred_by_daily_budget
@@ -138,8 +143,8 @@
 - 경기도교육청 안산교육지원청: detail_deferred_by_daily_budget, list_parser_unverified
 - 경기도교육청 안성교육지원청: detail_deferred_by_daily_budget
 - 경기도교육청 안양과천교육지원청: detail_deferred_by_daily_budget
-- 경기도교육청 양평교육지원청: detail_deferred_by_daily_budget
-- 경기도교육청 여주교육지원청: detail_deferred_by_daily_budget
+- 경기도교육청 양평교육지원청: run_budget_exhausted
+- 경기도교육청 여주교육지원청: run_budget_exhausted
 - 경기도교육청 연천교육지원청: run_budget_exhausted
 - 경기도교육청 용인교육지원청: run_budget_exhausted
 - 경기도교육청 의정부교육지원청: run_budget_exhausted
@@ -154,7 +159,7 @@
 - 강원특별자치도교육청 동해교육지원청: detail_deferred_by_daily_budget, detail_fetch_failed:soft_error_page
 - 강원특별자치도교육청 삼척교육지원청: detail_deferred_by_daily_budget, detail_fetch_failed:soft_error_page
 - 강원특별자치도교육청 속초양양교육지원청: detail_deferred_by_daily_budget, detail_fetch_failed:soft_error_page
-- 강원특별자치도교육청 양구교육지원청: detail_deferred_by_daily_budget, detail_fetch_failed:soft_error_page
+- 강원특별자치도교육청 양구교육지원청: detail_deferred_by_daily_budget
 - 강원특별자치도교육청 영월교육지원청: detail_deferred_by_daily_budget
 - 강원특별자치도교육청 원주교육지원청: detail_deferred_by_daily_budget
 - 강원특별자치도교육청 인제교육지원청: detail_deferred_by_daily_budget
@@ -164,9 +169,9 @@
 - 강원특별자치도교육청 태백교육지원청: detail_deferred_by_daily_budget
 - 강원특별자치도교육청 평창교육지원청: detail_deferred_by_daily_budget, robots_unreachable:ConnectionError
 - 강원특별자치도교육청 홍천교육지원청: detail_deferred_by_daily_budget, robots_unreachable:ConnectionError
-- 강원특별자치도교육청 화천교육지원청: detail_deferred_by_daily_budget
-- 강원특별자치도교육청 횡성교육지원청: detail_deferred_by_daily_budget
--  인천광역시교육청: literal_redirect_loop
+- 강원특별자치도교육청 화천교육지원청: run_budget_exhausted
+- 강원특별자치도교육청 횡성교육지원청: run_budget_exhausted
+-  인천광역시교육청: detail_deferred_by_daily_budget
 - 인천광역시교육청 강화교육지원청: homepage_unresolved
 - 인천광역시교육청 남부교육지원청: homepage_unresolved
 - 인천광역시교육청 동부교육지원청: homepage_unresolved
@@ -240,5 +245,5 @@
 - 울산광역시교육청 강북교육지원청: homepage_unresolved
 
 ## 처리기록
-report_id: c766c6dd629d3f5274a8450c
+report_id: e24d0db3336a6976511a8b04
 보고서는 이메일 발송 성공을 뜻하지 않습니다. 발송 여부는 별도 Gmail 보낸편지함으로 확인합니다.

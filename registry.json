@@ -1,6 +1,6 @@
 {
   "expected": 193,
-  "generated_at": "2026-11-05T10:52:09.714765+09:00",
+  "generated_at": "2026-11-06T10:53:56.265224+09:00",
   "offices": [
     {
       "boards": [],
@@ -363,9 +363,7 @@
       "seed_boards": []
     },
     {
-      "boards": [
-        "https://www.gbe.kr/gs/na/ntt/selectNttList.do?bbsId=2367&mi=6138"
-      ],
+      "boards": [],
       "home": "https://www.gbe.kr/gs/main.do",
       "home_source": "https://www.gbe.kr/",
       "id": "gbe-경산",
@@ -439,7 +437,9 @@
     },
     {
       "board_discovery_mode": "general_boards_with_audit_title_filter",
-      "boards": [],
+      "boards": [
+        "https://www.gbe.kr/sje/na/ntt/selectNttList.do?bbsId=3007&mi=10027"
+      ],
       "home": "https://www.gbe.kr/sje/main.do",
       "home_source": "https://www.gbe.kr/",
       "id": "gbe-상주",
@@ -811,9 +811,7 @@
     },
     {
       "board_discovery_mode": "published_integrity_and_general_boards_title_filter",
-      "boards": [
-        "https://hmedu.gne.go.kr/hmedu/na/ntt/selectNttList.do?bbsId=873&mi=3010"
-      ],
+      "boards": [],
       "home": "https://hmedu.gne.go.kr/",
       "home_source": "https://www.gne.go.kr/www/office/eduguide.jsp",
       "id": "gne-함안",
@@ -824,11 +822,7 @@
     },
     {
       "board_discovery_mode": "general_boards_with_audit_title_filter",
-      "boards": [
-        "https://hyedu.gne.go.kr/hyedu/na/ntt/selectNttList.do?bbsId=454&mi=1915",
-        "https://hyedu.gne.go.kr/hyedu/na/ntt/selectNttList.do?bbsId=455&mi=1931",
-        "https://hyedu.gne.go.kr/hyedu/na/ntt/selectNttList.do?bbsId=3538&mi=9065"
-      ],
+      "boards": [],
       "home": "https://hyedu.gne.go.kr/",
       "home_source": "https://www.gne.go.kr/www/office/eduguide.jsp",
       "id": "gne-함양",
@@ -1074,10 +1068,7 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [
-        "https://www.goeyp.kr/goeyp/na/ntt/selectNttList.do?bbsId=1890&mi=3580",
-        "https://www.goeyp.kr/goeyp/na/ntt/selectNttList.do?bbsId=1892&mi=3582"
-      ],
+      "boards": [],
       "home": "https://www.goeyp.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-양평",
@@ -1087,11 +1078,7 @@
       "region": "경기도교육청"
     },
     {
-      "boards": [
-        "https://www.goeyj.kr/goeyj/na/ntt/selectNttList.do?bbsId=10117&mi=10157",
-        "https://www.goeyj.kr/goeyj/na/ntt/selectNttList.do?bbsId=10114&mi=10154",
-        "https://www.goeyj.kr/goeyj/na/ntt/selectNttList.do?bbsId=10096&mi=10133"
-      ],
+      "boards": [],
       "home": "https://www.goeyj.kr/",
       "home_source": "https://www.goe.go.kr/goe/cm/cntnts/cntntsView.do?cntntsId=1132&mi=10311",
       "id": "goe-여주",
@@ -1384,9 +1371,7 @@
       "region": "강원특별자치도교육청"
     },
     {
-      "boards": [
-        "https://gwhced.gwe.go.kr/boardCnts/list.do?boardID=96271&m=0107&s=gwhced"
-      ],
+      "boards": [],
       "home": "https://gwhced.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-화천",
@@ -1396,9 +1381,7 @@
       "region": "강원특별자치도교육청"
     },
     {
-      "boards": [
-        "https://gwhsed.gwe.go.kr/boardCnts/list.do?boardID=96210&m=0312&s=gwhsed"
-      ],
+      "boards": [],
       "home": "https://gwhsed.gwe.go.kr/",
       "home_source": "https://www.gwe.go.kr/",
       "id": "gwe-횡성",
@@ -1408,7 +1391,13 @@
       "region": "강원특별자치도교육청"
     },
     {
-      "boards": [],
+      "boards": [
+        "https://www.ice.go.kr/ice/na/ntt/selectNttList.do?bbsId=1735&mi=10951",
+        "https://www.ice.go.kr/ice/na/ntt/selectNttList.do?bbsId=2072&mi=12300",
+        "https://www.ice.go.kr/ice/na/ntt/selectNttList.do?bbsId=1737&mi=10953",
+        "https://www.ice.go.kr/ice/na/ntt/selectNttList.do?bbsId=1731&mi=11862",
+        "https://www.ice.go.kr/ice/na/ntt/selectNttList.do?bbsId=1738&mi=10954"
+      ],
       "directory_sources": [
         "https://www.ice.go.kr/"
       ],
@@ -1416,7 +1405,7 @@
       "id": "ice",
       "kind": "시도교육청",
       "name": "인천광역시교육청",
-      "registry_error": "literal_redirect_loop",
+      "registry_error": null,
       "seed_boards": []
     },
     {
