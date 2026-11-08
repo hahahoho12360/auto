@@ -1,5 +1,5 @@
 {
-  "latest_report_date": "2026-11-07",
+  "latest_report_date": "2026-11-08",
   "reports": [
     {
       "date": "2026-10-19",
@@ -80,6 +80,10 @@
     {
       "date": "2026-11-07",
       "path": "reports/2026-11-07.json"
+    },
+    {
+      "date": "2026-11-08",
+      "path": "reports/2026-11-08.json"
     }
   ]
 }

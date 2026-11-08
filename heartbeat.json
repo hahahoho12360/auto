@@ -9,7 +9,12 @@
   "started_at_utc": "2026-11-08T00:52:56.994623+00:00",
   "run_url": "https://github.com/hahahoho12360/auto/actions/runs/42431774154",
   "previous_report_id": "ef32d7a093ac00460a88c3dc",
-  "collection_outcome": "running",
-  "report_id": null,
-  "email_sent": false
+  "collection_outcome": "success",
+  "report_id": "077b9f9654fd5ae9219b2a6e",
+  "email_sent": false,
+  "finished_at_utc": "2026-11-08T01:01:19.114883+00:00",
+  "last_observed_report_id": "077b9f9654fd5ae9219b2a6e",
+  "validation_errors": [],
+  "tests_outcome": "success",
+  "collector_step_outcome": "success"
 }

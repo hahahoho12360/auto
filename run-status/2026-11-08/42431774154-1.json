@@ -1,0 +1,20 @@
+{
+  "schema": 2,
+  "target_date": "2026-11-08",
+  "run_id": "42431774154",
+  "attempt": "1",
+  "event": "schedule",
+  "schedule_expression": "35 21 * * *",
+  "source_sha": "120e1f3fbc56ef0faa7ef62efef4af14e3749af2",
+  "started_at_utc": "2026-11-08T00:52:56.994623+00:00",
+  "run_url": "https://github.com/hahahoho12360/auto/actions/runs/42431774154",
+  "previous_report_id": "ef32d7a093ac00460a88c3dc",
+  "collection_outcome": "success",
+  "report_id": "077b9f9654fd5ae9219b2a6e",
+  "email_sent": false,
+  "finished_at_utc": "2026-11-08T01:01:19.114883+00:00",
+  "last_observed_report_id": "077b9f9654fd5ae9219b2a6e",
+  "validation_errors": [],
+  "tests_outcome": "success",
+  "collector_step_outcome": "success"
+}

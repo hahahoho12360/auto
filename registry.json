@@ -1,6 +1,6 @@
 {
   "expected": 193,
-  "generated_at": "2026-11-07T10:15:18.250779+09:00",
+  "generated_at": "2026-11-08T10:01:18.968540+09:00",
   "offices": [
     {
       "boards": [],
@@ -373,10 +373,7 @@
       "region": "경상북도교육청"
     },
     {
-      "boards": [
-        "https://www.gbe.kr/gj/na/ntt/selectNttList.do?bbsId=1587&mi=5364",
-        "https://www.gbe.kr/gj/na/ntt/selectNttList.do?bbsId=1588&mi=5366"
-      ],
+      "boards": [],
       "home": "https://www.gbe.kr/gj/main.do",
       "home_source": "https://www.gbe.kr/",
       "id": "gbe-경주",
@@ -416,10 +413,7 @@
       "region": "경상북도교육청"
     },
     {
-      "boards": [
-        "https://www.gbe.kr/mg/na/ntt/selectNttList.do?bbsId=2101&mi=5179",
-        "https://www.gbe.kr/mg/na/ntt/selectNttList.do?bbsId=2097&mi=5148"
-      ],
+      "boards": [],
       "home": "https://www.gbe.kr/mg/main.do",
       "home_source": "https://www.gbe.kr/",
       "id": "gbe-문경",
@@ -471,10 +465,7 @@
       "region": "경상북도교육청"
     },
     {
-      "boards": [
-        "https://www.gbe.kr/yd/na/ntt/selectNttList.do?bbsId=2313&mi=5029",
-        "https://www.gbe.kr/yd/na/ntt/selectNttList.do?bbsId=2379&mi=5210"
-      ],
+      "boards": [],
       "home": "https://www.gbe.kr/yd/main.do",
       "home_source": "https://www.gbe.kr/",
       "id": "gbe-영덕",
@@ -485,7 +476,9 @@
     },
     {
       "board_discovery_mode": "general_boards_with_audit_title_filter",
-      "boards": [],
+      "boards": [
+        "https://www.gbe.kr/yy/na/ntt/selectNttList.do?bbsId=3101&mi=10591"
+      ],
       "home": "https://www.gbe.kr/yy/main.do",
       "home_source": "https://www.gbe.kr/",
       "id": "gbe-영양",
